@@ -1,0 +1,289 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rational Expressions Homework --  Sample Test: Rational Expressions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cb769fc8-5c3a-4655-abb5-2755f271f197</md:uuid>
+</metadata>
+  <content>
+
+    <exercise id="prob1exer"><problem id="idp7984864">
+      <para id="id8344473"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>9x</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>20</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>8x</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>15</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {x - 3}  over  {x rSup { size 8{2} } +9x+"20"} }  -  {  {x - 4}  over  {x rSup { size 8{2} } +8x+"15"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+
+      <list id="id9194693" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify</item>
+        <item><label>b</label>What values of <m:math>
+<m:mi>x</m:mi></m:math> are not allowed in the original expression?</item>
+        <item><label>c</label>What values of <m:math><m:mi>x</m:mi></m:math> are not allowed in your simplified expression?</item>
+      </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob2exer"><problem id="idm4729232">
+      <para id="id9579871"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>2</m:mn>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mfrac>
+                      <m:mi>x</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>2x</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {x rSup { size 8{2} }  - 1} } + {  {x}  over  {x rSup { size 8{2} }  - 2x+1} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+
+      <list id="id10840992" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify</item>
+        <item><label>b</label>What values of <m:math>
+<m:mi>x</m:mi></m:math> are not allowed in the original expression?</item>
+        <item><label>c</label>What values of <m:math><m:mi>x</m:mi></m:math> are not allowed in your simplified expression?</item>
+      </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob3exer"><problem id="idp3008592">
+      <para id="id5016159"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9x</m:mn></m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>3x</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{3} }  - 9x}  over  {x rSup { size 8{2} }  - 3x - "10"} } } {}</m:annotation></m:semantics><m:mo>×</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>20</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>50</m:mtext></m:mrow></m:mrow><m:mrow><m:msup><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9x</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2x rSup { size 8{2} }  - "20"x+"50"}  over  {6x rSup { size 8{2} }  - 9x} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id10549175" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify</item>
+        <item><label>b</label>What values of <m:math>
+<m:mi>x</m:mi></m:math> are not allowed in the original expression?</item>
+        <item><label>c</label>What values of <m:math><m:mi>x</m:mi></m:math> are not allowed in your simplified expression?</item>
+      </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob4exer"><problem id="idp1116048">
+      <para id="id8458878"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mi>x</m:mi>
+</m:mfrac>
+</m:mrow>
+<m:mrow>
+<m:mfrac>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:mfrac>
+</m:mrow>
+</m:mfrac>
+</m:math></para>
+
+      <list id="id11298984" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify</item>
+        <item><label>b</label>What values of <m:math>
+<m:mi>x</m:mi></m:math> are not allowed in the original expression?</item>
+        <item><label>c</label>What values of <m:math><m:mi>x</m:mi></m:math> are not allowed in your simplified expression?</item>
+        </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob5exer"><problem id="idp493136">
+          <para id="id9263423"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:msup>
+                                <m:mn>6x</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msup>
+                                <m:mn>5x</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>5x</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>34</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>2x</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {6x rSup { size 8{3} }  - 5x rSup { size 8{2} }  - 5x+"34"}  over  {2x+3} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+
+      <list id="id7067588" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Solve by long division.</item>
+        <item><label>b</label>Check your answer (show your work!!!).</item>
+      </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob6exer"><problem id="idp5471472">
+      <para id="prob6para">If <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>h</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>h</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {f \( x+h \)  - f \( x \) }  over  {h} } } {}</m:annotation></m:semantics></m:math>. Simplify as much as possible.</para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob7exer"><problem id="idp5435664">
+        <para id="prob7para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x - 1}  over  {2x - 1} } } {}</m:annotation></m:semantics><m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>7x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x+7}  over  {7x+4} } } {}</m:annotation></m:semantics></m:math></para>
+
+        <list id="id10852420" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math><m:mi>x</m:mi></m:math>.</item>
+          <item><label>b</label>Test one of your answers and show that it works in the original expression. (No credit unless you show your work!)</item>
+        </list>
+      </problem>
+    </exercise>
+
+      <para id="id9501312"><title>Extra credit:</title>I am thinking of two numbers, <m:math>
+<m:mi>x</m:mi></m:math>
+ and <m:math>
+<m:mi>y</m:mi>
+</m:math>, that have this curious property: their <emphasis>sum</emphasis> is the same as their <emphasis>product</emphasis>. (Sum means “add them”; product means “multiply them.”)</para>
+
+      <list id="id10333222" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Can you find any such pairs?</item>
+        <item><label>b</label>To generalize: if one of my numbers is <m:math>
+<m:mi>x</m:mi></m:math>, can you find a general formula that will always give me the other one?</item>
+        <item><label>c</label>Is there any number <m:math>
+<m:mi>x</m:mi></m:math> that has no possible <m:math>
+<m:mi>y</m:mi></m:math> to work with?</item>
+      </list>
+
+  </content>
+</document>

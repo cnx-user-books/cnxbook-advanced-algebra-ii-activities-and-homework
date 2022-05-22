@@ -1,0 +1,240 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Logs Homework -- Using the Laws of Logarithms</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>dcf05a9f-8df9-467e-96fc-86f38bb658f2</md:uuid>
+</metadata>
+  <content>
+
+    
+    <list id="element-409" list-type="bulleted"><item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>b</m:mi>
+</m:math></item>
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:mfrac>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+<m:mo>–</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>b</m:mi>
+</m:math></item>
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>b</m:mi>
+<m:mspace width="5pt"/>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+</m:math></item></list>
+    
+    <exercise id="id12191849">
+      <problem id="idp4971264">
+        <para id="id10705719">Simplify: 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>–</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10896671">
+      <problem id="idm4076080">
+        <para id="id11720514">Simplify: 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>9</m:mn>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>–</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id11011894">
+      <problem id="idp9586336">
+        <para id="id12040055">Simplify: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>log</m:mtext><m:mfenced open="(" close=")"><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfenced></m:mrow><m:mrow><m:mtext>log</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"log" left (x rSup { size 8{2} }  right )}  over  {"log" \( x \) } } } {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10936421">
+      <problem id="idp2718864">
+        <para id="id10723928">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</para>
+    <para id="id10439802"><m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>8</m:mn>
+<m:mo>-</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="id10282206">
+      <problem id="idp1604832">
+        <para id="id10326147">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>:</para>
+
+    <para id="id11726510"><m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>12</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="id3709739">
+      <problem id="idp3186448">
+        <para id="id10090097">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>:</para>
+
+    <para id="id12023186"><m:math>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mn>14</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="id8543412">
+      <problem id="idm10163184">
+        <para id="id10600017">Solve for <m:math>
+<m:mi>y</m:mi>
+</m:math> in terms of <m:math>
+<m:mi>x</m:mi>
+</m:math>:</para>
+
+    <para id="id10970481"><m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+<m:mo>-</m:mo>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn>7</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+  </content>
+</document>

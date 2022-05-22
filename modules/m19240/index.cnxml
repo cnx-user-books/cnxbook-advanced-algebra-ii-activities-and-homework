@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework -- Homework: Permutations and Combinations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>72b47dc2-c10c-40e0-a32d-faf512992640</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7693909">
+        <problem id="idm10816032">
+          <para id="id7693912">The comedy troupe Monty Python had six members: John Cleese, Eric Idle, Graham Chapman, Michael Palin, Terry Gilliam, and Terry Jones. Suppose that on the way to filming an episode of their Flying Circus television show, they were forced to split up into two cars: four of them could fit in the Volkswagen, and two rode together on a motorcycle. How many different ways could they split up?</para>
+
+      <list id="id11084168" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>List <emphasis>all possible pairs </emphasis>that might go on the motorcycle. (Note that “Cleese-Idle” and “Idle-Cleese” are the same pair: it should be listed once, not twice.)</item>
+        <item><label>b</label>List <emphasis>all possible groups of four</emphasis> that might ride in the car. (Same note.)</item>
+        <item><label>c</label>If you listed properly, you should have gotten the same number of items in parts (a) and (b). (After all, if Cleese and Idle ride on the motorcycle, we know who is in the car!) This number is “6 choose 2,” or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>2</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( matrix {
+6 {} ##
+2
+}  right )} {}</m:annotation></m:semantics></m:math>. It is also “6 choose 4,” or <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>4</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( matrix {
+6 {} ##
+4
+}  right )} {}</m:annotation></m:semantics></m:math>. Given that they came out the same, <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>3</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( matrix {
+"10" {} ##
+3
+}  right )} {}</m:annotation></m:semantics></m:math> should come out the same as what?.</item>
+        <item><label>d</label>Write an algebraic generalization to express the rule discussed in part (c).</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id5153018">
+        <problem id="idp4134848">
+          <para id="id4172930">A Boston Market® Side Item Sampler® allows you to choose any three of their fifteen side items. How many possible Side Item Samplers can you make?</para>
+
+      <list id="id5165752" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>To answer this combinations question, begin with a related permutations question. Suppose you had three plates labeled Plate 1, Plate 2, and Plate 3, and you were going to put a different side item in each plate.
+
+        <list list-type="labeled-item" id="sublist1" mark-suffix=".">
+        
+        <item><label>i</label>How many items could you put in Plate 1?</item>
+        <item><label>ii</label><emphasis>For each such choice</emphasis>, how many items could you put in Plate 2?</item>
+        <item><label>iii</label><emphasis>For each such choice</emphasis>, how many items could you put in Plate 3?</item>
+        <item><label>iv</label>So, how many Plate 1– Plate 2 – Plate 3 permutations could you create?</item>
+        </list>
+      </item>
+        <item><label>b</label>The reason you haven’t answered the original question yet is that, in a real Side Item Sampler, the plates are not numbered. For instance, “Sweet Corn–Mashed Potatoes–Creamed Spinach” is the same meal as “Creamed Spinach–Mashed Potatoes–Sweet Corn.” So...in the space below, list <emphasis>all the possible arrangements</emphasis> of just these three side items.</item>
+        <item><label>c</label>How many possible arrangements did you list? (In other words, how many times did we originally count every possible meal?)</item>
+        <item><label>d</label>Divide your answer to a(iv) by your answer to (b) to find out how many Side Item Samplers can be created.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11375315">
+        <problem id="idp752448">
+          <para id="id11375319">How many three-note chords can be made by...</para>
+
+      <list list-type="labeled-item" id="id10496924" mark-suffix=".">
+      
+        <item><label>a</label>Using only the eight “natural” notes (the white keys on a piano)?</item>
+        <item><label>b</label>Using all twelve notes (black and white keys)?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id4269443">
+        <problem id="idm716288">
+          <para id="id4269446">The United States Senate has 100 members (2 from each state). Suppose the Senate is divided evenly: 50 Republicans, and 50 Democrats.</para>
+
+      <list list-type="labeled-item" id="id7359510" mark-suffix=".">
+      
+        <item><label>a</label>How many possible 3-man committees can the Republicans make?</item>
+        <item><label>b</label>Express your answer to part (a) in terms of factorials.</item>
+        <item><label>c</label>How many possible 47-man committees can the Republicans make?</item>
+        <item><label>d</label>How many 10-man committees can the Democrats make?</item>
+        <item><label>e</label>How many committees can be formed that include 5 Democrats and 5 Republicans?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id4430527">
+        <problem id="idm4866752">
+          <para id="id4430530">Invent, and solve, your own combinations problem. It should be a scenario that is quite different from all the scenarios listed above, but it should logically lead to the same method of solving.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

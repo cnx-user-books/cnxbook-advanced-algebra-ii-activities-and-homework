@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Graphing Inequalities and Absolute Values</title>
+  <metadata>
+  <md:content-id>m19153</md:content-id><md:title>Homework: Graphing Inequalities and Absolute Values</md:title>
+  <md:abstract>This module provides practice problems related to graphing inequalities and absolute values.</md:abstract>
+  <md:uuid>ca0b810e-0e91-45d6-8ea2-41e99e94dcf1</md:uuid>
+</metadata>
+
+<content>
+    
+    <exercise id="element-852"><problem id="id19800410">
+  <para id="element-166">
+    The famous detectives Guy Noir and Nick Danger are having a contest to see who is better at catching bad guys. At 8:00 in the evening, they start prowling the streets of the city. They have twelve hours. Each of them gets 10 points for every mugger he catches, and 15 points for every underage drinker. At 8:00 the next morning, they meet in a seedy bar to compare notes. “I got 100 points,” brags Nick. If Guy gets enough muggers and drinkers, he will win the contest.
+  </para><list id="element-532" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Label and clearly describe the relevant variables.</item>
+      <item><label>b</label>Write an inequality relating the variables you listed in part (a). I should be able to read it as “If this inequality is true, then Guy wins the contest.”</item>
+      <item><label>c</label>Graph the inequality from part (b).</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-620"><problem id="id19735700">
+  <para id="element-642">
+   The graph below shows the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=f \( x \) } {}</m:annotation></m:semantics></m:math>.
+  </para>
+<figure id="fig1"><media id="id19735761" alt="A graph of the function f(x)."><image src="../../media/graph-e84e.png" mime-type="image/png" print-width="3in"/></media></figure>
+
+<list id="element-947" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≤</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &lt;= f \( x \) } {}</m:annotation></m:semantics></m:math>. Your answer will <emphasis>either</emphasis> be a shaded region on a 2-dimensional graph, <emphasis>or</emphasis> on a number line.</item>
+      <item><label>b</label>Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) &lt;0} {}</m:annotation></m:semantics></m:math>. Your answer will either be a shaded region on a 2-dimensional graph, <emphasis>or</emphasis> on a number line.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-725"><problem id="id19754384">
+  <para id="element-193">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x - 2y&gt;4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-676" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph.</item>
+      <item><label>b</label>Pick a point in your shaded region, and plug it back into our original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2y</m:mn></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 2y&gt;4} {}</m:annotation></m:semantics></m:math>. Does the inequality work? (Show your work!)</item>
+      <item><label>c</label>Pick a point which is <emphasis>not</emphasis> in your shaded region, and plug it into our original equation
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2y</m:mn></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 2y&gt;4} {}</m:annotation></m:semantics></m:math>. Does the inequality work? (Show your work!)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    <exercise id="element-459"><problem id="id19654883">
+  <para id="element-426">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y&gt;x rSup { size 8{3} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-802" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph. (Plot points to get the shape.)</item>
+      <item><label>b</label>Pick a point in your shaded region, and plug it back into our original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">&gt;</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y&gt;x rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>. Does the inequality work? (Show your work!)</item>
+      <item><label>c</label>Pick a point which is not in your shaded region, and plug it into our original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">&gt;</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y&gt;x rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>. Does the inequality work? (Show your work!)</item>
+    </list>
+</problem>
+
+</exercise><exercise id="element-199"><problem id="id19753394">
+  <para id="element-811">
+    Graph: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y+ lline x rline &lt; -  lline x rline } {}</m:annotation></m:semantics></m:math>. Think hard—you can do it!
+  </para>
+</problem>
+</exercise>
+    
+  </content>
+</document>

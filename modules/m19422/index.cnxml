@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Some Very Important Generalizations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>86147d92-9ebd-47f3-afe9-4adeec09dae3</md:uuid>
+</metadata>
+  <content>
+
+      
+      <exercise id="element-658"><problem id="idm11602592">
+  <para id="element-621"><m:math>
+<m:msqrt>
+<m:mn>9</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="element-138"><problem id="idm882624">
+  <para id="element-901"><m:math>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-684"><problem id="idp5307872">
+  <para id="element-860"><m:math>
+<m:msqrt>
+<m:mn>9</m:mn>
+</m:msqrt>
+<m:mspace width="5pt"/>
+<m:mo>×</m:mo>
+<m:mspace width="5pt"/>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+</exercise><exercise id="element-933"><problem id="idp8171632">
+  <para id="element-201"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mn>9</m:mn>
+<m:mspace width="5pt"/>
+<m:mo>×</m:mo>
+<m:mspace width="5pt"/>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-960"><problem id="idm1647776">
+  <para id="element-214">Based on #1-4, write an algebraic generalization.
+  </para>
+</problem>
+</exercise><exercise id="element-575"><problem id="idp6774832">
+  <para id="element-152">Now, give me a completely different example of that same generalization: four different statements, like #1-4, that could be used to generate that same generalization.
+  </para>
+</problem>
+</exercise><exercise id="element-959"><problem id="idm2100656">
+  <para id="element-299"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mn>9</m:mn></m:msqrt><m:msqrt><m:mn>4</m:mn></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {9} }  over  { sqrt {4} } } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math>
+  </para>
+</problem>
+</exercise><exercise id="element-542"><problem id="idp1232976">
+  <para id="element-200"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mfrac>
+<m:mn>9</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+          <list id="id8598984" list-type="labeled-item" mark-suffix=".">
+            <item><label>a</label>What do you think is the answer?</item>
+            <item><label>b</label>Test by squaring back. (To square anything, multiply it by itself. So this just requires multiplying fractions!) If it doesn’t work, try something else, until you are convinced that you have a good [xxx].</item>
+          </list>
+
+</problem>
+</exercise><exercise id="element-891"><problem id="idp3475248">
+  <para id="element-4">Based on exercises #7-8, write an algebraic generalization.
+  </para>
+</problem>
+</exercise><exercise id="element-473"><problem id="idp6412544">
+  <para id="element-614"><m:math>
+<m:msqrt>
+<m:mn>9</m:mn>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-973"><problem id="idp7156080">
+  <para id="element-635"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-439"><problem id="idp6370816">
+  <para id="element-511">Based on exercises #10-11, write an algebraic generalization that is not true.
+  </para>
+</problem>
+</exercise>
+    
+  </content>
+  
+</document>

@@ -1,0 +1,382 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Homework: Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>722bad16-c7b8-458d-955a-4740980e2c92</md:uuid>
+</metadata>
+  <content>
+    <para id="element-542">For the following problems, I am not looking for big long ugly decimals—just simplified expressions.  You should not have to use your calculator at all, except possibly to check your answers.  Remember, you can always check your answer by squaring back!</para><exercise id="element-681"><problem id="idm5224544">
+  <para id="element-330"><m:math>
+<m:msqrt>
+<m:mn>64</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-47"><problem id="idm4585424">
+  <para id="element-443"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mn>64</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-274"><problem id="idm7592720">
+  <para id="element-654"><m:math>
+<m:mn>3</m:mn>
+<m:msqrt>
+<m:mn>64</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-762"><problem id="idm2343696">
+  <para id="element-429"><m:math>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>64</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-404"><problem id="idm7366352">
+  <para id="element-74">
+    <m:math>
+<m:msqrt>
+<m:mn>-64</m:mn>
+</m:msqrt>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-300"><problem id="idm4007584">
+  <para id="element-475"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mn>-64</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-953"><problem id="idm5488912">
+  <para id="element-283">If <m:math>
+<m:mroot>
+<m:mrow>
+<m:mi>-x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>n</m:mi>
+</m:mrow>
+</m:mroot>
+</m:math>  has a real answer, what can you say about 
+<m:math>
+<m:mi>n</m:mi>
+</m:math>?
+  </para>
+</problem>
+
+</exercise><exercise id="element-905"><problem id="idm5950160">
+  <para id="element-349">
+<m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-226"><problem id="idm2692240">
+  <para id="element-849"><m:math>
+<m:msqrt>
+<m:mn>18</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem></exercise><exercise id="element-138"><problem id="idm2768944">
+  <para id="element-94"><m:math>
+<m:msqrt>
+<m:mn>48</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-889"><problem id="idm7605776">
+  <para id="element-383"><m:math>
+<m:msqrt>
+<m:mn>70</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-178"><problem id="idm1198448">
+  <para id="element-513"><m:math>
+<m:msqrt>
+<m:mn>72</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-146"><problem id="idm15583312">
+  <para id="element-140"><m:math>
+<m:msqrt>
+<m:mn>100</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-391"><problem id="idp4536304">
+  <para id="element-399"><m:math>
+<m:msqrt>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-845"><problem id="idm6737200">
+  <para id="element-989"><m:math>
+<m:msqrt>
+<m:mfrac>
+<m:mn>4</m:mn>
+<m:mn>9</m:mn>
+</m:mfrac>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-344"><problem id="idm8650576">
+  <para id="element-249"><m:math>
+<m:msqrt>
+<m:mfrac>
+<m:mn>8</m:mn>
+<m:mn>12</m:mn>
+</m:mfrac>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-363"><problem id="idm1234352">
+  <para id="element-395"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mn>16</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para><list id="element-302" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Simplify as much as possible (just like all the other problems)</item>
+<item><label>b</label>Check your answer with <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>x</m:ci>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math>.  Did it work?</item>
+</list>
+</problem>
+</exercise><exercise id="element-678"><problem id="idm14509104">
+  <para id="element-962"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mn>16</m:mn>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-908"><problem id="idm8901328">
+  <para id="element-447"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>10</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-532"><problem id="idm64384">
+  <para id="element-135"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>11</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-514"><problem id="idp2613504">
+  <para id="element-701"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mn>75</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>6</m:mn>
+</m:msup>
+<m:msup>
+<m:mi>z</m:mi>
+<m:mn>5</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-756"><problem id="idm4275648">
+  <para id="element-336"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-460"><problem id="idm4612832">
+  <para id="element-467"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-596"><problem id="idm3783632">
+  <para id="element-40"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-168"><problem id="idm2787536">
+  <para id="element-306"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-683"><problem id="idm4185088">
+  <para id="element-605"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><para id="element-820">Say, remember inverse functions?</para><exercise id="element-898"><problem id="idp6098336">
+  <para id="element-946"><m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></para><list id="element-847" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Find the inverse of the function.</item>
+<item><label>b</label>Test it.</item>
+</list>
+</problem>
+</exercise><exercise id="element-809"><problem id="idp2819904">
+  <para id="element-79"><m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math></para><list id="element-938" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Find the inverse of the function.</item>
+<item><label>b</label>Test it.</item>
+</list>
+</problem>
+</exercise><exercise id="element-792"><problem id="idp4894640">
+  <para id="element-584"><m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math></para><list id="element-99" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Find the inverse of the function.</item>
+<item><label>b</label>Test it.</item>
+</list>
+</problem>
+
+
+</exercise>   
+  </content>
+  
+</document>

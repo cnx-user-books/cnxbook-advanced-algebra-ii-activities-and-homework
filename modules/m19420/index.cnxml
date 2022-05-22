@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Radicals (aka* Roots)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5e380ad2-1bc4-4611-aed4-9116d37ba2cb</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id6982075">As a student of mine once said, “In real life, no one ever says ‘Here’s 100 dollars, what’s the square root of it?’” She’s right, of course—as far as I know, no one ever takes the square root of money. And she is asking exactly the right question, which is: why do we need roots anyway?</para>
+    <exercise id="element-789"><problem id="idp11987008">
+  <para id="element-334">If a square is <m:math>
+<m:mn>49</m:mn>
+<m:msup>
+<m:mtext>ft</m:mtext>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> in area, how long are the sides?</para>
+</problem>
+</exercise>
+    <para id="id6982110"><emphasis>Q. You call that real life?</emphasis></para>
+    <para id="id6982115"><emphasis>A. OK, you asked for it…</emphasis></para>
+    
+    <exercise id="element-97"><problem id="idp12035536">
+  <para id="element-509">A real estate developer is putting houses down on a plot of land that is 50 acres large.  He wants to put down 100 houses, so each house will sit on a <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac></m:math>-acre lot.  (1 acre is 43,560 square feet.)  If each house sits on a square lot, how long are the sides of each lot?
+  </para>
+</problem>
+</exercise>
+    
+    <exercise id="element-171"><problem id="idm7526224">
+  <para id="element-712">
+    A piano is dropped from a building 100 ft high. (“Dropped” implies that someone just let go of it, instead of throwing it—so it has no initial velocity.)
+  </para><list id="element-591" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write the equation of motion for this piano, recalling as always that
+<m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mi>t</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mi>h</m:mi>
+<m:mi>o</m:mi>
+</m:msub>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mi>v</m:mi>
+<m:mi>o</m:mi>
+</m:msub>
+<m:mi>t</m:mi>
+<m:mo>–</m:mo>
+<m:mn>16</m:mn>
+<m:msup>
+<m:mi>t</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></item>
+<item><label>b</label>According to the equation, how high is the piano when 
+<m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>?  Explain in words what this answer means.</item>
+<item><label>c</label>After 2 seconds, how high is the piano?</item>
+<item><label>d</label>How many seconds does it take the piano to reach the ground?</item>
+<item><label>e</label>Find the <emphasis>inverse function</emphasis> that will enable to me find the time <m:math>
+<m:mi>t</m:mi>
+</m:math> when the piano reaches any given height <m:math>
+<m:mi>h</m:mi>
+</m:math>.</item></list>
+</problem>
+</exercise>
+    
+    <para id="id6899663">Convinced? Square roots come up all the time in real life, because squaring things comes up all the time in real life, and the square root is how you get back. So we’re going to have a unit on square roots.</para>
+    
+    
+    
+  </content>
+</document>

@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Distance to this point plus distance to that point is constant</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>05227a2a-55c6-48f7-9488-ee8a580d7eb1</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id12868622">On the drawing below are the points (3,0) and (–3,0). We’re going to draw yet another shape—not a circle or a parabola or a line, which are the three shapes we know about. In order to be on our shape, the point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) must have the following property:</para>
+      <para id="id11021295"><foreign>The distance from (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to (3,0) <emphasis>plus</emphasis> the distance from (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to (–3,0), must equal 10.</foreign></para>
+      <para id="id10884607">We’re going to start this one the same way we did our other shapes: intuitively. Your object is to find all the points that have that particular property. Four of them are…well, maybe none of them are exactly obvious, but there are four that you can get exactly, with a little thought. After that, you have to sort of dope it out as we did before.</para>
+      <para id="id12867848">When you think you know the shape, don’t call it out! Call me over and I will tell you if it’s right.</para>
+      <para id="id11267778"><media id="idm4989648" alt="A graph with points at (-3,0) and (3,0)."><image src="../../media/gr4.PNG" mime-type="image/png" print-width="4in"/></media></para>
+
+  </content>
+</document>

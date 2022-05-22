@@ -1,0 +1,98 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Distance</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>aa2c3fec-a64e-4e51-82a1-73056f2a7ad6</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7779193">
+        <problem id="idp947520">
+          <para id="id8052902">Draw the points (2,5), (10,5), and (10,1), and the triangle they all form.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9231399">
+        <problem id="idp1881088">
+          <para id="id9315095">Find the distance from (2,5) to (10,5) (just by looking at it).</para>
+        </problem>
+      </exercise>
+      <exercise id="id9283071">
+        <problem id="idp3665408">
+          <para id="id8905874">Find the distance from (10,5) to (10,1) (just by looking at it).</para>
+        </problem>
+      </exercise>
+      <exercise id="id9355666">
+        <problem id="idp3931520">
+          <para id="id7904996">Find the distance from (2,5) to (10,1), using your answers to #2 and #3 and the Pythagorean Theorem.</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="element-925"><problem id="idp1119360">
+<para id="element-023487687687">
+I start at Raleigh Charter High School. I drive 5 miles West, and then 12 miles North. How far am I now from RCHS?</para> <note type="Hint" id="idm3627472"><label>Hint</label> the answer is not 17 miles. Draw it!</note>
+</problem>
+
+
+</exercise><exercise id="id7779243">
+        <problem id="idm6584368">
+          <para id="id7918037">Draw a point anywhere in the first quadrant. Instead of labeling the specific coordinates of that point, just label it (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>).</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="element-723"><problem id="idm4544928">
+  <para id="element-169">How far <emphasis>down</emphasis> is it from your point to the <m:math>
+<m:mi>x</m:mi>
+</m:math>-axis?</para> <note type="Hint" id="idp765728"><label>Hint</label>think about specific points—such as (4,2) or (1,10)—until you can see the pattern, and answer the question for the general point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>).</note>
+
+</problem>
+
+</exercise><exercise id="id8996703">
+        <problem id="idm622368">
+          <para id="id8180473">How far <emphasis>across</emphasis> is it from your point to the <m:math><m:mi>y</m:mi></m:math>-axis?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8994396">
+        <problem id="idm4371696">
+          <para id="id8382773">Find the distance <m:math><m:mi>d</m:mi></m:math> from the origin to that point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>), using the Pythagorean Theorem. This will give you a formula for the distance from <emphasis>any</emphasis> point, to the origin.</para>
+        </problem>
+      </exercise>
+      <exercise id="id7961703">
+        <problem id="idm5541200">
+          <para id="id9262936">Find the distance from the point (3,7) to the line <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8767245">
+        <problem id="idm2383024">
+          <para id="id9038844">Find the distance from the generic point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) (as before) to the line <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8054937">
+        <problem id="idm2584368">
+          <para id="id8054939">Find the distance from the point (3,7) to the line <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>-2</m:mn></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9277544">
+        <problem id="idp3249856">
+          <para id="id8935217">Find the distance from the generic point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to the line <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>-2</m:mn></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8917884">
+        <problem id="idm6155680">
+          <para id="id9188210">I’m thinking of a point which is exactly 5 units away from the point (0,0). The <m:math><m:mi>y</m:mi></m:math>-coordinate of my point is 0. What is the <m:math><m:mi>x</m:mi></m:math>-coordinate? Draw this point.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8891060">
+        <problem id="idp3832032">
+          <para id="id8417631">I’m thinking of two points which are exactly 5 units away from (0,0). The <m:math><m:mi>x</m:mi></m:math>-coordinates of both points is 4. What are the <m:math><m:mi>y</m:mi></m:math>-coordinates? Draw these points on the same graph that you did #14.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9339315">
+        <problem id="idm2947040">
+          <para id="id8947814">I’m thinking of two points which are exactly 5 units away from (0,0). The <m:math><m:mi>x</m:mi></m:math>-coordinates of both points is –4. What are the <m:math><m:mi>y</m:mi></m:math>-coordinates? Draw these points on the same graph that you did #14.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

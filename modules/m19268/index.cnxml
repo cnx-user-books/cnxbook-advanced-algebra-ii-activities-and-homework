@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: What Are Logarithms Good For, Anyway?</title>
+  <metadata>
+  <md:content-id>m19268</md:content-id><md:title>Homework: What Are Logarithms Good For, Anyway?</md:title>
+  <md:abstract>This module provides practice problems which develop concepts related to real world applications of logarithms.</md:abstract>
+  <md:uuid>086db5e8-9596-4ff9-a508-7b2700cdd429</md:uuid>
+</metadata>
+
+<content>
+
+
+      <exercise id="id11202717">
+        <problem id="id20342190">
+          <para id="id11573448">I invest $300 in a bank that pays 5% interest, compounded annually.  So after <m:math>
+<m:mi>t</m:mi>
+</m:math> years, I have <m:math>
+<m:mn>300</m:mn>
+<m:mo>(</m:mo>
+<m:mn>1.05</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mi>t</m:mi>
+</m:msup>
+</m:math> dollars in the bank.  When I come back, I find that my account is worth $1000.  How many years has it been?  <emphasis>Your answer will not be a number—it will be a formula with a log in it.</emphasis></para>
+
+      
+        </problem>
+      </exercise>
+
+      <exercise id="id10302883">
+        <problem id="id17860532">
+          
+
+          
+
+          <para id="id10264639">The pH of a substance is given by the formula <m:math>
+<m:mi>pH</m:mi>
+<m:mo>=</m:mo>
+<m:mo>-</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mo>[</m:mo>
+<m:msup>
+<m:mi>H</m:mi>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo>]</m:mo>
+</m:math>, if the concentration of Hydrogen ions.</para>
+
+      <list id="id9947347" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>If the Hydrogen concentration is <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>10000</m:mn>
+</m:mfrac>
+</m:math>,
+what is the pH?</item>
+        <item><label>b</label>If the Hydrogen concentration is <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>1000000</m:mn>
+</m:mfrac>
+</m:math>, what is the pH?</item>
+        <item><label>c</label>What happens to the pH every time the Hydrogen concentration <emphasis>divides</emphasis> by 10?</item>
+        </list>
+        </problem>
+      </exercise>
+
+      <para id="element-176">You may have noticed that all our logarithmic functions use the base 10.  Because this is so common, it is given a special name: the <emphasis>common log</emphasis>.  When you see something like <m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> with no base written at all, that means the log is 10.  (So <m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> is a shorthand way of writing <m:math>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>, just like   is a shorthand way of writing  .  With roots, if you don’t see a little number there, you assume a 2.  With logs, you assume a 10.)</para><exercise id="id10406269">
+        <problem id="id20348203">
+          <para id="id10406272">In the space below, write the question that <m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> asks.</para>
+
+      
+        </problem>
+      </exercise>
+
+      <exercise id="id11206106">
+        <problem id="id20348246">
+          
+
+      <para id="element-851"><m:math>
+<m:mtext>log</m:mtext>
+<m:mn>100</m:mn>
+</m:math></para>
+        </problem>
+      </exercise>
+
+      <exercise id="id11694259">
+        <problem id="id17948308">
+          <para id="id9971474"><m:math>
+<m:mtext>log</m:mtext>
+<m:mn>1000</m:mn>
+</m:math></para>
+        </problem>
+      </exercise><exercise id="element-263"><problem id="id17948340">
+  <para id="element-258">
+<m:math>
+<m:mtext>log</m:mtext>
+<m:mn>10000</m:mn>
+</m:math>
+  </para>
+</problem>
+
+</exercise><exercise id="element-942"><problem id="id17948373">
+  <para id="element-346">
+<m:math>
+<m:mtext>log</m:mtext>
+<m:mtext>( 1 with n 0s after it )</m:mtext>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-702"><problem id="id17948408">
+  <para id="element-487">
+<m:math>
+<m:mtext>log</m:mtext>
+<m:mn>500</m:mn>
+<m:mtext>(use the log button on your calculator)</m:mtext>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><para id="element-675">OK, so the <code>log</code> button on your calculator does common logs, that is, logs base 10.</para><para id="element-7">There is one other log button on your calculator. It is called the "natural log," and it is written <code>ln</code> (which sort of stands for "natural log" only backward— personally, I blame the French).</para><para id="element-328"><code>ln</code> means the log to the base <code>e</code>. What is <code>e</code>? It's a long ugly number—kind of like π only different—it goes on forever and you can only approximate it, but it is somewhere around 2.7. Answer the following question about the natural log.</para><exercise id="element-119"><problem id="id20289655">
+  <para id="element-850">
+<m:math>
+<m:mtext>ln</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>e</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-612"><problem id="id20289702">
+  <para id="element-617">
+<m:math>
+<m:mtext>ln</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>1</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-615"><problem id="id20289748">
+  <para id="element-61799">
+<m:math>
+<m:mtext>ln</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>0</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-955"><problem id="id20289795">
+  <para id="element-617352">
+<m:math>
+<m:mtext>ln</m:mtext>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mn>e</m:mn>
+<m:mn>5</m:mn>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-640"><problem id="id17860716">
+  <para id="element-612423427">
+<m:math>
+<m:mtext>ln</m:mtext>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+<emphasis>(*this is the only one that requires the <code>ln</code> button on your calculator)</emphasis>
+  </para>
+</problem>
+
+
+</exercise>
+
+  </content>
+</document>

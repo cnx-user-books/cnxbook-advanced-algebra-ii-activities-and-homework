@@ -1,0 +1,334 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Imaginary Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3803252b-765d-4eb9-9b28-0e2d989483f4</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id48336108">
+        <problem id="idm9126928">
+          <para id="id48336112">Explain, using words and equations, why the equation <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> has no answer, but <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> does.</para>
+        </problem>
+      </exercise>
+      <para id="id48291638">OK, so now we are going to use our imaginations. (Didn’t think we were allowed to do that in math class, did you?) Suppose there <emphasis>were</emphasis> an answer to <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>? Obviously it wouldn’t be a number that we are familiar with (such as 5, <m:math>
+<m:mo>-</m:mo>
+<m:mfrac>
+<m:mn>3</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:math>, or <m:math>
+<m:mn>π</m:mn>
+</m:math>). So, let’s just give it a new name: <m:math>
+<m:mi>i</m:mi></m:math>, because it’s <emphasis>imaginary</emphasis>. What would it be like?</para>
+
+      <para id="id48291703"><title>Definition of i</title>The definition of the imaginary number <m:math>
+<m:mi>i</m:mi>
+</m:math> is that it is the square root of <m:math>
+<m:mn>–1</m:mn>
+</m:math>:</para>
+      <para id="id48291714"><m:math>
+<m:mi>i</m:mi>
+<m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - 1} } {}</m:annotation></m:semantics></m:math><emphasis> or, equivalently,</emphasis> <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math></para>
+      <para id="id48291791">Based on that definition, answer the following questions. <emphasis>In each case, don’t just guess—give a good mathematical reason why the answer should be what you say it is!</emphasis></para>
+      <exercise id="id48291805">
+        <problem id="idm8845376">
+          <para id="id48291808">What is <m:math>
+<m:mi>i</m:mi>
+<m:mo>(</m:mo>
+<m:mi>–i</m:mi>
+<m:mo>)</m:mo>
+</m:math>? (*Remember that <m:math>
+<m:mi>–i</m:mi>
+</m:math> means <m:math>
+<m:mn>–1</m:mn>
+<m:mo>×</m:mo>
+<m:mi>i</m:mi>
+</m:math>.)</para>
+        </problem>
+      </exercise>
+      <exercise id="id48291846">
+        <problem id="idm11508880">
+          <para id="id48291849">What is <m:math>
+<m:mo>(</m:mo>
+<m:mi>–i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48291868">
+        <problem id="idm7623952">
+          <para id="id48291871">What is 
+<m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48291890">
+        <problem id="idm18292608">
+          <para id="id48291893">What is <m:math>
+<m:mo>(</m:mo>
+<m:mn>–3</m:mn>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48291912">
+        <problem id="idm9599024">
+          <para id="id48291915">What is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mi/><m:mi>i</m:mi></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {2} `i right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48291974">
+        <problem id="idm6164640">
+          <para id="id48291977">What is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:msqrt><m:mn>2i</m:mn></m:msqrt></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {2i}  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48292032">
+        <problem id="idm11453888">
+          <para id="id48292035">What is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>25</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - "25"} } {}</m:annotation></m:semantics></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48292081">
+        <problem id="idm3951312">
+          <para id="id48292084">What is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - 3} } {}</m:annotation></m:semantics></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id48292130">
+        <problem id="idm5150160">
+          <para id="id48292133">What is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - 8} } {}</m:annotation></m:semantics></m:math>?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id48292187">
+        <problem id="idp3002592">
+          <para id="id48292190">Fill in the following table.</para>
+
+      <table id="id48292191" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>1</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>2</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>3</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>4</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>5</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>6</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>7</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>8</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>9</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>10</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>11</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>12</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+      <exercise id="tableinexercise">
+        <problem id="idm10651936">
+      <para id="id48292513">Fill in the following table.</para>
+      <table id="id48292517" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>100</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>101</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>102</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>103</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>104</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+    <para id="id48292661">Now let’s have some more fun!</para>
+
+    <exercise id="id48292666">
+      <problem id="idm5226048">
+        <para id="id48292670"><m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id48292682">
+      <problem id="idp873728">
+        <para id="id48292685"><m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>–</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id48292698">
+      <problem id="idm5179088">
+        <para id="id48292701"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mi>i</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {i} }  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id48292763">
+      <problem id="idm4190352">
+        <para id="id48292767">Simplify the fraction
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>i</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {i} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <note type="Hint" id="hw9hint1"><label>Hint</label>Multiply the top and bottom by <m:math>
+<m:mi>i</m:mi>
+</m:math>.</note>
+      </problem>
+    </exercise>
+    <exercise id="id48292833">
+      <problem id="idm8030320">
+        <para id="id48292837">Square your answer to #16. Did you get the same answer you got to #15? Why or why not?</para>
+      </problem>
+    </exercise>
+    <exercise id="id48292854">
+      <problem id="idm3031184">
+        <para id="id48292858">Simplify the fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2i</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3+2i} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <note type="Hint" id="hw9hint2"><label>Hint</label>Multiply the top and bottom by <m:math>
+<m:mn>3</m:mn>
+<m:mo>–</m:mo>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math>.</note>
+      </problem>
+    </exercise>
+
+  </content>
+</document>

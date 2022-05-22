@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- The Identity and Inverse Matrices</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a7cb5c55-b9bd-43c1-acff-f00cc3e45cad</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id3700738">This assignment is brought to you by one of my favorite numbers, and I’m sure it’s one of yours…the number 1. Some people say that 1 is the loneliest number that you’ll ever do. (*Bonus: who said that?) But I say, 1 is the multiplicative identity.</para>
+      <para id="id3689835">
+        Allow me to demonstrate.
+      </para>
+      <exercise id="id5328375">
+        <problem id="idp89440">
+          <para id="id4357890"><m:math>
+<m:mn>5</m:mn>
+<m:mo>×</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id4357891">
+        <problem id="idp2884640">
+          <para id="id5361869"><m:math>
+<m:mn>1</m:mn>
+<m:mo>×</m:mo>
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id5361870">
+        <problem id="idp4813264">
+          <para id="id5361873"><m:math>
+<m:mn>–π</m:mn>
+<m:mo>×</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id3693935">
+        <problem id="idp1344448">
+          <para id="id3806210"><m:math>
+<m:mn>1</m:mn>
+<m:mo>×</m:mo>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      
+      <para id="element-792">You get the idea? 1 is called the multiplicative identity because it has this lovely property that whenever you multiply it by anything, you get that same thing back. But that’s not all! Observe…
+          </para><exercise id="id4431000">
+        <problem id="idm9956704">
+          <para id="id3453195"><m:math>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id3453196">
+        <problem id="idp9373008">
+          <para id="id3453199"><m:math>
+<m:mfrac>
+<m:mn>-2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>x</m:mo>
+<m:mfrac>
+<m:mn>-3</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <para id="id4071400">
+        The fun never ends! The point of all that was that every number has an inverse. The inverse is defined by the fact that, when you multiply a number by its inverse, you get 1.
+      </para>
+      <exercise id="id4124411">
+        <problem id="idm11018064">
+          <para id="id5371830">Write the equation that defines two numbers 
+<m:math>
+<m:mi>a</m:mi>
+</m:math> and 
+<m:math>
+<m:mi>b</m:mi>
+</m:math> as inverses of each other.</para>
+        </problem>
+      </exercise>
+      <exercise id="id3780533">
+        <problem id="idp9661904">
+          <para id="id5136192">Find the inverse of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id3409465">
+        <problem id="idp9636496">
+          <para id="id3409468">Find the inverse of –3.</para>
+        </problem>
+      </exercise>
+      <exercise id="id3822897">
+        <problem id="idp5097984">
+          <para id="id5154103">Find the inverse of 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id5113448">
+        <problem id="idp7457552">
+          <para id="id5113451">Is there any number that does <emphasis>not have</emphasis> an inverse, according to your definition in #7?</para>
+        </problem>
+      </exercise>
+      <para id="id3432803"><foreign>So, what does all that have to do with matrices?</foreign> (I hear you cry.) Well, we’ve <emphasis>already seen</emphasis> a matrix which acts as a multiplicative identity! Do these problems.
+      </para>
+      <exercise id="id5299835">
+        <problem id="idp9182432">
+          <para id="id4445009"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>8</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-4</m:mn></m:mtd>
+<m:mtd><m:mn>12</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id3950753">
+        <problem id="idm3983216">
+          <para id="id3854524"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>8</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-4</m:mn></m:mtd>
+<m:mtd><m:mn>12</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <para id="id5339699">
+        Pretty nifty, huh? When you multiply 
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 0 {} ##
+0 {} # 1{}
+}  right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+
+         by another 2×2 matrix, you get that other matrix back. That’s what makes this matrix (referred to as <m:math><m:mo>[</m:mo><m:mi>I</m:mi><m:mo>]</m:mo></m:math>) the multiplicative identity.
+      </para>
+      <para id="imadethisup">Remember that matrix multiplication does not, in general, commute: that is, for any two matrices <m:math><m:mo>[</m:mo><m:mi>A</m:mi><m:mo>]</m:mo></m:math> and <m:math><m:mo>[</m:mo><m:mi>B</m:mi><m:mo>]</m:mo></m:math>, the product <m:math><m:mi>AB</m:mi></m:math> is not necessarily the same as the product BA. But in this case, it is: <m:math><m:mo>[</m:mo><m:mi>I</m:mi><m:mo>]</m:mo></m:math> times another matrix gives you that other matrix back no matter which order you do the multiplication in. This is a key part of the definition of <m:math><m:mi>I</m:mi></m:math>, which is…</para>
+      <para id="ihadtomakethisuptoo"><title>Definition of [I]</title>
+The matrix <m:math><m:mi>I</m:mi></m:math> is defined as the multiplicative identity if it satisfies the equation: <m:math><m:mi>AI</m:mi><m:mo>=</m:mo><m:mi>IA</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:math></para>
+      <para id="id5223490">
+        Which, of course, is just a fancy way of saying what I said before. If you multiply <m:math><m:mi>I</m:mi></m:math> by any matrix, in either order, you get that other matrix back.
+      </para>
+      <exercise id="id3483312">
+        <problem id="idp5146528">
+          <para id="id3483315">We have just seen that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 0 {} ##
+0 {} # 1{}
+}  right ]} {}</m:annotation></m:semantics></m:math> acts as the multiplicative identify for a 2×2 matrix.</para><list id="element-446" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the multiplicative identity for a 3×3 matrix?</item>
+        <item><label>b</label>Test this identity to make sure it works.</item>
+        <item><label>c</label>What is the multiplicative identity for a 5×5 matrix? (I won’t make you test this one…)</item>
+        <item><label>d</label>What is the multiplicative identity for a 2×3 matrix?</item>
+        <item><label>e</label>Trick question! There isn’t one. You could write a matrix that satisfies <m:math><m:mi>AI</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:math>, but it would not <emphasis>also</emphasis> satisfy <m:math><m:mi>IA</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:math>—that is, it would not commute, which we said was a requirement. Don’t take my word for it, try it! The point is that only square matrices (*same number of rows as columns) have an identity matrix.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <para id="id4209549">
+        So what about those inverses? Well, remember that two numbers <m:math><m:mi>a</m:mi></m:math> and <m:math><m:mi>b</m:mi></m:math> are inverses if <m:math><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>. As you might guess, we’re going to define two matrices <m:math><m:mi>A</m:mi></m:math> and <m:math><m:mi>B</m:mi></m:math> as inverses if <m:math><m:mi>A</m:mi><m:mi>B</m:mi><m:mo>=</m:mo><m:mo>[</m:mo><m:mi>I</m:mi><m:mo>]</m:mo></m:math>. Let’s try a few.
+      </para>
+      <exercise id="id5299634">
+        <problem id="idp3870848">
+          <para id="id5299637">Multiply: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 2 {  {1}  over  {2} }  {} ##
+ - 1 {} #  - 1 {  {1}  over  {2} } {}
+}  right ]} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+3 {} # 5 {} ##
+ - 2 {} #  - 4{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id5328227">
+        <problem id="idp5025952">
+          <para id="id5328230">Multiply: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+3 {} # 5 {} ##
+ - 2 {} #  - 4{}
+}  right ]} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 2 {  {1}  over  {2} }  {} ##
+ - 1 {} #  - 1 {  {1}  over  {2} } {}
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <para id="id3305201">
+        You see? These two matrices are <emphasis>inverses</emphasis>: no matter which order you multiply them in, you get <m:math><m:mo>[</m:mo><m:mi>I</m:mi><m:mo>]</m:mo></m:math>. We will designate the inverse of a matrix as <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> which looks like an exponent but isn’t really, it just means inverse matrix—just as we used <m:math><m:msup><m:mi>f</m:mi><m:mn>-1</m:mn></m:msup></m:math> to designate an inverse function. Which leads us to…
+      </para>
+      <para id="halloween"><title>Definition of A-1</title>
+The matrix <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> is defined as the multiplicative inverse of <m:math><m:mi>A</m:mi></m:math> if it satisfies the equation: <m:math>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>A</m:mi>
+<m:mo>=</m:mo>
+<m:mi>A</m:mi>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mo>=</m:mo>
+<m:mi>I</m:mi></m:math> (*where <m:math><m:mi>I</m:mi></m:math> is the identity matrix)</para>
+      
+      <para id="id5300096">Of course, only a square matrix can have an inverse, since only a square matrix can have an <m:math><m:mi>I</m:mi></m:math>! Now we know what an inverse matrix <emphasis>does</emphasis>, but how do you <emphasis>find</emphasis> one?
+      </para>
+      <exercise id="id3858888">
+        <problem id="idp8074592">
+          <para id="id4127750">Find the inverse of the matrix 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+3 {} # 2 {} ##
+5 {} # 4{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para><list id="element-683" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Since we don’t know the inverse yet, we will designate it as a bunch of unknowns: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>a</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>b</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>c</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>d</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+a {} # b {} ##
+c {} # d{}
+}  right ]} {}</m:annotation></m:semantics></m:math> will be our inverse matrix. Write down the equation that defines this unknown matrix as our inverse matrix.</item>
+        <item><label>b</label>Now, in your equation, you had a matrix multiplication. Go ahead and <emphasis>do</emphasis> that multiplication, and write a new equation which just sets two matrices equal to each other.</item>
+        <item><label>c</label>Now, remember that when we set two matrices <emphasis>equal</emphasis> to each other, every cell must be equal. So, when we set two different 2x2 matrices equal, we actually end up with four different equations. Write these four equations.</item>
+        <item><label>d</label>Solve for <m:math><m:mi>a</m:mi></m:math>, <m:math><m:mi>b</m:mi></m:math>, <m:math><m:mi>c</m:mi></m:math>, and <m:math><m:mi>d</m:mi></m:math>.</item>
+        <item><label>e</label>So, write the inverse matrix <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math>.</item>
+        <item><label>f</label>Test this inverse matrix to make sure it works!</item>
+      </list>
+        </problem>
+      </exercise>
+      
+
+  </content>
+</document>

@@ -1,0 +1,157 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Sample Test: Distance, Circles, and Parabolas</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m19094</md:content-id>
+  <md:title>Sample Test: Distance, Circles, and Parabolas</md:title>
+  <md:abstract>This module provides a sample test covering distance, circles, and parabolas.</md:abstract>
+  <md:uuid>c38722e4-e9b6-4a39-a087-fe3a48756db9</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id9523685">
+        <problem id="id1168372398980">
+          <para id="id9511073">Below are the points (–2,4) and (–5,–3).</para><para id="element-643"><media id="id6097819" alt="A picture of the points (–2,4) and (–5,–3)."><image src="../../media/1g.PNG" mime-type="image/png" print-width="3in"/></media></para><list id="element-950" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>How far is it <emphasis>across</emphasis> from one to the other (the horizontal line in the drawing)?</item>
+<item><label>b</label>How far is it <emphasis>down</emphasis> from one to the other (the vertical line in the drawing)?</item>
+<item><label>c</label>How far are the two points from each other?</item>
+<item><label>d</label>What is the <emphasis>midpoint</emphasis> of the diagonal line?</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id10009267">
+        <problem id="id7751564">
+          <para id="id10301994">What is the distance from the point (–1024,3) to the line 
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10715302">
+        <problem id="id1168376785813">
+          <para id="id8415109">Find all the points that are exactly 4 units away from the origin, where the <m:math><m:mi>x</m:mi></m:math> and 
+<m:math><m:mi>y</m:mi></m:math> coordinates are the <emphasis>same</emphasis>.</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="eip-610"><problem id="eip-443">
+		<para id="eip-553">
+    Find the equation for a parabola whose vertex is <m:math><m:mi>(3,−1)</m:mi></m:math>, and that contains the point <m:math><m:mi>(0,4)</m:mi></m:math>.
+  </para>
+	</problem>
+</exercise><exercise id="element-495"><problem id="id5558683">
+  <para id="element-989"><m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>
+  </para><list id="element-757" list-type="labeled-item"><item><label>a</label>Put this equation in the standard form for a circle.</item>
+<item><label>b</label>What is the center?</item>
+<item><label>c</label>What is the radius?</item>
+<item><label>d</label>Graph it on the graph paper.</item>
+<item><label>e</label>Find one point on your graph, and test it in the original equation. (No credit unless I can see your work!)</item></list>
+</problem>
+
+</exercise>
+      
+      
+      
+      
+      <exercise id="id9960511">
+        <problem id="id8807254">
+          <para id="id10142722"><m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mo>-</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math></para><list id="element-707" list-type="labeled-item"><item><label>a</label> Put this equation in the standard form for a parabola.</item>
+<item><label>b</label>What direction does it open in?</item>
+<item><label>c</label>What is the vertex?</item>
+<item><label>d</label>Graph it on the graph paper.</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      <exercise id="id9750077"><problem id="id4209799">
+		<para id="id9970581">Find the equation for a circle whose diameter stretches from (2,2) to (5,6).</para>
+	</problem>
+</exercise>
+      <exercise id="id9982357">
+        <problem id="id4222307">
+          <para id="id7526235">We’re going to find the equation of a parabola whose focus is (3,2) and whose directrix is the line <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-3</m:mn></m:math>. But we’re going to do it straight from the <emphasis>definition </emphasis>of a parabola.</para><para id="element-73"><media id="id1168373155043" alt="The equation of a parabola whose focus is (3,2) and whose directrix is the line x=–3."><image src="../../media/2g.PNG" mime-type="image/png" print-width="3in"/></media></para><para id="element-182">In the drawing above, I show the focus and the directrix, and an arbitrary point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) on the parabola.</para><list id="element-570" list-type="labeled-item"><item><label>a</label><m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math> is the distance from the point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to the focus (3,2). What is
+<m:math>
+
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math>?</item>
+<item><label>b</label><m:math>
+
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+
+</m:math> is the distance from the point (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to the directrix (<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-3</m:mn></m:math>). What is
+<m:math>
+
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math>?</item>
+<item><label>c</label>What defines the parabola as such—what makes (<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) part of the parabola—is that <m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math>. Write the equation for the parabola.</item>
+<item><label>d</label>Simplify your answer to part (c); that is, rewrite the equation in the standard form.</item></list>
+        </problem>
+      </exercise>
+      
+      
+  </content>
+</document>

@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- All the Points Equidistant from a Given Point</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ebcab973-80ac-4e96-a25a-929996b67cdc</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7493418">
+        <problem id="idm7896096">
+          <para id="id8613366">Draw as many points as you can which are exactly 5 units away from (0,0) and fill in the shape. What shape is it?</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7864104">
+        <problem id="idm2803760">
+          <para id="id7864107">Now, let’s see if we can find the <emphasis>equation</emphasis> for that shape. How do we do that? Well, for any point (<m:math><m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to be on the shape, it must be exactly five units away from the origin. So we have to take the sentence:</para><para id="element-397"><foreign>The point (<m:math>
+<m:mi>x</m:mi></m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) is exactly five units away from the origin</foreign></para><para id="element-776">and translate it into math. Then we will have an equation that describes <emphasis>every point on our shape</emphasis>, and no other points. (Stop for a second and discuss this point, make sure it makes sense.)</para><para id="element-109">OK, but how do we do <emphasis>that?</emphasis></para><list id="element-985" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>To the right is a drawing of our point (<m:math>
+<m:mi>x</m:mi></m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>), 5 units away from the origin.  On the drawing, I have made a little triangle as usual.  How long is the vertical line on the right side of the triangle?  Label it in the picture.</item>
+<item><label>b</label>How long is the horizontal line at the bottom of the triangle? Label it in the picture.
+<media id="idp188000" alt="An empty Cartesian graph."><image src="../../media/graph.PNG" mime-type="image/png" print-width="4in"/></media>
+</item>
+<item><label>c</label>Now, all three sides are labeled.  Just write down the Pythagorean Theorem for this triangle, and you have the equation for our shape!</item>
+
+<item><label>d</label>	Now, let’s see if it worked.  A few points that are <emphasis>obviously</emphasis> part of our shape—that is, they are obviously 5 units away from the origin—are the points (5,0) and (4,–3).  Plug them both into your equation from the last part and see if they work.</item>
+
+<item><label>e</label>	A few points that are clearly <emphasis>not</emphasis> part of our shape are (1,4) and (–2,7).  Plug them both into your equation for the shape to make sure they don’t work!
+</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id7963147">
+        <problem id="idm15882928">
+          <para id="id8660231">OK, that was all the points that were 5 units away from the origin. Now we’re going to find an equation for the shape that represents all points that are exactly 3 units away from the point (4,–1). Go through all the same steps we went through above—draw the point (4,–1) and an arbitrary point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>), draw a little triangle between them, label the distance from (<m:math><m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi></m:math>) to (4,–1) as being 3, and write out the Pythagorean Theorem. Don’t forget to test a few points!</para>
+        </problem>
+      </exercise>
+      <exercise id="id8249864">
+        <problem id="idm15025008">
+          <para id="id8167876">By now you probably get the idea. So—<emphasis>without</emphasis> going through all that work—write down the equation for all the points that are exactly 7 units away from the point (–5,3).</para>
+        </problem>
+      </exercise>
+      <exercise id="id7818949">
+        <problem id="idm14083616">
+          <para id="id7818951">And finally, the generalization as always: write down the equation for all the points that are exactly <m:math>
+<m:mi>r</m:mi></m:math> units away from the point (<m:math>
+<m:mi>h</m:mi></m:math>,<m:math>
+<m:mi>k</m:mi>
+</m:math>).</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

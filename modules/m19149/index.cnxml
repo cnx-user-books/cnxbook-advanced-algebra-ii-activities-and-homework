@@ -1,0 +1,246 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Absolute Value Inequalities</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>07d09659-64c4-451e-ad7e-7acf02836820</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-470"><problem id="idp7173424">
+  <para id="element-209"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline x rline  &lt;= 7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-415" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve.</item>
+      <item><label>b</label>Graph your solution on a number line</item>
+      <item><label>c</label>Choose a point that <emphasis>is</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+      <item><label>d</label>Choose a point that is <emphasis>not</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-519"><problem id="idp8952912">
+  <para id="element-256">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mrow>
+                      <m:mn>2x</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline 2x+3 rline  &lt;= 7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-698" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write down the solution for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x+3} {}</m:annotation></m:semantics></m:math> has to be. This should look exactly like your answer to number 1, except with a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 2x+3 \) } {}</m:annotation></m:semantics></m:math> instead of an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x \) } {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Now, solve that inequality for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>c</label>Graph your solution on a number line</item>
+      <item><label>d</label>Choose a point that <emphasis>is</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+      <item><label>e</label>Choose a point that is <emphasis>not</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-499"><problem id="idm3037968">
+  <para id="element-372">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mn>3x</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">&gt;</m:mo>
+                    <m:mtext>19</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{4 lline 3x - 6 rline +7&gt;"19"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-641" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 6 rline } {}</m:annotation></m:semantics></m:math>. (That is, leave the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 6 rline } {}</m:annotation></m:semantics></m:math> part alone, but get rid of all the stuff around it.)</item>
+      <item><label>b</label>Write down the inequality for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3x - 6 \) } {}</m:annotation></m:semantics></m:math> has to be.</item>
+      <item><label>c</label>Now, solve that inequality for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>d</label>Graph your solution on a number line</item>
+      <item><label>e</label>Choose a point that <emphasis>is</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+      <item><label>f</label>Choose a point that is <emphasis>not</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-649"><problem id="idp6181184">
+  <para id="element-138">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mn>3x</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  { lline 3x - 4 rline }  over  {2} } +6&lt;3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-968" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>. (You know the drill by now!)</item>
+      <item><label>b</label>Graph your solution on a number line</item>
+      <item><label>c</label>Choose a point that <emphasis>is</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+      <item><label>d</label>Choose a point that is <emphasis>not</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-136"><problem id="idp6578000">
+  <para id="element-978">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>2x</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>17</m:mtext>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>85</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">≥</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{6 lline 2x rSup { size 8{2} }  - "17"x - "85" rline +5 &gt;= 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-996" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Graph your solution on a number line</item>
+      <item><label>c</label>Choose a point that <emphasis>is</emphasis> in your solution set, and test it in the original inequality. Does it work?</item>
+      <item><label>d</label>Choose a point that is not in your solution set, and test it in the original inequality. Does it work?</item>
+    </list>
+</problem>
+
+</exercise>
+  </content>
+</document>

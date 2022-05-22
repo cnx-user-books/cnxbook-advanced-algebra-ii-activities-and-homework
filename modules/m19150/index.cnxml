@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Graphing Inequalities and Absolute Values</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>862acf6b-2763-48cb-9a6d-c8216d405f9b</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-545"><problem id="idm2867392">
+  <para id="element-916">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>9x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{9x+3y &lt;= 6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-479" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put into a sort of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format, except that it will be an inequality.</item>
+      <item><label>b</label>Now, ignore the fact that it is an inequality—pretend it is a line, and graph that line.</item>
+      <item><label>c</label>Now, to graph the inequality, shade in the area either <emphasis>above</emphasis> the line, or <emphasis>below</emphasis> the line, as appropriate. <note type="Hint" id="idm1888800"><label>Hint</label>Does 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> have to be <emphasis>less</emphasis> than the values on the line, or <emphasis>greater than</emphasis> them?</note></item>
+      <item><label>d</label>Test your answer. Choose a point (any point) in the region you shaded, and test it in the inequality. Does the inequality work? (Show your work.)</item>
+      <item><label>e</label>Choose a point (any point) in the region you did not shade, and test it in the inequality. Does the inequality work? (Show your work.)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-81"><problem id="idm11542304">
+  <para id="element-236">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>4x</m:mn>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mrow>
+                    <m:mn>2y</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{4x &lt;= 2y+5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-273" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph the inequality, using the same steps as above.</item>
+      <item><label>b</label>Test your answer by choosing one point in the shaded region, and one point that is <emphasis>not</emphasis> in the shaded region. Do they give you the answers they should? (Show your work.)</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-7"><problem id="idm2082336">
+  <para id="element-292">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= lline x rline } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-744" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Create a table of points. Your table should include at least two positive 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values, two negative 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=0} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Graph those points, and then draw the function.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-78"><problem id="idp1558672">
+  <para id="element-405">
+  <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= lline x rline +3} {}</m:annotation></m:semantics></m:math>. Graph this without a table of points, by remembering what “adding 3” does to any graph. (In other words, what will these 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-values be like compared to your 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-values in #3?)
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-212"><problem id="idp1908960">
+  <para id="element-537">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= -  lline x rline } {}</m:annotation></m:semantics></m:math>. Graph this without a table of points, by remembering what “multiplying by –1” does to any graph. (In other words, what will these 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-values be like compared to your 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-values in #3?)
+  </para>
+</problem>
+</exercise>
+    <exercise id="element-126"><problem id="idp10148896">
+  <para id="element-574">Now, let’s put it all together!!!
+    
+  </para><list id="element-691" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= -  lline x rline +2} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≥</m:mo><m:mrow/></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &gt;= = lline x rline +2} {}</m:annotation></m:semantics></m:math>. Your answer will <emphasis>either</emphasis> be a shaded region on a 2-dimensional graph, or on a number line.</item>
+      <item><label>c</label>Test your answer by choosing one point <emphasis>in</emphasis> the shaded region, and one point that is not in the shaded region. Do they give you the answers they should? (Show your work.)</item>
+      <item><label>d</label>Graph –|x|+2 &lt; 0. Your answer will either be a shaded region on a 2-dimensional graph, or on a number line.</item>
+      <item><label>e</label>Test your answer by choosing one point in the shaded region, and one point that is not in the shaded region. Do they give you the answers they should? (Show your work.)</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-302"><problem id="idm2245536">
+  <para id="element-326"><title>Extra for experts:</title><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≥</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &gt;= 3 lline x+4 rline } {}</m:annotation></m:semantics></m:math>
+  </para><list id="element-555" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph it. Think hard about what that +4 and that 3 will do. Generate a few points if it will help you!</item>
+      <item><label>b</label>Test your answer by choosing one point <emphasis>in</emphasis> the shaded region, and one point that is not in the shaded region. Do they give you the answers they should? (Show your work.)</item>
+    </list>
+</problem>
+
+
+</exercise>
+  </content>
+</document>

@@ -1,0 +1,385 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Sample Test: Conics 2 (Ellipses and Hyperbolas)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bedf0104-385e-4d2a-ac5e-6e499ed14ea7</md:uuid>
+</metadata>
+  <content>
+
+      <table id="id12036562" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry/>
+<entry>Horizontal</entry>
+<entry>Vertical</entry>
+<entry>Equations</entry>
+</row>
+</thead>          
+<tbody>
+            <row>
+              <entry>Ellipse</entry>
+              <entry>
+<m:math><m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>h</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>+</m:mo>
+
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mi>k</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>
+</entry>
+              <entry><m:math><m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>h</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>+</m:mo>
+
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mi>k</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></entry>
+              <entry>
+<m:math>
+
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>c</m:mi>
+<m:mn>2</m:mn>
+</m:msup></m:math>, (<m:math><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mi>b</m:mi></m:math>)
+</entry>
+            </row>
+            <row>
+              <entry>Hyperbola</entry>
+              <entry>
+<m:math><m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>h</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>-</m:mo>
+
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mi>k</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></entry>
+              <entry>
+<m:math><m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mi>k</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>-</m:mo>
+
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>h</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></entry>
+              <entry>
+<m:math>
+<m:msup>
+<m:mi>c</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></entry>
+            </row>
+          </tbody>
+        
+
+
+
+
+
+
+
+</tgroup>
+</table>
+      <exercise id="id11549335">
+        <problem id="idm5288096">
+          <para id="id9221640">Identify each equation as a <emphasis>line</emphasis>, <emphasis>parabola</emphasis>, <emphasis>circle</emphasis>, <emphasis>ellipse</emphasis>, or <emphasis>hyperbola</emphasis>.</para><list id="element-791" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:mfrac>
+</m:math>
+</item>
+<item><label>b</label>
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+</m:mfrac>
+</m:math>
+</item>
+<item><label>c</label>
+<m:math>
+<m:mn>4</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+</m:math></item>
+<item><label>d</label>
+<m:math>
+<m:mn>5</m:mn>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>9</m:mn>
+</m:math>
+</item>
+<item><label>e</label>
+<m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+</m:math>
+</item>
+<item><label>f</label>
+<m:math>
+<m:mn>4</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math>
+</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      <exercise id="id12362716">
+        <problem id="idm3338992">
+          <para id="id11062773">For each shape, is it a function or not? (Just answer yes or no.)</para><list id="element-540" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Vertical line</item>
+<item><label>b</label>Horizontal line</item>
+<item><label>c</label>Vertical parabola</item>
+<item><label>d</label>Horizontal parabola</item>
+<item><label>e</label>Circle</item>
+<item><label>f</label>Vertical ellipse</item>
+<item><label>g</label>Horizontal ellipse</item>
+<item><label>h</label>Vertical hyperbola</item>
+<item><label>i</label>Horizontal hyperbola</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id12819444">
+        <problem id="idm7330144">
+          <para id="id12396692">The United States Capitol building contains an elliptical room. It is 96 feet in length and 46 feet in width.</para><list id="element-167" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write an equation to describe the shape of the room. Assume that it is centered on the origin and that the major axis is horizontal.</item>
+<item><label>b</label>John Quincy Adams discovered that if he stood at a certain spot in this elliptical chamber, he could overhear conversations being whispered a the opposing party leader's desk. This is because both the desk, and the secret listening spot, were <emphasis>foci</emphasis> of the ellipse. How far was Adams standing from the desk?</item>
+<item><label>c</label>How far was Adams standing from the edge of the room closest to him?</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id12711947"><problem id="idp3643856">
+          <para id="id12469486">A comet zooms in from outer space, whips around the sun, and zooms back out. Its path is one branch of a hyperbola, with the sun at one of the foci. Just at the vertex, the comet is 10 million miles from the center of the hyperbola, and 15 million miles from the sun. Assume the hyperbola is horizontal, and the <emphasis>center</emphasis> of the hyperbola is at (0,0).</para><media id="idm58976" alt="A picture of a comets orbit around the sun." display="block"><image src="../../media/comet.PNG" mime-type="image/png"><param name="print-value" value="4in"/></image></media><list id="element-414" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the equation of the hyperbola.</item>
+<item><label>b</label>When the comet is very far away from the sun, its path is more or less a line. As you might guess, that is represented by the asymptotes of the hyperbola. (One asymptote as it come in, another as it goes out.) Write the equation for the line that describes the path of the comet after it has <emphasis>left</emphasis> the sun and gotten far out of our solar system.</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id13498086">
+        <problem id="idm5227456">
+          <para id="id13520649"><m:math>
+<m:mn>4</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>36</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>144</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>153</m:mn>
+</m:math></para><list id="element-486" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put in standard form.</item>
+<item><label>b</label>Is it horizontal or vertical?</item>
+<item><label>c</label>What is the center?</item>
+<item><label>d</label>How long is the transverse axis?</item>
+<item><label>e</label>How long is the conjugate axis?</item>
+<item><label>f</label>What are the coordinates of the two foci?</item>
+<item><label>g</label>Graph it. I will be looking for the vertices (the endpoints of the transverse axis), and for the asymptotes to be drawn correctly.</item></list>
+        </problem>
+      </exercise>
+      
+      
+  
+      
+      <para id="paraidhere"><title>Extra Credit:</title>Consider a hyperbola with foci at (–5,0) and (5,0). In order to be on the hyperbola, a point must have the following property: its distance to one focus, <emphasis>minus</emphasis>
+its distance to the other focus, must be 6. Write the equation for this hyperbola by using the geometric definition of a hyperbola (3 points). Then simplify it to standard form (2 points).</para>
+      
+        
+      
+
+  </content>
+</document>

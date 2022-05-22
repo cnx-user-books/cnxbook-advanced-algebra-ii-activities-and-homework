@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Using Matrices for Transformation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c2ea8cea-aed5-41b5-9561-b0d149463e26</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id3516388">You are an animator for the famous company Copycat Studios. Your job is to take the diagram of the “fish” below (whose name is Harpoona) and animate a particular scene for your soon-to-be-released movie.</para>
+      <para id="id7359891">In this particular scene, the audience is looking down from above on Harpoona who begins the scene happily floating on the surface of the water. Here is a picture of Harpoona as she is happily floating on the surface.</para>
+      <figure id="id10803666"><media id="idm15121344" alt="A right triangle in the first quadrant."><image src="../../media/graphics1-2568.png" mime-type="image/png" print-width="4in"/></media></figure>
+      <para id="id6273815">Here is the matrix that represents her present idyllic condition.</para>
+      <para id="id9566691"><m:math>
+<m:mo>[</m:mo>
+<m:mi>H</m:mi>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>10</m:mn></m:mtd>
+<m:mtd><m:mn>10</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>5</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+</m:math></para>
+      <exercise id="id10660244">
+        <problem id="idp233952">
+          <para id="id3333713">Explain, in words, how this matrix represents her position. That is, how can this matrix give instructions to a computer on exactly how to draw Harpoona?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8330257">
+        <problem id="idm2118288">
+          <para id="id3647924">The transformation <m:math>
+<m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac>
+<m:mo>[</m:mo><m:mi>H</m:mi><m:mo>]</m:mo>
+</m:math> is applied to Harpoona.</para><list id="element-930" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write down the resulting matrix.</item>
+        <item><label>b</label>Draw Harpoona after this transformation.</item>
+      
+        <item><label>c</label>Then answer this question in words: <emphasis>in general</emphasis>, what does the transformation <m:math>
+<m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac>
+<m:mo>[</m:mo><m:mi>H</m:mi><m:mo>]</m:mo>
+</m:math> do to a picture?</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      
+      
+      <exercise id="id8281581">
+        <problem id="idm3022560">
+          <para id="id8281584">Now, Harpoona is going to swim three units to the left. Write below a general transformation that can be applied to any 2×4 matrix to move a drawing three units to the left.</para>
+        </problem>
+      </exercise>
+      <exercise id="id4337026">
+        <problem id="idm8509680">
+          <para id="id11197675">Harpoona—in her original configuration before she was transformed in either way—now undergoes the transformation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+0 {} #  - 1 {} ##
+1 {} # 0{}
+}  right ]} {}</m:annotation></m:semantics></m:math>
+<m:math><m:mo>[</m:mo><m:mi>H</m:mi><m:mo>]</m:mo></m:math>.</para><list id="element-397" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write the new matrix that represents Harpoona.</item>
+        <item><label>b</label>Draw Harpoona after this transformation.</item>
+      
+        <item><label>c</label>In the space below, answer this question in words: <emphasis>in general</emphasis>, what does the transformation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+0 {} #  - 1 {} ##
+1 {} # 0{}
+}  right ]} {}</m:annotation></m:semantics></m:math>
+<m:math><m:mo>[</m:mo><m:mi>H</m:mi><m:mo>]</m:mo></m:math> do to a picture?</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      
+      
+      <exercise id="id3335696">
+        <problem id="idp3406768">
+          <para id="id10295865">Now: in the movie’s key scene, the audience is looking down from above on Harpoona who begins the scene happily floating on the surface of the water. As the scene progresses, our heroine spins around and around in a whirlpool as she is slowly being sucked down to the bottom of the sea. “Being sucked down” is represented visually, of course, by shrinking.</para><list id="element-441" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a single transformation that will rotate Harpoona by 900 and shrink her.</item>
+        <item><label>b</label>Apply this transformation four times to Harpoona’s original state, and compute the resulting matrices that represent her next four states.</item>
+        <item><label>c</label>Now draw all four states—preferably in different colors or something.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      
+  </content>
+</document>

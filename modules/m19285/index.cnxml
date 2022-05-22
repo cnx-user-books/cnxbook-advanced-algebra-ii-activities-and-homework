@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sequences and Series Homework -- Arithmetic and Geometric Sequences</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>667a4226-c89d-4a25-8ec9-ad631e16e686</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id6051606">
+        <problem id="idp1462736">
+          <para id="id6728429">On January 1, you have 100 songs on your iPod. There after, you download three songs a day.</para>
+
+      <list list-type="labeled-item" id="id6675019" mark-suffix=".">
+      
+        <item><label>a</label>Fill in the following table.</item>
+      </list>
+      <table id="id6731738" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>Date: January...</entry>
+              <entry>Number of Songs</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>103</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>106</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>d</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+      <list id="id6696247" list-type="labeled-item" mark-suffix=".">
+        <item><label>b</label>Test your formula at the end (for day <m:math>
+<m:mi>d</m:mi>
+</m:math>) by making sure it correctly predicts that on Day 1, you have 100 songs. If it does not, fix it.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id6839152">
+        <problem id="idm11179088">
+          <para id="id6839154">You begin an experiment with 10 amoebas in a petrie dish. Each minute, each amoeba splits, so the total number of amoebas doubles. Fill in the following table.</para>
+
+      <table id="id7362306" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>Minutes elapsed</entry>
+              <entry>Number of amoebas, or amoebae, or whatever they are</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>0</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>m</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

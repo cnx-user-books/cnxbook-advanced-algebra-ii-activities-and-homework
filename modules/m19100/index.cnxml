@@ -1,0 +1,415 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Fractional Exponents</title>
+  <metadata>
+  <md:content-id>m19100</md:content-id><md:title>Homework: Fractional Exponents</md:title>
+  <md:abstract>This module provides practice problems designed to develop concepts related to fractional exponents.</md:abstract>
+  <md:uuid>fcd367ca-0a07-429a-85c0-b610e05f1088</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id12397538">We have come up with the following definitions.
+    </para>
+    
+    <list id="element-421" list-type="bulleted"><item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:cn>0</m:cn>
+    </m:apply>
+    <m:cn>1</m:cn>
+  </m:apply>
+</m:math></item>
+
+<item> 
+<m:math><m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:minus/>
+        <m:ci>a</m:ci>
+      </m:apply>
+  </m:apply><m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{a} } } } } {}</m:annotation></m:semantics></m:math></item>
+
+<item>
+<m:math><m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:ci>a</m:ci>
+      <m:ci>b</m:ci>
+    </m:apply>
+  </m:apply>
+<m:mo>=</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{b} }  {x rSup { size 8{a} } } } {}</m:annotation></m:semantics></m:math></item></list>
+    
+    <para id="id3363944">Let’s get a bit of practice using these definitions.
+    </para>
+    <exercise id="id12866815">
+      <problem id="id7650136">
+        <para id="id12918582"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>100</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id4288169">
+      <problem id="id7655256">
+        <para id="id12447485"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>100</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id12868199">
+      <problem id="id7655305">
+        <para id="id4836738"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>100</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>-1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3742767">
+      <problem id="id7655358">
+        <para id="id10804623"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>100</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>3</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10746465">
+      <problem id="id7671342">
+        <para id="id12446674"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>100</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>-3</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3427574">
+      <problem id="id7671394">
+        <para id="id3706389">Check all of your answers above on your calculator. If any of them did not come out right, figure out what went wrong, and fix it!</para>
+      </problem>
+    </exercise>
+    <exercise id="id12942791">
+      <problem id="id7671423">
+        <para id="id4335342">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow/></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow/></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{ {3} wideslash {2} } } }  over  {x rSup { size 8{ {1} wideslash {2} } } } } } {}</m:annotation></m:semantics><m:apply>
+    <m:power/>
+    <m:cn>17</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>17</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id11887227">
+      <problem id="id7671535">
+        <para id="id12457723">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>9</m:cn>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3610264">
+      <problem id="id7671598">
+        <para id="id12774616">Simplify: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>x</m:mi><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  { sqrt {x} } } } {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id12457539"><problem id="id7671642">
+        <para id="id4318053">Simplify: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow/></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow/></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{ {3} wideslash {2} } } + sqrt {x} }  over  {x rSup { size 8{ {5} wideslash {2} } } + {  {1}  over  { sqrt {x} } } } } } {}</m:annotation></m:semantics></m:math></para>
+
+<note id="id7671709" type="Hint"><label>Hint</label>Multiply the top and bottom by <m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>.</note>
+      </problem>
+    </exercise>
+    <para id="id9855324">Now…remember inverse functions? You find them by switching the <m:math>
+  <m:ci>x</m:ci>
+</m:math> and the <m:math>
+  <m:ci>y</m:ci>
+</m:math> and then solving for <m:math>
+  <m:ci>y</m:ci>
+</m:math>. Find the inverse of each of the following functions. To do this, in some cases, you will have to rewrite the things. For instance, in #9, you will start by writing <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math>. Switch the <m:math>
+  <m:ci>x</m:ci>
+</m:math> and the <m:math>
+  <m:ci>y</m:ci>
+</m:math>, and you get <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:ci>y</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math>. Now what? Well, remember what that means: it means <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>x</m:ci>
+    <m:msqrt><m:mi>y</m:mi></m:msqrt>
+  </m:apply>
+</m:math>. Once you’ve done that, you can solve for <m:math>
+  <m:ci>y</m:ci>
+</m:math>, right?
+    </para>
+    <exercise id="id8877605">
+      <problem id="id7654714">
+        <para id="id3349975"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math></para>
+
+    <list id="id10504640" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>Find the inverse function.</item>
+      <item><label>b</label>Test it.</item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id11613279">
+      <problem id="id7654793">
+        <para id="id5642052"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>-2</m:cn>
+  </m:apply>
+</m:math></para>
+
+    <list id="id3449891" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>Find the inverse function.</item>
+      <item><label>b</label>Test it.</item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id3415290">
+      <problem id="id7654869">
+        <para id="id12928658"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>0</m:cn>
+  </m:apply>
+</m:math></para>
+
+    <list id="id11098706" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>Find the inverse function.</item>
+      <item><label>b</label>Test it.</item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id3611180">
+      <problem id="id7654946">
+        <para id="id12042603">Can you find a generalization about the inverse function of an exponent?</para>
+      </problem>
+    </exercise>
+    <exercise id="id5447787">
+      <problem id="id7654973">
+        <para id="id6759736">Graph <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math> by plotting points. Make sure to include both positive and negative <m:math><m:mi>x</m:mi></m:math> values.</para>
+      </problem>
+    </exercise>
+    <exercise id="id3409238">
+      <problem id="id7655028">
+        <para id="id11545493">Graph <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:times/>
+      <m:cn>2</m:cn>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math> by doubling all the y-values in the graph of <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</para>
+      </problem>
+    </exercise>
+    <exercise id="id3645557">
+      <problem id="id7663568">
+        <para id="id7466150">Graph <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:plus/>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+      <m:cn>1</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> by taking the graph <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math> and “shifting” it to the left by one.</para>
+      </problem>
+    </exercise>
+    <exercise id="id10805094">
+      <problem id="id7663651">
+        <para id="id10488267">Graph <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:power/>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math> by plotting points. Make sure to include both positive and negative  <m:math><m:mi>x</m:mi></m:math> values.</para>
+      </problem>
+    </exercise>
+  </content>
+</document>

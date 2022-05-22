@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- Introduction to Probability</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>851da3e2-541e-4016-b3ea-3ec9e53e8c42</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id47942576">
+        <problem id="idm8028544">
+          <para id="id47925954">Suppose you roll a <emphasis>4-sided die</emphasis>, which gives equal probabilities of rolling 1, 2, 3, or 4. (*Yes, these really do exist.)</para>
+
+      <list list-type="labeled-item" id="id47925982" mark-suffix=".">
+      
+        <item><label>a</label>What is the probability that you will roll a 3?</item>
+        <item><label>b</label>Explain, in your own words, what your answer to part (a) means. Do not use the words “probability” or “chance.” A typical 9-year-old should be able to understand your explanation.</item>
+        <item><label>c</label>What is the probability that you will roll an even number?</item>
+        <item><label>d</label>What is the probability that you will roll a number less than 3?</item>
+        <item><label>e</label>What is the probability that you will roll a number less than 4?</item>
+        <item><label>f</label>What is the probability that you will roll a number less than 7?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id48313018">
+        <problem id="idm7975696">
+          <para id="id48313021">Suppose you roll <emphasis>two 4-sided dice</emphasis>.</para>
+
+      <list list-type="labeled-item" id="id48312992" mark-suffix=".">
+      
+        <item><label>a</label>Draw a tree diagram showing all the possible outcomes for both rolls.</item>
+        <item><label>b</label>What is the probability that you will roll “3 on the first die, 2 on the second?”</item>
+        <item><label>c</label>What is the probability that you will roll “3 on one die, 2 on the other?”</item>
+        <item><label>d</label>What is the probability that the sum of both dice will be a 5?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

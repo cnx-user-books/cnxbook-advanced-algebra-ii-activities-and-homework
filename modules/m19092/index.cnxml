@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Parabolas: From Definition to Equation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8f0115b8-1074-4fd7-a47b-e23dd4715ea4</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id8518205">We have talked about the geometric definition of a parabola: “all the points in a plane that are the same distance from a given point (the <emphasis>focus</emphasis>) that they are from a given line (the <emphasis>directrix</emphasis>).” And we have talked about the general equations for a parabola:</para>
+      <para id="id7519843">Vertical parabola: 
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mi>h</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mi>k</m:mi>
+</m:math></para>
+      <para id="id10824555">Horizontal parabola: 
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>–</m:mo>
+<m:mi>k</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mi>h</m:mi>
+</m:math></para>
+      <para id="id11779714">What we haven’t done is connect these two things—the <emphasis>definition</emphasis> of a parabola, and the <emphasis>equation</emphasis> for a parabola. We’re going to do it the exact same way we did it for a circle—start with the geometric definition, and turn it into an equation.</para>
+      <para id="id10719189"><media id="idm8755168" alt="A parabola whose focus is the origin (0,0) and directrix is the line y=-4."><image src="../../media/p1.PNG" mime-type="image/png"><param name="print-value" value="4in"/></image></media></para>
+      <para id="id4185508">In the drawing above, I show a parabola whose focus is the origin (0,0) and directrix is the line 
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-4</m:mn>
+</m:math>. On the parabola is a point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) which represents <emphasis>any point on the parabola.</emphasis></para>
+      <exercise id="id9618982">
+        <problem id="idm8546288">
+          <para id="id10775309"><m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math> is the distance from the point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to the focus (0,0). What is 
+<m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id7526829">
+        <problem id="idm7181968">
+          <para id="id10655718"><m:math>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math> is the distance from the point (<m:math>
+<m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) to the directrix (<m:math><m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-4</m:mn></m:math>). What is 
+<m:math>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9024156">
+        <problem id="idm10594352">
+          <para id="id10730536">What defines the parabola as such—what makes 
+(<m:math><m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) part of the parabola—is that these two distances are the <emphasis>same</emphasis>. Write the equation 
+<m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math> 
+and you have the parabola.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10886434">
+        <problem id="idm5862592">
+          <para id="id11086927">Simplify your answer to #3; that is, rewrite the equation in the standard form.</para>
+        </problem>
+      </exercise>
+      
+
+  </content>
+</document>

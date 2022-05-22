@@ -1,0 +1,503 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Logs</title>
+  <metadata>
+  <md:content-id>m19176</md:content-id><md:title>Homework: Logs</md:title>
+  <md:abstract>This module provides practice problems related to logarithms.</md:abstract>
+  <md:uuid>9a9630ad-d69d-4031-b8cd-d0e1483d39e2</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id10506872"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>8</m:mn>
+</m:math> asks the question: <emphasis>“2 to what power is 8?”</emphasis> Based on that, you can answer the following questions:
+    </para>
+    <exercise id="id10260314">
+      <problem id="id46556591">
+        <para id="id4512059"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id11059271">
+      <problem id="id46918290">
+        <para id="id11958451"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>9</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id9623860">
+      <problem id="id46918333">
+        <para id="id10176556"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>10</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id10048622">
+      <problem id="id46313137">
+        <para id="id12294433"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>100</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id9806259">
+      <problem id="id46313181">
+        <para id="id11075162"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>1000</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id5467852">
+      <problem id="id46974042">
+        <para id="id11187354"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>1,000,000</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id11327367">
+      <problem id="id46974086">
+        <para id="id11954571">Looking at your answers to exercises #3-6, what does the <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+</m:math>  tell you about a number?</para>
+      </problem>
+    </exercise>
+    <exercise id="id10919842">
+      <problem id="id46975311">
+        <para id="id11040528">Multiple choice: which of the following is closest to <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>500</m:mn>
+</m:math> ?</para><list id="element-841" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>1</item>
+      <item><label>B</label>
+<m:math>
+<m:mn>1</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math></item>
+      <item><label>C</label>2</item>
+      <item><label>D</label>
+<m:math>
+<m:mn>2</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math></item>
+      <item><label>E</label>3</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="id10629078">
+      <problem id="id46549236">
+        <para id="id10105347"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id10834928">
+      <problem id="id46549283">
+        <para id="id10836485"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>10</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id6201754">
+      <problem id="id46313437">
+        <para id="id7806721"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>100</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id6022941">
+      <problem id="id46910765">
+        <para id="id3134742"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>(0.01)</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id11331421">
+      <problem id="id46910813">
+        <para id="id6127270"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>0</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id12304298">
+      <problem id="id46425693">
+        <para id="id9242770"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mn>(-1)</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id10995788">
+      <problem id="id46425741">
+        <para id="id12026148"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mn>81</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id8653291">
+      <problem id="id46916342">
+        <para id="id8643210"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id3893934">
+      <problem id="id46428413">
+        <para id="id9489843"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id11231752">
+      <problem id="id46428460">
+        <para id="id6022551"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>81</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id11231140">
+      <problem id="id46312651">
+        <para id="id12236921"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id11413163">
+      <problem id="id46970111">
+        <para id="id12484549"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>(54)</m:mn>
+<m:mo>=</m:mo>
+</m:math> </para>
+      </problem>
+    </exercise>
+    <exercise id="id7669775">
+      <problem id="id46970159">
+        <para id="id8058281"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 rSup { size 8{"log" rSub { size 6{5} } 4} } } {}</m:annotation></m:semantics><m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id11862694">OK. When I say 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} } {}</m:annotation></m:semantics></m:math>
+<m:math>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math>, that’s the <emphasis>same thing</emphasis> as saying 
+<m:math>
+<m:msup>
+<m:mn>6</m:mn>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>36</m:mn>
+</m:math>. Why? Because 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} } {}</m:annotation></m:semantics></m:math> asks a question: “What squared equals 36?” So the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} } {}</m:annotation></m:semantics></m:math><m:math><m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math> is providing an answer: “<emphasis>six</emphasis> squared equals 36.”</para>
+    <para id="id11757847">You can look at logs in a similar way. If I say 
+
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>32</m:mn>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math> 
+
+I’m asking a question: “2 to what power is 32?” And I’m answering: “two to the <emphasis>fifth</emphasis> power is 32.” So saying <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>32</m:mn>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math> is the <emphasis>same thing</emphasis> as saying <m:math><m:msup>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>5</m:mn>
+</m:mrow>
+</m:msup><m:mo>=</m:mo>
+<m:mn>32</m:mn>
+</m:math>.</para>
+    <para id="id12086994">Based on this kind of reasoning, <emphasis>rewrite the following logarithm statements as exponent statements.</emphasis></para>
+    <exercise id="id5143940">
+      <problem id="id46434002">
+        <para id="id10062108"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9763028">
+      <problem id="id46431525">
+        <para id="id9060632"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10309411">
+      <problem id="id46431588">
+        <para id="id9748913"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>x</m:mn>
+</m:msub>
+<m:mn>(1)</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10628453">
+      <problem id="id46429403">
+        <para id="id12056336"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>a</m:mn>
+</m:msub>
+<m:mn>x</m:mn>
+<m:mo>=</m:mo>
+<m:mi>y</m:mi>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id8306482">Now do the same thing backward: <emphasis>rewrite the following exponent statements as logarithm statements.</emphasis></para>
+    <exercise id="id12032629">
+      <problem id="id46313895">
+        <para id="id8590964"><m:math><m:msup>
+<m:mrow>
+<m:mn>4</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>64</m:mn>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3765620">
+      <problem id="id46313947">
+        <para id="id5825463"><m:math>
+<m:mn>8</m:mn>
+<m:mo>-</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:mfrac> </m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id12196452">
+      <problem id="id46917528">
+        <para id="id10415153"><m:math><m:msup>
+<m:mrow>
+<m:mn>a</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>b</m:mn>
+</m:mrow>
+</m:msup><m:mo>=</m:mo>
+<m:mi>c</m:mi>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id11766172">Finally...you don’t understand a function until you graph it...
+    </para>
+
+<exercise id="logs1">
+<problem id="id46918485">
+    <list id="id11643154" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Draw a graph of <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>x</m:mn>
+</m:math> . Plot at least 5 points to draw the graph.</item>
+    
+<item><label>b</label>What are the domain and range of the graph? What does that tell you about this function?</item>
+    </list>
+    
+    
+</problem>
+</exercise>
+  </content>
+</document>

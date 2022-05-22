@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Homework: Distance</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>107334f8-61de-4503-b5d1-00599320123b</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id12064328">
+        <problem id="idm863552">
+          <para id="id10829442">Draw a point anywhere. Instead of labeling the specific coordinates of that point, just label it 
+(<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>,<m:math>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>).</para>
+        </problem>
+      </exercise>
+      <exercise id="id9552014">
+        <problem id="idm3183632">
+          <para id="id10285104">Draw another point somewhere else. Label it (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>,<m:math>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>). To make life simple, make this point higher and to the right of the first point.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10716836">
+        <problem id="idp3970880">
+          <para id="id10836590">Draw the line going from (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>,<m:math>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>) to (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>,<m:math>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>). Then fill in the other two sides of the triangle</para>
+        </problem>
+      </exercise>
+      <exercise id="id11045047">
+        <problem id="idm9404464">
+          <para id="id3446623">How far <emphasis>up</emphasis> is it from the first point to the second? (As always, start by thinking about specific numbers—then see if you can generalize.)</para>
+        </problem>
+      </exercise>
+      <exercise id="id9101944">
+        <problem id="idp2284880">
+          <para id="id11282361">How far <emphasis>across</emphasis> is it from the first point to the second?</para>
+        </problem>
+      </exercise>
+      <exercise id="id11872970">
+        <problem id="idm10144256">
+          <para id="id10490680">Find the distance <m:math><m:mi>d</m:mi></m:math> from (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>,</m:mo>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>) to (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>,</m:mo>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>), using the Pythagorean Theorem. This will give you a general formula for the distance between any two points.</para>
+        </problem>
+      </exercise>
+      <exercise id="id12002098">
+        <problem id="idp1317520">
+          <para id="id9319227">Plug in 
+<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math> and 
+<m:math>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math> into your formula. You should get the same formula you got on the previous assignment, for the distance between any point and the origin. Do you?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9399389">
+        <problem id="idm112528">
+          <para id="id8379205">Draw a line from (0,0) to (4,10). Draw the point at the <emphasis>exact middle</emphasis> of that line. (Use a ruler if you have to.) What are the coordinates of that point?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9391451">
+        <problem id="idm7750432">
+          <para id="id11003463">Draw a line from (–3,2) to (5,–4). What are the coordinates of the midpoint?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10836854">
+        <problem id="idp5063472">
+          <para id="id9776041">Look back at your diagram of a line going from (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>,</m:mo>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>) to (<m:math>
+<m:msub>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>,</m:mo>
+<m:msub>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>). What are the coordinates of the midpoint of that line?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10431991">
+        <problem id="idm814144">
+          <para id="id3422667">Find the distance from the point (3,7) to the line 
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10137596">
+        <problem id="idp1325184">
+          <para id="id11878267">Find the distance from the generic point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to the line 
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9125693">
+        <problem id="idm4351984">
+          <para id="id10071124">Find the distance from the point (3,7) to the line 
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–2</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9570959">
+        <problem id="idp904528">
+          <para id="id11567072">Find the distance from the generic point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to the line <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–2</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10764893">
+        <problem id="idp418800">
+          <para id="id10164989">Find the coordinates of all the points that have <m:math><m:mi>y</m:mi></m:math>-coordinate 5, and which are exactly 10 units away from the origin.</para>
+        </problem>
+      </exercise><exercise id="element-348"><problem id="idp3941040">
+  <para id="element-791">
+    Draw all the points you can find which are exactly 3 units away from the point (4,5).
+  </para>
+</problem>
+
+
+</exercise>
+      
+
+  </content>
+</document>

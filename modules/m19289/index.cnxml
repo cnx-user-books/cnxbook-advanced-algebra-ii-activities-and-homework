@@ -1,0 +1,364 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Simultaneous Equations</title>
+  <metadata>
+  <md:content-id>m19289</md:content-id><md:title>Homework: Simultaneous Equations</md:title>
+  <md:abstract>Some homework problems on simultaneous equations.</md:abstract>
+  <md:uuid>9a20afd1-056a-4f9c-be7c-7791074c8822</md:uuid>
+</metadata>
+
+<content>
+    
+    <exercise id="element-327"><problem id="id19703160">
+  <para id="element-32">
+   Years after their famous race, the tortoise and the hare agree on a re-match. As they begin the race, the tortoise plods along at <m:math>
+<m:mn>2</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math> mph, slow but confident. The hare zips out at <m:math>
+<m:mn>8</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math>
+mph, determined not to repeat his original mistake... and he doesn't! The hare never slows down, and reaches the finish line 45 minutes (that is, <m:math><m:mfrac>
+<m:mn>3</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:math> of an hour) before the tortoise.
+  </para>
+<list id="list-234235234" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Did they run the same amount of time as each other?</item>
+<item><label>b</label>Did hey run the same distance?</item>
+<item><label>c</label>Clearly define and label the two variables in this problem. Note that your answers to (a) and (b) will have a lot to do with how you do this?</item>
+<item><label>d</label>Based on your variables, write the equation <m:math>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mi>r</m:mi>
+<m:mi>t</m:mi>
+</m:math> for the tortoise.</item>
+<item><label>e</label>Based on your variables, write the equation <m:math>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mi>r</m:mi>
+<m:mi>t</m:mi>
+</m:math> for the hare.</item>
+<item><label>f</label>Now answer the question: <emphasis>how long did the tortoise run?</emphasis></item></list>
+</problem>
+
+</exercise><exercise id="element-392"><problem id="id19686845">
+  <para id="element-298"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>6x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{6x+2y=6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-858"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x - y=5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-155" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution.</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-91"><problem id="id19611348">
+  <para id="element-446">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>26</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3x+2y="26"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-883"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>4y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x - 4y=4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-970" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution.</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-843"><problem id="id19702858">
+  <para id="element-81">
+ 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2y</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2y - x=4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-396"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>20</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+"20"y=4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-720" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution.</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-356"><problem id="id19670024">
+  <para id="element-234234">
+<m:math>
+<m:mn>7</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:mi>y</m:mi>
+</m:math>
+</para>
+<para id="element-23452111111">
+<m:math>
+<m:mn>14</m:mn>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+</m:math>
+</para><list id="element-99" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution.</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+
+
+</exercise><exercise id="element-66"><problem id="id19670153">
+  <para id="element-803">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>4y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>12</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3x+4y="12"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-536"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5x</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>20</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{5x - 3y="20"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-346" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve any way you like.</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+</exercise>
+    
+    
+    <exercise id="element-749"><problem id="id19703463">
+  <para id="element-728">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>ax</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ ital "ax"+y=6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-280"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+y=4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-426" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve any way you like. You are solving for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> is just a constant. (So your final answer will say “
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>=<emphasis>blah-blah</emphasis>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>=<emphasis>blah-blah</emphasis>.” The <emphasis>blah-blah</emphasis> will both have 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> in them.)</item>
+      <item><label>b</label>Check your answers.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+  </content>
+</document>

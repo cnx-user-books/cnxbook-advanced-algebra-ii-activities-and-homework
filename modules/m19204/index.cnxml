@@ -1,0 +1,284 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Homework: Solving Linear Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3b01412a-1292-4364-81af-2541434236c9</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7320300">
+        <problem id="idm7246432">
+          <para id="element-362"><m:math>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></para><para id="element-392"><m:math>
+<m:mn>3</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+</m:math></para><list id="element-369" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Solve these two equations by either substitution or elimination.</item>
+<item><label>b</label>Now, rewrite those two equations as a matrix equation.</item>
+<item><label>c</label>Solve the matrix equation. Your answer should be in the form of a matrix equation:
+<m:math>
+<m:mo>[</m:mo>
+<m:mi>x</m:mi>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math> </item>
+<item><label>d</label>Now, using your calculator, find the numbers for your equation in part (c). Do they agree with the answers you found in part (a)?</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id6530705">
+        <problem id="idm19733168">
+          <para id="element-701"><m:math>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>8</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math></para><para id="element-214"><m:math>
+<m:mn>9</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>12</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math></para><list id="element-814" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by using matrices on your calculator.</item>
+<item><label>b</label>Hey, what happened? Why did it happen, and what does it tell you about these two equations?</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+      
+      <exercise id="element-371"><problem id="idm9013216">
+  <para id="element-714"><m:math>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>
+  </para><para id="element-454"><m:math>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math></para><para id="element-190"><m:math>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math></para><list id="element-840" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve.</item>
+<item><label>b</label>Check your answers.</item>
+</list>
+</problem>
+
+</exercise>
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="element-600"><problem id="idm5627952">
+  
+<para id="element-38"><m:math>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>
+</para>
+<para id="element-18"><m:math>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math>
+</para><para id="element-790"><m:math>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>10</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>
+</para><list id="element-213" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve</item>
+<item><label>b</label>Check your answer</item>
+</list>
+</problem>
+
+</exercise>
+      
+      <exercise id="id7046837"><problem id="idm2086848">
+          
+<para id="element-528"><m:math>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math></para>
+<para id="element-768"><m:math>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>7</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>9</m:mn>
+</m:math>
+</para><para id="element-935"><m:math>
+<m:mn>5</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math>
+</para><list id="element-1000" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve. ("Hey there's no <m:math><m:mi>y</m:mi></m:math> in the last equation!" Right. So the coefficient of <m:math><m:mi>y</m:mi></m:math> is 0.)</item>
+<item><label>b</label>Check your answers.</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      <exercise id="element-523"><problem id="idm6405520">
+  
+ 
+  <para id="element-540"><m:math>
+<m:mn>3</m:mn>
+<m:mi>w</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>8</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math>
+</para>
+  <para id="element-847"><m:math>
+<m:mn>7</m:mn>
+<m:mi>w</m:mi>
+<m:mo>-</m:mo>
+<m:mn>9</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>
+</para>
+
+  <para id="element-278"><m:math>
+<m:mn>2</m:mn>
+<m:mi>w</m:mi>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn>10</m:mn>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math>
+</para><para id="element-597"><m:math>
+<m:mn>8</m:mn>
+<m:mi>w</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mn/>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math>
+</para><list id="element-363" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve.</item>
+<item><label>b</label>Check your answers.</item>
+</list>
+
+ 
+</problem>
+
+</exercise>
+      
+      
+
+  </content>
+</document>

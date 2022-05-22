@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Simplifying Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d5f9ed74-b67e-405c-b9f9-d45d1b4eb6e2</md:uuid>
+</metadata>
+  <content>
+    
+      
+      <para id="id10445057">Based on the generalization you wrote in #5 in the module "Some Very Important Generalizations", and given the fact that <m:math>
+<m:mn>4</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+</m:math>, we can simplify <m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+</m:math>
+as follows:</para>
+      <table id="element-464" summary="">
+<tgroup cols="2">
+<tbody>
+  <row>
+    <entry>
+<m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mrow>
+<m:mn>4</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math>
+ </entry>
+    <entry>(because 8 is the same thing as <m:math>
+<m:mn>4</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+</m:math>)</entry>
+  </row>
+  <row>
+    <entry><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mn>4</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>×</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:math> </entry>
+    <entry>(this is where we use that generalization)</entry>
+  </row>
+  <row>
+    <entry><m:math>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>×</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:math> </entry>
+    <entry>(because <m:math>
+<m:msqrt>
+<m:mn>4</m:mn>
+</m:msqrt>
+</m:math> is the same thing as 2)</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      <para id="id9283595">So, we see that <m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+</m:math> is the same thing as 
+<m:math>
+<m:mn>2</m:mn>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:math>.</para>
+      <exercise id="element-546"><problem id="idp6040752">
+  <para id="element-56">Find <m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+</m:math> on your calculator.
+  </para>
+</problem>
+</exercise><exercise id="element-592"><problem id="idp4228560">
+  <para id="element-553">Find <m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:math> on your calculator.
+  </para>
+</problem>
+</exercise><exercise id="element-181"><problem id="idp6047712">
+  <para id="element-212">Double your answer to #2 on your calculator.
+  </para>
+</problem>
+</exercise><exercise id="element-111"><problem id="idp2340000">
+  <para id="element-518">
+   So, did it work?
+  </para>
+</problem>
+</exercise><exercise id="element-194"><problem id="idp7178464">
+  <para id="element-638">Good!  Then let’s try another one.  Simplify  <m:math>
+<m:msqrt>
+<m:mn>72</m:mn>
+</m:msqrt>
+</m:math>, using the same steps I took to simplify  <m:math>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+</m:math>.
+  </para>
+</problem>
+</exercise><exercise id="element-335"><problem id="idp8068352">
+  <para id="element-121">Check your answer on the calculator.  Did it work?
+  </para>
+</problem>
+</exercise><exercise id="element-631"><problem id="idp4255824">
+  <para id="element-563">Oh yeah, one final question: what is  <m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>16</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math>?  How can you test your answer?
+</para>
+</problem>
+</exercise>
+    
+  </content>
+  
+</document>

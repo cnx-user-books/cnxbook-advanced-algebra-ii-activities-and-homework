@@ -1,0 +1,340 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Homework: Circles</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c2d0743b-bf98-423d-8490-55d8d4b3cb68</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id9757218">
+        <problem id="idm12543184">
+          <para id="id11895416">Write down the equation for a circle (*aka “All the Points Equidistant from a Given Point”) with center (–3,–6) and radius 9. (Although the wording is different, this is exactly like the problems you did on the in-class assignment.)</para>
+        </problem>
+      </exercise>
+      <exercise id="id9898980">
+        <problem id="idm3139840">
+          <para id="id8276284">Now, let’s take it the other way. 
+<m:math>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>4</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>49</m:mn>
+</m:math> is the equation for a circle.</para><list id="element-205" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> What is the center of the circle?</item>
+<item><label>b</label> What is the radius?</item>
+<item><label>c</label> Draw the circle.</item>
+<item><label>d</label> Find two points on the circle (by looking at your drawing) and plug them into the equation to make sure they work. (Show your work!)</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      <para id="id7520415"><m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>24</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>60</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math> is also the equation for a circle. But in order to graph it, we need to put it into our canonical form 
+<m:math>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mi>h</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>–</m:mo>
+<m:mi>k</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>. In order to do that, we have to complete the square… twice! Here’s how it looks.</para>
+
+
+      <table id="id8831400" summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>24</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>60</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></entry>
+              
+              <entry>The original problem.</entry>
+            </row>
+            <row>
+              <entry>
+<m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>30</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></entry>
+              
+              <entry>Divide by the coefficient of 
+<m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> and <m:math>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></entry>
+            </row>
+            <row>
+              <entry>
+<m:math>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>–30</m:mn>
+</m:math></entry>
+              
+              <entry>Collect <m:math>
+<m:mi>x</m:mi>
+</m:math> and <m:math>
+<m:mi>y</m:mi>
+</m:math> terms together, and bring the number to the other side.</entry>
+            </row>
+            <row>
+              <entry>
+<m:math>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>36</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>–30</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>36</m:mn>
+</m:math></entry>
+              
+              <entry>Complete the square in both parentheses.</entry>
+            </row>
+            <row>
+              <entry>
+<m:math>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math></entry>
+              
+              <entry>Done! The center is (–2,–6) and the radius is <m:math>
+<m:msqrt><m:mn>10</m:mn></m:msqrt></m:math>.</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <para id="id8275256">Got it? Now you try!</para>
+      <exercise id="id8537851">
+        <problem id="idm5203776">
+          <para id="id12428407"><m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>18</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>30</m:mn>
+<m:mi>y</m:mi>
+<m:mo>–</m:mo>
+<m:mn>6</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para><list id="element-90" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Complete the square—as I did above—to put this into the form:
+<m:math>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mi>h</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>y</m:mi>
+<m:mo>–</m:mo>
+<m:mi>k</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>.</item>
+<item><label>b</label>What are the center  and radius of the circle?</item>
+<item><label>c</label> Draw the circle.</item>
+<item><label>d</label> Find two points on the circle (by looking at your drawing) and plug them into <emphasis>original</emphasis> equation to make sure they work. (Show your work!)</item></list>
+        </problem>
+      </exercise>
+      
+      
+
+  </content>
+</document>

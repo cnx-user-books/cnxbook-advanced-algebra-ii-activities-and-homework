@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- The Ellipse: From Definition to Equation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>29ed5b61-026c-467b-8eeb-49a85936b9e4</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id3218072"><media id="idm9749856" alt="A picture of an ellipse with foci(-3,0) and (3,0)."><image src="../../media/el1.PNG" mime-type="image/png" print-width="3in"/></media></para>
+      <para id="id8220609">Here is the geometric definition of an ellipse. There are two points called the “foci”: in this case, (-3,0) and (3,0). A point is on the ellipse if the <emphasis>sum</emphasis> of its distances to both foci is a certain constant: in this case, I’ll use 10. Note that the foci <emphasis>define</emphasis> the ellipse, but are not <emphasis>part of</emphasis> it.</para>
+      <para id="id8591154">The point (<m:math>
+<m:mi>x</m:mi></m:math>,<m:math><m:mi>y</m:mi></m:math>) represents any point on the ellipse. <m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+
+</m:math> is its distance from the first focus, and <m:math>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math> to the second.</para>
+      <exercise id="id9970686">
+        <problem id="idm5399904">
+          <para id="id7393984">Calculate the distance <m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math> (by drawing a right triangle, as always).</para>
+        </problem>
+      </exercise>
+      <exercise id="id8577165">
+        <problem id="idm6112240">
+          <para id="id8009594">Calculate the distance <m:math>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:math> (by drawing a right triangle, as always).</para>
+        </problem>
+      </exercise>
+      <exercise id="id12258348">
+        <problem id="idm16101328">
+          <para id="id8277564">Now, to create the equation for the ellipse, write an equation asserting that the <emphasis>sum</emphasis> of <m:math>
+<m:mi>d</m:mi>
+<m:mn>1</m:mn>
+</m:math> and <m:math>
+
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+
+</m:math> equals 10.</para>
+        </problem>
+      </exercise>
+      <para id="id10300652">Now simplify it. We did problems like this earlier in the year (radical equations, the “harder” variety that have two radicals). The way you do it is by isolating the square root, and then squaring both sides. In this case, there are two square roots, so you will need to go through that process twice.</para>
+      <exercise id="id8410960">
+        <problem id="idm1120688">
+          <para id="id11872723">Rewrite your equation in #3, isolating one of the square roots.</para>
+        </problem>
+      </exercise>
+      <exercise id="id7913511">
+        <problem id="idp3508656">
+          <para id="id8268568">Square both sides.</para>
+        </problem>
+      </exercise>
+      <exercise id="id11783165">
+        <problem id="idm5496480">
+          <para id="id3543590">Multiply out, cancel, combine, simplify. This is the big step! In the end, isolate the only remaining square root.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8579631">
+        <problem id="idm3272336">
+          <para id="id11880650">Square both sides again.</para>
+        </problem>
+      </exercise>
+      <exercise id="id11880651">
+        <problem id="idm1929552">
+          <para id="id11990718">Multiply out, cancel, combine, and get it to look like the standard form for an ellipse.</para>
+        </problem>
+      </exercise>
+      <exercise id="id11891904">
+        <problem id="idp2845440">
+          <para id="id11693563">Now, according to the “machinery” of ellipses, what should that equation look like? Horizontal or vertical? Where should the center be? What are <m:math>
+<m:mi>a</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>b</m:mi>
+</m:math>, and <m:math>
+<m:mi>c</m:mi>
+</m:math>? Does all that match the picture we started with?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

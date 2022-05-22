@@ -1,0 +1,404 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Logs Homework -- Properties of Logarithms</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b68fdfa2-e71a-4ae9-8a89-c043f4536791</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="id8703948">
+      <problem id="idp9963008">
+        <para id="id8703951"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8883530">
+      <problem id="idp2102864">
+        <para id="id8627841"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3032792">
+      <problem id="idp5084944">
+        <para id="id8718320"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9030043">
+      <problem id="idm10679248">
+        <para id="id9242249"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8977332">
+      <problem id="idm145280">
+        <para id="id8977335"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>*</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7316361">
+      <problem id="idp813120">
+        <para id="id7316364">Based on exercises #1-5, finish this sentence in words: when you take 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>
+ of a number, you find:</para>
+      </problem>
+    </exercise>
+    <exercise id="id8522810">
+      <problem id="idp5467904">
+        <para id="id8128884"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>8</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3514179">
+      <problem id="idp4963680">
+        <para id="id9243023"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>16</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8714211">
+      <problem id="idp802768">
+        <para id="id8714214"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>8</m:mn>
+<m:mo>*</m:mo>
+<m:mn>16</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8083153">
+      <problem id="idp4274352">
+        <para id="id6986758"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>9</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id6198105">
+      <problem id="idm3967888">
+        <para id="id8070420"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>27</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7003762">
+      <problem id="idm11086240">
+        <para id="id8002978"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>9</m:mn>
+<m:mo>*</m:mo>
+<m:mn>27</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8926990">
+      <problem id="idm2261408">
+        <para id="id8926993">Based on exercises #7-12, write an algebraic generalization about logs.</para>
+      </problem>
+    </exercise>
+    <exercise id="id6415725">
+      <problem id="idm1160208">
+        <para id="id8637498">Now, let’s dig more deeply into that one. Rewrite exercises #7-9 so they look like exercises #1-5: that is, so the thing you are taking the log of is written as a power of 2.</para><list id="element-365" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>#7: </item>
+      <item><label>b</label>#8:</item>
+      <item><label>c</label>#9:</item>
+      <item><label>d</label>Based on this rewriting, can you explain <emphasis>why</emphasis> your generalization from #13 works?</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="element-363"><problem id="idm2800368">
+  <para id="element-670"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>25</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise>
+    <exercise id="id8242041">
+      <problem id="idp2019568">
+        <para id="id8242044"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>25</m:mn>
+</m:mfrac>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8688148">
+      <problem id="idp4281968">
+        <para id="id7380451"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>32</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7086948">
+      <problem id="idp6835904">
+        <para id="id6488328"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>32</m:mn>
+</m:mfrac>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8782040">
+      <problem id="idm1159856">
+        <para id="id8715999">Based on exercises #15-18, write an algebraic generalization about logs.</para>
+      </problem>
+    </exercise>
+    <exercise id="id8716002">
+      <problem id="idm11762064">
+        <para id="id8037925"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>81</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9040362">
+      <problem id="idp7012096">
+        <para id="id8623958"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8888391">
+      <problem id="idp6594800">
+        <para id="id8888394"><m:math>
+  <m:apply>
+    <m:log/>
+    <m:logbase>
+      <m:cn>3</m:cn>
+    </m:logbase>
+    <m:apply>
+      <m:power/>
+      <m:cn>81</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8667639">
+      <problem id="idp3504">
+        <para id="id8897457"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8703031">
+      <problem id="idp5024912">
+        <para id="id7053109"><m:math>
+  <m:apply>
+    <m:log/>
+    <m:logbase>
+      <m:cn>3</m:cn>
+    </m:logbase>
+    <m:apply>
+      <m:power/>
+      <m:cn>81</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7645804">
+      <problem id="idp10009936">
+        <para id="id7671888"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>*</m:mo>
+<m:mn>81</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9388246">
+      <problem id="idp60576">
+        <para id="id8102341"><m:math>
+  <m:apply>
+    <m:log/>
+    <m:logbase>
+      <m:cn>3</m:cn>
+    </m:logbase>
+    <m:apply>
+      <m:power/>
+      <m:cn>81</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id5456526">
+      <problem id="idm3003696">
+        <para id="id4074328">Based on exercises #20-26, write an algebraic generalization about logs.</para>
+      </problem>
+    </exercise>
+  </content>
+</document>

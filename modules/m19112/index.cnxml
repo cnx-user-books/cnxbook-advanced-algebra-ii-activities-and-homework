@@ -1,0 +1,342 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Inverse Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7945bc1a-9e73-49fb-bb75-bd2edf8cf6f4</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-535"><problem id="idm10868704">
+		<para id="element-295">
+		We are playing the function game. Every time you give Christian a number, he doubles it and subtracts six.
+		</para><list id="element-794" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If you give Christian a ten, what will he give you back?</item>
+      <item><label>b</label>If you give Christian an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, what will he give you back?</item>
+      <item><label>c</label>What number would you give Christian, that would make him give you a 0?</item>
+      <item><label>d</label>What number would you give Christian, that would make him give you a ten?</item>
+      <item><label>e</label>What number would you give Christian, that would make him give you an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>? <note type="Hint for the stuck" id="idm5598272"><label>Hint for the stuck</label>Try to follow the process you used to answer part (d).</note></item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-75"><problem id="idm2071440">
+		<para id="element-586">
+			A television set dropped from the top of a 300' building falls according to the equation: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>300</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) ="300" - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>
+		</para><para id="element-454"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>300</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) ="300" - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para><para id="element-912">where 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> is the amount of time that has passed since it was dropped (measured in seconds), and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation></m:semantics></m:math> is the height of the television set above ground (measured in feet).</para><list id="element-793" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Where is the television set after 0 seconds have elapsed?</item>
+      <item><label>b</label>Where is the television set after 2 seconds have elapsed?</item>
+      <item><label>c</label>A man is watching out of the window of the first floor, 20' above ground. At what time does the television set go flying by?</item>
+      <item><label>d</label>At what time does the television reach the ground?</item>
+      <item><label>e</label>Find a general formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">(</m:mo><m:mi>h</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t \( h \) } {}</m:annotation></m:semantics></m:math> that can be used to quickly and easily answer all questions like (c) and (d).</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <para id="id43899524">Find the inverse of each function. For each one, check your answer by plugging in two different numbers to see if they work.
+    </para><exercise id="element-919"><problem id="idm12602048">
+		<para id="element-877">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x+5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-888" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    
+    
+    <exercise id="element-30"><problem id="idm3486640">
+		<para id="element-830">
+	
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x+6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-194" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+</exercise>
+    
+    <exercise id="element-797"><problem id="idm4651952">
+		<para id="element-207">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>3x</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=3x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-200" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-420"><problem id="idm818160">
+		<para id="element-241">
+	
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mi>x</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= {  {x}  over  {4} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-635" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-35"><problem id="idm1598400">
+		<para id="element-101">
+		
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>3x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>12</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=3x+"12"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-714" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-746"><problem id="idm13771952">
+		<para id="element-402">
+		
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mtext>100</m:mtext>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= {  {"100"}  over  {x} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-473" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    <exercise id="element-703"><problem id="idm20659152">
+		<para id="element-552"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2x</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mn>7</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= {  {2x+3}  over  {7} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-485" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+
+</exercise>
+    <exercise id="element-512"><problem id="idm20145968">
+		<para id="element-809">
+		
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-221" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-733"><problem id="idp45600">
+		<para id="element-132">
+		
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=2 rSup { size 8{x} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-949" list-type="bulleted"><item>Inverse function: </item>
+      <item>Test:</item>
+      <item>Test:</item>
+    </list>
+	</problem>
+
+	</exercise>
+  </content>
+</document>

@@ -1,0 +1,284 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Algebraic Generalizations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c47ea9d5-6fe6-45fa-b1d2-58b94f1bc052</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-1"><problem id="idm7618336">
+  <list id="element-570" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Pick a number:_____</item>
+<item><label>b</label>Add three:_____</item>
+<item><label>c</label>Subtract three from your answer in part (b):_____ </item>
+<item><label>d</label>What happened?_________________________________</item>
+<item><label>e</label>Write an algebraic generalization to represent this rule._____</item>
+<item><label>f</label>Is there any number for which this rule will <emphasis>not</emphasis> work?_____ </item></list>
+</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-938"><problem id="idm1250208">
+  <list id="element-170" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Pick a number:_____</item>
+
+<item><label>b</label>Subtract five:_____</item>
+      <item><label>c</label>Double your answer in part (b):_____ </item>
+      <item><label>d</label>Add ten to your answer in part (c):_____</item>
+      <item><label>e</label>Divide your answer in part (d) by your original number (a):_____</item>
+      <item><label>f</label>Now, repeat that process for three different numbers. Record the number you started with (a) and the number you ended up with (e).</item></list>
+
+
+<list id="sublist1" list-type="labeled-item"><item><label>Started With:_____</label></item> <item><label>Ended With:_____</label></item></list>
+<list id="sublist2" list-type="labeled-item"><item><label>Started With:_____</label></item> <item><label>Ended With:_____</label></item></list>
+<list id="sublist3" list-type="labeled-item"><item><label>Started With:_____</label></item> <item><label>Ended With:_____</label></item></list>
+    
+
+<list id="element-369" list-type="labeled-item" mark-suffix=".">
+<item><label>g</label>What happened?</item>
+      <item><label>h</label>Write an algebraic generalization to represent this rule.</item>
+      <item><label>i</label>Is there any number for which this rule will not work?</item>
+
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-203"><problem id="idm6160880">
+  <para id="element-490">
+    Here are the first six powers of two.
+  </para><list id="element-293" list-type="bulleted"><item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{1} } =2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow/>
+          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} } =4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>8</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{3} } =8} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>16</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{4} } ="16"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow/>
+          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>32</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{5} } ="32"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>64</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{6} } ="64"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+    </list><list id="element-21" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If I asked you for 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:msup>
+                  <m:mn>2</m:mn>
+                  <m:mstyle fontsize="8pt">
+                    <m:mrow>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:msup>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{7} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     (without a calculator), how would you get it? More generally, how do you always get from one term in this list to the next term?________________</item>
+      <item><label>b</label>Write an algebraic generalization to represent this rule.________________ </item>
+      
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    
+    
+    
+    
+    <exercise id="element-626"><problem id="idp295760">
+  <para id="element-582">Look at the following pairs of statements.</para>
+  <list id="element-93" list-type="bulleted"><item>
+      <m:math><m:mn>8</m:mn><m:mo>×</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>64</m:mn></m:math>
+    </item>
+<item><m:math><m:mn>7</m:mn><m:mo>×</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>63</m:mn></m:math></item>
+</list>
+<list id="element-94" list-type="bulleted"><item><m:math><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>25</m:mn></m:math></item>
+<item> <m:math><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>24</m:mn></m:math></item>
+</list>
+<list id="element-95" list-type="bulleted"><item><m:math><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>100</m:mn></m:math></item>
+<item> <m:math><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>99</m:mn></m:math></item>
+</list>
+<list id="element-96" list-type="bulleted"><item><m:math><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>9</m:mn></m:math></item>
+<item> <m:math><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:math></item>
+</list>
+
+
+<list id="element-764" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Based on these pairs, if I told you that <m:math><m:mn>30</m:mn><m:mo>×</m:mo><m:mn>30</m:mn><m:mo>=</m:mo><m:mn>900</m:mn></m:math>, could you tell me (immediately, without a calculator) what <m:math><m:mn>29</m:mn><m:mo>×</m:mo><m:mn>31</m:mn></m:math> is?________________ </item>
+      <item><label>b</label>Express this rule—the pattern in these numbers—in words.</item>
+      <item><label>c</label>Whew! That was ugly, wasn’t it? Good thing we have math. Write the algebraic generalization for this rule.________________</item>
+    <item><label>d</label>Try out this generalization with <emphasis>negative numbers</emphasis>, with <emphasis>zero</emphasis>, and with <emphasis>fractions</emphasis>. (Show your work below, trying all three of these cases separately.) Does it <emphasis>always</emphasis> work, or are there cases where it doesn’t?</item></list>
+</problem>
+
+</exercise>
+    
+    
+    
+  </content>
+</document>

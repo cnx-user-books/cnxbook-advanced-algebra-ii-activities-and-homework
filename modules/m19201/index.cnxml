@@ -1,0 +1,734 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Homework:  Multiplying Matrices II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>99970474-391f-4b88-adf9-7b8d08a9c54f</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7237990">
+        <problem id="idm5455488">
+          <para id="id7237993">Matrix <m:math><m:mo>[</m:mo><m:mi>A</m:mi><m:mo>]</m:mo></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} ##
+3 {} # 4{}
+}  right ]} {}</m:annotation></m:semantics></m:math>. Matrix <m:math><m:mo>[</m:mo><m:mi>B</m:mi><m:mo>]</m:mo></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>8</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+5 {} # 6 {} ##
+7 {} # 8{}
+}  right ]} {}</m:annotation></m:semantics></m:math>.</para>
+
+      <list id="id7238144" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Find the product <m:math><m:mi>AB</m:mi></m:math>.</item>
+        <item><label>b</label>Find the product <m:math><m:mi>BA</m:mi></m:math>.</item>
+      </list>
+        </problem>
+      </exercise>
+
+
+      <exercise id="id7238169">
+        <problem id="idm2451600">
+          <para id="id7238172">Multiply.</para><para id="element-546"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>8</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                    <m:mi/>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>8</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 6 {} # 4 {} ##
+9 {} # 5 {} # 8{}
+}  right ]` left [ matrix {
+2 {} # 5 {} # 4 {} # 7 {} ##
+3 {} # 4 {} # 6 {} # 9 {} ##
+8 {} # 4 {} # 2 {} # 0{}
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7238332">
+        <problem id="idp1650704">
+          <para id="id7238335">Multiply.</para><para id="element-714"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>8</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                    <m:mi/>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>8</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 5 {} # 4 {} # 7 {} ##
+3 {} # 4 {} # 6 {} # 9 {} ##
+8 {} # 4 {} # 2 {} # 0{}
+}  right ]` left [ matrix {
+2 {} # 6 {} # 4 {} ##
+9 {} # 5 {} # 8{}
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="element-845"><problem id="idm6604160">
+  <para id="element-352"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                    <m:mi/>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mi>y</m:mi>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mi>z</m:mi>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+5 {} # 3 {} # 9 {} ##
+7 {} # 5 {} # 3 {} ##
+2 {} # 7 {} # 5{}
+}  right ]` left [ matrix {
+x {} ##
+y {} ##
+z
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><list id="element-495" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Multiply.</item>
+        <item><label>b</label>Now, multiply 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced><m:mi/><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>5</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+5 {} # 3 {} # 9 {} ##
+7 {} # 5 {} # 3 {} ##
+2 {} # 7 {} # 5{}
+}  right ]` left [ matrix {
+2 {} ##
+"10" {} ##
+5
+}  right ]} {}</m:annotation></m:semantics></m:math>—but not by manually multiplying it out! Instead, plug 
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>, 
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math>, and 
+<m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math> into the formula you came up with in part (a).</item>
+      </list>
+</problem>
+
+</exercise>
+      <exercise id="id6753057">
+        <problem id="idm54352">
+          <para id="id6753061">Multiply.</para><para id="element-372"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>8</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>9</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                    <m:mi/>
+                    <m:mfenced open="[" close="]">
+                      <m:mtable>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                        <m:mtr>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                          <m:mtd>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mtd>
+                        </m:mtr>
+                      </m:mtable>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} # 3 {} ##
+4 {} # 5 {} # 6 {} ##
+7 {} # 8 {} # 9{}
+}  right ]` left [ matrix {
+1 {} # 0 {} # 0 {} ##
+0 {} # 1 {} # 0 {} ##
+0 {} # 0 {} # 1{}
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id6753221">
+        <problem id="idp765680">
+          <para id="id6753224"><m:math>
+<m:mn>3</m:mn>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>-2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>6</m:mn></m:mtd>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mi>y</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>9</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-3</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+</m:math></para><list id="element-729" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the 
+<m:math>
+<m:mi>x</m:mi>
+</m:math> and 
+<m:math>
+<m:mi>y</m:mi>
+</m:math> values that will make this matrix equation true.</item>
+        <item><label>b</label>Test your answer by doing the multiplication to make sure it works out.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="element-754"><problem id="idm360272">
+<para id="element-31"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>4</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mtext>Some</m:mtext></m:mtd>
+<m:mtd><m:mtext>Matrix</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>4</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+</m:math>
+</para><list id="element-236" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the “some matrix” that will make this matrix equation true.</item>
+        <item><label>b</label>Test your answer by doing the multiplication to make sure it works out.</item>
+      </list>
+</problem>
+
+
+</exercise>
+
+  </content>
+</document>

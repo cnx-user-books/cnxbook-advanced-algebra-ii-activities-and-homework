@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Multiplying Matrices I</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3fa1b978-e53f-4af4-b0f4-8e3d27544b13</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id7520788">Just to limber up your matrix muscles, let’s try doing the following matrix addition.</para>
+      <exercise id="id6532843">
+        <problem id="idm2964304">
+          <para id="id6831858"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>5</m:mn></m:mtd>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>7</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn><m:mi>y</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>+</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>5</m:mn></m:mtd>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>7</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn><m:mi>y</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>+</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>5</m:mn></m:mtd>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>7</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn><m:mi>y</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id6459895">
+        <problem id="idm9560560">
+          <para id="id7749427">How many times did you add that matrix to itself?</para>
+        </problem>
+      </exercise>
+      <exercise id="id7749429">
+        <problem id="idm5982176">
+          <para id="id7768554">Rewrite #1 as a <emphasis>multiplication problem</emphasis>. (*Remember what multiplication means—adding something to itself a bunch of times!)</para>
+</problem>
+</exercise>
+
+<para id="element-293">This brings us to the world of <emphasis>multiplying a matrix by a number.</emphasis> It’s very straightforward. You end up with a matrix that has the same dimensions as the original, but all the individual cells have been multiplied by that number.</para>
+
+<para id="element-322">Let’s do another example. I’m sure you remember Professor Snape’s grade matrix.</para><table id="element-408" summary="">
+<tgroup cols="5">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+              <entry/>
+              <entry>Poison</entry>
+              <entry>Cure</entry>
+              <entry>Love philter</entry>
+              <entry>Invulnerability</entry>
+            </row>
+</thead>         
+ <tbody>
+            
+            <row>
+              <entry>Granger, H</entry>
+              <entry>100</entry>
+              <entry>105</entry>
+              <entry>99</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Longbottom, N</entry>
+              <entry>80</entry>
+              <entry>90</entry>
+              <entry>85</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Malfoy, D</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+              <entry>0</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Potter, H</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+            </row>
+            <row>
+              <entry>Weasley, R</entry>
+              <entry>85</entry>
+              <entry>90</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+
+<para id="element-405">Now, we saw how Professor Snape could lower his grades (which he loves to do) by subtracting a <emphasis>curve matrix</emphasis>. But there is another way he can lower his grades, which is by <emphasis>multiplying</emphasis> the entire matrix by a number. In this case, he is going to multiply his grade matrix by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math>. If we designate his grade matrix as <m:math><m:mo>[</m:mo><m:mi>S</m:mi><m:mo>]</m:mo></m:math> then the resulting matrix could be written as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math><m:math><m:mo>[</m:mo><m:mi>S</m:mi><m:mo>]</m:mo></m:math>. <note type="Note" id="idm6663344"><label>Note</label>Remember that the cells in a matrix are numbers! So <m:math><m:mo>[</m:mo><m:mi>S</m:mi><m:mo>]</m:mo></m:math> is just the grades, not the names.</note></para>
+ 
+      
+      
+      
+      
+      <exercise id="id5744812">
+        <problem id="idm8304656">
+          <para id="id5744814">Write down the matrix 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math><m:math><m:mo>[</m:mo><m:mi>S</m:mi><m:mo>]</m:mo></m:math>.</para>
+       </problem>
+</exercise>
+
+
+      <para id="id6185417">Finally, it’s time to Prof. Snape to calculate final grades. He does this according to the following formula: “Poison” counts 30%, “Cure” counts 20%, “Love philter” counts 15%, and the big final project on “Invulnerability” counts 35%. For instance, to calculate the final grade for “Granger, H” he does the following calculation: <m:math>
+<m:mo>(</m:mo>
+<m:mn>30</m:mn>
+<m:mo>%</m:mo>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>100</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>20</m:mn>
+<m:mo>%</m:mo>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>105</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>15</m:mn>
+<m:mo>%</m:mo>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>99</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>35</m:mn>
+<m:mo>%</m:mo>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>100</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>100.85</m:mn>
+</m:math>.</para>
+      <para id="id9091729">To make the calculations easier to keep track of, the Professor represents the various weights in his <emphasis>grading matrix</emphasis> which looks like the following:</para>
+      
+      <para id="element-881"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfenced open="[" close="]">
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>3</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>2</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>15</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>35</m:mtext>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+ "." 3 {} ##
+ "." 2 {} ##
+ "." "15" {} ##
+ "." "35"
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id5385549">The above calculation can be written very concisely as <emphasis>multiplying a row matrix by a column matrix,</emphasis> as follows.</para>
+
+      <para id="id7537204"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>100</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>105</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>99</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>100</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+"100" {} # "105" {} # "99" {} # "100"{}
+}  right ]} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>15</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>35</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+ "." 3 {} ##
+ "." 2 {} ##
+ "." "15" {} ##
+ "." "35"
+}  right ]} {}</m:annotation></m:semantics>
+<m:mo>=</m:mo>
+<m:mo>[</m:mo>
+<m:mn>100.85</m:mn>
+<m:mo>]</m:mo>
+</m:math></para>
+
+      <para id="id3279060">A “row matrix” means a matrix that is just one row. A “column matrix” means…well, you get the idea. When a row matrix and a column matrix have the same number of items, you can multiply the two matrices. What you do is, you multiply both of the first numbers, and you multiply both of the second numbers, and so on…and you add all those numbers to get one big number. The final answer is not just a number—it is a 1×1 matrix, with that one big number inside it.</para>
+
+      <exercise id="id8570677">
+        <problem id="idp1159248">
+          <para id="id5319819">Below, write the matrix multiplication that Prof. Snape would do to find the grade for “Potter, H”. Show both the problem (the two matrices being multiplied) and the answer (the 1×1 matrix that contains the final grade).</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

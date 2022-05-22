@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Introduction to Matrices</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3f67f070-b19f-414e-8d99-de78694ebe27</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id3545006">The following matrix, stolen from a rusted lockbox in the back of a large, dark lecture hall in a school called Hogwart’s, is the gradebook for Professor Severus Snape’s class in potions.</para>
+      <table id="id3446027" summary="">
+<tgroup cols="5">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+              <entry/>
+              <entry>Poison</entry>
+              <entry>Cure</entry>
+              <entry>Love philter</entry>
+              <entry>Invulnerability</entry>
+            </row>
+</thead>
+          <tbody>
+            
+            <row>
+              <entry>Granger, H</entry>
+              <entry>100</entry>
+              <entry>105</entry>
+              <entry>99</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Longbottom, N</entry>
+              <entry>80</entry>
+              <entry>90</entry>
+              <entry>85</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Malfoy, D</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+              <entry>0</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Potter, H</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+            </row>
+            <row>
+              <entry>Weasley, R</entry>
+              <entry>85</entry>
+              <entry>90</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+      <para id="id3531021">When I say this is a “matrix” I’m referring to the numbers in boxes. The labels (such as “Granger, H” or “Poison”) are labels that help you understand the numbers in the matrix, but they are not the matrix itself.</para>
+      <para id="id3523637">Each student is designated by a <emphasis>row</emphasis>. A row is a horizontal list of numbers.</para>
+      
+
+
+<exercise id="id90909898098"><problem id="idp1280352">
+<para id="element-234352352">
+Below, copy the row that represents all the grades for “Malfoy, D.”
+</para>
+
+</problem>
+</exercise>
+      <para id="element-591">Each assignment is designated by a <emphasis>column</emphasis>, which is a vertical list of numbers. (This is easy to remember if you picture columns in Greek architecture, which are big and tall and…well, you know…vertical.)
+
+</para><exercise id="id11045914"><problem id="idm4729360">
+          <para id="id4169464">Below, copy the column that represents all the grades on the “Love philter” assignment.</para>
+
+
+  </problem>
+      </exercise>
+      
+      
+      <para id="element-973">I know what you’re thinking, this is so easy it seems pointless. Well, it’s going to stay easy until tomorrow. So bear with me.
+
+</para><para id="element-229">The <emphasis>dimensions</emphasis> of a matrix are just the number of rows, and the number of columns…<emphasis>in that order</emphasis>. So a “10 × 20” matrix means 10 rows and 20 columns.
+
+</para><exercise id="id5102597">
+        <problem id="idm8942672">
+          <para id="id6061704">What are the dimensions of Dr. Snape’s gradebook matrix?</para>
+        </problem>
+      </exercise>
+      
+      <para id="element-141">For two matrices to be <emphasis>equal</emphasis>, they must be exactly the same in every way: same dimensions, and every cell the same.  If everything is not precisely the same, the two matrices are not equal.</para><exercise id="id9704711">
+        <problem id="idm6122688">
+          <para id="id9706808">What must <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math> be, in order to make the following matrix equal to Dr. Snape’s gradebook matrix?</para><table id="element-69" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>100</entry>
+              <entry>105</entry>
+              <entry>99</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>80</entry>
+              <entry><m:math><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi></m:math></entry>
+              <entry>85</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>95</entry>
+              <entry>90</entry>
+              <entry>0</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>70</entry>
+              <entry>75</entry>
+              <entry><m:math><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>y</m:mi></m:math></entry>
+              <entry>75</entry>
+            </row>
+            <row>
+              <entry>85</entry>
+              <entry>90</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+</problem>
+</exercise>
+
+<para id="element-73">Finally, it is possible to <emphasis>add</emphasis> or <emphasis>subtract </emphasis>matrices. But you can only do this when the matrices have the same dimensions!!! If two matrices do not have exactly the same dimensions, you cannot add or subtract them. If they do have the same dimensions, you add and subtract them just by adding or subtracting each individual cell.</para>
+
+      <exercise id="id4161308">
+        <problem id="idm1926128">
+<para id="element-399">As an example: Dr. Snape has decided that his grades are too high, and he needs to curve them downward. So he plans to subtract the following <emphasis>grade-curving matrix</emphasis> from his original grade matrix.</para>
+
+<table id="element-167" summary="">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>10</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>10</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>10</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>5</entry>
+              <entry>15</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>10</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+
+          <para id="id4771866">Write down the new grade matrix.</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7096683">
+        <problem id="idm10057584">
+          <para id="id5150372">In the grade-curving matrix, all rows except the fourth one are identical. What is the effect of the different fourth row on the final grades?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

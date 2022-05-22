@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Solving Problems by Graphing Quadratic Functions</title>
+  <metadata>
+  <md:content-id>m19255</md:content-id><md:title>Homework: Solving Problems by Graphing Quadratic Functions</md:title>
+  <md:abstract>Some homework problems involving graphing quadratic functions.</md:abstract>
+  <md:uuid>b5d565cd-6443-448b-87a0-80fb720dc665</md:uuid>
+</metadata>
+
+<content>
+    <para id="id10640490">Just as we did in class, we will start with our old friend</para>
+    <para id="element-90"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>h</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) =h rSub { size 8{o} } +v rSub { size 8{o} }  - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
+    <exercise id="element-983"><problem id="id46426687">
+  <para id="element-948">
+Michael Jordan jumps into the air at a spectacular 24 feet/second.
+  </para><list id="element-531" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Write the equation of motion for the flying Wizard.</item>
+      <item><label>b</label> Put that equation into standard form for graphing, and draw the graph as before.</item>
+      <item><label>c</label> How long does it take him to get back to the ground?</item>
+      <item><label>d</label> At what time does His Airness reach his maximum height?</item>
+      <item><label>e</label> What is that maximum height?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-407"><problem id="id46548993">
+  <para id="element-77">
+Time to generalize! A ball is thrown upward from the ground with an initial velocity of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>. At what time does it reach its maximum height, and what is that maximum height?
+  </para>
+</problem>
+
+</exercise><para id="id10183990">Some more problems from my Calculus books.
+    </para>
+    
+    <exercise id="element-396"><problem id="id46976004">
+  <para id="element-731">
+Find the dimensions of a rectangle with perimeter 100 ft whose area is as large as possible. (Of course this is similar to the one we did in class, but without the river.)
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-751"><problem id="id46976032">
+  <para id="element-989">
+There are lots of <emphasis>pairs of numbers</emphasis> that add up to 10: for instance, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8+2} {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 {  {1}  over  {2} } + {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>. Find the two that have the largest product possible.
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-526"><problem id="id46424767">
+  <para id="element-518">
+A pharmaceutical company makes a liquid form of penicillin. If they manufacture 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> units, they sell them for 200
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> dollars (in other words, they charge $200 per unit). However, the total <emphasis>cost</emphasis> of manufacturing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> units is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>500</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>80</m:mtext></m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>003</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"500","000"+"80"x+0+0 "." "003"x rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. How many units should they manufacture to maximize their profits?
+  </para>
+</problem>
+
+</exercise>
+  </content>
+</document>

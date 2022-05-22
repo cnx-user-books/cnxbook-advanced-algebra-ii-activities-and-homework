@@ -1,0 +1,304 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: The Function Game</title>
+  <metadata>
+  <md:content-id>m19121</md:content-id><md:title>Homework: The Function Game</md:title>
+  <md:abstract>This module provides a problem sheet for the function game.</md:abstract>
+  <md:uuid>bde9e045-fd32-429b-85c8-cda049f256af</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-884"><problem id="id4911394">
+  <para id="element-274">
+ Describe in words what a <emphasis>variable</emphasis> is, and what a <emphasis>function</emphasis> is.
+  </para>
+</problem>
+</exercise>
+    <para id="id4113831">There are seven functions below (numbered #2-8). For each function,</para>
+    <list id="id4113836" list-type="bulleted">
+      <item>Write the same function in algebraic notation.</item>
+      <item>Generate three points from that function.</item>
+    </list>
+    <para id="id4113850">For instance, if the function were “Add five” the algebraic notation would be “<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+5} {}</m:annotation></m:semantics></m:math>”. The three points might be  <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2,7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 2,7 \) } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3,8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3,8 \) } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>5,0</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  - 5,0 \) } {}</m:annotation></m:semantics></m:math>.</para>
+    
+    <exercise id="element-648"><problem id="id3549338">
+  <para id="element-863">
+   Triple the number, then subtract six.
+  </para><list id="element-527" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:____________________ </item></list>
+</problem>
+
+</exercise><exercise id="element-674"><problem id="id5270770">
+  <para id="element-100">
+   Return 4, no matter what.
+  </para><list id="element-658" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem></exercise>
+    <exercise id="element-523"><problem id="id7568197">
+  <para id="element-123">
+   Add one. Then take the square root of the result. Then, divide <emphasis>that</emphasis> result into two.
+  </para><list id="element-820" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem>
+</exercise><exercise id="element-476"><problem id="id5798894">
+  <para id="element-27">
+  Add two to the original number.  Subtract two from the original number.  Then, multiply those two answers together.
+  </para><list id="element-927" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem>
+</exercise><exercise id="element-784"><problem id="id7449140">
+  <para id="element-145">
+    Subtract two, then triple.
+  </para><list id="element-675" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem>
+</exercise>
+    
+    <exercise id="element-337"><problem id="id4266900">
+  <para id="element-71">
+    Square, then subtract four. </para><list id="element-52" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem>
+</exercise>
+    <exercise id="element-324"><problem id="id3356205">
+  <para id="element-253">
+    Add three.  Then, multiply by four.  Then, subtract twelve.  Then, divide by the original number.
+  </para><list id="element-452" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Algebraic notation:____________________ </item>
+<item><label>b</label>Three points:__________________________ </item></list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-401"><problem id="id4928076">
+  <para id="element-320">In some of the above cases, two functions always give the same answer, even though they are different functions.  We say that these functions are “equal” to each other.  For instance, the function “add three and then subtract five” is equal to the function “subtract two” because they always give the same answer.  (Try it, if you don’t believe me!)  We can write this as:
+  </para><para id="element-330"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x+3 - 5=x - 2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><para id="element-584">Note that this is not an equation you can solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math> —it is a generalization which is true for <emphasis>all</emphasis> <m:math>
+  <m:ci>x</m:ci>
+</m:math> values. It is a way of indicating that if you do the calculation on the left, and the calculation on the right, they will always give you the same answer.</para><para id="element-996">In the functions #2-8 above, there are three such pairs of “equal” functions.  Which ones are they?  Write the algebraic equations that state their equalities (like my <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:minus/>
+      <m:apply>
+        <m:plus/>
+        <m:ci>x</m:ci>
+        <m:cn>3</m:cn>
+      </m:apply>
+      <m:cn>5</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:minus/>
+      <m:ci>x</m:ci>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> equation).</para>
+</problem>
+
+
+</exercise>
+    
+    
+    <exercise id="element-62"><problem id="id3738368">
+  <para id="element-273">
+    Of the following sets of numbers, there is one that could not possibly have been generated by any function whatsoever.  Which set it is, and why?  (No credit unless you explain why!)
+  </para><list id="element-159" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,6</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>4,8</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>2,</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 3,6 \)   \( 4,8 \)   \(  - 2, - 4 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>b</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>6,9</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>2,9</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3,9</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 6,9 \)   \( 2,9 \)   \(  - 3,9 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>c</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,</m:mn>
+                  <m:mtext>112</m:mtext>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>2,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,3</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,"112" \)   \( 2, - 4 \)   \( 3,3 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>d</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,4</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,9</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>4,</m:mn>
+                  <m:mtext>10</m:mtext>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 3,4 \)   \( 3,9 \)   \( 4,"10" \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>e</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2,4</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1,1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>0,0</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,1</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>2,4</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \(  - 2,4 \)   \(  - 1,1 \)   \( 0,0 \)  \( 1,1 \)  \( 2,4 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+</list>
+</problem>
+
+
+</exercise>
+    
+    
+  </content>
+</document>

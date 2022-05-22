@@ -1,0 +1,274 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- The Many Merry Cube Roots of -1</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ac14ec48-53f8-4d2b-a198-335bfe560d63</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id10828624">When you work with real numbers, <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math> has two different solutions (1 and –1). But <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math> has no solutions at all. When you allow for <emphasis>complex</emphasis> numbers, things are much more consistent: <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math> has two solutions, just like <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>. In fact, <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>n</m:mi>
+</m:math> will have two solutions for any number n—positive or negative, real or imaginary or complex. There is only one exception to this rule.</para>
+      <exercise id="id10296547">
+        <problem id="idm11010864">
+          <para id="prob1para">What is the one exception?</para>
+        </problem>
+      </exercise>
+
+      <para id="id10421592">You might suspect that <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>n</m:mi>
+</m:math> should have <emphasis>three</emphasis> solutions in general—and you would be right! Let’s take an example. We know that when we are working with real numbers, <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> has only one solution.</para>
+
+      <exercise id="id10375944">
+        <problem id="idm5288720">
+          <para id="prob2para">What is the one solution?</para>
+        </problem>
+      </exercise>
+
+      <para id="id10646938">But if we allow for <emphasis>complex</emphasis> answers, <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> has three possible solutions. We are going to find the other two.</para>
+      <para id="id10414538">How do we do that? Well, we know that every complex number can be written as <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>, where <m:math><m:mi>a</m:mi></m:math> and <m:math>
+<m:mi>b</m:mi></m:math> are real numbers. So if there is some complex number that solves <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>, then we can find it by solving the <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi></m:math> that will make the following equation true:</para>
+      <para id="id11031325"><m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math></para>
+      <para id="id10560483">You are going to solve that equation now. When you find <m:math>
+<m:mi>a</m:mi></m:math> and <m:math>
+<m:mi>b</m:mi></m:math>, you will have found the answers.</para>
+      <para id="id10556057">Stop now and make sure you understand how I have set up this problem, before you go on to solve it.</para>
+      <exercise id="id9931786">
+        <problem id="idm5498576">
+          <para id="prob3para">What is <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math>? Multiply it out.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob4exer">
+        <problem id="idp1563408">
+          <para id="prob4para">Now, rearrange your answer so that you have collected all the real terms together and all the imaginary terms together.</para>
+        </problem>
+      </exercise>
+      <para id="id10695024">Now, we are trying to solve the equation <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>. So take the formula you just generated in number 4, and set it equal to <m:math>
+<m:mn>–1</m:mn></m:math>. This will give you two equations: one where you set the real part on the left equal to the real part on the right, and one where you set the imaginary part on the left equal to the imaginary part on the right.</para>
+
+      <exercise id="prob5exer">
+        <problem id="idm2902800">
+          <para id="prob5para">Write down both equations.</para>
+        </problem>
+      </exercise>
+
+      <para id="id10451054">OK. If you did everything right, one of your two equations factors as <m:math>
+<m:mi>b</m:mi>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>. If one of your two equations doesn’t factor that way, go back—something went wrong!</para>
+      <para id="id8955447">If it did, then let’s move on from there. As you know, we now have two things being multiplied to give 0, which means one of them must be 0. One possibility is that <m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>: we’ll chase that down later. The other possibility is that <m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>, which means <m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>.</para>
+
+      <exercise id="prob6exer">
+        <problem id="idm7278880">
+          <para id="prob6para">Solve the two equations for <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi></m:math> by substituting <m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> into the other equation</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob7exer">
+        <problem id="idm148160">
+          <para id="prob7para">So…now that you know <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>, write down <emphasis>two</emphasis> complex answers to the problem <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>. If you don’t have two answers, look again!</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob8exer">
+        <problem id="idm3903520">
+          <para id="prob8para">But wait…shouldn’t there be a third answer? Oh, yeah…what about that <m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math> business? Time to pick that one up. If <m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>, what is <m:math>
+<m:mi>a</m:mi>
+</m:math>? Based on this <m:math>
+<m:mi>a</m:mi></m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>, what is the third and final solution to <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob9exer">
+        <problem id="idm2907936">
+          <para id="prob9para">Did all that work? Well, let’s find out. Take either of your answers in #7 and test it: that is, cube it, and see if you get –1. If you don’t, something went wrong!</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

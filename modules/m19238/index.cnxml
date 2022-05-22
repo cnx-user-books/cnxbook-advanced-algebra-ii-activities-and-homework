@@ -1,0 +1,95 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- Sample Test: Probability</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>850cd93a-e741-496b-9277-bf31fc0230f0</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7836748">
+        <problem id="idm4493184">
+          <para id="id9515011">In the video game Stroller Race 2000™, you start by choosing which baby character you will play (Hotsy, Totsy, Potsy, or Mac) and what color stroller you will be racing (red, green, blue, or yellow).</para>
+
+      <list list-type="labeled-item" id="id4924076" mark-suffix=".">
+      
+        <item><label>a</label>Draw a tree diagram listing all the possible baby-stroller combinations you can play.</item>
+        <item><label>b</label>When the computer races against you, it chooses a baby-stroller combination at random. What is the chance that it will choose the same one you chose?</item>
+        <item><label>c</label>What is the chance that the computer will choose a baby whose name rhymes with “Dotsy”?</item>
+        <item><label>d</label>What is the chance that the computer will choose a baby whose name rhymes with “Dotsy” <emphasis>and</emphasis> a red stroller?</item>
+        <item><label>e</label>All four babies are racing in red strollers today. <emphasis>One</emphasis> possible outcome is that Hotsy will come in first, followed by Totsy, then Potsy, then Mac. How many total possible outcomes are there?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8615665">
+        <problem id="idm3790544">
+          <para id="id9455603">The weatherman predicts a 20% chance of rain on Tuesday. <emphasis>If</emphasis> it rains, there is a 10% chance that your roof will leak. (If it doesn’t rain, of course, your roof is safe.) What is the chance that you will have a leaky roof on Tuesday?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id9514121">
+        <problem id="idm10297472">
+          <para id="id9514123">A game of “Yahtzee!” begins by rolling five 6-sided dice.</para>
+
+      <list list-type="labeled-item" id="id4175650" mark-suffix=".">
+      
+        <item><label>a</label>What is the chance that all five dice will roll “6”?</item>
+        <item><label>b</label>What is the chance that all five dice will roll the same as each other?</item>
+        <item><label>c</label>What is the chance that all five dice will roll “5” or “6”?</item>
+        <item><label>d</label>What is the chance that <emphasis>no</emphasis> dice will roll “6”?</item>
+        <item><label>e</label>What is the chance that <emphasis>at least one die</emphasis> will roll “6”?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id5533165">
+        <problem id="idm636816">
+          <para id="id6335535">How many three-letter combinations can be made from the 26 letters in the alphabet? We can ask this question three different ways, with three different answers.</para>
+
+      <list list-type="labeled-item" id="id9369219" mark-suffix=".">
+      
+        <item><label>a</label>First, assume any three-letter combination is valid: NNN, for instance. (This gives you the actual number of possible three-letter words.)</item>
+        <item><label>b</label>Second, assume that you cannot use the same letter twice. (Here you can imagine that you have a bag of files, one for each letter, and you are drawing three of them out in order to make a word.)</item>
+        <item><label>c</label>Third, assume that you still cannot use the same letter twice, but order doesn’t matter: CAT and ACT are the same. (Here you can imagine that as you pull the tiles, you are creating unscramble-the-word puzzles instead of words.)</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8959015">
+        <problem id="idm3880992">
+              <para id="sudoku">In a Sudoku puzzle, a 3-by-3 grid must be populated with each of the digits 1 through 9. Every digit must be used once, which means that no digit can be repeated. How many possible 3-by-3 grids can be made?</para>
+              <para id="fake"><media id="idp84080" alt="Picture of concentric circles."><image src="../../media/circ.PNG" mime-type="image/png" print-width="4in"/></media></para>
+        </problem>
+      </exercise>
+
+      <para id="id4857397"><title>Extra credit:</title>How many different three-digit numbers can you make by rearranging the following digits?
+      <table id="id7118925" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+
+  </content>
+</document>

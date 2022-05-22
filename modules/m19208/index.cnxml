@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Multiplying Matrices II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1caa3218-e981-48c5-a43f-8128c0b1cdf8</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id48072575">Just for a change, we’re going to start with…Professor Snape’s grade matrix!</para>
+      <table id="id48493724" summary="">
+<tgroup cols="5">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+              <entry/>
+              <entry>Poison</entry>
+              <entry>Cure</entry>
+              <entry>Love philter</entry>
+              <entry>Invulnerability</entry>
+            </row>
+</thead>          
+<tbody>
+            
+            <row>
+              <entry>Granger, H</entry>
+              <entry>100</entry>
+              <entry>105</entry>
+              <entry>99</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Longbottom, N</entry>
+              <entry>80</entry>
+              <entry>90</entry>
+              <entry>85</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Malfoy, D</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+              <entry>0</entry>
+              <entry>85</entry>
+            </row>
+            <row>
+              <entry>Potter, H</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+              <entry>70</entry>
+              <entry>75</entry>
+            </row>
+            <row>
+              <entry>Weasley, R</entry>
+              <entry>85</entry>
+              <entry>90</entry>
+              <entry>95</entry>
+              <entry>90</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+      <para id="id47898135">As you doubtless recall, the good Professor calculated final grades by the following computation: “Poison” counts 30%, “Cure” counts 20%, “Love philter” counts 15%, and the big final project on “Invulnerability” counts 35%. He was able to represent each student’s final grade as the product of a row matrix (for the student) times a column matrix (for weighting).</para>
+
+      <exercise id="id48904091">
+        <problem id="idm19627904">
+          <para id="id48884044">Just to make sure you remember, write the matrix multiplication that Dr. Snape would use to find the grade for “Malfoy, D.” Make sure to include both the two matrices being multiplied, and the final result!</para>
+</problem>
+</exercise>
+
+<para id="element-440">I’m sure you can see the problem with this, which is that you have to write a separate matrix multiplication problem for every student. To get around that problem, we’re going to extend our definition of matrix multiplication so that the first matrix no longer has to be a row—it may be many rows. Each row of the first matrix becomes a new row in the answer. So, Professor Snape can now multiply his entire student matrix by his weighting matrix, and out will come a matrix with all his grades!</para>
+
+      
+      <exercise id="id48420912">
+        <problem id="idm19485456">
+          <para id="id48141633">Let’s try it. Do the following matrix multiplication. The answer will be a 3×1 matrix with the final grades for “Malfoy, D,” “Potter, H,” and “Weasley, R.”</para>
+<para id="matrixid">
+<m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>95</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>85</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>70</m:mn></m:mtd>
+<m:mtd><m:mn>75</m:mn></m:mtd>
+<m:mtd><m:mn>70</m:mn></m:mtd>
+<m:mtd><m:mn>75</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>85</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+<m:mtd><m:mn>95</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr><m:mtd><m:mn>.3</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mn>.2</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mn>.15</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mn>.35</m:mn></m:mtd></m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+
+        </problem>
+      </exercise>
+
+<para id="element-553">OK, let’s step back and review where we are. Yesterday, we learned how to multiply a row matrix times a column matrix. Now we have learned that you can add more rows to the first matrix, and they just become extra rows in the answer.</para><para id="element-945">For full generality of matrix multiplication, you just need to know this: if you <emphasis>add more columns</emphasis> to second matrix, they become additional columns in the answer! As an example, suppose Dr. Snape wants to try out a different weighting scheme, to see if he likes the new grades better. So he adds the new column to his weighting matrix. The first column represents the original weighting scheme, and the second column represents the new weighting scheme. The result will be a 3x2 matrix where each row is a different <emphasis>student</emphasis> and each column is a different <emphasis>weighting scheme</emphasis>. Got all that? Give it a try now! </para>
+
+      
+      
+      <exercise id="id48910046">
+        <problem id="idm20591312">
+          <para id="id48470435"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>95</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>85</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>70</m:mn></m:mtd>
+<m:mtd><m:mn>75</m:mn></m:mtd>
+<m:mtd><m:mn>70</m:mn></m:mtd>
+<m:mtd><m:mn>75</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>85</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+<m:mtd><m:mn>95</m:mn></m:mtd>
+<m:mtd><m:mn>90</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>.3</m:mn></m:mtd>
+<m:mtd><m:mn>.4</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>.2</m:mn></m:mtd>
+<m:mtd><m:mn>.2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>.15</m:mn></m:mtd>
+<m:mtd><m:mn>.3</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>.35</m:mn></m:mtd>
+<m:mtd><m:mn>.1</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

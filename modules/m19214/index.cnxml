@@ -1,0 +1,172 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- The Inverse of the Generic 2x2 Matrix</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c479a025-0249-436c-a82c-b219414345c5</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id4607789">Today you are going to find the inverse of the <emphasis>generic 2×2 matrix</emphasis>. Once you have done that, you will have a formula that can be used to quickly find the inverse of <emphasis>any</emphasis> 2×2 matrix.</para>
+      <para id="id4670870">The generic 2×2 matrix, of course, looks like this:</para>
+      <para id="id4670874"><m:math><m:mo>[</m:mo><m:mi>A</m:mi><m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>a</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>b</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>c</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>d</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+a {} # b {} ##
+c {} # d{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id4467763">Since its inverse is unknown, we will designate the inverse like this:</para>
+      <para id="id4675983"><m:math>
+<m:mo>[</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>w</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>x</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>y</m:mi><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>z</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+w {} # x {} ##
+y {} # z{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id3252640">Our goal is to find a formula for <m:math>
+<m:mi>w</m:mi>
+</m:math> in terms of our original variables <m:math>
+<m:mi>a</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>b</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>c</m:mi>
+</m:math>, and 
+<m:math>
+<m:mi>d</m:mi>
+</m:math>. That formula must not have any 
+<m:math>
+<m:mi>w</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>y</m:mi>
+</m:math>, or 
+<m:math>
+<m:mi>z</m:mi>
+</m:math> in it, since those are unknowns! Just the original four variables in our original matrix <m:math><m:mo>[</m:mo><m:mi>A</m:mi><m:mo>]</m:mo></m:math>. Then we will find similar formulae for 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>,
+<m:math>
+<m:mi>y</m:mi>
+</m:math>, and 
+<m:math>
+<m:mi>z</m:mi>
+</m:math> and we will be done.</para>
+      <para id="id3225091">Our approach will be the same approach we have been using to find an inverse matrix. I will walk you through the steps—after each step, you may want to check to make sure you’ve gotten it right before proceeding to the next.</para>
+      <exercise id="id4561272">
+        <problem id="idm1721744">
+          <para id="id5185753">Write the matrix equation that defines <m:math>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+</m:math> as an inverse of <m:math><m:mi>A</m:mi></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id4298478">
+        <problem id="idp6879408">
+          <para id="id5181492">Now, do the multiplication, so you are setting two matrices equal to each other.</para>
+        </problem>
+      </exercise>
+      <exercise id="id5181495">
+        <problem id="idp5177904">
+          <para id="id3274958">Now, we have two 2×2 matrices set equal to each other. That means every cell must be identical, so we get four different equations. Write down the four equations.</para>
+        </problem>
+      </exercise>
+      <exercise id="id5271955">
+        <problem id="idm5182912">
+          <para id="id5271958">Solve. Remember that your goal is to find four equations—one for <m:math>
+<m:mi>w</m:mi>
+</m:math>, one for 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>, one for 
+<m:math>
+<m:mi>y</m:mi>
+</m:math>, and one for z—where each equation has only the four original constants 
+<m:math>
+<m:mi>a</m:mi>
+</m:math>,
+<m:math>
+<m:mi>b</m:mi>
+</m:math>,
+<m:math>
+<m:mi>c</m:mi>
+</m:math>, and 
+<m:math>
+<m:mi>d</m:mi>
+</m:math>!</para>
+        </problem>
+      </exercise>
+      <exercise id="id4484254">
+        <problem id="idp4749152">
+          <para id="id5907608">Now that you have solved for all four variables, write the inverse matrix 
+<m:math>
+<m:msup>
+<m:mi>A</m:mi>
+<m:mn>-1</m:mn>
+</m:msup>
+</m:math>.</para><para id="element-860"><m:math>
+<m:msup>
+<m:mi>A</m:mi>
+<m:mn>-1</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+
+
+        </problem>
+      </exercise>
+      
+      <exercise id="id4164936">
+        <problem id="idp2785600">
+          <para id="id3296887">As the final step, to put this in the form that it is most commonly seen in, note that all four terms have an <m:math><m:mi>ad</m:mi><m:mo>-</m:mo><m:mi>bc</m:mi></m:math> in the denominator. (*Do you have a <m:math><m:mi>bc</m:mi><m:mo>-</m:mo><m:mi>ad</m:mi></m:math> instead? Multiply the top and bottom by –1!) This very important number is called the <emphasis>determinant</emphasis> and we will see a lot more of it after the next test. In the mean time, note that we can write our answer much more simply if we <emphasis>pull out</emphasis> the common factor of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ad</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { ital "ad" -  ital "bc"} } } {}</m:annotation></m:semantics></m:math>. (This is similar to “pulling out” a common term from a polynomial. Remember how we <emphasis>multiply a matrix by a constant</emphasis>? This is the same thing in reverse.) So rewrite the answer with that term pulled out.</para>
+
+<para id="element-600"><m:math>
+<m:msup>
+<m:mi>A</m:mi>
+<m:mn>-1</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para><para id="element-235">You’re done! You have found the generic formula for the inverse of any 2x2 matrix. Once you get the hang of it, you can use this formula to find the inverse of any 2x2 matrix very quickly. Let’s try a few!</para>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="id6097324">
+        <problem id="idp4726768">
+          <para id="id6097328">The matrix 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 3 {} ##
+4 {} # 5{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para><list id="element-761" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the inverse—not the long way, but just by plugging into the formula you found above.</item>
+        <item><label>b</label>Test the inverse to make sure it works.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <exercise id="id4552657">
+        <problem id="idp662496">
+          <para id="id3268114">The matrix 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+3 {} # 2 {} ##
+9 {} # 5{}
+}  right ]} {}</m:annotation></m:semantics></m:math></para><list id="element-165" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the inverse—not the long way, but just by plugging into the formula you found above.</item>
+        <item><label>b</label>Test the inverse to make sure it works.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <exercise id="id6315555">
+        <problem id="idp6924640">
+          <para id="id6315558">Can you write a 2×2 matrix that <emphasis>has no inverse</emphasis>?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

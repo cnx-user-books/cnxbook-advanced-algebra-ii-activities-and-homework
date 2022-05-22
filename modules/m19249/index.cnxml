@@ -1,0 +1,314 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Completing the Square</title>
+  <metadata>
+  <md:content-id>m19249</md:content-id><md:title>Homework: Completing the Square</md:title>
+  <md:abstract>Practice homework set on completing the square.</md:abstract>
+  <md:uuid>2ceaecce-e825-4371-a009-5ff4eb6134cf</md:uuid>
+</metadata>
+
+<content>
+    
+    <exercise id="element-497"><problem id="id42993545">
+  <para id="element-422">
+  A pizza (a perfect circle) has a 3" radius for the real pizza part (the part with cheese). But they advertise it as having an area of 25
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> square inches, because they include the crust. How wide is the crust?
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-109"><problem id="id44457073">
+  <para id="element-365">
+   According to NBA rules, a basketball court must be precisely 94 feet long and 50 feet wide. (That part is true—the rest I’m making up.) I want to build a court, and of course, bleachers around it. The bleachers will be the same depth (*by “depth” I mean the length from the court to the back of the bleachers) on all four sides. I want the total area of the room to be 8,000 square feet. How deep must the bleachers be?
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-416"><problem id="id44457108">
+  <para id="element-504">Recall that the height of a ball thrown up into the air is given by the formula:
+  </para><para id="element-752"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>t</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>h</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mtext>16</m:mtext>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mi>t</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{h \( t \) =h rSub { size 8{o} } +v rSub { size 8{o} } t - "16"t rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><para id="element-310">I am standing on the roof of my house, 20 feet up in the air. I throw a ball <emphasis>up</emphasis> with an initial velocity of 64 feet/sec. You are standing on the ground below me, with your hands 4 feet above the ground. The ball travels up, then falls down, and then you catch it. How long did it spend in the air?</para>
+</problem>
+</exercise>
+    
+    <para id="id7367177">Solve by completing the square.
+    </para>
+    
+    <exercise id="element-175"><problem id="id43041152">
+  <para id="element-941">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>6x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +6x+8=0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-410"><problem id="id42941191">
+  <para id="element-258">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mtext>10</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - "10"x+3=5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-595"><problem id="id43040353">
+  <para id="element-222">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>8x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>20</m:mtext>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +8x+"20"=0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-702"><problem id="id43972308">
+  <para id="element-244">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +x=0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-340"><problem id="id43987610">
+  <para id="element-825">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>3x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mtext>18</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>12</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3x rSup { size 8{2} }  - "18"x+"12"=0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+</exercise>
+    <exercise id="element-909"><problem id="id42996525">
+  <para id="element-675">
+    Consider the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>4x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>c</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +4x+4=c} {}</m:annotation></m:semantics></m:math> where 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation></m:semantics></m:math> is some constant. <emphasis>For what values of </emphasis><emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation></m:semantics></m:math></emphasis> will this equation have…
+  </para><list id="element-515" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Two real answers?</item>
+      <item><label>b</label> One real answer?</item>
+      <item><label>c</label> No real answers?</item>
+    </list>
+</problem>
+
+
+</exercise><exercise id="element-637"><problem id="id43987398">
+  <para id="element-661">
+  Solve by completing the square: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>6x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +6x+a=0} {}</m:annotation></m:semantics></m:math>. (<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> is a constant.)
+  </para>
+</problem>
+</exercise>
+    
+  </content>
+</document>

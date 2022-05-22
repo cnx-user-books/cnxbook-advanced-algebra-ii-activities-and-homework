@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- The Function Game: Leader's Sheet</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>409e5dcb-43df-4ff0-920d-7fd994c60312</md:uuid>
+</metadata>
+  <content>
+    <para id="id10857714">
+      <emphasis>Only the leader should look at this sheet. Leader, use a separate sheet to cover up all the functions below the one you are doing right now. That way, when the roles rotate, you will only have seen the ones you’ve done.</emphasis>
+    </para>
+    <list list-type="enumerated" id="id10288057">
+      <item>Double the number, then add six.</item>
+      <item>Add three to the number, then double.</item>
+      <item>Multiply the number by –1, then add three.</item>
+      <item>Subtract one from the number. Then, compute one <emphasis>divided by</emphasis> your answer.</item>
+      <item>Divide the number by two.</item>
+      <item>No matter what number you are given, always answer “–3.”</item>
+      <item>Square the number, then subtract four.</item>
+      <item>Cube the number.</item>
+      <item>Add two to the number. Also, subtract two from the original number. <emphasis>Multiply these two answers.</emphasis></item>
+      <item>Take the square root of the number. Round up to the nearest integer.</item>
+      <item>Add one to the number, then square.</item>
+      <item>Square the number, then add 1.</item>
+      <item>Give back the same number you were given.</item>
+      <item>Cube the number. Then subtract the original number from that answer.</item>
+      <item>Give back the <emphasis>lowest prime number</emphasis> that is <emphasis>greater than or equal to</emphasis> the number.</item>
+      <item>If you are given an odd number, respond 1. If you are given an even number, respond 2. (Fractions are not in the domain of this function.)</item>
+    </list>
+  </content>
+</document>

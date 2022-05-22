@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Radicals and Exponents</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f601824d-a031-4f52-9ca8-3aa1a99a9c13</md:uuid>
+</metadata>
+  <content>
+
+      
+      <para id="id6899687">If I tell you that <m:math>
+<m:msqrt>
+<m:mn>25</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math>, that is the same thing as telling you that <m:math>
+<m:msup>
+<m:mn>5</m:mn>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>25</m:mn>
+</m:math>. Based on that kind of logic, rewrite the following radical equations (#1-3) as exponent equations.</para>
+      <exercise id="element-600"><problem id="idp3928752">
+  <para id="element-797"><m:math>
+<m:msqrt>
+<m:mn>100</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-876"><problem id="idp6080688">
+  <para id="element-72"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mn>8</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="element-420"><problem id="idp11325152">
+  <para id="element-569"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mi>b</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>a</m:mi>
+</m:mrow>
+</m:mroot>
+<m:mo>=</m:mo>
+<m:mi>c</m:mi>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-529"><problem id="idp3790064">
+  <para id="element-5">Now, rewrite all three as <emphasis>logarithm</emphasis> equations.  (*You mean we still have to know <emphasis>that</emphasis>?)</para>
+</problem>
+</exercise>
+      
+  </content>
+  
+</document>

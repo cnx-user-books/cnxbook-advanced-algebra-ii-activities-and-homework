@@ -1,0 +1,219 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Inequalities</title>
+  <metadata>
+  <md:content-id>m19154</md:content-id><md:title>Homework: Inequalities</md:title>
+  <md:abstract>This module provides practice problems related to inequalities.</md:abstract>
+  <md:uuid>3f225bfa-722e-4fbc-bb60-5992c43cc05b</md:uuid>
+</metadata>
+
+<content>
+    
+    <exercise id="element-615"><problem id="id44261395">
+  <para id="element-689">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mrow>
+                    <m:mn>4x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+7 &lt;= 4x+4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-466" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Draw a number line, and show where the solution set to this problem is.</item>
+      <item><label>c</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>inside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">≤</m:mo><m:mrow><m:mn>4x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x+7 &lt;= 4x+4} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      <item><label>d</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">≤</m:mo><m:mrow><m:mn>4x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x+7 &lt;= 4x+4} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-608"><problem id="id44299270">
+  <para id="element-515">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>14</m:mtext>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2x</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mtext>20</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"14" - 2x&lt;"20"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+
+
+
+<list id="id5046050" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Draw a number line, and show where the solution set to this problem is.</item>
+      <item><label>c</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>inside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2x</m:mn></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" - 2x&lt;"20"} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      <item><label>d</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2x</m:mn></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" - 2x&lt;"20"} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+    </list>
+</problem>
+</exercise>
+
+
+    <exercise id="element-805"><problem id="id43042457">
+  <para id="element-12">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mtext>10</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">&lt;</m:mo>
+                    <m:mrow>
+                      <m:mn>3x</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ - "10"&lt;3x+2 &lt;= 5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-449" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Draw a number line, and show where the solution set to this problem is.</item>
+      <item><label>c</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>inside</emphasis> the solution set. Plug it into the original inequality
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "10"&lt;3x+2 &lt;= 5} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      <item><label>d</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "10"&lt;3x+2 &lt;= 5} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      
+    </list>
+</problem>
+
+
+</exercise>
+    <exercise id="element-732"><problem id="id44494211">
+  <para id="element-252"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x&lt;3} {}</m:annotation></m:semantics></m:math><emphasis> and </emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x&lt;7} {}</m:annotation></m:semantics></m:math>. Draw a number line, and show where the solution set to this problem is.
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-148"><problem id="id43790576">
+  <para id="element-928">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x&lt;3} {}</m:annotation></m:semantics></m:math><emphasis> or </emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x&lt;7} {}</m:annotation></m:semantics></m:math>. Draw a number line, and show where the solution set to this problem is.
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-164"><problem id="id42993933">
+  <para id="element-399">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">≥</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x - 2y &gt;= 4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-786" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Now—for the moment—let’s pretend that your equation said <emphasis>equals</emphasis> instead of “greater than” or “less than.” Then it would be the equation for a line. Find the slope and the y-intercept of that line, and graph it.</item>
+<item>Slope: _________</item>
+<item>y-intercept__________</item>
+    <item><label>c</label>Now, pick any point 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mi>,</m:mi><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x,y \) } {}</m:annotation></m:semantics></m:math> that is <emphasis>above</emphasis> that line. Plug the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> coordinates into your inequality from part (a). Does this point fit the inequality? (Show your work…)</item>
+      <item><label>d</label>Now, pick any point 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mi>,</m:mi><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x,y \) } {}</m:annotation></m:semantics></m:math> that is <emphasis>below</emphasis> that line. Plug the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> coordinates into your inequality from part (a). Does this point fit the inequality? (Show your work…)</item>
+      <item><label>e</label>So, is the solution to the inequality the points <emphasis>below</emphasis> or <emphasis>above</emphasis> the line? Shade the appropriate region on your graph.</item>
+    </list>
+</problem>
+
+</exercise><exercise id="element-785"><problem id="id44233876">
+  <para id="element-6">
+  Using a similar technique, draw the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≥</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &gt;= x rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (If you don’t remember what the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≥</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &gt;= x rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> looks like, try plotting a few points!)
+  </para>
+</problem>
+
+</exercise>
+    
+    
+    
+    
+  </content>
+</document>

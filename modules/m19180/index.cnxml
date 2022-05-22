@@ -1,0 +1,483 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Logs Homework -- Sample Test</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>28581216-dddf-4796-bb3b-2d16b3fbc83e</md:uuid>
+</metadata>
+  <content>
+
+
+      <exercise id="element-428"><problem id="idp1442160">
+  <para id="element-216">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-65"><problem id="idp9554656">
+  <para id="element-253">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>9</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+</exercise>
+
+<exercise id="element-746"><problem id="idm2185664">
+  <para id="element-900">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>27</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise>
+
+<exercise id="element-3"><problem id="idp8352016">
+  <para id="element-146">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>30</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+
+<para id="id8952764">(approximately)
+      </para>
+</problem>
+</exercise>
+
+      
+      <exercise id="element-4"><problem id="idp10818224">
+  <para id="element-489">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-842"><problem id="idm2390032">
+  <para id="element-221">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-572"><problem id="idm1589952">
+  <para id="element-531">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>9</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-444"><problem id="idp1419104">
+  <para id="element-611">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>-3</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-460"><problem id="idm10462480">
+  <para id="element-386">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>9</m:mn>
+</m:msub>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-312"><problem id="idp7952592">
+  <para id="element-556">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{"log" rSub { size 6{3} } 8} } } {}</m:annotation></m:semantics><m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-157"><problem id="idp1614272">
+  <para id="element-373">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>-3</m:mn>
+</m:msub>
+<m:mn>9</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-974"><problem id="idp8291072">
+  <para id="element-838">
+    <m:math>
+<m:mtext>log</m:mtext>
+<m:mn>100,000</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-390"><problem id="idp5850848">
+  <para id="element-950">
+    <m:math><m:mtext>log</m:mtext> 
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>100</m:mtext><m:mi>,</m:mi><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"100","000"} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-56"><problem id="idp7835664">
+  <para id="element-882">
+    <m:math>
+<m:mi>ln</m:mi>
+<m:msup>
+<m:mi>e</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-12"><problem id="idp6268400">
+  <para id="element-857">
+    <m:math>
+<m:mi>ln</m:mi>
+<m:mspace width="10pt"/>
+<m:mn>4</m:mn> 
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+</exercise>
+
+
+    <exercise id="id8960865">
+      <problem id="idp8795920">
+        <para id="id8960868">Rewrite as a logarithm equation (no exponents): 
+<m:math>
+<m:msup>
+<m:mi>q</m:mi>
+<m:mi>z</m:mi>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>p</m:mi>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8960889">
+      <problem id="idm9633856">
+        <para id="id8960892">Rewrite as an exponent equation (no logs): 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>w</m:mi>
+</m:msub>
+<m:mi>g</m:mi>
+<m:mo>=</m:mo>
+<m:mi>j</m:mi>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <para id="element-282">For exercises #18-22, assume that…
+        </para><list id="element-543" list-type="bulleted"><item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>12</m:mn>
+<m:mo>=</m:mo>
+<m:mn>1.544</m:mn>
+</m:math></item>
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>20</m:mn>
+<m:mo>=</m:mo>
+<m:mn>1.861</m:mn>
+</m:math></item>
+</list>
+
+<exercise id="element-388"><problem id="idp3739344">
+  <para id="element-425">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>240</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-530"><problem id="idm9241392">
+  <para id="element-244">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {5} }  right )} {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-350"><problem id="idp6276096">
+  <para id="element-843">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>1</m:mn>
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-315"><problem id="idm10199696">
+  <para id="element-662">
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {5} }  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math>
+  </para>
+</problem>
+
+</exercise>
+
+    <exercise id="element-524"><problem id="idm4028464">
+  <para id="element-782">
+    
+    <m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>400</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  
+  </para>
+</problem>
+
+
+</exercise><exercise id="id8961182">
+      <problem id="idp3825248">
+        <para id="id8961185">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mo>-</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>.</para>
+
+    
+        
+      </problem>
+    </exercise>
+
+    <exercise id="element-627"><problem id="idm9474976">
+  <para id="element-105">What are the domain and range of the graph you drew in exercise #23?
+  </para>
+</problem>
+
+
+</exercise><exercise id="id8975594">
+      <problem id="idp4980480">
+        <para id="id8975598">I invest $200 in a bank that pays 4% interest, compounded annually. So after 
+<m:math>
+<m:mi>y</m:mi>
+</m:math> years, I have 
+<m:math>
+<m:mn>200</m:mn>
+<m:mo>(</m:mo>
+<m:mn>1.04</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mi>y</m:mi>
+</m:msup>
+</m:math> dollars in the bank. When I come back, I find that my account is worth $1000. How many years has it been? <emphasis>Your answer will be a formula with a log in it</emphasis>.</para>
+      </problem>
+    </exercise>
+
+    <exercise id="id8975634">
+      <problem id="idp8924864">
+        <para id="id8975637">The “loudness” of a sound is given by the formula 
+<m:math>
+<m:mi>L</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+<m:mspace width="10pt"/>
+<m:mtext>log</m:mtext>
+<m:mi>I</m:mi>
+</m:math>, where 
+<m:math>
+<m:mi>L</m:mi>
+</m:math> is the loudness (measured in decibels), and 
+<m:math>
+<m:mi>I</m:mi>
+</m:math> is the intensity of the sound wave.</para>
+
+    <list id="id8975678" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>If the sound wave intensity is 10, what is the loudness?</item>
+      <item><label>b</label>If the sound wave intensity is 10,000, what is the loudness?</item>
+      <item><label>c</label>If the sound wave intensity is 10,000,000, what is the loudness?</item>
+      <item><label>d</label>What happens to the loudness every time the sound wave intensity <emphasis>multiplies </emphasis>by 1,000?</item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id8951564">
+      <problem id="idp2597264">
+        <para id="id8951568">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</para>
+          <para id="id8951578"><m:math>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>ln</m:mi>
+<m:mo>(</m:mo>
+<m:mn>21</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="id8951604">
+      <problem id="idp4978400">
+        <para id="id8951607">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</para>
+        <para id="id8951617"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>11</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise><para id="element-226"><title>Extra Credit:</title>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>. 
+<m:math>
+<m:msup>
+<m:mi>e</m:mi>
+<m:mi>x</m:mi>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mtext>(cabin)</m:mtext>
+</m:math></para>
+
+    
+  </content>
+</document>

@@ -1,0 +1,234 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Sample Test: Inequalities and Absolute Values</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ee97528b-b9f2-4143-8b49-6527401a5428</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-905"><problem id="idm12694096">
+  <para id="element-36">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo stretchy="false">&lt;</m:mo>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>3x</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{1&lt;4 - 3x &lt;= "10"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-493" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Draw a number line below, and show where the solution set to this problem is.</item>
+      <item><label>c</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is inside the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">&lt;</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3x</m:mn></m:mrow></m:mrow><m:mo stretchy="false">≤</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1&lt;4 - 3x &lt;= "10"} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true? (Show your work!)</item>
+      <item><label>d</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">&lt;</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3x</m:mn></m:mrow></m:mrow><m:mo stretchy="false">≤</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1&lt;4 - 3x &lt;= "10"} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true? (Show your work!)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-936"><problem id="idp7356848">
+  <para id="element-498">
+   Find the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> value(s) that make this equation true: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 lline 2x+5 rline  - 3="17"} {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-35"><problem id="idp7352160">
+  <para id="element-864">
+   Find the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> value(s) that make this equation true: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>23</m:mtext></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>6x</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 5x - "23" rline ="21" - 6x} {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-258"><problem id="idm629344">
+  <para id="element-341">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mn>2x</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>9</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  { lline 2x - 3 rline }  over  {3} } +7&gt;9} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-501" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Show graphically where the solution set to this problem is.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-314"><problem id="idp7429552">
+  <para id="element-156">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">≥</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ - 3 lline x+4 rline +7 &gt;= 7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-542" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>b</label>Show graphically where the solution set to this problem is.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-463"><problem id="idm2574064">
+  <para id="element-32">Make up and solve an inequality word problem, having to do with <emphasis>hair</emphasis>.
+  </para><list id="element-791" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Describe the scenario in words.</item>
+      <item><label>b</label>Label and clearly describe the variable or variables.</item>
+      <item><label>c</label>Write the inequality. (Your answer here should be <emphasis>completely determined</emphasis> by your answers to (a) and (b)—I should know exactly what you’re going to write. If it is not, you probably did not give enough information in your scenario.)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-425"><problem id="idp7673632">
+  <para id="element-345">
+  Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">≥</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y &gt;=  -  lline x rline +2} {}</m:annotation></m:semantics></m:math>.
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-659"><problem id="idp7387968">
+  <para id="element-488">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">∣</m:mo>
+                      <m:mn>2y</m:mn>
+                      <m:mo stretchy="false">∣</m:mo>
+                    </m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">∣</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">∣</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline 2y rline  -  lline x rline &gt;6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-596" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite this as an inequality with <emphasis>no absolute values</emphasis>, for the <emphasis>fourth quadrant</emphasis> (lower-right-hand corner of the graph).</item>
+      <item><label>b</label>Graph what this looks like, in the fourth quadrant only.</item>
+    </list>
+</problem>
+</exercise><exercise id="element-606"><problem id="idp6088384">
+  <para id="element-50">
+  Graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>x</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=x -  lline x rline } {}</m:annotation></m:semantics></m:math>.
+  </para>
+</problem>
+
+
+</exercise>
+    
+  </content>
+</document>

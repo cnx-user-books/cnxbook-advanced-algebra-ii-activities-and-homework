@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Complex Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5df32906-83ec-48bb-92d3-9741349e6074</md:uuid>
+</metadata>
+  <content>
+ 
+      <para id="id10675336">A <emphasis>complex number</emphasis> is written in the form <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> where <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math> are real numbers. <m:math>
+<m:mi>a</m:mi>
+</m:math> is the “real part” and <m:math>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> is the “imaginary part.”</para>
+      <para id="id10675386">Examples are: <m:math>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+</m:math> (<m:math>
+<m:mi>a</m:mi></m:math> is 3, <m:math>
+<m:mi>b</m:mi>
+</m:math> is 4) and <m:math>
+<m:mn>3</m:mn>
+<m:mo>–</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+</m:math> (<m:math>
+<m:mi>a</m:mi>
+</m:math> is 3, <m:math>
+<m:mi>b</m:mi>
+</m:math> is –4).</para>
+      <exercise id="id10675452">
+        <problem id="idm5617824">
+          <para id="id10675456">Is 4 a complex number? If so, what are <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>? If not, why not?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675477">
+        <problem id="idm4615664">
+          <para id="id10675481">Is <m:math>
+<m:mi>i</m:mi>
+</m:math> a complex number? If so, what are <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>? If not, why not?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675502">
+        <problem id="idm18129920">
+          <para id="id10675506">Is <m:math>
+<m:mn>0</m:mn>
+</m:math> a complex number? If so, what are <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>? If not, why not?</para>
+        </problem>
+      </exercise>
+      <para id="id10675527">All four operations—addition, subtraction, multiplication, and division—can be done to complex numbers, and the answer is always another complex number. So, for the following problems, let <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>X</m:ci>
+    <m:apply>
+      <m:plus/>
+      <m:cn>3</m:cn>
+      <m:apply>
+        <m:times/>
+        <m:cn>4</m:cn>
+        <m:ci>i</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math> and <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>Y</m:ci>
+    <m:apply>
+      <m:minus/>
+      <m:cn>5</m:cn>
+      <m:apply>
+        <m:times/>
+        <m:cn>12</m:cn>
+        <m:ci>i</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math>. <emphasis>In each case, your answer should be a complex number, in the form <m:math>
+  <m:apply>
+    <m:plus/>
+    <m:ci>a</m:ci>
+    <m:apply>
+      <m:times/>
+      <m:ci>b</m:ci>
+      <m:ci>i</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</emphasis></para>
+      <exercise id="id10675565">
+        <problem id="idm17442064">
+          <para id="id10675569">Add: <m:math>
+<m:mi>X</m:mi>
+<m:mo>+</m:mo>
+<m:mi>Y</m:mi>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675575">
+        <problem id="idm7379152">
+          <para id="id10675579">Subtract: <m:math>
+<m:mi>X</m:mi>
+<m:mo>–</m:mo>
+<m:mi>Y</m:mi>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675585">
+        <problem id="idm11458128">
+          <para id="id10675589">Multiply: <m:math>
+<m:mi>X</m:mi>
+<m:mi>Y</m:mi>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id10675594">
+        <problem id="idm10280304">
+          <para id="id10675598">Divide: <m:math>
+<m:mi>X</m:mi>
+<m:mo>/</m:mo>
+<m:mi>Y</m:mi>
+</m:math>. (*To get the answer in <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> form, you will need to use a trick we learned yesterday.)</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675603">
+        <problem id="idm17775264">
+          <para id="id10675606">Square: <m:math>
+<m:msup>
+<m:mi>X</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></para>
+        </problem>
+      </exercise>
+      <para id="id10675616">The <emphasis>complex conjugate</emphasis> of a complex number <m:math>
+  <m:apply>
+    <m:plus/>
+    <m:ci>a</m:ci>
+    <m:apply>
+      <m:times/>
+      <m:ci>b</m:ci>
+      <m:ci>i</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math> is defined as <m:math>
+  <m:apply>
+    <m:minus/>
+    <m:ci>a</m:ci>
+    <m:apply>
+      <m:times/>
+      <m:ci>b</m:ci>
+      <m:ci>i</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>. That is, the real part stays the same, and the imaginary part switches sign.</para>
+      <exercise id="id10675657">
+        <problem id="idm10182704">
+          <para id="id10675661">What is the complex conjugate of <m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>12</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675676">
+        <problem id="idm6700608">
+          <para id="id10675680">What do you get when you multiply <m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>12</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math> by its complex conjugate?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675695">
+        <problem id="idp3031536">
+          <para id="id10675699">Where have we used complex conjugates before?</para>
+        </problem>
+      </exercise>
+      <para id="id10675701">For two complex numbers to be <emphasis>equal</emphasis>, there are two requirements: the real parts must be the same, and the imaginary parts must be the same. In other words, <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+</m:math> is only equal to <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+</m:math>. It is not equal to <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+</m:math> or to <m:math>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math> or to anything else. So it is very easy to see if two complex numbers are the same, as long as they are both written in <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> form: you just set the <emphasis>real parts equal, and the imaginary parts equal</emphasis>. (If they are not written in that form, it can be very tricky to tell: for instance, we saw earlier that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>i</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {i} } } {}</m:annotation></m:semantics></m:math> is the same as <m:math>
+<m:mi>–i</m:mi></m:math>!)</para>
+      <exercise id="id10675848">
+        <problem id="idm19005824">
+          <para id="id10675852">If <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>=</m:mo>
+<m:mi>m</m:mi>
+<m:mo>+</m:mo>
+<m:mi>n</m:mi>
+<m:mi>i</m:mi>
+</m:math>, and <m:math><m:mi>m</m:mi></m:math> and <m:math>
+<m:mi>n</m:mi></m:math> are both real numbers, what are <m:math><m:mi>m</m:mi></m:math> and <m:math><m:mi>n</m:mi></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10675900">
+        <problem id="idm71120">
+          <para id="id10675903">Solve for the real numbers <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>: <m:math>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>6</m:mn>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+<m:mi>i</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+<m:mn>–3</m:mn>
+<m:mi>i</m:mi>
+</m:math></para>
+        </problem>
+      </exercise>
+      <para id="id10675939">Finally, remember…rational expressions? We can have some of those with complex numbers as well!</para>
+      <exercise id="id10675948">
+        <problem id="idm17980208">
+          <para id="id10675952"><m:math><m:semantics><m:mrow><m:mrow><m:mfrac><m:mfenced open="(" close=")"><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2i</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2i</m:mn></m:mrow></m:mfrac></m:mfenced><m:mfenced open="(" close=")"><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3i</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:mfrac></m:mfenced></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { left ( {  {4+2i}  over  {3+2i} }  right )}  over  { left ( {  {5 - 3i}  over  {7 - i} }  right )} } } {}</m:annotation></m:semantics></m:math> Simplify. As always, your answer should be in the form <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math>. </para>
+        </problem>
+      </exercise>
+      <exercise id="id10676063">
+        <problem id="idp2408368">
+          <para id="id10676066"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2i</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2i</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3i</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4+2i}  over  {3+2i} }  -  {  {5 - 3i}  over  {7 - i} } } {}</m:annotation></m:semantics></m:math> Simplify.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

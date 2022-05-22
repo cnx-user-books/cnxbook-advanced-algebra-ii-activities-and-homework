@@ -1,0 +1,187 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations Homework -- Simultaneous Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>53ad3b68-3bf1-42c1-9c7b-3f728064e3c1</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-365"><problem id="idp3084656">
+  <para id="element-685">Emily is hosting a major after-school party. The principal has imposed two restrictions. First (because of the fire codes) the total number of people attending (teachers and students combined) must be 56. Second (for obvious reasons) there must be one teacher for every seven students. How many students and how many teachers are invited to the party?
+  </para><list id="element-538" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Name and clearly identify the variables.</item>
+      <item><label>b</label>Write the equations that relate these variables.</item>
+      <item><label>c</label>Solve. Your final answers should be complete English sentences (not “the answer is 2” but “there were 2 students there.” Except it won’t be 2. You get the idea, right?)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-485"><problem id="idm11614368">
+  <para id="element-197">
+   A group of 75 civic-minded students and teachers are out in the field, picking sweet potatoes for the needy. Working in the field, Kasey picks three times as many sweet potatoes as Davis—and then, on the way back to the car, she picks up five <emphasis>more</emphasis> sweet potatoes than that! Looking at her newly increased pile, Davis remarks “Wow, you’ve got 29 more potatoes than I do!” How many sweet potatoes did Kasey and Davis each pick?
+  </para><list id="element-52" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Name and clearly identify the variables.</item>
+      <item><label>b</label>Write the equations that relate these variables.</item>
+      <item><label>c</label>Solve. Your final answers should be complete English sentences.</item>    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-556"><problem id="idp9027888">
+  <para id="element-854">
+   A hundred ants are marching into an anthill at a slow, even pace of 2 miles per hour. Every ant is carrying either one bread crumb, <emphasis>or</emphasis> two pieces of grass. There are 28 more bread crumbs than there are pieces of grass. How many of each are there?
+  </para><list id="element-591" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Name and clearly identify the variables.</item>
+      <item><label>b</label>Write the equations that relate these variables.</item>
+      <item><label>c</label>Solve. Your final answers should be complete English sentences.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-348"><problem id="idm11106288">
+  <para id="element-303">
+   Donald is 14 years older than Alice. 22 years ago, she was only half as old as he was. How old are they today?
+  </para><list id="element-221" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Name and clearly identify the variables.</item>
+      <item><label>b</label>Write the equations that relate these variables.</item>
+      <item><label>c</label>Solve. Your final answers should be complete English sentences.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-308"><problem id="idp7810736">
+  <para id="element-546">
+  Make up your own word problem like the ones above, and solve it.
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-133"><problem id="idp991904">
+  <para id="element-569">
+ 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3x</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>16</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3x - 2y="16"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-454"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>7x</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>30</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{7x - y="30"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-139" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution</item>
+      <item><label>b</label>Solve by elimination</item>
+      <item><label>c</label>Check your answer</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    <exercise id="element-948"><problem id="idp3339360">
+  <para id="element-528">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>26</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3x+2y="26"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-310"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>4y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>32</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+4y="32"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-702" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve by substitution</item>
+      <item><label>b</label>Solve by elimination</item>
+      <item><label>c</label>Check your answer</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    <exercise id="element-812"><problem id="idp7466880">
+  <para id="element-375">
+    Under what circumstances is substitution easiest?
+  </para>
+</problem>
+
+</exercise><exercise id="element-463"><problem id="idm875072">
+  <para id="element-913">
+   Under what circumstances is elimination easiest?
+  </para>
+</problem>
+
+</exercise>
+  </content>
+</document>

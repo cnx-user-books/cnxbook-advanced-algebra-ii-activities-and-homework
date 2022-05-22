@@ -1,0 +1,170 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Me, Myself, and the Square Root of i</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>80224918-d738-4429-855e-cf1dc4c503fa</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id10196039">We have already seen how to take a number such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2 - i} } } {}</m:annotation></m:semantics></m:math> and rewrite it in <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> format. There are many other numbers—such as <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:msup>
+</m:math> and <m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>—that do not <emphasis>look</emphasis> like <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math>, but all of them can be <emphasis>turned into</emphasis> <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> form. In this assignment, we are going to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>i</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {i} } {}</m:annotation></m:semantics></m:math>—that is, we are going to rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>i</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {i} } {}</m:annotation></m:semantics></m:math> so that we can clearly see its real part and its imaginary part.</para>
+      <para id="id9222445">How do we do that? Well, we want to find some number <m:math>
+<m:mi>z</m:mi>
+</m:math> such that <m:math>
+<m:msup>
+<m:mi>z</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>i</m:mi>
+</m:math>. And we want to express <m:math><m:mi>z</m:mi></m:math> in terms of its real and imaginary parts—that is, in the form <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math>. So what we want to solve is the following equation:</para>
+      <para id="id11669034"><m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>i</m:mi>
+</m:math></para>
+      <para id="id10707079">You are going to solve that equation now. When you find <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>, you will have found the answers.</para>
+      <para id="id10902222">Stop now and make sure you understand how I have set up this problem, before you go on to solve it.</para>
+
+      <exercise id="id10382384">
+        <problem id="idp2988432">
+          <para id="prob1para">What is <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>? Multiply it out.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob2exer">
+        <problem id="idp2331376">
+          <para id="prob2para">Now, rearrange your answer so that you have collected all the real terms together and all the imaginary terms together.</para>
+        </problem>
+      </exercise>
+
+      <para id="id7615393">Now, we are trying to solve the equation <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>i</m:mi>
+</m:math>. So take the formula you just generated in number 2, and set it equal to <m:math>
+<m:mi>i</m:mi>
+</m:math>. This will give you two equations: one where you set the real part on the left equal to the real part on the right, and one where you set the imaginary part on the left equal to the imaginary part on the right.</para>
+
+      <exercise id="prob3exer">
+        <problem id="idm16645424">
+          <para id="prob3para">Write down both equations.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob4exer">
+        <problem id="idm5685440">
+          <para id="prob4para">Solve the two equations for <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>. (Back to “simultaneous equations,” remember?) In the end, you should have two <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+</m:math>,<m:math>
+<m:mi>b</m:mi>
+<m:mo>)</m:mo>
+</m:math> <emphasis>pairs</emphasis> that both work in both equations.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob5exer">
+        <problem id="idm5671856">
+          <para id="prob5para">So… now that you know <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math>, write down <emphasis>two</emphasis> complex answers to the problem <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>i</m:mi>
+</m:math>.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob6exer">
+        <problem id="idm4911296">
+          <para id="prob6para">Did all that work? Well, let’s find out. Take your answers in #5 and test them: that is, square it, and see if you get <m:math>
+<m:mi>i</m:mi></m:math>. If you don’t, something went wrong!</para>
+        </problem>
+      </exercise>
+
+      <exercise id="prob7exer">
+        <problem id="idm17445776">
+          <para id="prob7para">OK, we’re done! Did you get it all? Let’s find out. Using a very similar technique to the one that we used here, find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - i} } {}</m:annotation></m:semantics></m:math>: that is, find the two different solutions to the problem <m:math>
+<m:msup>
+<m:mi>z</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>i</m:mi>
+</m:math>. Check them!</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

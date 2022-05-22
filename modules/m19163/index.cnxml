@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Inequality Word Problems</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5a5dd4b3-dcc2-44ab-bf8f-9219e6d87a98</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-693"><problem id="idm4478624">
+  <para id="element-302">
+   Jacob is giving a party. 20 people showed up, but he only ordered 4 pizzas! Fortunately, Jacob hasn’t <emphasis>cut</emphasis> the pizzas yet. He is going to cut each pizza into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> slices, and he needs to make sure there are enough slices for everyone at the party to get at least one. Write an inequality or set that describes what n has to be.
+  </para>
+</problem>
+</exercise>
+    <exercise id="element-622"><problem id="idm1209008">
+  <para id="element-72">
+    Whitney wants to drive to Seattle. She needs 100 gallons of gas to make the trip, but she has only $80 allocated for gas. Her strategy is to wait until the price of gas is low enough that she can make the trip. Write an inequality or set that describes what the price of gas <emphasis>has to be</emphasis> for Whitney to be able to reach Seattle. Be sure to clearly define your variable(s)!
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-732"><problem id="idm15496560">
+  <para id="element-91">
+   Your evil math teacher, who shall go nameless, is only giving two tests for the whole grading period. They count equally—your grade will be the average of the two. Your first test was a 90. Write an inequality or set that describes what your <emphasis>second</emphasis> test grade has to be, in order for you to bring home an A on your report card. (“A” means 93 or above.) Be sure to clearly define your variable(s)!
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-177"><problem id="idm15811968">
+  <para id="element-819">
+   Laura L is going to build a movie theater with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> screens. At each screen, there will be 200 seats for the audience to watch that movie. (So maximum capacity is 200 audience members per screen.) In addition to audience members, there are 20 employees on the premises at any given time (selling tickets and popcorn and so on). According to code (which I am making up), she must have at least one bathroom for each 100 people in the building. (Of course, it’s fine to build more bathrooms than that, if she wants!)
+  </para><list id="element-499" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a function (this will be an equation) relating the number of screens 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( n \) } {}</m:annotation></m:semantics></m:math> to the total number of people who can possibly be in the building 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( p \) } {}</m:annotation></m:semantics></m:math>. Which one is dependent? Which one is independent?</item>
+      <item><label>b</label>Write an <emphasis>inequality</emphasis> relating the total number of people who can possibly be in the building 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( p \) } {}</m:annotation></m:semantics></m:math> to the number of bathrooms 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( b \) } {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>c</label>Now write a <emphasis>composite inequality</emphasis> (I just made that word up) that tells Laura: if you build this many screens, here is how many bathrooms you need.</item>
+    </list>
+</problem>
+
+
+</exercise><exercise id="element-348"><problem id="idm2048704">
+  <para id="element-415">Make up your own word problem for which the solution is an inequality, and solve it. The topic should be breakfast.
+  </para>
+</problem>
+
+
+</exercise>
+    
+  </content>
+</document>

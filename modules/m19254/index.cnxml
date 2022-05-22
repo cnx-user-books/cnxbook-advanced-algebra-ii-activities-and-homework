@@ -1,0 +1,292 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Quadratic Inequalities</title>
+  <metadata>
+  <md:content-id>m19254</md:content-id><md:title>Homework: Quadratic Inequalities</md:title>
+  <md:abstract>Some homework problems on quadratic inequalities.</md:abstract>
+  <md:uuid>922cd617-97b1-4218-bcb1-763e1b54549d</md:uuid>
+</metadata>
+
+<content>
+    
+    <exercise id="element-386"><problem id="id14126811">
+  <para id="element-849">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>8x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +8x+7&gt;2x+3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-90" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Collect all the terms on one side, so the other side of the inequality is zero. Then graph the function by finding the zeros.</item>
+      <item><label>b</label> Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true?</item>
+      <item><label>c</label> Based on your answer, choose one <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value for which the inequality should hold, and one for which it should not. Check to make sure they both do what they should.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-946"><problem id="id16720529">
+  <para id="element-162">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>2x</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>8x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x rSup { size 8{2} } +8x+8 &lt;= 0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-417" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Graph</item>
+      <item><label>b</label> Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true?</item>
+      <item><label>c</label> Based on your answer, choose one 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value for which the inequality <emphasis>should</emphasis> hold, and one for which it should <emphasis>not</emphasis>. Check to make sure they both do what they should.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-399"><problem id="id14298557">
+  <para id="element-614">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:msup>
+                        <m:mn>2x</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>8x</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>9</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ - 2x rSup { size 8{2} } +8x&gt;9} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-479" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Collect terms and graph</item>
+      <item><label>b</label> Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true?</item>
+      <item><label>c</label> Based on your answer, choose one 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value for which the inequality should hold, and one for which it should not. Check to make sure they both do what they should.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-364"><problem id="id16472445">
+  <para id="element-841">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msup>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>4x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ - x rSup { size 8{2} } +4x+3&gt;0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-77" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Graph the function</item>
+      <item><label>b</label> Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true?</item>
+      <item><label>c</label> Based on your answer, choose one 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value for which the inequality <emphasis>should</emphasis> hold, and one for which it should not. Check to make sure they both do what they should.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-121"><problem id="id15827768">
+  <para id="element-650">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } &gt;x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-391" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Collect terms and graph</item>
+      <item><label>b</label> Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true?</item>
+      <item><label>c</label> Now, let’s solve the original equation a different way—divide both sides by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>. Did you get the same answer this way? If not, which one is correct? (Answer by trying points.) What went wrong with the other one?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-993"><problem id="id11749368">
+  <para id="element-1">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>6x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +6x+c&lt;0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-188" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> For what values of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation></m:semantics></m:math> will this inequality <emphasis>be true in some range</emphasis>?</item>
+      <item><label>b</label> For what values of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation></m:semantics></m:math> will this inequality <emphasis>never</emphasis> be true?</item>
+      <item><label>c</label> For what values of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation></m:semantics></m:math> will this inequality always be true?</item>
+    </list>
+</problem>
+
+</exercise>
+  </content>
+</document>

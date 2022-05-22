@@ -1,0 +1,193 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Solving Linear Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d70be0f8-1990-4234-ad22-4f6d20ff21c9</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id12039119">I’m sure you remember our whole unit on solving linear equations…by graphing, by substitution, and by elimination. Well, now we’re going to find a new way of solving those equations…by using matrices!</para>
+      <para id="id12039132"><foreign>Oh, come on…why do we need another way when we’ve already got three?</foreign>
+      </para>
+      <para id="id12039142">Glad you asked! There are two reasons. First, this new method can be done entirely on a calculator. <foreign>Cool! We like calculators.</foreign></para>
+      <para id="id12039161">Yeah, I know. But here’s the even better reason. Suppose I gave you three equations with three unknowns, and asked you to do <emphasis>that </emphasis>on a calculator. Think you could do it? <foreign>Um…it would take a while.</foreign> How about four equations with four unknowns? <foreign>Please don’t do that.</foreign> With matrices and your calculator, all of these are just as easy as two. <foreign>Wow! Do those really come up in real life?</foreign> Yes, all the time. Actually, this is just about the only “real-life” application I can give you for matrices, although there are also a lot of other ones. But solving many simultaneous equations is incredibly useful. <foreign>Do you have an example?</foreign> Oh, look at the time! I have to explain how to do this method.</para>
+      <para id="id12039234">So, here we go. Let’s start with a problem from an earlier homework assignment. I gave you this matrix equation:</para>
+      
+      <para id="element-483"><m:math>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>9</m:mn></m:mtd>
+<m:mtd><m:mn>-6</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>18</m:mn></m:mtd>
+<m:mtd><m:mn>9</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mi>y</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+
+<m:mo>[</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>9</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-3</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>]</m:mo>
+</m:math></para><exercise id="id12039272"><problem id="idp5902704">
+          <para id="id12039276">The first thing you had to do was to rewrite this as two equations with two unknowns. Do that now. (Don’t bother solving for 
+<m:math>
+<m:mi>x</m:mi>
+</m:math> and 
+<m:math>
+<m:mi>y</m:mi>
+</m:math>, just set up the equations.)</para>
+        </problem>
+      </exercise>
+      
+      <para id="element-416">The point is that <emphasis>one matrix equation</emphasis> is the same, in this case, as <emphasis>two simultaneous equations.</emphasis> What we’re interested in doing is doing that process in <emphasis>reverse</emphasis>: I give you simultaneous equations, and you turn them into a matrix equation that represents the same thing. Let’s try a few.</para><exercise id="id12039333">
+        <problem id="idp5785280">
+          <para id="id12039337">Write a single matrix equation that represents the two equations:</para><para id="element-995"><m:math>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-2</m:mn>
+</m:math></para><para id="element-121"><m:math>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>12</m:mn>
+</m:math></para>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="id12039348">
+        <problem id="idp8822688">
+          <para id="id12039352">Now, let’s look at three equations:</para><para id="element-589"><m:math>
+<m:mn>7</m:mn>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>c</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math></para><para id="element-251"><m:math>
+<m:mn>8</m:mn>
+<m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+<m:mn>12</m:mn>
+</m:math></para><para id="element-439"><m:math>
+<m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mi>b</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>c</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para><list id="element-756" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a single matrix equation that represents these three equations.</item>
+<item><label>b</label>Just to make sure it worked, multiply it out and see what three equations you end up with</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <para id="id12039386">OK, by now you are convinced that we can take simultaneous linear equations and rewrite them as a single matrix equation. In each case, the matrix equation looks like this:</para>
+      <para id="id12039395"><m:math><m:mi>AX</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math></para>
+      <para id="id12039400">where <m:math><m:mi>A</m:mi></m:math> is a big square matrix, and <m:math><m:mi>X</m:mi></m:math> and <m:math><m:mi>B</m:mi></m:math> are column matrices. <m:math><m:mi>X</m:mi></m:math> is the matrix that we want to solve for—that is, it has all our variables in it, so if we find what <m:math><m:mi>X</m:mi></m:math> is, we find what our variables are. (For instance, in that last example, <m:math><m:mi>X</m:mi></m:math> was 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>a</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>b</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>c</m:mi></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+a {} ##
+b {} ##
+c
+}  right ]} {}</m:annotation></m:semantics></m:math>.) So how do you solve something like this for <m:math><m:mi>X</m:mi></m:math>? Time for some matrix algebra! We can’t divide both sides by <m:math><m:mi>A</m:mi></m:math>, because we have not defined matrix division. But we can do the next best thing.</para>
+      
+      <exercise id="element-141"><problem id="idp6605008">
+  <para id="element-890">Take the equation <m:math><m:mi>AX</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math>, where <m:math><m:mi>A</m:mi></m:math>, <m:math><m:mi>X</m:mi></m:math>, and <m:math><m:mi>B</m:mi></m:math> are all matrices. Multiply both sides by <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> (the inverse of <m:math><m:mi>A</m:mi></m:math>) in front. (Why did I say “in front?” Remember that order matters when multiplying matrices. If we put <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> in front of both sides, we have done the same thing to both sides.)
+      
+  </para>
+</problem>
+
+</exercise><exercise id="id12039604">
+        <problem id="idp2421680">
+          <para id="id12039608">Now, we have <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup><m:mi>A</m:mi></m:math>—gee, didn’t that equal something? Oh, yeah…rewrite the equation simplifying that part.</para>
+        </problem>
+      </exercise>
+      <exercise id="id12039627">
+        <problem id="idp2291936">
+          <para id="id12039631">Now, we’re multiplying <m:math><m:mi>I</m:mi></m:math> by something…what does that do again? Oh, yeah…rewrite the equation again a bit simpler.</para>
+        </problem>
+      </exercise>
+      <para id="id12039644">We’re done! We have now solved for the matrix <m:math><m:mi>X</m:mi></m:math>.</para>
+      <para id="id12039656"><foreign>So, what good is all that again?</foreign>
+      </para>
+      <para id="id12039664">Oh, yeah…let’s go back to the beginning. Let’s say I gave you these two equations:</para>
+      <para id="id12039674"><m:math>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–2</m:mn>
+</m:math></para>
+      <para id="id12039678"><m:math>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>12</m:mn>
+</m:math></para>
+      
+      <para id="element-940">You showed in #2 how to rewrite this as one matrix equation <m:math><m:mi>AX</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math>. And you just found in #6 how to solve such an equation for <m:math><m:mi>X</m:mi></m:math>. So go ahead and plug <m:math><m:mi>A</m:mi></m:math> and <m:math><m:mi>B</m:mi></m:math> into your calculator, and then use the formula to ask your calculator directly for the answer!</para><exercise id="id12039728">
+        <problem id="idp6729232">
+          <para id="id12039732">Solve those two equations for <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math> by using matrices on your calculator.</para><para id="element-581"><emphasis>Did it work? </emphasis>We find out the same way we always have—plug our <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math> values into the original equations and make sure they work.</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id12039768">
+        <problem id="idp5846576">
+          <para id="id12039772">Check your answer to #7.</para>
+        </problem>
+      </exercise>
+      <exercise id="id12039778">
+        <problem id="idp10058640">
+          <para id="id12039782">Now, solve the three simultaneous equations from #3 on your calculator, and check the answers.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

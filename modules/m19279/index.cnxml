@@ -1,0 +1,170 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rational Expressions Homework --  Rational Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1bec3c4c-f9fd-400f-844d-a094084ffc05</md:uuid>
+</metadata>
+  <content>
+
+    <exercise id="prob1exer"><problem id="idm9454880">
+      <para id="id10389461">Suppose I tell you that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mtext>36</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>15</m:mtext><m:mtext>36</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {"36"} } = {  {"15"}  over  {"36"} } } {}</m:annotation></m:semantics></m:math>. What are all the values <m:math>
+<m:mi>x</m:mi>
+</m:math> can take that make this statement true?</para>
+      </problem>
+    </exercise>
+
+      <para id="id6509222">OK, that was easy, wasn’t it? So the moral of that story is: rational equations are easy to solve, if they have a common denominator. If they don’t, of course, you just get one!</para>
+
+    <exercise id="prob2exer"><problem id="idm817568">
+      <para id="id10183767">Now suppose I tell you that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mtext>18</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>15</m:mtext><m:mtext>36</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {"18"} } = {  {"15"}  over  {"36"} } } {}</m:annotation></m:semantics></m:math>. What are all the values <m:math>
+<m:mi>x</m:mi></m:math> can take that make this statement true?</para>
+      </problem>
+    </exercise>
+
+      <para id="id9500543"><emphasis>Hey, <m:math>
+<m:mi>x</m:mi>
+</m:math> came out being a fraction. Can he do that?</emphasis></para>
+      <para id="id9390257">Umm, yeah.</para>
+      <para id="id9626281">OK, one more pretty easy one.</para>
+
+    <exercise id="prob3exer"><problem id="idm7084560">
+      <para id="id7648023"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>x</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                          <m:mtext>21</m:mtext>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>9</m:mn>
+                          <m:mn>7</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } +2}  over  {"21"} } = {  {9}  over  {7} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+        </para>
+      </problem>
+    </exercise>
+
+      <para id="id8050490">Did you get only one answer? Then look again—this one has two!</para>
+      <para id="id8810404">Once you are that far, you’ve got the general idea—get a common denominator, and then set the numerators equal. So let’s really get into it now…</para>
+
+    <exercise id="prob4exer"><problem id="idm2867136">
+      <para id="id4055814"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {x+2}  over  {x+3} } = {  {x+5}  over  {x+4} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+        </para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob5exer"><problem id="idm505376">
+        <para id="prob5para"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>2x</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                          <m:mrow>                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>2x</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {2x+6}  over  {x+3} } = {  {x+5}  over  {2x+7} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+        </para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob6exer"><problem id="idm7519152">
+      <para id="id3239053"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x+3}  over  {2x - 3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x - 5}  over  {x - 4} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id7939121" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Solve. You should end up with two answers.</item>
+        <item><label>b</label>Check both answers by plugging them into the original equation.</item>
+      </list>
+      </problem>
+    </exercise>
+
+  </content>
+</document>

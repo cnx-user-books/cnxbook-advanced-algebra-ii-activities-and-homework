@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- The Function Game: Introduction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>29fb5766-b957-42ba-a20f-f646999e5276</md:uuid>
+</metadata>
+  <content>
+    <para id="id10334628">Each group has three people. Designate one person as the “Leader” and one person as the “Recorder.” (These roles will rotate through all three people.) At any given time, the Leader is looking at a sheet with a list of “functions,” or formulas; the Recorder is looking at the answer sheet. Here’s how it works.</para>
+    <list list-type="bulleted" id="id13227400">
+      <item>One of the two players who is <emphasis>not</emphasis> the Leader says a number.</item>
+      <item>The Leader does the formula (silently), comes up with another number, and says it.</item>
+      <item>The Recorder writes down both numbers, in parentheses, separated by a comma. (Like a point.)</item>
+      <item>Keep doing this until someone guesses the formula. (If someone guesses incorrectly, just keep going.)</item>
+      <item>The Recorder now writes down the formula—not in words, but as an algebraic function.</item>
+      <item>Then, move on to the next function.</item>
+    </list>
+    <para id="id8342522">Sound confusing? It’s actually pretty easy. Suppose the first formula was “Add five.” One player says “4” and the Leader says “9”. One player says “-2” and the Leader says “3”. One player says “0” and the Leader says “5”. One player says “You’re adding five” and the Leader says “Correct.” At this point, the Recorder has written down the following:</para>
+    <list id="id11371991" list-type="enumerated"><item><list id="id11371993" list-type="labeled-item"><item>Points: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4,9</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2,3</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4,9 \)   \(  - 2,3 \)   \( 0,5 \) } {}</m:annotation></m:semantics></m:math> </item><item>
+Answer: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+5} {}</m:annotation></m:semantics></m:math></item></list>
+</item>
+   </list>
+    
+    <para id="id7296182">Sometimes there is no possible answer for a particular number. For instance, your function is “take the square root” and someone gives you “–4.” Well, you can’t take the square root of a negative number: –4 is not in your domain, meaning the set of numbers you are allowed to work on. So you respond that “–4 is not in my domain.”</para>
+    <para id="id10522331">Leader, <emphasis>do not ever give away the answer</emphasis>!!! But everyone, feel free to ask the teacher if you need help.</para>
+  </content>
+</document>

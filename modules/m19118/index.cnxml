@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Graphing Lines</title>
+  <metadata>
+  <md:content-id>m19118</md:content-id><md:title>Homework: Graphing Lines</md:title>
+  <md:abstract>This module provides practice problems designed to develop some concepts related to graphing lines.</md:abstract>
+  <md:uuid>3d84d8a9-19b5-4fe6-9fe0-f2ba230e9f17</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-809"><problem id="id8075800">
+		<para id="element-453">
+		<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2y</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2y+7x+3=0} {}</m:annotation></m:semantics></m:math> is the equation for a line.
+		</para>
+
+<list id="element-807" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Put this equation into the “slope-intercept” form 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math></item>
+
+<item><label>b</label>slope = ___________</item>
+      <item><label>c</label>y-intercept = ___________</item>
+      <item><label>d</label>x-intercept = ___________</item>
+      <item><label>e</label>Graph it.</item></list>
+	</problem>
+
+	</exercise>
+    <exercise id="element-261"><problem id="id8822299">
+		<para id="element-543">
+			The points 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5,2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 5,2 \) } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7,8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 7,8 \) } {}</m:annotation></m:semantics></m:math> lie on a line.
+		</para><list id="element-70" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the slope of this line</item>
+      <item><label>b</label>Find another point on this line</item></list>
+	</problem></exercise>
+    <exercise id="element-952"><problem id="id1164075294933">
+		<para id="element-400">
+			When you’re building a roof, you often talk about the “pitch” of the roof—which is a fancy word that means its slope. You are building a roof shaped like the following. The roof is perfectly symmetrical. The slope of the left-hand side is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow/></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {1} wideslash {3} } {}</m:annotation></m:semantics></m:math>. In the drawing below, the roof is the two thick black lines—the ceiling of the house is the dotted line 60' long.
+		</para><figure id="element-19"><media id="id1164076045660" alt="A rooftop that bends at a 60 degree angle."><image src="../../media/homework1.png" mime-type="image/png" print-width="3in"/></media></figure><list id="element-737" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the slope of the right-hand side of the roof?</item>
+      <item><label>b</label>How high is the roof? That is, what is the distance from the ceiling of the house, straight up to the point at the top of the roof?</item>
+      <item><label>c</label>How long is the roof? That is, what is the combined length of the two thick black lines in the drawing above?</item></list>
+	</problem>
+
+	</exercise><exercise id="element-817"><problem id="id1164071817786">
+		<para id="element-356">In the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3x</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=3x} {}</m:annotation></m:semantics></m:math>, explain why 3 is the slope. (Don’t just say “because it’s the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math>.” Explain <emphasis>why </emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi fontstyle="italic">Δy</m:mi><m:mi fontstyle="italic">Δx</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Δy}  over  {Δx} } } {}</m:annotation></m:semantics></m:math> will be 3 for any two points on this line, just like we explained in class <emphasis>why </emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> is the y-intercept.)
+		</para>
+	</problem>
+
+	</exercise>
+    <exercise id="element-265"><problem id="id1164076528433">
+		<para id="element-949">
+		How do you measure the height of a very tall mountain? You can’t just sink a ruler down from the top to the bottom of the mountain!
+		</para><para id="element-286">So here’s one way you could do it. You stand behind a tree, and you move back until you can look straight over the top of the tree, to the top of the mountain. Then you measure the height of the tree, the distance from you to the mountain, and the distance from you to the tree. So you might get results like this.</para><figure id="element-618"><media id="id1164069933475" alt="A picture showing how to measure the height of a tall mountain using geometric projection and angles."><image src="../../media/homework2.png" mime-type="image/png" print-width="5in"/></media></figure><para id="element-32">How high is the mountain?</para>
+	</problem>
+
+	
+	
+</exercise>
+    
+    
+    <exercise id="element-679"><problem id="id1164089991869">
+		<para id="element-710">
+	The following table (a “relation,” remember those?) shows how much money Scrooge McDuck has been worth every year since 1999.
+		</para><table id="element-984" summary="">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis>Year</emphasis>
+            </entry>
+            <entry>1999</entry>
+            <entry>2000</entry>
+            <entry>2001</entry>
+            <entry>2002</entry>
+            <entry>2003</entry>
+            <entry>2004</entry>
+          </row>
+</thead>
+<tbody>
+          <row>
+            <entry>
+              <emphasis>Net Worth</emphasis>
+            </entry>
+            <entry>$3 Trillion</entry>
+            <entry>$4.5 Trillion</entry>
+            <entry>$6 Trillion</entry>
+            <entry>$7.5 Trillion</entry>
+            <entry>$9 Trillion</entry>
+            <entry>$10.5 Trillion</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table><list id="element-702" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>How much is a trillion, anyway?</item>
+      <item><label>b</label>Graph this relation.</item>
+      <item><label>c</label>What is the slope of the graph?</item>
+      <item><label>d</label>How much money can Mr. McDuck earn in 20 years at this rate?</item></list>
+	</problem>
+
+	
+</exercise><exercise id="element-34"><problem id="id1164063105251">
+		<para id="element-292">
+			Make up and solve your own word problem using slope.
+		</para>
+	</problem>
+
+	</exercise>
+    
+  </content>
+</document>

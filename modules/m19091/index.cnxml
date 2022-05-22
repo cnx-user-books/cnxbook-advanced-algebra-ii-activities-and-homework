@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Homework: Vertical and Horizontal Parabolas</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>882cf383-b876-49b9-904b-581d5f396d26</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id9712451">
+        <problem id="idp9628816">
+          <para id="id11732468"><m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>30</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>70</m:mn>
+</m:math></para><list id="element-914" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put into the standard form of a parabola.</item>
+<item><label>b</label>Vertex:</item>
+<item><label>c</label>Opens (up/down/right/left):</item>
+<item><label>d</label>Graph it</item></list><para id="element-226"><media id="idm10328784" alt="An empty Cartesian graph."><image src="../../media/graph.PNG" mime-type="image/png"><param name="print-value" value="4in"/></image></media></para>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id10539250"><problem id="idm148896">
+          <para id="id11110343">
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mi>y</m:mi>
+</m:math></para>
+<list id="list-9878239480234" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put into the standard form of a parabola.</item>
+<item><label>b</label>Vertex:</item>
+<item><label>c</label>Opens(up/down/right/left):</item>
+<item><label>d</label>Graph it</item>
+</list><para id="element-695"><media id="idp400080" alt="An empty Cartesian graph."><image src="../../media/graph.PNG" mime-type="image/png"><param name="print-value" value="4in"/></image></media></para>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id11889343">
+        <problem id="idm12083520">
+          <para id="id7179684">Find the equation for a parabola that goes through the points (0,2) and (0,8).</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

@@ -1,0 +1,442 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Algebraic Generalizations</title>
+  <metadata>
+  <md:content-id>m19114</md:content-id><md:title>Homework: Algebraic Generalizations</md:title>
+  <md:abstract>This module provides practice problems designed to develop some concepts related to algebraic generalizations.</md:abstract>
+  <md:uuid>c53eb927-cee6-40d1-817b-e5dd2734f5cd</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-899"><problem id="id8021906">
+  <para id="element-426">In class, we found that if you multiply <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mn>6</m:mn>
+</m:msup>
+</m:math> by 2,
+you get <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mn>7</m:mn>
+</m:msup>
+</m:math>. If you multiply <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mn>10</m:mn>
+</m:msup>
+</m:math>
+by 2, you get <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mn>11</m:mn>
+</m:msup>
+</m:math>. We expressed this as a general rule that 
+<m:math><m:mo>(</m:mo>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msup>
+</m:math>.</para><para id="element-119">Now, we’re going to make that rule even more general. Suppose I want to multiply 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:msup>
+                  <m:mn>2</m:mn>
+                  <m:mstyle fontsize="8pt">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:msup>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{5} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     times 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:msup>
+                  <m:mn>2</m:mn>
+                  <m:mstyle fontsize="8pt">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:msup>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{3} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    . Well, 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:msup>
+                  <m:mn>2</m:mn>
+                  <m:mstyle fontsize="8pt">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:msup>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{5} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     means 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">∗</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">∗</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">∗</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 * 2 * 2 * 2 * 2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    , and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:msup>
+                  <m:mn>2</m:mn>
+                  <m:mstyle fontsize="8pt">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:msup>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{3} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     means 
+      <m:math>
+        <m:semantics>
+          <m:mrow/>
+          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo stretchy="false">∗</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">∗</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 * 2 * 2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    . So we can write the whole thing out like this.
+  </para>
+<figure id="fig2">
+  <media id="id8199414" alt=""><image src="../../media/algebraic.png" mime-type="image/png"/></media>
+</figure><para id="element-965"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:msup>
+                      <m:mn>2</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 2 rSup { size 8{5} }  \)  \( 2 rSup { size 8{3} }  \) =2 rSup { size 8{8} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-623" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Using a similar drawing, demonstrate what 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:msup>
+                    <m:mtext>10</m:mtext>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:msup>
+                    <m:mtext>10</m:mtext>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( "10" rSup { size 8{3} }  \)  \( "10" rSup { size 8{4} }  \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     must be.</item>
+      <item><label>b</label>Now, write an algebraic generalization for this rule.________________ </item></list>
+</problem>
+</exercise><exercise id="element-627"><problem id="id8020851">
+  <para id="element-689">
+   The following statements are true.
+  </para><list id="element-794" list-type="bulleted"><item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3 times 4=4 times 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{7 times  - 3= - 3 times 7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo stretchy="false">/</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">/</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{1/2 times 8=8 times 1/2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+    </list><para id="element-753">Write an algebraic generalization for this rule.________________</para>
+</problem>
+
+</exercise>
+
+<exercise id="element-79898734">
+<problem id="id8217105">
+<para id="id12467179">In class, we talked about the following four pairs of statements.</para>
+<list id="element-83" list-type="bulleted"><item>
+      <m:math><m:mn>8</m:mn><m:mo>×</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>64</m:mn></m:math>
+    </item>
+<item><m:math><m:mn>7</m:mn><m:mo>×</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>63</m:mn></m:math></item>
+</list>
+<list id="element-84" list-type="bulleted"><item><m:math><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>25</m:mn></m:math></item>
+<item> <m:math><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>24</m:mn></m:math></item>
+</list>
+<list id="element-85" list-type="bulleted"><item><m:math><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>100</m:mn></m:math></item>
+<item> <m:math><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>99</m:mn></m:math></item>
+</list>
+<list id="element-86" list-type="bulleted"><item><m:math><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>9</m:mn></m:math></item>
+<item> <m:math><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:math></item>
+</list>
+    <list id="list-234235235" list-type="labeled-item" mark-suffix="."><item><label>a</label>You made an algebraic generalization about these statements: write that generalization again below.
+    Now, we are going to generalize it further. Let’s focus on the <m:math><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn></m:math> thing.
+    <m:math><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>100</m:mn></m:math>
+    There are two numbers that are <emphasis>one</emphasis> <emphasis>away</emphasis> from 10; these numbers are, of course, 9 and 11. As we saw, <m:math><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>11</m:mn></m:math> is 99. It is <emphasis>one less</emphasis> than 100.</item>
+    <item><label>b</label>Now, suppose we look at the two numbers that are <emphasis>two away</emphasis> from 10? Or <emphasis>three away</emphasis>? Or <emphasis>four away</emphasis>? We get a sequence like this (fill in all the missing numbers):
+    <table id="id12869445" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><m:math><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>100</m:mn></m:math></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry><m:math><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>99</m:mn></m:math></entry>
+            <entry><emphasis>1 away</emphasis> from 10, the product is <emphasis>1 less</emphasis> than 100</entry>
+          </row>
+          <row>
+            <entry><m:math><m:mn>8</m:mn><m:mo>×</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mo>____</m:mo></m:math></entry>
+            <entry><emphasis>2 away</emphasis> from 10, the product is ____ <emphasis>less</emphasis> than 100</entry>
+          </row>
+          <row>
+            <entry><m:math><m:mn>7</m:mn><m:mo>×</m:mo><m:mn>13</m:mn><m:mo>=</m:mo><m:mo>____</m:mo></m:math></entry>
+            <entry><emphasis>3 away</emphasis> from 10, the product is ____ <emphasis>less</emphasis> than 100</entry>
+          </row>
+          <row>
+            <entry>__×__=___</entry>
+            <entry><emphasis>__ away</emphasis> from 10, the product is ____ <emphasis>less</emphasis> than 100</entry>
+          </row>
+          <row>
+            <entry>__×__=___</entry>
+            <entry><emphasis>__ away</emphasis> from 10, the product is ____ <emphasis>less</emphasis> than 100</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table></item>
+    <item><label>c</label>Do you see the pattern? What would you expect to be the next sentence in this sequence?</item>
+    <item><label>d</label>Write the algebraic generalization for this rule.</item>
+    <item><label>e</label>Does that generalization work when the “___away from 10” is 0? Is a fraction? Is a negative number? Test all three cases. (Show your work!)</item></list></problem></exercise>
+  </content>
+</document>

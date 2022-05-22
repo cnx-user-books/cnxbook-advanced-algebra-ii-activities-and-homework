@@ -1,0 +1,509 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Extending the Idea of Exponents</title>
+  <metadata>
+  <md:content-id>m19098</md:content-id><md:title>Homework: Extending the Idea of Exponents</md:title>
+  <md:abstract>This module provides practice problems designed to develop concepts related to exponents.</md:abstract>
+  <md:uuid>fbc72cc7-cf39-478f-84b6-e9099678ff67</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id7841921">Answer the following questions.
+    </para>
+    <exercise id="id10257274">
+      <problem id="id2515046">
+        <para id="id6732037"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>5</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id4253304">
+      <problem id="id1165151647421">
+        <para id="id4201394"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>5</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10309851">
+      <problem id="id1165150583747">
+        <para id="id10309854"><m:math><m:mo>=</m:mo>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10777897">
+      <problem id="id6770124">
+        <para id="id8904690"><m:math>
+<m:mo>=</m:mo>  
+<m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:minus/>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9294311">
+      <problem id="id6618528">
+        <para id="id7373882"><m:math><m:mo>=</m:mo>
+  <m:apply>
+    <m:power/>
+    <m:cn>6</m:cn>
+    <m:apply>
+      <m:minus/>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10213170">
+      <problem id="id3030769">
+        <para id="id7016765"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>0</m:cn>
+  </m:apply><m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7326358">
+      <problem id="id6838749">
+        <para id="id7326361"><m:math>
+  <m:apply>
+    <m:apply>
+      <m:minus/>
+      <m:ci>x</m:ci>
+      <m:ci>a</m:ci>
+    </m:apply>
+  </m:apply>
+    <m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id8986684">In those last two problems, of course, you have created the general rules for zero and negative exponents. So hey, what happens to our trusty rules of exponents? Let’s try…
+    </para>
+    <exercise id="id6524989">
+      <problem id="id1165152860147">
+        <para id="id6718702">Let’s look at the problem <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math> two different ways.</para><list id="element-545" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>? Based on that, what is <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>?</item>
+      <item><label>b</label>What do our <emphasis>rules of exponents</emphasis> tell us about <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>?</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="id7216522">
+      <problem id="id2447249">
+        <para id="id7216525">Let’s look at the problem 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6 rSup { size 8{0} } }  over  {6 rSup { size 8{x} } } } } {}</m:annotation></m:semantics></m:math> two different ways.</para><list id="element-777" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>6</m:cn>
+    <m:cn>0</m:cn>
+  </m:apply>
+</m:math>? Based on that, what is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6 rSup { size 8{0} } }  over  {6 rSup { size 8{x} } } } } {}</m:annotation></m:semantics></m:math>?</item>
+      <item><label>b</label>What do our <emphasis>rules of exponents</emphasis> tell us about 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6 rSup { size 8{0} } }  over  {6 rSup { size 8{x} } } } } {}</m:annotation></m:semantics></m:math>?</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="id7467812">
+      <problem id="id6227789">
+        <para id="id5821855">Let’s look at the problem <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> two different ways.</para><list id="element-198" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What does <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math> mean? Based on that, what is <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</item>
+      <item><label>b</label>What do our <emphasis>rules of exponents</emphasis> tell us about <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>6</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="id4459308">
+      <problem id="id1165149518937">
+        <para id="id10353136">What would you <emphasis>square</emphasis> if you wanted to get <m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>36</m:cn>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <para id="id9074615">Simplify:
+    </para>
+    
+    <exercise id="element-47"><problem id="id5824765">
+  <para id="element-400">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{ - 5} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+</exercise>
+    <exercise id="element-815"><problem id="id1165149168752">
+  <para id="element-276">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>8x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>y</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mtext>12</m:mtext>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>y</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {8x rSup { size 8{3} } y rSup { size 8{7} } }  over  {"12"x rSup { size 8{ - 3} } y rSup { size 8{4} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise><para id="id11624379">Now let’s solve a few equations.
+    </para>
+    <exercise id="id7825814">
+      <problem id="id1165150645804">
+        <para id="id7825817">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:apply>
+        <m:plus/>
+        <m:ci>x</m:ci>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:apply>
+        <m:minus/>
+        <m:cn>8</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math>. (<emphasis>Hint</emphasis>: If the bases are the same, the exponents must be the same!)</para>
+      </problem>
+    </exercise>
+    <exercise id="id7939389"><problem id="id1165152952059">
+        <para id="id7939391">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: 
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mrow>
+<m:mi>4x</m:mi><m:mo>-</m:mo>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:msup>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mn>8</m:mn>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:msup>
+</m:math>
+
+.</para>
+
+        <note id="id1165153859103" type="Hint"><label>Hint</label>Start by rewriting 8 as 23, then use the rules of exponents.</note>
+      </problem>
+    </exercise>
+    <exercise id="id4539943">
+      <problem id="id1165150439250">
+        <para id="id9267256">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mtext>13</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 rSup { size 8{ \( 3x rSup { size 6{2} } +"13"x+"10" \) } } } {}</m:annotation></m:semantics><m:mo>=</m:mo>
+  <m:apply>
+    <m:power/>
+    <m:cn>25</m:cn>
+    <m:apply>
+      <m:plus/>
+      <m:ci>x</m:ci>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>. (*No more hints this time, you’re on your own.)</para>
+      </problem>
+    </exercise>
+    <exercise id="id9709787">
+      <problem id="id1165149195452">
+        <para id="id8583740">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:apply>
+        <m:power/>
+        <m:cn>7</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+      <m:apply>
+        <m:power/>
+        <m:cn>7</m:cn>
+        <m:apply>
+          <m:plus/>
+          <m:ci>x</m:ci>
+          <m:cn>2</m:cn>
+        </m:apply>
+      </m:apply>
+    </m:apply>
+    <m:cn>1</m:cn>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3735162">
+      <problem id="id3043329">
+        <para id="id4130013">Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>: <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:apply>
+        <m:power/>
+        <m:cn>7</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+      <m:apply>
+        <m:plus/>
+        <m:ci>x</m:ci>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>1</m:cn>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+  </content>
+</document>

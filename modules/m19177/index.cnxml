@@ -1,0 +1,477 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Properties of Logarithms</title>
+  <metadata>
+  <md:content-id>m19177</md:content-id><md:title>Homework: Properties of Logarithms</md:title>
+  <md:abstract>This module provides practice problems which develop concepts related to properties of logarithms.</md:abstract>
+  <md:uuid>00ee6089-07c3-433c-af08-674815379256</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id7170684">Memorize these three rules of logarithms.</para>
+    
+    <list id="element-787" list-type="bulleted"><item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>ab</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>b</m:mi>
+</m:math></item>
+
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:mfrac>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>b</m:mi>
+</m:math></item>
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:msup>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>b</m:mi>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>x</m:mi>
+</m:msub>
+<m:mi>a</m:mi>
+</m:math></item></list>
+    
+    <exercise id="id7184422">
+      <problem id="id42994916">
+        <para id="id8326813">In class, we demonstrated the <emphasis>first</emphasis> and <emphasis>third</emphasis> rules above. For instance, for the first rule:</para>
+
+        <para id="id5563621"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></para>
+
+        <para id="id13593036"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mn>16</m:mn>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math></para>
+
+        <para id="id7897215"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>8</m:mn>
+<m:mo>×</m:mo>
+<m:mn>16</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo>[</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>×</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>]</m:mo>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math></para>
+
+        <para id="id9384674">This demonstrates that when you multiply two numbers, their logs <emphasis>add</emphasis>.</para>
+
+        <para id="id12361250">Now, you come up with a similar demonstration of the second rule of logs, that shows why when you <emphasis>divide</emphasis> two numbers, their logs <emphasis>subtract</emphasis>.</para>
+      </problem>
+    </exercise>
+
+
+    <para id="id7772170">Now we’re going to practice <emphasis>applying</emphasis> those three rules. <emphasis>Take my word for these two facts</emphasis>. (You don’t have to memorize them, but you will be using them for this homework.)</para>
+    
+    <list id="element-764" list-type="bulleted"><item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>1.29</m:mn>
+</m:math></item>
+
+<item><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>60</m:mn>
+<m:mo>=</m:mo>
+<m:mn>2.54</m:mn>
+</m:math></item>
+</list>
+    <para id="id8741718">Now, use those facts to answer the following questions.
+    </para>
+    <exercise id="element-293"><problem id="id43036608">
+  <para id="element-334"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>480</m:mn>
+<m:mo>=</m:mo>
+</m:math>
+  </para>
+
+<note id="id44576864" type="Hint"><label>Hint</label><m:math>
+<m:mn>480</m:mn>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+<m:mo>×</m:mo>
+<m:mn>60</m:mn>
+</m:math>. So this is 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>8</m:mn>
+<m:mo>×</m:mo>
+<m:mn>60</m:mn>
+<m:mo>)</m:mo>
+</m:math>. Which rule above helps you rewrite this?</note>
+</problem>
+
+</exercise>
+    
+
+
+
+    <exercise id="id13682407">
+      <problem id="id42997107">
+        <para id="id12613808">How can you use your calculator to test your answer to #2? (I’m assuming here that you can’t find 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>480</m:mn>
+</m:math> on your calculator, but you can do exponents.) Run the test—did it work?</para>
+      </problem>
+    </exercise>
+    <exercise id="id6235554">
+      <problem id="id42997158">
+        <para id="id12524939"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>2</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {2}  over  {"15"} }  right )} {}</m:annotation></m:semantics></m:math> <m:math><m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10823355">
+      <problem id="id44402665">
+        <para id="id6303786"><m:math><m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mtext>15</m:mtext><m:mn>2</m:mn></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {"15"}  over  {2} }  right )} {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id12045599">
+      <problem id="id42998588">
+        <para id="id7811927"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>64</m:mn>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id8568373">
+      <problem id="id42998635">
+        <para id="id10823331"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>23</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7158393">
+      <problem id="id43003981">
+        <para id="id4428101"><m:math>
+<m:msup>
+<m:mn>5</m:mn>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>5</m:mn>
+</m:msub>
+<m:mn>23</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id9096719">Simplify, using the 
+<m:math>
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+</m:math> property:
+    </para>
+    <exercise id="id13106389">
+      <problem id="id43030043">
+        <para id="id13439404"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>•</m:mo>
+<m:mi>x</m:mi>
+<m:mo>•</m:mo>
+<m:mi>x</m:mi>
+<m:mo>•</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id4211511">
+      <problem id="id44829099">
+        <para id="id4139944"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>•</m:mo>
+<m:mn>1</m:mn>
+<m:mo>)</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id9988245">Simplify, using the log
+<m:math>
+<m:mtext>log</m:mtext>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mi>x</m:mi><m:mi>y</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {x}  over  {y} }  right )} {}</m:annotation></m:semantics></m:math> property:
+    </para>
+    <exercise id="id13762723">
+      <problem id="id42999789">
+        <para id="id13424975"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {x} }  right )} {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id13520637">
+      <problem id="id43971913">
+        <para id="id12203683"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mi>x</m:mi><m:mn>1</m:mn></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {x}  over  {1} }  right )} {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id13354722">
+      <problem id="id43034102">
+        <para id="id13467700"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mi>x</m:mi><m:mi>x</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {x}  over  {x} }  right )} {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+    <para id="id13030348">Simplify, using the 
+<m:math>
+
+<m:mtext>log</m:mtext>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mi>b</m:mi>
+</m:msup>
+</m:math> property:
+    </para>
+    <exercise id="id13798554">
+      <problem id="id44480161">
+        <para id="id13681871"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>4</m:mn>
+</m:msup>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3572381">
+      <problem id="id44480218">
+        <para id="id11367041"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>0</m:mn>
+</m:msup>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id6917045">
+      <problem id="id42940431">
+        <para id="id12333522"><m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mi>a</m:mi>
+</m:msub>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>-1</m:mn>
+</m:msup>
+</m:math></para>
+      </problem>
+    </exercise>
+<exercise id="propslogs1">
+<problem id="id43790050">
+    <list id="id11392182" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Draw a graph of 
+<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mrow>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mrow>
+</m:msub>
+<m:mi>x</m:mi>
+</m:math>. Plot at least 5 points to draw the graph.</item>
+    
+<item><label>b</label>What are the domain and range of the graph? What does that tell you about this function?</item>
+    </list>
+    
+    
+</problem>
+</exercise>
+  </content>
+</document>

@@ -1,0 +1,188 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Quadratic Homework -- Factoring</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>60507410-857a-412e-90ce-9487caf17dfb</md:uuid>
+</metadata>
+  <content>
+    <para id="id-493146831608">The first step is always to “pull out” as much as you can...</para>
+    <exercise id="exer1">
+<problem id="idp2288672">
+<para id="para1">Multiply the following, using the distributive property:</para>
+<para id="exer1para2"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>5x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x \( 4x rSup { size 8{2} } +5x+2 \) ={}} {}</m:annotation></m:semantics></m:math> ____________________</para>
+</problem></exercise>
+
+<exercise id="exer2">
+<problem id="idp3367872">
+<para id="exer2para1">Now, you’re going to do the same thing <emphasis>backward</emphasis>.</para>
+<list id="sublist1" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>“Pull out” the common term of <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>4y</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4y} {}</m:annotation></m:semantics></m:math> from the following expression.</item>
+<item>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>16</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>y</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4y</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>8y</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>4x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mtext>_________</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"16"y rSup { size 8{3} } +4y+8y=4x \( "_________" \) } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </item>
+
+        <item><label>b</label> Check yourself, by multiplying 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>4y</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4y} {}</m:annotation></m:semantics></m:math> by the term you put in parentheses.</item>
+        <item><label>c</label> Did it work? _______________</item>
+      </list>
+</problem></exercise>
+      
+      
+      
+      
+      
+      <para id="id9979938">For each of the following expressions, pull out the highest common factor you can find.</para>
+<exercise id="exer3">
+<problem id="idp2508096">
+<para id="exer3para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xy</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 ital "xy"+"12"x={}} {}</m:annotation></m:semantics></m:math>____________________</para>
+</problem>
+</exercise>
+
+<exercise id="exer4">
+<problem id="idm12200144">
+        <para id="exer4para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>9y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"x rSup { size 8{2} } +9y rSup { size 8{2} } ={}} {}</m:annotation></m:semantics></m:math>____________________</para>
+</problem>
+</exercise>
+
+<exercise id="exer5">
+<problem id="idp5545408">
+        <para id="exer5para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100"x rSup { size 8{3} } +"25"x rSup { size 8{2} } ={}} {}</m:annotation></m:semantics></m:math>____________________</para>
+</problem>
+</exercise>
+
+<exercise id="exer6">
+<problem id="idp159488">
+        <para id="exer6para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">+</m:mo><m:msup><m:mn>3y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x rSup { size 8{2} } y+3y rSup { size 8{2} } x={}} {}</m:annotation></m:semantics></m:math>____________________</para>
+      </problem></exercise>
+      
+    
+    <para id="random1">Next, look to apply our three formulae...</para>
+     
+      <para id="id8719646">Factor the following by using our three formulae for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>y</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x+y \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mi>y</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x - y \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - y rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
+
+<exercise id="exer7">
+<problem id="idp3652144">
+<para id="exer7para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - 9={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+        <exercise id="exer8">
+<problem id="idm1444272">
+<para id="exer8para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - "10"x+"25"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+        <exercise id="exer9">
+<problem id="idp7420912">
+<para id="exer9para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>8x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +8x+"16"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+        <exercise id="exer10">
+<problem id="idp4377280">
+<para id="exer10para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +9={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+        <exercise id="exer11">
+<problem id="idp3619184">
+<para id="exer11para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>27</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x rSup { size 8{2} }  - "27"={}} {}</m:annotation></m:semantics></m:math>______________ </para>
+<note type="Hint" id="idp5206288"><label>Hint</label>Start by pulling out the common factor!</note>
+</problem>
+</exercise>
+
+
+    <para id="random2">If all else fails, factor the "old-fashioned way"...</para>
+      
+      <exercise id="exer12">
+<problem id="idp6402912">
+<list id="exer12list1" mark-suffix="."><item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>7x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +7x+"10"={}} {}</m:annotation></m:semantics></m:math>______________</item>
+     <item><label>b</label>Check your answer by multiplying back:</item></list>
+</problem>
+</exercise>
+
+      <exercise id="exer13">
+<problem id="idp8554608">
+<list id="exer13list1" mark-suffix="."><item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>5x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - 5x+6={}} {}</m:annotation></m:semantics></m:math>______________</item>
+      <item><label>b</label>Check your answer by plugging a number into the original expression, and into your modified expression:</item></list>
+</problem>
+</exercise>
+
+      <exercise id="exer14">
+<problem id="idm130720">
+<para id="exer14para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>6x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - 6x+5={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+      <exercise id="exer15">
+<problem id="idp1165072">
+<para id="exer15para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>8x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +8x+6={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+      <exercise id="exer16">
+<problem id="idp9736800">
+<para id="exer16para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - x - "12"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+      <exercise id="exer17">
+<problem id="idp5005088">
+<para id="exer17para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +x - "12"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+      <exercise id="exer18">
+<problem id="idp8154208">
+<para id="exer18para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>4x</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +4x - "12"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+      <exercise id="exer19">
+<problem id="idp9017360">
+<para id="exer19para1"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>7x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x rSup { size 8{2} } +7x+"12"={}} {}</m:annotation></m:semantics></m:math>______________</para>
+</problem>
+</exercise>
+
+
+
+  </content>
+</document>

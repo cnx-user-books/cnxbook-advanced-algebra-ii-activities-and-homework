@@ -1,0 +1,281 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exponents Homework -- Rules of Exponents</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f2e96e24-9ad9-49a5-a122-ce502fd4d301</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="id7512638"><problem id="idp6168640">
+        <para id="id7512642">Here are the first six powers of two.</para>
+
+        <list id="element-415" list-type="bulleted"><item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>1</m:cn>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></item>
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>4</m:cn>
+  </m:apply>
+</m:math></item>
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:cn>8</m:cn>
+  </m:apply>
+</m:math></item>
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+    <m:cn>16</m:cn>
+  </m:apply>
+</m:math></item>
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+    <m:cn>32</m:cn>
+  </m:apply>
+</m:math></item>
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>6</m:cn>
+    </m:apply>
+    <m:cn>64</m:cn>
+  </m:apply>
+</m:math></item>
+
+</list>
+
+    <list id="id7558017" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If I asked you for <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>7</m:cn>
+  </m:apply>
+</m:math> (without a calculator), how would you get it? More generally, how do you always get <emphasis>from one term in this list to the next term</emphasis>? </item>
+      <item><label>b</label>IWrite an algebraic generalization to represent this rule. </item>
+    </list>
+      </problem>
+    </exercise>
+    <exercise id="id10125292">
+      <problem id="idm1086032">
+        <para id="id10125296">Suppose I want to multiply <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>5</m:cn>
+  </m:apply>
+</m:math> times <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math>. Well, <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>5</m:cn>
+  </m:apply>
+</m:math> means 2×2×2×2×2, and <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math> means 2×2×2. So we can write the whole thing out like this.</para>
+
+    
+    <para id="element-352"><media id="idm2194272" alt="An image showing the expanded meaning of an exponent"><image src="../../media/expo1.PNG" mime-type="image/png" print-width="4in"/></media></para><list id="id5803666" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>This shows that (<m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:cn>5</m:cn>
+      </m:apply>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:cn>3</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:ci>[ ]</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math></item>
+      <item><label>b</label>Using a similar drawing, demonstrate what <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>10</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>10</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> must be.</item>
+      <item><label>c</label>Now, write an algebraic generalization for this rule. </item>
+      <item><label>d</label>Show how your answer to 1b (the “getting from one power of two, to the next in line”) is a special case of the more general rule you came up with in 2c (“multiplying two exponents”).</item>
+    </list>
+      </problem>
+    </exercise>
+    <exercise id="id3719624">
+      <problem id="idm2058848">
+        <para id="id4487885">Now we turn our attention to division. What is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 rSup { size 8{"12"} } }  over  {3 rSup { size 8{"10"} } } } } {}</m:annotation></m:semantics></m:math>?</para>
+
+    <list id="id6569998" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write it out explicitly. (Like earlier I wrote out explicitly what <m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> was: expand the exponents into a big long fraction.)</item>
+      <item><label>b</label>Now, cancel all the like terms on the top and the bottom. (That is, divide the top and bottom by all the 3s they have in common.)</item>
+      <item><label>c</label>What you are left with is the answer. So fill this in: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 rSup { size 8{"12"} } }  over  {3 rSup { size 8{"10"} } } } } {}</m:annotation></m:semantics></m:math> <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:ci>[ ]</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</item>
+      <item><label>d</label>Write a generalization that represents this rule.</item>
+      <item><label>e</label>Suppose we turn it upside-down. Now, we end up with some 3s on the bottom. Write it out explicitly and cancel 3s, as you did before:
+ <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msup><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 rSup { size 8{"10"} } }  over  {3 rSup { size 8{"12"} } } } } {}</m:annotation></m:semantics></m:math>= ___________________________ = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mfenced open="[" close="]"><m:mi/></m:mfenced></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3 rSup { size 8{ left [~ right ]} } } } } {}</m:annotation></m:semantics></m:math></item>
+      <item><label>f</label>Write a generalization for the rule in part (e). Be sure to mention when that generalization applies, as opposed to the one in part (d)!</item>
+    </list>
+</problem>
+</exercise>
+
+    <exercise id="id3780185">
+      <problem id="idp1084048">
+        <para id="id3780188">Use all those generalizations to simplify 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{3} } y rSup { size 8{3} } x rSup { size 8{7} } }  over  {x rSup { size 8{5} } y rSup { size 8{5} } } } } {}</m:annotation></m:semantics></m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="id8039031">
+      <problem id="idp9099472">
+        <para id="id8039034">Now we’re going to raise exponents, <emphasis>to</emphasis> exponents. What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:cn>4</m:cn>
+  </m:apply>
+</m:math>? Well, <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math> means 2×2×2. And when you raise anything to the fourth power, you multiply it by itself, four times. So we’ll multiply <emphasis>that</emphasis> by itself four times:</para>
+
+        <para id="id10327137"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:cn>4</m:cn>
+  </m:apply>
+</m:math>= (2×2×2) (2×2×2) (2×2×2) (2×2×2)</para>
+
+    <list id="id5849119" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>So, just counting 2s, <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:cn>3</m:cn>
+      </m:apply>
+      <m:cn>4</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>2</m:cn>
+      <m:ci>[ ]</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</item>
+      <item><label>b</label>Expand out <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>10</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math> in a similar way, and show what power of 10 it equals.</item>
+      <item><label>c</label>Find the algebraic generalization that represents this rule.</item>
+    </list>
+      </problem>
+    </exercise>
+  </content>
+</document>

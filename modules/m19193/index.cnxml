@@ -1,0 +1,208 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Homework: Determinants</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>55a400ce-6237-4f5b-a95a-72b793081d15</md:uuid>
+</metadata>
+  <content>
+
+      
+      <exercise id="id6654144"><problem id="idm5766688">
+<para id="uid54232342909092"><m:math>
+<m:mo>|</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>3</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mn>4</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>5</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mn>6</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>|</m:mo>
+</m:math></para>          
+
+<list id="list-987987987989898" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the determinant by hand.</item>
+<item><label>b</label>Find the determinant by using your calculator.</item>
+<item><label>c</label>Finally, use your calculator to find the <emphasis>determinant of the inverse of this matrix</emphasis>.</item></list>
+<note type="hint" id="idm2128160"><label>Hint</label>You should not have to type in the inverse by hand.</note>
+
+<para id="exer1para1">What did you get? Can you make a generalization about the "determinant of an inverse matrix"?</para>
+
+</problem></exercise>
+      
+      
+      <exercise id="id8458812"><problem id="idm8624896">
+<para id="element-23498798234">
+<m:math>
+<m:mo>|</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>1</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mi>n</m:mi></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>|</m:mo>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math>
+</para>
+<list id="list-00000000000" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is <m:math><m:mi>n</m:mi></m:math>?</item>
+<item><label>b</label>Check your answer by using your calculator.</item></list>
+
+
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="id6591786">
+        <problem id="idp1303984">
+          <para id="id7439076"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo>|</m:mo><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>n</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable><m:mo>|</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+2 {} # 4 {} # 6 {} ##
+1 {} # 3 {} # n {} ##
+5 {} # 7 {} # 9{}
+}  rline } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id6368960"><problem id="idm13336688">
+          
+<para id="element-100"><m:math>
+<m:mo>|</m:mo>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                   
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>7</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>9</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+      
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+2 {} # 4 {} # 6 {} ##
+1 {} # 3 {} # 8 {} ##
+5 {} # 7 {} # 9{}
+}  rline } {}</m:annotation>
+          </m:semantics>
+<m:mo>|</m:mo>      
+  </m:math>
+      </para><list id="list-23423566776543" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the determinant by hand.</item>
+<item><label>b</label>Find the determinant by using the formula you found in #3.</item>
+<item><label>c</label>Find the determinant by using your calculator.</item></list>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="id3338248">
+        <problem id="idm7527440">
+          <para id="id3658773">A triangle has vertices at (-1,-2), (1,5), and (3,4).</para><list id="element-665" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Do a quick sketch of the triangle.</item>
+<item><label>b</label>Set up a determinant that will find its area.</item>
+<item><label>c</label>Evaluate that determinant (use your calculator) to find the area.</item>
+<item><label>d</label>Can you think of any <emphasis>other</emphasis> way to find the area of this triangle?</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      <exercise id="id6072960">
+        <problem id="idm7191328">
+          <para id="id5089547">Use your calculator to find the determinant 
+<m:math><m:mo>|</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>8</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+1 {} # 3 {} # 4 {} # 2 {} ##
+6 {} # 5 {} # 3 {} # 8 {} ##
+9 {} # 5 {} # 9 {} # 7 {} ##
+4 {} # 1 {} # 2 {} # 0{}
+}  rline } {}</m:annotation></m:semantics><m:mo>|</m:mo></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id3379158">
+        <problem id="idm2171200">
+          <para id="id3448460">Make up a 3×3 matrix whose determinant is zero. (Do <emphasis>not</emphasis> use all zeros!) Try to find its inverse on your calculator. What happens?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

@@ -1,0 +1,272 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Homework: Hyperbolas</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c8feb36e-b5ca-4c46-becf-47a903eb758b</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id5533581">
+        <problem id="idm3738112">
+          <para id="id7257243">Complete the following chart, showing the similarities and differences between ellipses and hyperbolas.</para><table id="element-176" summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth=".33*"/>
+          <colspec colnum="2" colname="c2" colwidth=".33*"/>
+          <colspec colnum="3" colname="c3" colwidth=".33*"/>
+          <thead>
+            <row>
+              <entry/>
+              <entry>Ellipse</entry>
+              <entry>Hyperbola</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>How to identify an equation with this shape</entry>
+              <entry>Has an <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> and a 
+<m:math>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> with <emphasis>different</emphasis> <emphasis>coefficients </emphasis>but the <emphasis>same sign.</emphasis> 
+<m:math>
+<m:mn>3</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> for instance.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Equation in standard form: horizontal</entry>
+              <entry><m:math>
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mi>h</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mfrac>
+  <m:mrow>
+    <m:msup><m:mrow><m:mo>(</m:mo>
+      <m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mi>k</m:mi></m:mrow>
+      <m:mo>)</m:mo></m:mrow><m:mn>2</m:mn>
+    </m:msup>
+  </m:mrow>
+  <m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow>
+</m:mfrac>
+
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>
+</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>How can you tell if it is horizontal?</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Draw the shape here. Label <m:math>
+<m:mi>a</m:mi>
+</m:math>, <m:math>
+<m:mi>b</m:mi>
+</m:math>, and <m:math>
+<m:mi>c</m:mi>
+</m:math> on the drawing.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Center</entry>
+              <entry>(<m:math>
+<m:mi>h</m:mi>
+</m:math>,<m:math>
+<m:mi>k</m:mi>
+</m:math>)</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>What <m:math>
+<m:mi>a</m:mi>
+</m:math> represents on the graph</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>What <m:math>
+<m:mi>b</m:mi>
+</m:math> represents on the graph</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>What <m:math>
+<m:mi>c</m:mi>
+</m:math> represents on the graph</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Which is the biggest, <m:math>
+<m:mi>a</m:mi>
+</m:math>, <m:math>
+<m:mi>b</m:mi>
+</m:math>, or <m:math>
+<m:mi>c</m:mi>
+</m:math>?</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Mathematical relationship between <m:math>
+<m:mi>a</m:mi>
+</m:math>, <m:math>
+<m:mi>b</m:mi>
+</m:math>, and <m:math>
+<m:mi>c</m:mi>
+</m:math>.</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+
+
+
+
+
+
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+      
+      <exercise id="id6632095">
+        <problem id="idp2153968">
+          <para id="id12602466"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:mfrac>
+<m:mo>-</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para><list id="element-357" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Is it horizontal or vertical?</item>
+<item><label>b</label>What is the center?</item>
+<item><label>c</label>What is <m:math><m:mi>a</m:mi></m:math>?</item>
+<item><label>d</label>What is <m:math><m:mi>b</m:mi></m:math>?</item>
+<item><label>e</label>What is <m:math><m:mi>c</m:mi></m:math>?</item>
+<item><label>f</label>Graph it. Make sure the box and asymptotes can be clearly seen in your graph.</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      <exercise id="id4732216">
+        <problem id="idm290752">
+          <para id="id10977765"><m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>4</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math></para><list id="element-741" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put in standard form.</item>
+<item><label>b</label>Is it horizontal or vertical?</item>
+<item><label>c</label>What is the center?</item>
+<item><label>d</label>What is <m:math><m:mi>a</m:mi></m:math>?</item>
+<item><label>e</label>What is <m:math><m:mi>b</m:mi></m:math>?</item>
+<item><label>f</label>What is <m:math><m:mi>c</m:mi></m:math>?</item>
+<item><label>g</label>Graph it. Make sure the box and asymptotes can be clearly seen in your graph.</item>
+<item><label>h</label>What is the <emphasis>equation</emphasis> for one of the asymptotes that you drew?</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id10833893">
+        <problem id="idp669184">
+          <para id="id7235536">A hyperbola has vertices at the origin and (10,0). One focus is at (12,0). Find the equation for the hyperbola.</para>
+        </problem>
+      </exercise>
+      <exercise id="id12914566">
+        <problem id="idm88912">
+          <para id="id12339390">A hyperbola has vertices at (1,2) and (1,22), and goes through the origin.</para><list id="element-61" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the equation for the hyperbola.</item>
+<item><label>b</label>Find the coordinates of the two foci.</item>
+</list>
+        </problem>
+      </exercise>
+      
+      
+  </content>
+</document>

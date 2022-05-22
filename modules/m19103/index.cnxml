@@ -1,0 +1,144 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exponents Homework -- Real Life Exponential Curves</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>052cb982-57f7-48a4-b885-225ad69e99d3</md:uuid>
+</metadata>
+  <content>
+<exercise id="rlec1"><problem id="idm5160160">
+    
+
+    <para id="id3359695"><title>The Famous King Exponent Story</title>This is a famous ancient story that I am not making up, except that I am changing some of the details.</para>
+    <para id="id9645218">A man did a great service for the king. The king offered to reward the man every day for a month. So the man said: “Your Majesty, on the first day, I want only a penny. On the second day, I want twice that: 2 pennies. On the third day, I want twice that much again: 4 pennies. On the fourth day, I want 8 pennies, and so on. On the thirtieth day, you will give me the last sum of money, and I will consider the debt paid off.”</para>
+    <para id="id8712138">The king thought he was getting a great deal…but was he? <emphasis>Before you do the math, take a guess: how much do you think the king will pay the man on the 30th day?</emphasis></para>
+    <para id="id9418978">Now, let’s do the math. For each day, indicate how much money (in pennies) the king paid the man. Do this without a calculator, it’s good practice and should be quick.</para>
+    <table id="id3252543" summary="">
+<tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>Day 1: _1 penny_</entry>
+            <entry>Day 7: ________</entry>
+            <entry>Day 13: _______</entry>
+            <entry>Day 19: _______</entry>
+            <entry>Day 25: _______</entry>
+          </row>
+          <row>
+            <entry>Day 2: ___2____</entry>
+            <entry>Day 8: ________</entry>
+            <entry>Day 14: _______</entry>
+            <entry>Day 20: _______</entry>
+            <entry>Day 26: _______</entry>
+          </row>
+          <row>
+            <entry>Day 3: ___4____</entry>
+            <entry>Day 9: ________</entry>
+            <entry>Day 15: _______</entry>
+            <entry>Day 21: _______</entry>
+            <entry>Day 27: _______</entry>
+          </row>
+          <row>
+            <entry>Day 4: ___8____</entry>
+            <entry>Day 10: _______</entry>
+            <entry>Day 16: _______</entry>
+            <entry>Day 22: _______</entry>
+            <entry>Day 28: _______</entry>
+          </row>
+          <row>
+            <entry>Day 5: ________</entry>
+            <entry>Day 11: _______</entry>
+            <entry>Day 17: _______</entry>
+            <entry>Day 23: _______</entry>
+            <entry>Day 29: _______</entry>
+          </row>
+          <row>
+            <entry>Day 6: ________</entry>
+            <entry>Day 12: _______</entry>
+            <entry>Day 18: _______</entry>
+            <entry>Day 24: _______</entry>
+            <entry>Day 30: _______</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+    <para id="id8824757">How was your guess?</para>
+    <para id="id10154230">Now let’s get mathematical. On the nth day, how many pennies did the king give the man? </para>
+    <para id="id8503170">Use your calculator, and the formula you just wrote down, to answer the question: what did the king pay the man on the 30th day? _______ Does it match what you put under “Day 30” above? (If not, something’s wrong somewhere—find it and fix it!)</para>
+    <para id="id9532454">Finally, do a graph of this function, where the “day” is on the x-axis and the “pennies” is on the y axis (so you are graphing pennies as a function of day). Obviously, your graph won’t get past the fifth or sixth day or so, but try to get an idea for what the shape looks like.</para>
+    
+</problem>
+</exercise>
+
+
+
+<exercise id="rlec2"><problem id="idp1244816">
+
+    <para id="id8481725"><title>Compound Interest</title>Here is a slightly more realistic situation. Your bank pays 6% interest, compounded annually. That means that after the first year, they add 6% to your money. After the second year, they add another 6% to the new total…and so on.</para>
+    <para id="id7753058">You start with $1,000. Fill in the following table.</para>
+    <table id="id9504432" summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="header_c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Year</entry>
+            <entry>The bank gives you this…</entry>
+            <entry>and you end up with this</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>$1000</entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>$60</entry>
+            <entry>$1060</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>$63.60</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table>
+    <para id="id9848020">Now, let’s start generalizing. Suppose at the end of one year, you have x dollars. How much does the bank give you that year?</para>
+    <para id="id6864742">And when you add that, how much do you have at the end of the next year? (Simplify as much as possible.)</para>
+    <para id="id8038226">So, now you know what is happening to your money each year. So after year n, how much money do you have? Give me an equation.</para>
+    <para id="id9039450">Test that equation to see if it gives you the same result you gave above for the end of year 5.</para>
+    <para id="id9534858">Once again, graph that. The x-axis should be year. The y-axis should be the total amount of money you end up with after each year.</para>
+    
+    <para id="id10287617">How is this graph like, and how is it unlike, the previous graph?</para>
+    <para id="id8866139">If you withdraw all your money after ½ a year, how much money will the bank give you? (Use the equation you found above!)</para>
+    <para id="id8447860">If you withdraw all your money after 2½ years, how much money will the bank give you?</para>
+    <para id="id6848525">Suppose that, instead of starting with $1,000, I just tell you that you had $1,000 at year 0. How much money did you have five years before that (year –5)?</para>
+    <para id="id10722653">How many years will it take for your money to triple? That is to say, in what year will you have $3,000?</para>
+</problem>
+</exercise>
+  </content>
+</document>

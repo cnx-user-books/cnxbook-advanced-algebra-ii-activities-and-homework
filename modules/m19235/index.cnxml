@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- Homework: Trickier Probability Problems</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>714e85a4-3780-401b-81ba-c9cf2ea0209b</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-159"><problem id="idm8006688">
+  <para id="element-547">
+    Each morning, before they go off to work in the mines, the seven dwarves line up and Snow White kisses each dwarf on the top of his head.  In order to avoid any hint of favoritism, she kisses them in random order each morning. 
+
+  </para>
+
+  <note type="Hint" id="idp3972432"><label>Hint</label>No two parts of this question have exactly the same answer.</note>
+
+  <para id="element-39"><media id="idm5744496" alt="Picture of Snow white kissing a dwarf."><image src="../../media/snow.PNG" mime-type="image/png" print-width="4in"/></media></para><list id="exer1" list-type="labeled-item" mark-suffix=".">
+  <item><label>a</label>What is the probability that the dwarf named Bashful gets kissed first on Monday?</item>
+  <item><label>b</label>What is the probability that Bashful gets kissed first both Monday <emphasis>and</emphasis> Tuesday?</item>
+  <item><label>c</label>What is the probability that Bashful does <emphasis>not</emphasis> get kissed first, either Monday or Tuesday?</item>
+  <item><label>d</label>What is the probability that Bashful gets kissed first <emphasis>at least once</emphasis> during the week (Monday – Friday)?</item>
+  <item><label>e</label>What is the probability that, on Monday, Bashful gets kissed first and Grumpy second?</item>
+  <item><label>f</label>What is the probability, on Monday, that the seven dwarves will be kissed in perfect alphabetical order?</item>
+  <item><label>g</label>What is the probability that, on Monday, Bashful and Grumpy get kissed before any other dwarves?</item>
+  </list>
+
+
+</problem>
+
+</exercise><exercise id="element-748"><problem id="idm8044512">
+  <para id="element-264">
+    The drawing shows a circle with a radius of 3" inside a circle with a radius of 4".  If a dart hits somewhere at random inside the larger circle, what is the probability that it will fall somewhere in the smaller circle?
+  </para>
+  <note type="Hint" id="idp2997216"><label>Hint</label>The answer is not <m:math>
+<m:mfrac>
+<m:mn>3</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:math>.</note>
+
+  <para id="fake"><media id="idm3124016" alt="Picture of concentric circles."><image src="../../media/circ.PNG" mime-type="image/png" print-width="4in"/></media></para>
+</problem>
+
+</exercise><exercise id="element-887"><problem id="idm14045552">
+  <para id="element-34">
+    A bag has 26 tiles in it, each with a different letter of the alphabet.
+  </para>
+
+  <list id="exer2list" list-type="labeled-item" mark-suffix=".">
+    <item><label>a</label>You pick one tile out of the bag, look at it, and write it down.  Then you put it back in the bag, which is thoroughly mixed up.  Then you pick another tile out of the back, look at it, and write it down.  What is the probability that your first letter was “A” and your second letter was “T”?</item>
+
+    <item><label>b</label>Same bag, different plan.  This time you pick the first tile, but do <emphasis>not</emphasis> put it back in the bag.  Then you pick a second tile and place it next to the first?  Now what is the probability that your first letter was “A” and your second letter was “T”?</item>
+
+    <item><label>c</label>In the second case, what is the probability that your two letters, together, could make the word “AT”?</item>
+  </list>
+
+</problem>
+
+</exercise><exercise id="element-485"><problem id="idp157808">
+  <para id="element-168">A deck of cards has 52 cards, 13 of each suit.  Assume there are no Jokers. <emphasis>(Once again, no two parts of this question have exactly the same answer.)</emphasis>
+  </para>
+
+  <list id="exer4list" list-type="labeled-item" mark-suffix=".">
+    <item><label>a</label>If you draw a card at random, what is the probability of getting the Ace of Spades?</item>
+    <item><label>b</label>If you draw two cards at random, what are the odds that the first will be the Ace of Spades and the second will be the King of Spades?</item>
+    <item><label>c</label>If you draw two cards at random, <emphasis>in how many different ways</emphasis> can you draw those two cards?</item>
+    <item><label>d</label>Based on your answers to (b) and (c), if you draw two cards at random, what is the probability that you will get those two cards?</item>
+    <item><label>e</label>If you draw three cards at random, what are the odds that the first will be the Ace of Spades, the second will be the King of Spades, and the third the Queen of Spades?</item>
+    <item><label>f</label>If you draw three cards at random, <emphasis>in how many different ways</emphasis> can you draw those three cards?</item>
+    <item><label>g</label>Based on your answers to (e) and (f), if you draw three cards at random, what is the probability that you will get those three cards?</item>
+
+  </list>
+</problem>
+
+</exercise><exercise id="element-131"><problem id="idm7327984">
+  <para id="element-961">
+    Jack and Jill were born in the same year.
+  </para>
+
+  <list id="exer5list" list-type="labeled-item" mark-suffix=".">
+    <item><label>a</label>What is the probability that they were born on the same day?</item>
+    <item><label>b</label>What is the probability that Jack’s birthday comes first?</item>
+    <item><label>c</label>Assuming that Jack and Jill do <emphasis>not</emphasis> have the same birthday, what is the probability that their mother has the same birthday as <emphasis>one</emphasis> of them?</item>
+    <item><label>d</label>So...if three random people walk into a room, what is the probability that <emphasis>no two</emphasis> of them will have the same birthday?</item>
+    <item><label>e</label>If three random people walk into a room, what is the probability that <emphasis>at least two</emphasis> of them will have the same birthday?</item>
+    <item><label>f</label>What about four random people?</item></list>
+</problem>
+
+
+</exercise>   
+  </content>
+  
+</document>

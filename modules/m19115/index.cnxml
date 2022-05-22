@@ -1,0 +1,529 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Functions in the Real World</title>
+  <metadata>
+  <md:content-id>m19115</md:content-id><md:title>Homework: Functions in the Real World</md:title>
+  <md:abstract>This module provides practice problems designed to mimic real life applications of functions.</md:abstract>
+  <md:uuid>77b905df-4499-4413-bf1f-3e0f63e31422</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-627"><problem id="id6478231">
+  <para id="element-912">Laura is selling doughnuts for 35¢ each.  Each customer fills a box with however many doughnuts he wants, and then brings the box to Laura to pay for them.  Let n represent the number of doughnuts in a box, and let <m:math><m:mi>c</m:mi></m:math> represent the cost of the box (in cents).
+  </para><list id="element-70" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If the box has 3 doughnuts, how much does the box cost?</item>
+      <item><label>b</label>If 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>c</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>245</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{c="245"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    , how much does the box cost? How many doughnuts does it have?</item>
+      <item><label>c</label>If a box has n doughnuts, how much does it cost?</item>
+      <item><label>d</label>Write a function <m:math><m:mi>c</m:mi><m:mo>(</m:mo><m:mn>n</m:mn><m:mo>)</m:mo></m:math> that gives the <emphasis>cost of a box</emphasis>, as a function of the <emphasis>number of doughnuts in the box.</emphasis></item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-688"><problem id="id6489278">
+  <para id="element-487">
+    Worth is doing a scientific study of graffiti in the downstairs boy’s room. On the first day of school, there is no graffiti. On the second day, there are two drawings. On the third day, there are four drawings. He forgets to check on the fourth day, but on the fifth day, there are eight drawings. Let d represent the day, and g represent the number of graffiti marks that day.
+  </para><list id="element-303" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table, showing Worth’s four data points.<table id="element-913" summary="a table showing the four data points for Worth's study on graffiti.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>d (day)</emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>
+              <emphasis>g (number of graffiti marks)</emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table></item>
+<item><label>b</label>If this pattern keeps up, how many graffiti marks will there be on day 10?</item>
+      <item><label>c</label>If this pattern keeps up, on what day will there be 40 graffiti marks?</item>
+      <item><label>d</label>Write a function <m:math><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>d</m:mn><m:mo>)</m:mo></m:math>) that gives the <emphasis>number of graffiti marks</emphasis> as a function of the <emphasis>day</emphasis>.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    
+    <exercise id="element-96"><problem id="id6422007">
+  <para id="element-147">
+    Each of the following is a set of points. Next to each one, write “yes” if that set of points <emphasis>could have been generated</emphasis> by a function, and “no” if it <emphasis>could not have been generated</emphasis> by a function. (You do <emphasis>not</emphasis> have to figure out what the function is. But you may want to try for fun—I didn’t just make up numbers randomly…)
+  </para><list id="element-938" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>1,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>3,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>1,</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>3,</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1, - 1 \)  \( 3, - 3 \)  \(  - 1, - 1 \)  \(  - 3, - 3 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math> ________
+    </item>
+      <item><label>b</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>9,</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>π</m:mi>
+                  <m:mi>,</m:mi>
+                  <m:mi>π</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,π \)  \( 3,π \)  \( 9,π \)  \( π,π \) } {}</m:annotation>
+        </m:semantics>
+      </m:math> ________
+    </item>
+      <item><label>c</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,1</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1,1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>2,4</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2,4</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,9</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3,9</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,1 \)  \(  - 1,1 \)  \( 2,4 \)  \(  - 2,4 \)  \( 3,9 \)  \(  - 3,9 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math> ________
+    </item>
+      <item><label>d</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,1</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>1,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>4,2</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>4,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>9,3</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>9,</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,1 \)  \( 1, - 1 \)  \( 4,2 \)  \( 4, - 2 \)  \( 9,3 \)  \( 9, - 3 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math> ________
+    </item>
+      <item><label>e</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>1,1</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>2,3</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,6</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>4,</m:mn>
+                  <m:mtext>10</m:mtext>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,1 \)  \( 2,3 \)  \( 3,6 \)  \( 4,"10" \) } {}</m:annotation>
+        </m:semantics>
+      </m:math> ________
+    </item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-448"><problem id="id6440198">
+  <para id="element-692"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2x</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) =x rSup { size 8{2} } +2x+1} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para><list id="element-782" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( 2 \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item><label>b</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \(  - 1 \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item><label>c</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mfrac>
+                    <m:mn>3</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \(  {  {3}  over  {2} }  \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item><label>d</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>y</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( y \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item><label>e</label>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mstyle fontstyle="italic">
+                    <m:mrow>
+                      <m:mtext>spaghetti</m:mtext>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \(  ital "spaghetti" \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+      <item><label>f</label>
+      
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:msqrt>
+                    <m:mi>x</m:mi>
+                  </m:msqrt>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \(  sqrt {x}  \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+    </item>
+    <item><label>g</label>
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( f \( x \)  \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+</item></list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-737"><problem id="id6432660">
+  <para id="element-469">
+    Make up a function that has something to do with <emphasis>movies</emphasis>.
+  </para><list id="element-892" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Think of a scenario where there are two numbers, one of which depends on the other. Describe the scenario, clearly identifying the <emphasis>independent variable</emphasis> and the <emphasis>dependent variable</emphasis>.</item>
+      <item><label>b</label>Write the function that shows how the dependent variable depends on the independent variable.</item>
+    <item><label>c</label>Now, plug in an example number to show how it works.</item></list>
+</problem>
+
+</exercise>
+    
+  </content>
+</document>

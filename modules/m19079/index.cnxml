@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- All the Points Equidistant from a Point and a Line</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>61948c19-147a-4725-9415-4143617280dc</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id48067431">On the drawing below is the point (0,3) and the line (<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–3</m:mn>
+</m:math>). What I want you to do is to find all the points that are the <emphasis>same distance</emphasis> from (0,3) that they are from the line 
+(<m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–3</m:mn>
+</m:math>).</para>
+      <para id="id48067466">One of the points is very obvious. You can get two more of them, exactly, with a bit of thought.</para>
+      <para id="id48067474">After that you have to start playing around. Feel free to use some sort of measuring device (such as your fingernail, or a pencil eraser). When you think you have the whole shape, call me and let me look.</para>
+      <para id="id48068940"><media id="idp4104976" alt="A graph with a line at y=-3 and point at (0,3)."><image src="../../media/gr2.PNG" mime-type="image/png" print-width="4in"/></media></para>
+
+  </content>
+</document>

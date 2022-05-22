@@ -1,0 +1,441 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exponents Homework -- Fractional Exponents</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a871d5a8-5880-45f5-810f-fc937fc17948</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="id47128692">
+      <problem id="idm3902688">
+        <para id="id47007891">On the homework, we demonstrated the rule of negative exponents by building a table. Now, we’re going to demonstrate it another way—by using the rules of exponents.</para>
+
+    <list id="id47657261" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>According to the <emphasis>rules of exponents</emphasis>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7 rSup { size 8{3} } }  over  {7 rSup { size 8{5} } } } } {}</m:annotation></m:semantics></m:math><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>7</m:cn>
+      <m:ci>[ ]</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</item>
+      <item><label>b</label>But if you write it out and cancel the excess 7s, then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7 rSup { size 8{3} } }  over  {7 rSup { size 8{5} } } } } {}</m:annotation></m:semantics></m:math>= ——.</item>
+      <item><label>c</label>Therefore, since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7 rSup { size 8{3} } }  over  {7 rSup { size 8{5} } } } } {}</m:annotation></m:semantics></m:math> can only be one thing, we conclude that these two things must be equal: write that equation!</item>
+    </list>
+      </problem>
+    </exercise>
+    <exercise id="id47299549">
+      <problem id="idm4639920">
+        <para id="id47299552">Now, we’re going to approach <emphasis>fractional</emphasis> exponents the same way. Based on our <emphasis>rules of exponents</emphasis>, <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>9</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math> =</para>
+      </problem>
+    </exercise>
+    <exercise id="id46178066">
+      <problem id="idm8916208">
+        <para id="id46991960">So, what does that tell us about <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>9</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>? Well, it is <emphasis>some number</emphasis> that when you square it, you get _______ (*same answer you gave for number 2). So therefore, <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>9</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> itself must be:</para>
+      </problem>
+    </exercise>
+    <exercise id="id46763248">
+      <problem id="idm5160160">
+        <para id="id46763252">Using the same logic, what is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>16</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46332285">
+      <problem id="idm14443936">
+        <para id="id46311591">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>25</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id45921697">
+      <problem id="idm15919248">
+        <para id="id45921700">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46278275">
+      <problem id="idm15259216">
+        <para id="id46597494">Construct a similar argument to show that <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>8</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply><m:mo>=</m:mo><m:mn>2</m:mn>
+</m:math>.</para>
+      </problem>
+    </exercise>
+    <exercise id="id47406427">
+      <problem id="idm5903184">
+        <para id="id46816937">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>27</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46973819">
+      <problem id="idm1625008">
+        <para id="id46973822">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>1</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46974554">
+      <problem id="idm14467408">
+        <para id="id46178942">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46760386">
+      <problem id="idp4870960">
+        <para id="id46760389">What would you expect <m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> to be?</para>
+      </problem>
+    </exercise>
+    <exercise id="id46897711">
+      <problem id="idm1750736">
+        <para id="id47273236">What is <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>25</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:minus/>
+        <m:cn>1</m:cn>
+      </m:apply>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>? (You have to combine the rules for <emphasis>negative</emphasis> and <emphasis>fractional</emphasis> exponents here!)</para>
+      </problem>
+    </exercise>
+    <exercise id="id46895586">
+      <problem id="idm1384928">
+        <para id="id46494437">Check your answer to #12 on your calculator. Did it come out the way you expected?</para>
+      </problem>
+    </exercise>
+    <para id="id46179558">OK, we’ve done negative exponents, and fractional exponents—but always with a 1 in the numerator. What if the numerator is not 1?</para>
+    <exercise id="id46176164">
+      <problem id="idm5767984">
+        <para id="id46176167">Using the rules of exponents, <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:apply>
+        <m:power/>
+        <m:cn>8</m:cn>
+        <m:apply>
+          <m:divide/>
+          <m:cn>1</m:cn>
+          <m:cn>3</m:cn>
+        </m:apply>
+      </m:apply>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>[ ]</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math>.</para>
+      </problem>
+    </exercise>
+    <para id="id47462556">So that gives us a rule! We know what <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math> is, so now we know what 8⅔ is.</para>
+    <exercise id="id46971238">
+      <problem id="idp4580560">
+        <para id="id46971241"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>8</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply><m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id47173301">
+      <problem id="idp4421568">
+        <para id="id46814634">Construct a similar argument to show what <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>16</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>3</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> should be.</para>
+      </problem>
+    </exercise>
+    <exercise id="id45893502">
+      <problem id="idm201712">
+        <para id="id45893505">Check <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>16</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>3</m:cn>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> on your calculator. Did it come out the way you predicted?</para>
+      </problem>
+    </exercise>
+    <para id="id46804715">Now let’s combine all our rules! For each of the following, say what it means and then say what actual number it is. (For instance, for <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>9</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> you would say it means <m:math>
+  <m:apply>
+    <m:root/>
+    <m:degree/>
+    <m:cn>9</m:cn>
+  </m:apply>
+</m:math> so it is 3.)
+    </para>
+    <exercise id="id46890924">
+      <problem id="idp6036016">
+        <para id="id46890926"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>8</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:minus/>
+        <m:cn>1</m:cn>
+      </m:apply>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+<m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id46756955">
+      <problem id="idp4218192">
+        <para id="id46756958"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>8</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:minus/>
+        <m:cn>2</m:cn>
+      </m:apply>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply><m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+    <para id="id47461727">For these problems, just say what it means. (For instance, <m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>3</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> means <m:math>
+  <m:apply>
+    <m:root/>
+    <m:degree/>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math>, end of story.)
+
+</para>
+    <exercise id="id46591447">
+      <problem id="idm3278480">
+        <para id="id46272140"><m:math>
+    <m:apply>
+      <m:power/>
+      <m:cn>10</m:cn>
+      <m:cn>-4</m:cn>
+    </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id45917464">
+      <problem id="idm6980384">
+        <para id="id45917466"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>2</m:cn>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:minus/>
+        <m:cn>3</m:cn>
+      </m:apply>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id46557609">
+      <problem id="idp4276752">
+        <para id="id47004244"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:ci>a</m:ci>
+      <m:ci>b</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id46268747">
+      <problem id="idm4189248">
+        <para id="id46268749"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:ci>-a</m:ci>
+      <m:ci>b</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+  </content>
+</document>

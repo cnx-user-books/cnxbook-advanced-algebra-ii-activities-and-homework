@@ -1,0 +1,385 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Simultaneous Equations by Graphing</title>
+  <metadata>
+  <md:content-id>m19291</md:content-id><md:title>Homework: Simultaneous Equations by Graphing</md:title>
+  <md:abstract>Some homework problems on solving simultaneous equations by graphing.</md:abstract>
+  <md:uuid>987afb16-41e1-4fb9-92fe-9dca40d8de4e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8161308">In each problem, find all 
+      
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+       and <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+       values that satisfy both conditions. Your answers may be approximate.
+    </para>
+    
+    <exercise id="element-860"><problem id="id22528177">
+  <para id="element-817">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2y</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>6x</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2y=6x+"10"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3y</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3y="12"x+9} {}</m:annotation></m:semantics></m:math>
+  </para><list id="element-667" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put both equations into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format. Then graph them.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-714"><problem id="id5103228">
+  <para id="element-519"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=2x - 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+       and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>3y</m:mn>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>6x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3y=6x+3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-349" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put both equations into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format. Then graph them.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-136"><problem id="id22500393">
+  <para id="element-547">
+   <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=x - 3} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2y</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2y=2x - 6} {}</m:annotation></m:semantics></m:math>
+  </para><list id="element-643" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put both equations into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format. Then graph them.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-467"><problem id="id22500575">
+  <para id="element-583"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+       and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x rSup { size 8{2} }  - 1} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-446" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph them both on the back.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-116"><problem id="id22500040">
+  <para id="element-410"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x rSup { size 8{2} } +2} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+       and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-953" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph them both on the back.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-40"><problem id="id18119888">
+  <para id="element-188"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=x rSup { size 8{2} } +4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+       and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=2x+3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-135" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put the second equation into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format. Then graph them both on the back.</item>
+      <item><label>b</label>List all points of intersection.</item>
+      <item><label>c</label>Check these points to make sure they satisfy both equations.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-25"><problem id="id18957132">
+  <para id="element-19">
+    Time for some generalizations…
+  </para><list id="element-450" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>When graphing <emphasis>two lines</emphasis>, is it possible for them to never meet? _______</item>
+<item>To meet exactly once? _________</item>
+<item>To meet exactly twice? _________</item>
+<item>To meet more than twice? ___________</item>
+      <item><label>b</label>When graphing <emphasis>a line and a parabola</emphasis>, is it possible for them to never meet? _______</item>
+<item>To meet exactly once? _________</item>
+<item>To meet exactly twice? _________</item>
+<item>To meet more than twice? ___________</item>
+    </list>
+</problem>
+
+</exercise>
+    <para id="id9061097">This last problem does not involve two lines, or a line and a parabola: it’s a bit weirder than that. It is the only problem on this sheet that should require a calculator.
+    </para>
+    
+    <exercise id="element-142"><problem id="id18957290">
+  <para id="element-297"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mn>6x</m:mn>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= {  {6x}  over  {x rSup { size 8{2} } +1} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+       and 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mi>x</m:mi>
+                    </m:msqrt>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=4 sqrt {x}  - 5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-491" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph them both on your calculator and find the point of intersection as accurately as you can.</item>
+      <item><label>b</label>Check this point to make sure it satisfies both equations.</item>
+    </list>
+</problem>
+
+</exercise>
+  </content>
+</document>

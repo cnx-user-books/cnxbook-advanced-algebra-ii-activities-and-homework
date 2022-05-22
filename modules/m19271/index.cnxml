@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Homework: Radical Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>387674aa-3d92-4830-8324-eae54ad38662</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">For each of the following, you will first identify it as one of three types of problem:</para><list id="element-84" list-type="bulleted"><item>No <m:math>
+<m:mi>x</m:mi>
+</m:math> under a radical, so don’t square both sides.</item>
+<item><m:math>
+<m:mi>x</m:mi>
+</m:math> under a radical, so you will have to isolate it and square both sides.</item>
+<item>More than one <m:math>
+<m:mi>x</m:mi>
+</m:math> under a radical, so you will have to isolate-and-square more than once!</item></list><para id="element-431">Then you will solve it; and finally, you will check your answers (often on a calculator).  Remember that if you squared both sides, you may get false answers even if you did the problem correctly!  If you did not square both sides, a false answer means you must have made a mistake somewhere.</para><exercise id="element-884"><problem id="idp3688928">
+  <para id="element-754"><m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>-3</m:mn>
+</m:math></para><list id="element-60" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+
+</exercise><exercise id="element-164"><problem id="idp5375392">
+  <para id="element-707"><m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mi>x</m:mi>
+</m:math></para><list id="element-372" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+</exercise><exercise id="element-565"><problem id="idp2561200">
+  <para id="element-432"><m:math>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math></para><list id="element-407" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+</exercise><exercise id="element-684"><problem id="idp5343776">
+  <para id="element-776"><m:math>
+<m:msqrt>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para><list id="element-601" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+
+
+</exercise><exercise id="element-133"><problem id="idm1602240">
+  <para id="element-232"><m:math>
+<m:mn>3</m:mn>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>-4</m:mn>
+</m:math></para><list id="element-405" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+
+</exercise><exercise id="element-1000"><problem id="idm1250128">
+  <para id="element-504"><m:math>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>15</m:mn>
+</m:math></para><list id="element-460" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+
+</exercise><exercise id="element-561"><problem id="idp828576">
+  <para id="element-853"><m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math></para><list id="element-12" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which type of problem is it?</item>
+<item><label>b</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>.</item>
+<item><label>c</label>Check your answer(s).</item></list>
+</problem>
+
+</exercise>   
+  </content>
+  
+</document>

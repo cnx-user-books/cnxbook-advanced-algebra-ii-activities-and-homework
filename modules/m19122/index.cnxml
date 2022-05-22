@@ -1,0 +1,338 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Sample Test: Function I</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bc20e3ac-68cd-4a6c-bee8-3bfe7733c95b</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-124"><problem id="idm1801968">
+		<para id="element-632">Chris is 1½ years younger than his brother David. Let <m:math><m:ci>D</m:ci></m:math> represent David’s age, and <m:math><m:ci>C</m:ci></m:math> represent Chris’s age.
+		</para><list id="element-83" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If Chris is fifteen years old, how old is David?______</item>
+      <item><label>b</label>Write a function to show how to find David’s age, given Chris’s age. 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>C</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{D \( C \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>______
+    </item></list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-558"><problem id="idm2565584">
+		<para id="element-646">Sally slips into a broom closet, waves her magic wand, and emerges as…the candy bar fairy! Flying through the window of the classroom, she gives every student two candy bars. Then five candy bars float through the air and land on the teacher’s desk. And, as quickly as she appeared, Sally is gone to do more good in the world.
+		</para><para id="element-765">Let <m:math><m:ci>s</m:ci></m:math> represent the number of students in the class, and <m:math><m:ci>c</m:ci></m:math> represent the total number of candy bars distributed. Two for each student, and five for the teacher.</para><list id="element-614" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a function to show how many candy bars Sally gave out, as a function of the number of students. 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>c</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>s</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{c \( s \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>______
+    </item>
+      <item><label>b</label>Use that function to answer the question: if there were 20 students in the classroom, how many candy bars were distributed? <emphasis>First represent the question in functional notation—then answer it. </emphasis>______</item>
+      <item><label>c</label>Now use the same function to answer the question: if Sally distributed 35 candy bars, how many students were in the class? <emphasis>First represent the question in functional notation—then answer it. </emphasis>______</item>
+    </list>
+	</problem>
+
+</exercise>
+    
+    
+    <exercise id="element-381"><problem id="idm12772464">
+		<para id="element-103">The function 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     is “Subtract three, then take the square root.”
+		</para><list id="element-568" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Express this function algebraically, instead of in words: 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>______
+    </item>
+      <item><label>b</label>Give any three points that could be generated by this function:______ </item>
+      <item><label>c</label>What <m:math>
+    <m:ci>x</m:ci>
+</m:math>-values are in the domain of this function?______</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-932"><problem id="idm5205488">
+		<para id="element-883">The function <m:math><m:mi>y</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> is “Given any number, return 6.”
+		</para><list id="element-376" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Express this function algebraically, instead of in words: 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y \( x \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>______
+     </item>
+      <item><label>b</label>Give any three points that could be generated by this function:______ </item>
+      <item><label>c</label>What <m:math><m:ci>x</m:ci></m:math>-values are in the domain of this function?______ </item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-977"><problem id="idm5603952">
+		<para id="element-35"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>z</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>6x</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{z \( x \) =x rSup { size 8{2} }  - 6x+9} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-587" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \(  - 1 \) ={}} {}</m:annotation></m:semantics></m:math>______</item>
+      <item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \( 0 \) ={}} {}</m:annotation></m:semantics></m:math> ______</item>
+      <item><label>c</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \( 1 \) ={}} {}</m:annotation></m:semantics></m:math>______</item>
+      <item><label>d</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \( 3 \) ={}} {}</m:annotation></m:semantics></m:math>______</item>
+      <item><label>e</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \( x+2 \) ={}} {}</m:annotation></m:semantics></m:math>______</item>
+      <item><label>f</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{z \( z \( x \)  \) ={}} {}</m:annotation></m:semantics></m:math>______</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-908"><problem id="idp1562032">
+		<para id="element-965">Of the following sets of numbers, indicate which ones could possibly have been generated by a function. All I need is a “Yes” or “No”—you don’t have to tell me the function! (But go ahead and do, if you want to…)
+		</para><list id="element-981" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2,4</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>1,1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,0</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2,4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  - 2,4 \)   \(  - 1,1 \)   \( 0,0 \)   \( 1,1 \)   \( 2,4 \) } {}</m:annotation></m:semantics></m:math> </item>
+      <item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>4,</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1,</m:mn><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,0</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4,2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4, - 2 \)   \( 1, - 1 \)   \( 0,0 \)   \( 1,1 \)   \( 4,2 \) } {}</m:annotation></m:semantics></m:math></item>
+      <item><label>c</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2,</m:mn><m:mi>π</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3,</m:mn><m:mi>π</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4,</m:mn><m:mi>π</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5,1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 2,π \)   \( 3,π \)   \( 4,π \)   \( 5,1 \)  } {}</m:annotation></m:semantics></m:math> </item>
+      <item><label>d</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>π</m:mi><m:mi>,</m:mi><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>π</m:mi><m:mi>,</m:mi><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>π</m:mi><m:mi>,</m:mi><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( π,2 \)   \( π,3 \)   \( π,4 \)   \( 1,5 \) } {}</m:annotation></m:semantics></m:math> </item>
+    </list>
+	</problem>
+</exercise>
+    
+    <exercise id="element-450"><problem id="idp4438240">
+		<para id="element-898">Make up a function involving <emphasis>music</emphasis>.
+		</para><list id="element-690" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write the scenario.  Your description should clearly tell me—in words—how one value depends on another.</item>
+      <item><label>b</label>Name, and clearly describe, two variables. Indicate which is <emphasis>dependent</emphasis> and which is <emphasis>independent</emphasis>.</item>
+      <item><label>c</label>Write a function showing how the dependent variable depends on the independent variable.  <emphasis>If you were explicit enough in parts (a) and (b), I should be able to predict your answer to part (c) before I read it</emphasis>.</item>
+      <item><label>d</label>Choose a sample number to show how your function works. Explain what the result means.</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-301"><problem id="idm2091088">
+		<para id="element-113">Here is an algebraic generalization: for any number 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mi>x</m:mi>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    , 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>25</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} }  - "25"= \( x+5 \)  \( x - 5 \) } {}</m:annotation></m:semantics></m:math>.
+		</para><list id="element-574" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Plug 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:math> into that generalization, and see if it works.</item>
+      <item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20" times "20"} {}</m:annotation></m:semantics></m:math> is 400. Given that, and the generalization, can you find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" times "25"} {}</m:annotation></m:semantics></m:math> without a calculator? (Don’t just give me the answer, show how you got it!)</item></list>
+	</problem>
+
+	</exercise><exercise id="element-959"><problem id="idp4683440">
+		<para id="element-692">Amy has started a company selling candy bars. Each day, she buys candy bars from the corner store and sells them to students during lunch. The following graph shows her <emphasis>profit</emphasis> each day in March.</para>
+		<figure id="fig2"><media id="idm1333360" alt="A graph showing the profits for March."><image src="../../media/sample function test picture.png" mime-type="image/png" print-width="3in"/></media></figure>
+
+<list id="element-730" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>On what days did she break even?</item>
+      <item><label>b</label>On what days did she <emphasis>lose</emphasis> money?</item>
+      
+    </list>
+	</problem></exercise>
+    <exercise id="element-909"><problem id="idp2667552">
+  <para id="element-810">
+   The picture below shows the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= sqrt {x} } {}</m:annotation></m:semantics></m:math>. The graph starts at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,0</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 0,0 \) } {}</m:annotation></m:semantics></m:math> and moves up and to the right forever.
+  </para>
+<figure id="fig6"><media id="idp2525072" alt="A graph of the square root of x starting at (0,0)."><image src="../../media/10.png" mime-type="image/png" print-width="3in"/></media></figure><list id="element-427" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the domain of this graph?</item>
+<item><label>b</label>Write a function that looks exactly the same, except that it starts at the point 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>3,1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  - 3,1 \) } {}</m:annotation></m:semantics></m:math> and moves up-and-right from there.</item></list>
+</problem>
+</exercise><exercise id="element-722"><problem id="idp4659536">
+		<para id="element-311">The following graph represents the graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=f \( x \) } {}</m:annotation></m:semantics></m:math>.</para>
+		<figure id="fig3"><media id="idp5697488" alt="A graph of function f(x)."><image src="../../media/sample function test graph.png" mime-type="image/png" print-width="3in"/></media></figure>
+
+<list id="element-726" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Is it a function? Why or why not?</item>
+      <item><label>b</label>What are the zeros?</item>
+      <item><label>c</label>For what <m:math>
+  <m:apply>
+    <m:minus/>
+    <m:ci>x</m:ci>
+    <m:ci>values</m:ci>
+  </m:apply>
+</m:math> is it positive?</item>
+      <item><label>d</label>For what <m:math>
+  <m:apply>
+    <m:minus/>
+    <m:ci>x</m:ci>
+    <m:ci>values</m:ci>
+  </m:apply>
+</m:math> is it negative?</item>
+<item><label>e</label>Below is the same function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) } {}</m:annotation></m:semantics></m:math>. On that same graph, draw the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=f \( x \)  - 2} {}</m:annotation></m:semantics></m:math>.</item>
+
+      </list>
+<figure id="fig9"><media id="idp1755088" alt="A graph of test function f(x)."><image src="../../media/sample function test graph.png" mime-type="image/png" print-width="3in"/></media></figure>
+
+<list id="element-811" list-type="labeled-item" mark-suffix=".">
+
+<item><label>f</label>Below is the same function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) } {}</m:annotation></m:semantics></m:math>. On that same graph, draw the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>f</m:mi></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= - f \( x \) } {}</m:annotation></m:semantics></m:math>.</item></list>
+<figure id="fig7"><media id="idp6695456" alt="A graph of simple test function f(x)."><image src="../../media/sample function test graph.png" mime-type="image/png" print-width="3in"/></media></figure>
+	</problem>
+
+</exercise>
+    
+    <para id="id46948415"><title>Extra credit:</title>Here is a cool trick for squaring a difficult number, if the number immediately below it is easy to square.</para>
+    <para id="id47830066">Suppose I want to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>31</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. That’s hard. But it’s easy to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>30</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"30" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, that’s 900. Now, here comes the trick: add 30, and then add 31. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>900</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>30</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>31</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>961</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"900"+"30"+"31"="961"} {}</m:annotation></m:semantics></m:math>. That’s the answer! 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>31</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mtext>961</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31" rSup { size 8{2} } ="961"} {}</m:annotation></m:semantics></m:math>.</para>
+    <list id="element-790" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Use this trick to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>41</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"41" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (Don’t just show me the answer, show me the work!)</item>
+<item><label>b</label> Write the algebraic generalization that represents this trick.</item>
+    </list>
+    
+  </content>
+</document>

@@ -1,0 +1,245 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Inverse Functions</title>
+  <metadata>
+  <md:content-id>m19120</md:content-id><md:title>Homework: Inverse Functions</md:title>
+  <md:abstract>This module provides practice problems designed to develop some concepts related to inverse functions.</md:abstract>
+  <md:uuid>a2167451-4e1e-4af4-91df-2e0932193e42</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-522"><problem id="id1166984426730">
+		<para id="element-690">
+		On our last “Sample Test,” we did a scenario where Sally distributed two candy bars to each student and five to the teacher. We found a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c \( s \) } {}</m:annotation></m:semantics></m:math>that represented how many candy bars she distributed, as a function of the number of students in the room.
+		</para><list id="element-951" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What was that function again?</item>
+      <item><label>b</label>How many candy bars would Sally distribute if there were 20 students in the room?</item>
+      <item><label>c</label>Find the inverse function.</item>
+      <item><label>d</label>Now—this is the key part—explain what that inverse function actually represents. Ask a word-problem question that I can answer by using the inverse function.</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-264"><problem id="id1166966852643">
+		<para id="element-854">
+		Make up a problem like #1. That is, make up a scenario, and show the function that represents that scenario. Then, give a word problem that is answered by the inverse function, and show the inverse function.
+		</para>
+	</problem>
+
+	</exercise><para id="id5752240">For each function, find the domain, the range, and the inverse function.</para>
+    <exercise id="element-980"><problem id="id1166966883188">
+		<para id="element-773">
+		
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mi>x</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y=2+ {  {1}  over  {x} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+		</para>
+	</problem>
+
+	</exercise><exercise id="element-59"><problem id="id1166966701826">
+		<para id="element-596"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mn>7</m:mn>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {2x+3}  over  {7} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+	</problem>
+
+	</exercise><exercise id="element-636"><problem id="id1166966892093">
+		<para id="element-492">
+	
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{2 \( x+3 \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+		</para>
+	</problem>
+
+	</exercise><exercise id="element-398"><problem id="id1166967103347">
+		<para id="element-73">
+
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+		</para>
+	</problem>
+
+	</exercise><exercise id="element-437"><problem id="id1166967103545">
+		<para id="element-992">
+	
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{3} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+		</para>
+	</problem>
+
+	</exercise><exercise id="element-68"><problem id="id1166967103605">
+		<para id="element-979">
+
+(x<sup>3</sup>+10)<sup>3</sup>
+			
+		</para>
+	</problem>
+</exercise><exercise id="element-824"><problem id="id1166966886482">
+		<para id="element-571"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2x</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y= {  {2x+1}  over  {x} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+	</problem>
+
+	</exercise><exercise id="element-442"><problem id="id1166966886556">
+		<para id="element-184">
+	
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>x</m:mi>
+                        <m:mrow>
+                          <m:mn>2x</m:mn>
+                          <m:mfenced open="[" close="]"/>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y= {  {x}  over  {2x left [ right ]1} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+		</para>
+	</problem>
+
+	</exercise><exercise id="element-869"><problem id="id1166966891756">
+  <para id="element-808">
+    “The functions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( x \) } {}</m:annotation></m:semantics></m:math> are inverse functions.” Express that sentence in math, instead of in words (or using as few words as possible).
+  </para>
+</problem>
+
+</exercise>
+  </content>
+</document>

@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- Homework: Tree Diagrams</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1630ec35-2d82-48d5-989f-53b4415243d4</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7447132">
+        <problem id="idp419696">
+          <para id="id7447135">The following tree diagram represents all the possible outcomes if you flip a coin three times.</para>
+
+      <figure id="id7447141"><media id="idm4598864" alt="A tree diagram showing possible outcomes for flipping a coin thrice."><image src="../../media/graphics1-00db.png" mime-type="image/png" print-width="4in"/></media></figure>
+      <para id="id3924449">Use the diagram to answer the following questions.</para>
+      <list list-type="labeled-item" id="id3924454" mark-suffix=".">
+      
+        <item><label>a</label>One possible outcome is “First flip heads, second flip tails, third flip heads.” Locate and circle this outcome on the diagram. Then, in the space below, answer the question: what is the probability of that particular outcome?</item>
+        <item><label>b</label>What is the probability that all three flips will be the same?</item>
+        <item><label>c</label>What is the probability that <emphasis>exactly one</emphasis> of the coins will end up heads?</item>
+        <item><label>d</label>What is the probability that <emphasis>at least one</emphasis> of the coins will end up heads?</item>
+        <item><label>e</label>Suppose there were a thousand people in a room. (A really big room.) Each one of those people pulled out a coin and flipped it three times. Roughly how many people would you be able to say, “All three of my flips came out the same?”</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id3935225">
+        <problem id="idp1176640">
+          <para id="id3935228">There are seven different types of star. In order of decreasing temperature, they are: O, B, A, F, G, K, and M. (Some astronomers remember this based on the mnemonic: “Oh, be a fine girl: kiss me.”) Within each stellar type, stars are placed into ten subclasses, numbered from 0 to 9. Our own sun is a type G, subclass 2.</para>
+
+      <list list-type="labeled-item" id="id3726756" mark-suffix=".">
+      
+        <item><label>a</label>How many different type-and-subclass categories are there? (In other words, if you drew the tree diagram—which I am not recommending—how many leaves would there be?)</item>
+        <item><label>b</label>Of these type-and-subclass categories, how many of them have a <emphasis>letter (type)</emphasis> that is a vowel, and a <emphasis>number (subclass)</emphasis> that is a multiple of 3?</item>
+        <item><label>c</label>If you surveyed a thousand randomly chosen stars, how many of them would you expect to be G2 like our own sun?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id4972809">
+        <problem id="idm6160304">
+          <para id="id4972812">According to the U.S. Census Bureau, the U.S. population crossed the 300 Million mark in the year 2006. In that year, three out of four people in the U.S. were considered “white”; one out of four belonged to minority ethnic groups. (*Hispanic or Latino was not considered a separate ethnic group in this study.) Children (under age 18) made up approximately one quarter of the population. Males and females were equally distributed.</para>
+
+      <list list-type="labeled-item" id="id7456358" mark-suffix=".">
+      
+        <item><label>a</label>In a room full of a hundred people randomly chosen from the U.S. 2006 population, how many of them would you expect to be white?</item>
+        <item><label>b</label>Of <emphasis>those</emphasis>, how many would you expect to be children?</item>
+        <item><label>c</label>Of <emphasis>those</emphasis>, how many would you expect to be boys?</item>
+        <item><label>d</label>So, what is the probability that a randomly chosen person in the U.S. in 2006 was a white boy?</item>
+        <item><label>e</label>What assumption—not necessarily true, and not stated in the problem—do you have to make in order to believe your answer to part (d) is accurate?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

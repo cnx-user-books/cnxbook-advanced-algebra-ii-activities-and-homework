@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Quadratic Inequalities</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m19257</md:content-id>
+  <md:title>Quadratic Inequalities</md:title>
+  <md:abstract>Introduction to quadratic inequalities.</md:abstract>
+  <md:uuid>d8cec161-eba9-4578-b8b4-ab3cf416523c</md:uuid>
+</metadata>
+  <content>
+    <para id="id14924757">The first part of this assignment is brought to you by our unit on <emphasis>functions</emphasis>. In fact, this part is entirely recycled from that unit.
+    </para>
+    <exercise id="element-574"><problem id="id1171067807098">
+
+
+<para id="id14924769">The following graph shows the temperature throughout the month of March. Actually, I just made this graph up—the numbers do not actually reflect the temperature throughout the month of March. We’re just pretending, OK?</para>
+<figure id="fig1"><media id="id1171081079622" alt="A graph that shows the temperature throughout the month of March"><image src="../../media/temp.png" mime-type="image/png" print-width="3in"/></media>
+</figure>
+    
+    <list id="element-763" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>On what days was the temperature exactly 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>0</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mo stretchy="false">°</m:mo></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 rSup { size 8{ circ } } } {}</m:annotation></m:semantics></m:math>C?</item>
+
+<item><label>b</label>On what days was the temperature below freezing?</item>
+
+<item><label>c</label>On what days was the temperature above freezing?</item>
+
+<item><label>d</label>What is the domain of this graph?</item>
+
+<item><label>e</label>During what time periods was the temperature going up?</item>
+
+<item><label>f</label>During what time periods was the temperature going down?</item>
+
+</list>
+</problem>
+
+
+</exercise>
+
+    <exercise id="element-971"><problem id="id1171068764901">
+  <para id="element-33">
+The following graph represents the graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=f \( x \) } {}</m:annotation></m:semantics></m:math>.
+  </para>
+<figure id="fig2"><media id="id1171082181736" alt="A graph of f(x)."><image src="../../media/graph-54f7.png" mime-type="image/png" print-width="3in"/></media>
+</figure><list id="element-856" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Is it a function? Why or why not?</item>
+      <item><label>b</label> What are the zeros?</item>
+      <item><label>c</label> For what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is it positive?</item>
+      <item><label>d</label> For what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is it negative?</item>
+      <item><label>e</label> Draw the graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=f \( x \)  - 2} {}</m:annotation></m:semantics></m:math>.</item>
+      <item><label>f</label> Draw the graph 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>f</m:mi></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= - f \( x \) } {}</m:annotation></m:semantics></m:math></item>
+    </list>
+</problem>
+
+
+</exercise>
+    <para id="id15253445">OK, your memory is now officially refreshed, right? You remember how to look at a graph and see when it is zero, when it is below zero, and when it is above zero.
+    </para>
+    <para id="id15253458">Now we get to the actual “quadratic inequalities” part. But the good news is, there is nothing new here! First you will graph the function (you already know how to do that). Then you will identify the region(s) where the graph is positive, or negative (you already know how to do that).
+    </para>
+    
+    <exercise id="element-434"><problem id="id1171064299640">
+  <para id="element-757">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>8x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>15</m:mtext>
+                  </m:mrow>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{2} } +8x+"15"&gt;0} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-673" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Draw a quick sketch of the graph by finding the zeros, and noting whether the function opens up or down.</item>
+      <item><label>b</label> Now, the inequality asks when that function is &gt;<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{&gt;0} {}</m:annotation></m:semantics></m:math>—that is, when it is positive. Based on your graph, for what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is the function positive?</item>
+      <item><label>c</label> Based on your answer to part (b), choose one 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value for which the inequality <emphasis>should</emphasis> hold, and one for which it should <emphasis>not</emphasis>. Check to make sure they both do what they should.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-362"><problem id="id1171069917876">
+  <para id="element-765">
+A flying fish jumps from the surface of the water with an initial speed of 4 feet/sec.
+  </para><list id="element-470" mark-suffix="." list-type="labeled-item"><item><label>a</label> Write the equation of motion for this fish.</item>
+	<item><label>b</label> Find the zeros of the graph, and graph it.</item>
+	<item><label>c</label> Based on your graph, answer the question: during what time interval was the fish <emphasis>above</emphasis> the water?</item>
+	<item><label>d</label> During what time interval was the fish <emphasis>below</emphasis> the water?</item>
+	<item><label>e</label> At what time(s) was the fish exactly at the level of the water?</item>
+	<item><label>f</label> What is the maximum height the fish reached in its jump?</item>
+</list>
+</problem>
+</exercise>
+  </content>
+</document>

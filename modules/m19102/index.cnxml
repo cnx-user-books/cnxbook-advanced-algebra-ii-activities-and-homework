@@ -1,0 +1,168 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: “Real life” exponential curves</title>
+  <metadata>
+  <md:content-id>m19102</md:content-id><md:title>Homework: “Real life” exponential curves</md:title>
+  <md:abstract>This module provides practice problems designed to explore realistic applications of exponents.</md:abstract>
+  <md:uuid>4cb7a1eb-e108-48bf-99fc-013d0af15ecd</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id10199985">Radioactive substances decay according to a “half-life.” The half-life is the period of time that it takes for half the substance to decay. For instance, if the half-life is 20 minutes, then every 20 minutes, half the remaining substance decays.</para>
+    <para id="id10439330">As you can see, this is the sort of exponential curve that goes down instead of up: at each step (or half-life) the total amount <emphasis>divides by 2</emphasis>; or, to put it another way, <emphasis>multiplies by ½.</emphasis></para>
+
+
+<exercise id="hrlec1"><problem id="id16602277">
+
+    <para id="id8792298"><title>First “Radioactive Decay” Case</title>You have 1 gram of a substance with a half-life of 1 minute. Fill in the following table.</para>
+    <table id="id6679914" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/> 
+        <thead>
+          <row>
+            <entry>Time</entry>
+            <entry>Substance remaining</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>0</entry>
+            <entry>1 gram</entry>
+          </row>
+          <row>
+            <entry>1 minute</entry>
+            <entry>½ gram</entry>
+          </row>
+          <row>
+            <entry>2 minutes</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>3 minutes</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>4 minutes</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>5 minutes</entry>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+    <list id="element-714" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>After <m:math><m:mi>n</m:mi></m:math> minutes, how many grams are there? Give me an equation.</item>
+
+<item><label>b</label><emphasis>Use that equation</emphasis> to answer the question: after 5 minutes, how many grams of substance are there? Does your answer agree with what you put under “5 minutes” above? (If not, something’s wrong somewhere—find it and fix it!)</item>
+
+<item><label>c</label>How much substance will be left after 4½ minutes?</item>
+
+<item><label>d</label>How much substance will be left after half an hour?</item>
+
+<item><label>e</label>How long will it be before only one one-millionth of a gram remains?</item>
+
+<item><label>f</label>Finally, on the attached graph paper, do a graph of this function, where the “minute” is on the x-axis and the “amount of stuff left” is on the y-axis (so you are graphing grams as a function of minutes). Obviously, your graph won’t get past the fifth or sixth minute or so, but try to get an idea for what the shape looks like.</item>
+</list>
+
+
+</problem>
+</exercise>
+
+
+<exercise id="hrlec2"><problem id="id17269522">
+
+    <para id="id6916759"><title>Second “Radioactive Decay” Case</title>Now, we’re going to do a more complicated example. Let’s say you start with 1000 grams of a substance, and its half-life is 20 minutes; that is, every 20 minutes, half the substance disappears. Fill in the following chart.</para>
+    <table id="id8361267" summary="">
+<tgroup cols="3">
+
+<colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Time</entry>
+            <entry>Half-Lives</entry>
+            <entry>Substance remaining</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>1000 grams</entry>
+          </row>
+          <row>
+            <entry>20 minutes</entry>
+            <entry>1</entry>
+            <entry>500 grams</entry>
+          </row>
+          <row>
+            <entry>40 minutes</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>60 minutes</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>80 minutes</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>100 minutes</entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+    <list id="element-379" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>After n half-lives, how many grams are there? Give me an equation.</item>
+
+<item><label>b</label>After n half-lives, how many <emphasis>minutes</emphasis> have gone by? Give me an equation.</item>
+
+<item><label>c</label>Now, let’s look at that equation the other way. After t minutes (for instance, after 60 minutes, or 80 minutes, <emphasis>etc</emphasis>), how many half-lives have gone by? Give me an equation.</item>
+
+<item><label>d</label>Now we need to put it all together. After t minutes, how many grams are there? This equation should take you directly from the first column to the third: for instance, it should turn 0 into 1000, and 20 into 500. (*Note: you can build this as a <emphasis>composite functio</emphasis>n, starting from two of your previous answers!)</item>
+
+<item><label>e</label>Test that equation to see if it gives you the same result you gave above after 100 minutes.</item>
+
+<item><label>f</label>Once again, graph that do a graph on the graph paper. The x-axis should be minutes. The y-axis should be the total amount of substance. In the space below, answer the question: how is it like, and how is it unlike, the previous graph?</item>
+
+<item><label>g</label>How much substance will be left after 70 minutes?</item>
+
+<item><label>h</label>How much substance will be left after two hours? (*Not two minutes, two hours!)</item>
+
+<item><label>i</label>How long will it be before only one gram of the original substance remains?</item>
+</list>
+
+</problem>
+</exercise>
+
+
+<exercise id="hrlec3"><problem id="id16627867">
+    <para id="id10323863"><title>Compound Interest</title>Finally, a bit more about compound interest</para>
+    <para id="id9434359">If you invest $A into a bank with i% interest compounded n times per year, after t years your bank account is worth an amount M given by:</para>
+    <para id="id8933987"><m:math><m:mi>M</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>i</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>nt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (1+ {  {i}  over  {n} }  right ) rSup { size 8{ ital "nt"} } } {}</m:annotation></m:semantics></m:math></para>
+    <para id="id10502589">For instance, suppose you invest $1,000 in a bank that gives 10% interest, compounded “semi-annually” (twice a year). So <m:math><m:mi>A</m:mi></m:math>, your initial investment, is $1,000. <m:math><m:mi>i</m:mi></m:math>, the interest rate, is 10%, or 0.10. <m:math><m:mi>n</m:mi></m:math>, the number of times compounded per year, is 2. So after 30 years, you would have:</para>
+    <para id="id9592364">$1,000
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>10</m:mtext></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (1+ {  {0 "." "10"}  over  {2} }  right ) rSup { size 8{2 times "30"} } } {}</m:annotation></m:semantics></m:math>=$18,679. (Not bad for a $1,000 investment!)</para>
+    <para id="id9111328">Now, suppose you invest $1.00 in a bank that gives 100% interest (nice bank!). How much do you have after one year if the interest is...</para>
+    <list id="id8440920" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Compounded annually (once per year)?</item>
+      <item><label>b</label>Compounded quarterly (four times per year)?</item>
+      <item><label>c</label>Compounded daily?</item>
+      <item><label>d</label>Compounded every second?</item>
+    </list>
+</problem>
+</exercise>
+  </content>
+</document>

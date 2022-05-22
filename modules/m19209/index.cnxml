@@ -1,0 +1,602 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Sample Test: Matrices II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d1455e4c-ff79-485c-baf1-4a3e4500aca3</md:uuid>
+</metadata>
+  <content>
+
+
+
+      <exercise id="id3699411"><problem id="idm4063024">
+          <para id="id9896531">Suppose 
+<m:math>
+<m:mi>A</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>B</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>C</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>D</m:mi>
+</m:math>, and 
+<m:math>
+<m:mi>E</m:mi>
+</m:math> are matrices. Solve the following equation for 
+<m:math>
+<m:mi>C</m:mi>
+</m:math>.</para><para id="element-680"><m:math>
+<m:mi>A</m:mi>
+<m:mi>B</m:mi>
+<m:mi>C</m:mi>
+<m:mo>=</m:mo>
+<m:mi>D</m:mi>
+<m:mi>E</m:mi>
+</m:math></para>
+        </problem>
+      
+<solution id="idm10688832">
+      <list id="id7283520" list-type="bulleted"><item>Multiply both sides by <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> in front: <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>ABC</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+
+        <item>But <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>A</m:mi>
+<m:mo>=</m:mo>
+<m:mi>I</m:mi></m:math>: <m:math><m:mi>IBC</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+
+        <item>But <m:math><m:mi>IB</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math>: <m:math><m:mi>BC</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+
+        <item>Multiply both sides by <m:math><m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup></m:math> in front: <m:math><m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>BC</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+        <item>But <m:math><m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>B</m:mi>
+<m:mo>=</m:mo>
+<m:mi>I</m:mi></m:math>: <m:math><m:mi>IC</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+        <item>But <m:math><m:mi>IC</m:mi>
+<m:mo>=</m:mo>
+<m:mi>C</m:mi></m:math>: <m:math><m:mi>C</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>DE</m:mi></m:math></item>
+      </list>
+      <para id="id5907719">That is the solution. Note that solving this uses both the definition of an inverse matrix (<m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>A</m:mi>
+<m:mo>=</m:mo>
+<m:mi>I</m:mi></m:math>) and the definition of the identity matrix (<m:math><m:mi>IB</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math>). Note also that it matters which side you multiply on: <m:math><m:mi>DE</m:mi><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:msup><m:mi>B</m:mi><m:mn>-1</m:mn></m:msup></m:math> would not be correct.</para>
+      <para id="id5691662">Incidentally, it may help to think of this in analogy to numerical equations. Suppose I gave you the equation:</para>
+      <para id="id7602222"><m:math><m:mn>3</m:mn><m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>12</m:mn></m:math></para>
+      <para id="id7602226">You might say “I would divide both sides by 3.” But what if I told you there is no such thing as division, only multiplication? Hopefully you would say “No problem, I will multiply both sides by <m:math><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math>.” You multiply both sides by the inverse of 3 because <m:math><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math> times 3 is 1, and 1 times <m:math><m:mi>x</m:mi></m:math> is <m:math><m:mi>x</m:mi></m:math>, so the <m:math><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math> makes the 3 go away. Multiplying by <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math> to get rid of <m:math><m:mi>A</m:mi></m:math> is exactly like that.</para>
+</solution></exercise>
+      
+
+
+
+      <exercise id="id3648353"><problem id="idm9950848">
+          <para id="id9053680">Here are two equations and two unknowns.</para><para id="element-186"><m:math>
+<m:mn>6</m:mn>
+<m:mi>m</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>n</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-2</m:mn>
+</m:math></para><para id="element-307"><m:math>
+<m:mn>-3</m:mn>
+<m:mo>-</m:mo>
+<m:mi>n</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para><list id="element-654" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite this problem as a matrix equation.</item>
+<item><label>b</label>Solve. What are 
+<m:math>
+<m:mi>m</m:mi>
+</m:math> and
+<m:math>
+<m:mi>n</m:mi>
+</m:math>?</item>
+</list>
+        </problem>
+
+<solution id="idm6249920">
+      <para id="element-869"><emphasis>a.</emphasis> Rewrite this problem as a matrix equation.
+</para><para id="id5847114"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+6 {} # 2 {} ##
+ - 3 {} #  - 1{}
+}  right ]} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>m</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>n</m:mi></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+m {} ##
+n
+}  right ]} {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>1</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+ - 2 {} ##
+1
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id3112032">(*I urge you to confirm this for yourself. Multiply the two matrices on the left, then set the resulting matrix equal to the matrix on the right, and confirm that you get the two equations we started with.)</para>      
+      
+      
+      <para id="id7947516"><emphasis>b.</emphasis> Solve. What are 
+<m:math>
+<m:mi>m</m:mi>
+</m:math> and
+<m:math>
+<m:mi>n</m:mi>
+</m:math>?
+</para>
+      <para id="id7947520">If you think of that previous equation as <m:math><m:mi>AX</m:mi>
+<m:mo>=</m:mo>
+<m:mi>A</m:mi></m:math>, then it solves out as <m:math><m:mi>X</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>–1</m:mn></m:msup>
+<m:mi>A</m:mi></m:math>. So you can type the first matrix into your calculator as <m:math><m:mi>A</m:mi></m:math> and the second as <m:math><m:mi>B</m:mi></m:math>, then type <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup><m:mi>B</m:mi></m:math> and you get...</para>
+      <para id="id7180791">an error! Singular matrix! What happened? I can answer that question on two levels.</para>
+      <para id="id7227777">First, matrix <m:math><m:mi>A</m:mi></m:math>, thus defined, has a determinant of 0. (You can confirm this easily, with or without the calculator.) Hence, it has no inverse.</para>
+      <para id="id6125162">Second, these two equations are actually the same equation—as you can see if you multiply the bottom equation by –2. They cannot be solved, because they have an infinite number of solutions.</para>
+</solution>
+      </exercise>
+      
+
+
+      <exercise id="id10976918"><problem id="idm17983968">
+          <para id="id6401515">Solve the following equations for 
+<m:math>
+<m:mi>a</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>b</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>c</m:mi>
+</m:math>, and 
+<m:math>
+<m:mi>d</m:mi>
+</m:math>.</para><para id="element-598"><m:math>
+<m:mn>2</m:mn>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>b</m:mi>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+<m:mi>c</m:mi>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+</m:math></para><para id="element-3"><m:math>
+<m:mn>3</m:mn>
+<m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mn>4</m:mn>
+<m:mi>b</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>c</m:mi>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math></para><para id="element-111"><m:math>
+<m:mn>10</m:mn>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mn/>
+<m:mi>c</m:mi>
+<m:mo>+</m:mo>
+<m:mn/>
+<m:mi/>
+<m:mo/>
+<m:mn>6</m:mn>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></para><para id="element-204"><m:math>
+<m:mn/>
+<m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mn/>
+<m:mi>b</m:mi>
+<m:mo>-</m:mo>
+<m:mn/>
+<m:mi>c</m:mi>
+<m:mo>-</m:mo>
+<m:mn/>
+<m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mn>69</m:mn>
+</m:math></para>
+        </problem>
+      
+<solution id="idp3319936">
+      <para id="id6435662">This is where you really, really need a calculator. Again, think of this as <m:math><m:mi>A</m:mi>
+<m:mo>=</m:mo>
+<m:mi>B</m:mi></m:math>, where...</para>
+      <para id="id5640240"><m:math><m:mi>A</m:mi><m:mo>=</m:mo></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>8</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+2 {} # 3 {} #  - 5 {} # 7 {} ##
+3 {} #  - 4 {} # 6 {} # 8 {} ##
+"10" {} # 0 {} # 1 {} # 6 {} ##
+1 {} #  - 1 {} #  - 1 {} #  - 1{}
+}  right ]} {}</m:annotation></m:semantics></m:math>, <m:math><m:mi>X</m:mi><m:mo>=</m:mo></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mi>a</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>b</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mi>c</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>d</m:mi></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+a {} ##
+b {} ##
+c {} ##
+d
+}  right ]} {}</m:annotation></m:semantics></m:math>, and <m:math><m:mi>B</m:mi><m:mo>=</m:mo></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>8</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>69</m:mtext></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+8 {} ##
+"10" {} ##
+3 {} ##
+"69"
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id7169819">Then the solution is <m:math><m:mi>X</m:mi>
+<m:mo>=</m:mo>
+<m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup>
+<m:mi>B</m:mi></m:math>, which comes out on the calculator:</para>
+      <para id="id5651079"><m:math><m:mi>X</m:mi><m:mo>=</m:mo></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>345</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>39</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>564</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>25</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>220</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>871</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+3 "." "345" {} ##
+ - "39" "." "564" {} ##
+ - "25" "." "220" {} ##
+ - 0 "." "871"
+}  right ]} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id6890014">Since this equals the <m:math><m:mi>X</m:mi></m:math> I defined earlier, that means <m:math><m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3.345</m:mn></m:math>, <m:math><m:mi>b</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–39.564</m:mn></m:math>,<m:math><m:mi>c</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–25.220</m:mn></m:math>, and <m:math><m:mi>d</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–0.871</m:mn></m:math>.</para>
+      <para id="id7837158">It’s that easy...and it’s also very, very dangerous. Because if you make one tiny little mistake (such as not noticing the “0<m:math><m:mi>b</m:mi></m:math>” in the third equation, or mistyping one little number on the calculator), you get a completely wrong answer, and no credit. So what can you do about this? Here are a few tips.</para>
+      <list id="id7892125" list-type="bulleted"><item>Even on a problem like this, you can show me your work. Show me your <m:math><m:mi>A</m:mi></m:math> and your <m:math><m:mi>B</m:mi></m:math> and tell me you typed <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup><m:mi>B</m:mi></m:math> into your calculator. Then I can see exactly what went wrong.</item>
+        <item>After you type in the matrices, always check them: just ask the calculator to dump out matrix <m:math><m:mi>A</m:mi></m:math> and matrix <m:math><m:mi>B</m:mi></m:math> and match them against the original equation.</item>
+        <item>If you have time after you’re done with everything else, come back and check the answers! Type: <code>3.345 STO → A</code> to put that number into memory <m:math><m:mi>a</m:mi></m:math> (numerical memory, not matrix memory: the green letters, remember?). Do the same for <m:math><m:mi>B</m:mi></m:math>, <m:math><m:mi>C</m:mi></m:math>, and <m:math><m:mi>D</m:mi></m:math>. Then type: <code>2A+3B–5D+7D</code> and make sure you get approximately 8; and so on for the other three equations. If they all work, you know you got it right!</item>
+      </list>     
+</solution></exercise>
+      
+      
+      
+      
+      <exercise id="id9848096"><problem id="idm905248">
+          <para id="element-964"><m:math>
+<m:mo>|</m:mo>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>2n</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+              
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+ - 2 {} # 2n {} ##
+5 {} #  - 4{}
+}  rline } {}</m:annotation>
+          </m:semantics>
+<m:mo>|</m:mo>      
+  </m:math>
+      </para><list id="element-689" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Find the determinant.</item>
+<item><label>b</label>Find the determinant 
+<m:math><m:mo>|</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+ - 2 {} # 6 {} ##
+5 {} #  - 4{}
+}  rline } {}</m:annotation></m:semantics><m:mo>|</m:mo></m:math> by plugging the appropriate value for <m:math><m:mi>n</m:mi></m:math> into your answer to part (a). Show your work!</item>
+<item><label>c</label>Find the determinant 
+<m:math><m:mo>|</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+ - 2 {} # 6 {} ##
+5 {} #  - 4{}
+}  rline } {}</m:annotation></m:semantics><m:mo>|</m:mo></m:math> on your calculator. Did it come out as you expected?</item></list>
+        </problem>
+      
+<solution id="idp357120">
+      <para id="id5576264"><emphasis>a.</emphasis> Find the determinant.
+</para>
+      <para id="id5562115"><m:math>
+<m:mo>(</m:mo>
+<m:mn>–2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>–4</m:mn>
+<m:mo>)</m:mo>
+<m:mo>-</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mi>n</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+<m:mo>–</m:mo>
+<m:mn>10</m:mn>
+<m:mi>n</m:mi>
+</m:math></para>
+
+      <para id="id7935338"><emphasis>b.</emphasis> Find the determinant <m:math><m:mo>|</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+ - 2 {} # 6 {} ##
+5 {} #  - 4{}
+}  rline } {}</m:annotation></m:semantics><m:mo>|</m:mo></m:math> by plugging the appropriate value for <m:math><m:mi>n</m:mi></m:math> into your answer to part (a). Show your work!
+</para>
+      <para id="id7207852">xxxNote that since we are using 6 where we had 2n before, n=3. 8-10(3)=–22.</para>
+
+      <para id="id7336679"><emphasis>c.</emphasis> Find the determinant 
+<m:math><m:mo>|</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline  matrix {
+ - 2 {} # 6 {} ##
+5 {} #  - 4{}
+}  rline } {}</m:annotation></m:semantics><m:mo>|</m:mo></m:math> on your calculator. Did it come out as you expected?</para>
+      <para id="id7336683">Hopefully it does. If it doesn’t, don’t say it did—find your mistake!</para>
+</solution>
+</exercise>
+      
+      
+      
+      <exercise id="id10799859"><problem id="idp1109840">
+          <para id="element-645"><m:math>
+<m:mo>|</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>6</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-2</m:mn></m:mtd>
+<m:mtd><m:mn>4</m:mn></m:mtd>
+<m:mtd><m:mi>x</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>8</m:mn></m:mtd>
+<m:mtd><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>|</m:mo>
+</m:math></para><list id="element-367" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the determinant.</item>
+<item><label>b</label>Check your answer by finding the determinant of that same matrix when
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math>
+on your calculator. Does it come out the way your equation predicted? Show your work!</item>
+</list>
+        </problem>
+      
+<solution id="idm6346144">
+      <para id="id5881404"><emphasis>a.</emphasis> Find the determinant.</para>
+      <para id="id7921006">I’m not going to do the whole drawing of the “expansion by minors” here, but you can find just such a drawing in your book. But if you do it right, you end up with:</para>
+      <para id="id7921016"><m:math>
+<m:mn>0</m:mn>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>–</m:mo>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mo>(</m:mo>
+<m:mn>–1</m:mn>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>(</m:mo>
+<m:mn>–16</m:mn>
+<m:mo>–</m:mo>
+<m:mn>8</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>(</m:mo>
+<m:mn>–24</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>141</m:mn>
+</m:math></para>
+
+      <para id="id5563062"><emphasis>b.</emphasis> Check your answer by finding the determinant of that same matrix when
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math>
+on your calculator. Does it come out the way your equation predicted? Show your work!
+</para>
+      <para id="id5563066">Our solution above predicts an answer of <m:math>
+<m:mn>60</m:mn>
+<m:mo>–</m:mo>
+<m:mn>141</m:mn>
+<m:mo>=</m:mo>
+<m:mn>–81</m:mn>
+</m:math>. Once again, try it on the calculator: if you don’t get that, find your mistake!</para>
+</solution></exercise>
+
+
+      
+      <exercise id="id5487485"><problem id="idm881744">
+          <para id="id7607222">Find the determinant 
+<m:math>
+<m:mo>|</m:mo>
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mn>4</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>-5</m:mn></m:mtd>
+<m:mtd><m:mn>6</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+<m:mtd><m:mn>-3</m:mn></m:mtd>
+<m:mtd><m:mn>9</m:mn></m:mtd>
+<m:mtd><m:mn>13</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>-23</m:mn></m:mtd>
+<m:mtd><m:mn>42</m:mn></m:mtd>
+<m:mtd><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mtd>
+<m:mtd><m:mn>0</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd><m:mn>14</m:mn></m:mtd>
+<m:mtd><m:mn>3</m:mn></m:mtd>
+<m:mtd><m:mn>35</m:mn></m:mtd>
+<m:mtd><m:mn>2</m:mn></m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>|</m:mo>
+</m:math></para>
+        </problem>
+      
+<solution id="idp1242944">
+      <para id="id6115770">Strictly a calculator problem: just be careful, and make sure to dump out the matrix to make sure you typed it right. Note that you will have to scroll to the right to see the whole thing! I get 168,555.6667, or 168,555⅔.</para>
+</solution></exercise>
+
+
+
+      <exercise id="id4012289"><problem id="idm6284800">
+          <para id="id9086191">Write a 2×2 matrix that has no inverse. No two of the four numbers should be the same.</para>
+        </problem>
+      
+<solution id="idm2110192">
+      <para id="id7170415">The key here is knowing that there is no inverse when the determinant, <m:math><m:mi>ad</m:mi>
+<m:mo>-</m:mo>
+<m:mi>bc</m:mi></m:math>, is zero. So there are many possible solutions, such as:</para>
+      <para id="id5819695">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfenced open="[" close="]">
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} ##
+3 {} # 6{}
+}  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</solution></exercise>
+
+
+
+
+  </content>
+</document>

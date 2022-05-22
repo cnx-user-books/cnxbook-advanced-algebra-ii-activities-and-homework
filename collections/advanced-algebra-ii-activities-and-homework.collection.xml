@@ -1,0 +1,232 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10686</md:content-id>
+    <md:title>Advanced Algebra II: Activities and Homework</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>91ec20a4-e910-4ef9-9308-f838d89de523</md:uuid>
+<md:slug>advanced-algebra-ii-activities-and-homework</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m19111"/>
+    <col:module document="m19435"/>
+    <col:subcollection>
+      <md:title>Functions</md:title>
+      <col:content>
+        <col:module document="m19125"/>
+        <col:module document="m19126"/>
+        <col:module document="m19124"/>
+        <col:module document="m19121"/>
+        <col:module document="m19115"/>
+        <col:module document="m19108"/>
+        <col:module document="m19114"/>
+        <col:module document="m19116"/>
+        <col:module document="m19110"/>
+        <col:module document="m19119"/>
+        <col:module document="m31952"/>
+        <col:module document="m19122"/>
+        <col:module document="m19113"/>
+        <col:module document="m19118"/>
+        <col:module document="m19109"/>
+        <col:module document="m19107"/>
+        <col:module document="m19112"/>
+        <col:module document="m19120"/>
+        <col:module document="m19123"/>
+        <col:module document="m19117"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Inequalities and Absolute Values</md:title>
+      <col:content>
+        <col:module document="m19158"/>
+        <col:module document="m19154"/>
+        <col:module document="m19163"/>
+        <col:module document="m19148"/>
+        <col:module document="m19151"/>
+        <col:module document="m19149"/>
+        <col:module document="m19155"/>
+        <col:module document="m19150"/>
+        <col:module document="m19153"/>
+        <col:module document="m19166"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Simultaneous Equations</md:title>
+      <col:content>
+        <col:module document="m19288"/>
+        <col:module document="m19291"/>
+        <col:module document="m19293"/>
+        <col:module document="m19289"/>
+        <col:module document="m19294"/>
+        <col:module document="m19292"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Quadratics</md:title>
+      <col:content>
+        <col:module document="m19247"/>
+        <col:module document="m19253"/>
+        <col:module document="m19243"/>
+        <col:module document="m19248"/>
+        <col:module document="m19246"/>
+        <col:module document="m19251"/>
+        <col:module document="m19242"/>
+        <col:module document="m19249"/>
+        <col:module document="m19262"/>
+        <col:module document="m19256"/>
+        <col:module document="m19259"/>
+        <col:module document="m19245"/>
+        <col:module document="m19244"/>
+        <col:module document="m19250"/>
+        <col:module document="m19260"/>
+        <col:module document="m19255"/>
+        <col:module document="m19257"/>
+        <col:module document="m19254"/>
+        <col:module document="m19258"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponents</md:title>
+      <col:content>
+        <col:module document="m19104"/>
+        <col:module document="m19101"/>
+        <col:module document="m19096"/>
+        <col:module document="m19098"/>
+        <col:module document="m19097"/>
+        <col:module document="m19100"/>
+        <col:module document="m19103"/>
+        <col:module document="m19102"/>
+        <col:module document="m19105"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Logarithms</md:title>
+      <col:content>
+        <col:module document="m19175"/>
+        <col:module document="m19176"/>
+        <col:module document="m19269"/>
+        <col:module document="m19177"/>
+        <col:module document="m19184"/>
+        <col:module document="m19181"/>
+        <col:module document="m19268"/>
+        <col:module document="m19180"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rational Expressions</md:title>
+      <col:content>
+        <col:module document="m19278"/>
+        <col:module document="m19275"/>
+        <col:module document="m19279"/>
+        <col:module document="m19277"/>
+        <col:module document="m19276"/>
+        <col:module document="m19274"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Radicals</md:title>
+      <col:content>
+        <col:module document="m19420"/>
+        <col:module document="m19419"/>
+        <col:module document="m19422"/>
+        <col:module document="m19421"/>
+        <col:module document="m19270"/>
+        <col:module document="m19263"/>
+        <col:module document="m19264"/>
+        <col:module document="m19272"/>
+        <col:module document="m19271"/>
+        <col:module document="m19273"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Imaginary Numbers</md:title>
+      <col:content>
+        <col:module document="m19129"/>
+        <col:module document="m19130"/>
+        <col:module document="m19128"/>
+        <col:module document="m19132"/>
+        <col:module document="m19134"/>
+        <col:module document="m19131"/>
+        <col:module document="m19127"/>
+        <col:module document="m19133"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Matrices</md:title>
+      <col:content>
+        <col:module document="m19206"/>
+        <col:module document="m19205"/>
+        <col:module document="m19207"/>
+        <col:module document="m19196"/>
+        <col:module document="m19208"/>
+        <col:module document="m19201"/>
+        <col:module document="m19213"/>
+        <col:module document="m19194"/>
+        <col:module document="m19214"/>
+        <col:module document="m19221"/>
+        <col:module document="m19190"/>
+        <col:module document="m19210"/>
+        <col:module document="m19188"/>
+        <col:module document="m19193"/>
+        <col:module document="m19212"/>
+        <col:module document="m19204"/>
+        <col:module document="m19209"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Modeling Data with Functions</md:title>
+      <col:content>
+        <col:module document="m19228"/>
+        <col:module document="m19227"/>
+        <col:module document="m19225"/>
+        <col:module document="m19224"/>
+        <col:module document="m19232"/>
+        <col:module document="m19231"/>
+        <col:module document="m19222"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Conics</md:title>
+      <col:content>
+        <col:module document="m19081"/>
+        <col:module document="m19086"/>
+        <col:module document="m19078"/>
+        <col:module document="m19084"/>
+        <col:module document="m19079"/>
+        <col:module document="m19091"/>
+        <col:module document="m19092"/>
+        <col:module document="m19094"/>
+        <col:module document="m19083"/>
+        <col:module document="m19088"/>
+        <col:module document="m19095"/>
+        <col:module document="m19082"/>
+        <col:module document="m19089"/>
+        <col:module document="m19093"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sequences and Series</md:title>
+      <col:content>
+        <col:module document="m19285"/>
+        <col:module document="m19284"/>
+        <col:module document="m19280"/>
+        <col:module document="m19282"/>
+        <col:module document="m19281"/>
+        <col:module document="m19283"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Probability</md:title>
+      <col:content>
+        <col:module document="m19236"/>
+        <col:module document="m19234"/>
+        <col:module document="m19237"/>
+        <col:module document="m19233"/>
+        <col:module document="m19235"/>
+        <col:module document="m19241"/>
+        <col:module document="m19240"/>
+        <col:module document="m19238"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

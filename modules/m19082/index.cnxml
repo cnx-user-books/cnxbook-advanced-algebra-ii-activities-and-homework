@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Distance to this point minus distance to that point is constant</title>
+  <metadata>
+  <md:content-id>m19082</md:content-id><md:title>Distance to this point minus distance to that point is constant</md:title>
+  <md:abstract>This module provides practice problems to lead students to the concept of a hyperbola.</md:abstract>
+  <md:uuid>50fbd1df-c9d7-415f-a46e-2e711faf6cbf</md:uuid>
+</metadata>
+
+<content>
+
+      <para id="id7942702">On the drawing below are the points (5,0) and (–5,0). We’re going to draw yet another shape—our final conic section. In order to be on our shape, the point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) must have the following property:</para>
+      <para id="id8295670">Take the distance from (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to (5,0), and the distance from (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>) to (–5,0). Those two distances must <emphasis>differ </emphasis>by 6. (In other words, this distance <emphasis>minus</emphasis> that distance must equal ±6.)</para>
+      <para id="id10338733">We’re going to start this one the same way we did our other shapes: intuitively. Your object is to find all the points that have that particular property. Start by finding the two points on the <m:math>
+<m:mi>x</m:mi>
+</m:math>-axis that work. After that, you have to sort of dope it out as we did before.</para>
+      <para id="id3469328">When you think you know the shape, don’t call it out! Call me over and I will tell you if it’s right.</para>
+      <para id="id11715389"><media id="id41922801" alt="A graph with points at (-5,0) and (5,0)."><image src="../../media/gr3.PNG" mime-type="image/png" print-width="4in"/></media></para>
+
+  </content>
+</document>

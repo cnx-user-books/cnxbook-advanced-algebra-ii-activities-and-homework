@@ -1,0 +1,64 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modeling Data with Functions Homework -- Homework: From Data Points to Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2c9e7dcc-504f-4214-88c4-0c17a6ccdb4b</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id13088136">
+        <problem id="idm5177728">
+          <para id="id13088139">Sketch a vertical parabola through the three points in each graph.</para>
+
+      <para id="id13088141"><figure id="fig1" orient="horizontal"><subfigure id="subfig1">
+    <media id="idm2366048" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g-1.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+<subfigure id="subfig2">
+    <media id="idm869104" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g-2.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+<subfigure id="subfig3">
+    <media id="idm15271104" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g-3.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+<subfigure id="subfig4">
+    <media id="idm5318400" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g-4.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure></figure></para>
+      
+        </problem>
+      </exercise>
+
+      <exercise id="id12823160">
+        <problem id="idm3934992">
+          <para id="id12823164">A certain function contains the points (–3,5) and (5,2).</para>
+
+      <list id="id12823167" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Find the function.</item>
+        <item><label>b</label>Verify that it contains both points.</item>
+        <item><label>c</label>Sketch it on the graph paper, noting the two points on it.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id13087634">
+        <problem id="idm754000">
+          <para id="id13087637">A certain function contains the points (–3,5), (5,2), and (1,–4).</para>
+
+      <list id="id13087641" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Find the function.</item>
+        <item><label>b</label>Verify that it contains all three points.</item>
+        <item><label>c</label>Sketch it on the graph paper, noting the three points on it.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id12701559">
+        <problem id="idm4772864">
+          <para id="id12701562">A certain function contains the points (–3,5), (5,2), (1,–4), and (8,–2).</para>
+
+      <list id="id13424842" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the function.</item>
+        <item><label>b</label>Verify that it contains the point (8,–2).</item>
+        <item><label>c</label>Sketch it on the graph paper (by graphing it on your calculator and then copying the sketch onto the graph paper). Note the four points on it.</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

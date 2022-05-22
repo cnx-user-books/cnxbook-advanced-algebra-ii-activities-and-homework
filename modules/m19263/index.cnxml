@@ -1,0 +1,287 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- A Bunch of Other Stuff About Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1fe30b79-6f06-4503-ba3f-646706cadd87</md:uuid>
+</metadata>
+  <content>
+    <para id="element-612">Let’s start off with a bit of real life again, shall we?</para><exercise id="element-913"><problem id="idm11080352">
+  <para id="element-201">Albert Einstein’s “Special Theory of Relativity” tells us that <emphasis>matter and energy are different forms of the same thing</emphasis>.  (Previously, they were thought of as two completely different things.)  If you have some matter, you can convert it to energy; if you have some energy, you can convert it to matter.  This is expressed mathematically in the famous equation <m:math>
+<m:mi>E</m:mi>
+<m:mo>=</m:mo>
+<m:mi>m</m:mi>
+<m:msup>
+<m:mi>c</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, where <m:math>
+<m:mi>E</m:mi>
+</m:math> is the amount of energy, <m:math>
+<m:mi>m</m:mi>
+</m:math> is the amount of matter, and 
+<m:math>
+<m:mi>c</m:mi>
+</m:math> is the speed of light.  So, suppose I did an experiment where I converted <m:math>
+<m:mi>m</m:mi>
+</m:math> kilograms of matter, and wound up with <m:math>
+<m:mi>E</m:mi>
+</m:math> Joules of energy.  Give me the equation I could use that would help me figure out, from these two numbers, what the speed of light is.</para>
+</problem>
+
+</exercise><exercise id="element-723"><problem id="idp5880192">
+  <para id="element-113">The following figure is an Aerobie, or a washer, or whatever you want to call it—it’s the shaded area, a ring with inner thickness <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math> and outer thickness <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>.</para>
+
+<figure id="fig1"><title>Aerobie</title><media id="idp4741440" alt="A picture of a washer, or Aerobie"><image src="../../media/gif.gif" mime-type="image/gif" print-width="3in"/></media></figure>
+
+<list id="element-472" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the area of this shaded region, in terms of <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>
+ and <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>?</item>
+<item><label>b</label>Suppose I told you that the area of the shaded region is <m:math>
+<m:mn>32</m:mn>
+<m:mn>π</m:mn>
+</m:math>, and that the inner radius <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math> is 7.  What is the outer radius <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>?</item>
+<item><label>c</label>Suppose I told you that the area of the shaded region is <m:math>
+<m:mi>A</m:mi>
+</m:math>, and that the outer radius is <m:math>
+<m:msub>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>.  Find a formula for the inner radius.</item></list>
+</problem>
+
+</exercise><para id="element-804">OK, that’s enough about real life.  Let’s try simplifying a few expressions, using the rules we developed yesterday.</para><exercise id="element-538"><problem id="idp8468032">
+  <para id="element-300"><m:math>
+<m:msqrt>
+<m:mn>100</m:mn>
+<m:mi>y</m:mi>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-147"><problem id="idp2581440">
+  <para id="element-503"><m:math>
+<m:msqrt>
+<m:mfrac>
+<m:mi>x</m:mi>
+<m:mn>25</m:mn>
+</m:mfrac>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-548"><problem id="idp1967408">
+  <para id="element-874"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>16</m:mn>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-464"><problem id="idp3289440">
+  <para id="element-359"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:msqrt>
+<m:mn>50</m:mn>
+</m:msqrt>
+</m:mrow>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math>
+</para>
+</problem>
+</exercise><exercise id="element-808"><problem id="idp6165392">
+  <para id="element-669"><m:math>
+<m:mn>5</m:mn>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-817"><problem id="idp2234336">
+  <para id="element-33"><m:math>
+<m:msqrt>
+<m:mn>27</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>48</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise><para id="element-826">Let’s try some that are a bit trickier—sort of like rational expressions.  Don’t forget to start by getting a common denominator!</para><exercise id="element-491"><problem id="idp6482032">
+  <para id="element-968"><m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math>
+</para>
+<list id="element-224" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify.  (Don’t use your calculator, it won’t help.)</item>
+<item><label>b</label>Now, <emphasis>check</emphasis> your answer by plugging the original formula into your calculator.  What do you get?  Did it work?</item>
+</list>
+
+</problem>
+</exercise><exercise id="element-520"><problem id="idp7280272">
+  <para id="element-182"><m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+<list id="element-962" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify.  (Don’t use your calculator, it won’t help.)</item>
+<item><label>b</label>Now, <emphasis>check</emphasis> your answer by plugging the original formula into your calculator.  What do you get?  Did it work?</item>
+</list>
+
+</problem>
+</exercise><exercise id="element-983"><problem id="idp4271296">
+  <para id="element-293"><m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>-</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+<list id="element-739" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify.  (Don’t use your calculator, it won’t help.)</item>
+<item><label>b</label>Now, <emphasis>check</emphasis> your answer by plugging the original formula into your calculator.  What do you get?  Did it work?</item>
+</list>
+
+</problem>
+</exercise><para id="element-815">And now, the question you knew I would ask…</para><exercise id="element-105"><problem id="idm1520576">
+  <para id="element-257">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+</m:math></para><list id="element-935" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Plot a whole mess of points.  (Choose x-values that will give you pretty easy-to-graph y-values!)</item>
+<item><label>b</label>What is the domain?  What is the range?</item>
+<item><label>c</label>Draw the graph.</item>
+
+</list>
+</problem>
+</exercise><exercise id="element-537"><problem id="idp7280640">
+  <para id="element-535">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+</m:math> by shifting the previous graph.</para><list id="element-986" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Plug in a couple of points to make sure your “shift” was correct.  Fix it if it wasn’t.</item>
+<item><label>b</label>What is the domain?  What is the range?</item>
+</list>
+</problem>
+</exercise><exercise id="element-117"><problem id="idp8332592">
+  <para id="element-686">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+</m:msqrt>
+</m:math>   by shifting the previous graph.</para><list id="element-218" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Plug in a couple of points to make sure your “shift” was correct.  Fix it if it wasn’t.</item>
+<item><label>b</label>What is the domain?  What is the range?</item>
+</list>
+</problem>
+</exercise>   
+  </content>
+  
+</document>

@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Sample Test: Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e3fb0fe7-85cd-4e3f-bda6-1e656e121afa</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-990"><problem id="idm15687312">
+  <para id="element-436">Punch this into your calculator and give the answer rounded to three decimal places.  This is the only question on the quiz where I want an answer in the form of an ugly decimal:
+
+</para><para id="element-932"><m:math>
+<m:msqrt>
+<m:mn>69</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-397"><problem id="idp3276352">
+  <para id="element-590">Give me an approximate answer for  <m:math>
+<m:mroot>
+<m:mrow>
+<m:mn>10</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math>.</para>
+</problem>
+</exercise><para id="element-214">Simplify the following problems in #3-#15. Give answers using radicals, not decimals or approximations.</para><exercise id="element-83"><problem id="idm3508080">
+  <para id="element-869"><m:math>
+<m:msqrt>
+<m:mn>400</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-374"><problem id="idm4535152">
+  <para id="element-348"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mn>-27</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-27"><problem id="idp794128">
+  <para id="element-160"><m:math>
+<m:mn>3</m:mn>
+<m:msqrt>
+<m:mn>-27</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-728"><problem id="idp905936">
+  <para id="element-882"><m:math>
+<m:msqrt>
+<m:mn>108</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-681"><problem id="idp3126384">
+  <para id="element-864"><m:math>
+<m:msqrt>
+<m:mn>20</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>45</m:mn>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+
+</exercise><exercise id="element-113"><problem id="idm593008">
+  <para id="element-659"><m:math>
+<m:msqrt>
+<m:mfrac>
+<m:mn>300</m:mn>
+<m:mn>64</m:mn>
+</m:mfrac>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+
+</exercise><exercise id="element-366"><problem id="idp2630576">
+  <para id="element-651"><m:math>
+<m:msqrt>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>16</m:mn>
+</m:msup>
+</m:mrow>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-521"><problem id="idm1435712">
+  <para id="element-764"><m:math>
+<m:mroot>
+<m:mrow>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>38</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mn>5</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-24"><problem id="idm4787104">
+  <para id="element-804"><m:math>
+<m:msqrt>
+<m:mn>98</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>20</m:mn>
+</m:msup>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>5</m:mn>
+</m:msup>
+<m:mi>z</m:mi>
+</m:msqrt>
+</m:math></para>
+</problem>
+
+
+</exercise><exercise id="element-229"><problem id="idp761920">
+  <para id="element-718"><m:math>
+<m:msqrt>
+<m:mn>4</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>4</m:mn>
+</m:msup>
+</m:msqrt>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-574"><problem id="idp4510176">
+  <para id="element-671"><m:math>
+<m:mo>(</m:mo>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-711"><problem id="idm5063392">
+  <para id="element-810"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:msqrt>
+<m:mn>54</m:mn>
+</m:msqrt>
+</m:mrow>
+<m:mrow>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-107"><problem id="idp1379312">
+  <para id="element-68"><m:math>
+<m:mroot>
+<m:mrow>
+<m:mtext>something</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+<m:mo>=</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>.  What is the <emphasis>something</emphasis>?</para>
+</problem>
+
+</exercise><exercise id="element-14"><problem id="idm2739920">
+  <para id="element-426">Rewrite as an exponent equation: <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mroot>
+<m:mrow>
+<m:mi>y</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>n</m:mi>
+</m:mrow>
+</m:mroot>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-349"><problem id="idm4792592">
+  <para id="element-157">Rewrite as a radical equation: <m:math>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>c</m:mi>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-897"><problem id="idm4888864">
+  <para id="element-430">Rewrite as a <emphasis>logarithm</emphasis> equation: <m:math>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mi>b</m:mi>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>c</m:mi>
+</m:math></para>
+</problem>
+
+</exercise><para id="element-511">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>
+</para><exercise id="element-960"><problem id="idm5068704">
+  <para id="element-714"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+</m:mrow>
+<m:mrow>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-884"><problem id="idp1199168">
+  <para id="element-37"><m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-119"><problem id="idp1304768">
+  <para id="element-394"><m:math>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>-</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>8</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-647"><problem id="idm5070400">
+  <para id="element-314"><m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para>
+</problem>
+</exercise><exercise id="element-535"><problem id="idp1416800">
+  <para id="element-750">For an object moving in a circle around the origin, whenever it is at the point (<m:math>
+<m:mi>x</m:mi>
+</m:math>,<m:math>
+<m:mi>y</m:mi>
+</m:math>), its distance to the center of the circle is given by: <m:math>
+<m:mi>r</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:msqrt>
+</m:math></para><list id="element-922" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve this equation for <m:math><m:mi>x</m:mi></m:math>.</item>
+<item><label>b</label>If <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math> and <m:math>
+<m:mi>r</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math>, what is <m:math>
+<m:mi>x</m:mi>
+</m:math>?</item></list>
+</problem>
+</exercise><exercise id="element-722"><problem id="idp3960480">
+  <para id="element-269">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mi>–</m:mi>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+</m:math>.</para>
+</problem>
+
+</exercise><exercise id="element-376"><problem id="idm1681552">
+  <para id="element-664">What are the domain and range of the graph you drew in #24?</para>
+</problem>
+
+</exercise><para id="element-539"><title>Extra Credit:</title>Draw a graph of <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mroot>
+<m:mrow>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn>
+</m:mrow>
+</m:mroot>
+</m:math>.</para>   
+  </content>
+  
+</document>

@@ -1,0 +1,231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sequences and Series Homework -- Homework: Arithmetic and Geometric Sequences</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>30e4b7fc-e39c-4411-a3ef-33537525eae4</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7234152">
+        <problem id="idm6891920">
+          <para id="id7234155">Look at a calendar for this month. Look at the column that represents all the Thursdays in this month.</para>
+
+      <list id="id7234159" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>What are the dates?</item>
+        <item><label>b</label>What kind of sequence do these numbers represent?</item>
+        <item><label>c</label>If it is arithmetic, what is <m:math>
+<m:mi>d</m:mi></m:math>, the common difference? If geometric, what is <m:math>
+<m:mi>r</m:mi></m:math>, the common ratio?</item>
+        <item><label>d</label>If that sequence continued, what would be the 100th term?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id7234210"><problem id="idm19567024">
+          <para id="id7234213">How many terms are in the arithmetic sequence 25, 28, 31, 34,...,61?</para>
+
+        </problem>
+      </exercise>
+
+      <exercise id="id7234215">
+        <problem id="idm6619648">
+          <para id="id7234218">Suppose that <m:math>
+<m:mi>a</m:mi></m:math>, 
+<m:math>
+<m:mi>b</m:mi></m:math>, 
+<m:math>
+<m:mi>c</m:mi>
+</m:math>, 
+<m:math>
+<m:mi>d</m:mi>
+</m:math>… represents an arithmetic sequence. For each of the sequences below, indicate if it is <emphasis>arithmetic</emphasis>, <emphasis>geometric</emphasis>, or <emphasis>neither</emphasis>.</para>
+
+      <list id="id7234272" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label><m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>, 
+<m:math>
+<m:mi>b</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>, 
+<m:math>
+<m:mi>c</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>, 
+<m:math>
+<m:mi>d</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>…</item>
+        <item><label>b</label>
+<m:math>
+<m:mn>2</m:mn>
+<m:mi>a</m:mi>
+</m:math>, 
+<m:math>
+<m:mn>2</m:mn>
+<m:mi>b</m:mi>
+</m:math>, 
+<m:math>
+<m:mn>2</m:mn>
+<m:mi>c</m:mi>
+</m:math>, 
+<m:math>
+<m:mn>2</m:mn>
+<m:mi>d</m:mi>
+</m:math>…</item>
+        <item><label>c</label>
+<m:math>
+<m:msup>
+<m:mi>a</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mi>b</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mi>c</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mi>d</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>…</item>
+        <item><label>d</label>
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>a</m:mi>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>b</m:mi>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>c</m:mi>
+</m:msup>
+</m:math>, 
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>d</m:mi>
+</m:msup>
+</m:math>…</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id7135579"><problem id="idm4600496">
+          <para id="id7135582">Find <m:math>
+<m:mi>x</m:mi>
+</m:math> to make the sequence</para>
+          <para id="exer4para">10, 30, <m:math>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+</m:math></para>
+
+
+      <list list-type="labeled-item" id="id7135601" mark-suffix=".">
+      
+        <item><label>a</label>arithmetic</item>
+        <item><label>b</label>geometric</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id7135619">
+        <problem id="idm8701264">
+          <para id="id7135622">In class, we showed how the “recursive definition” of an arithmetic sequence <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msub>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mi>d</m:mi>
+</m:math> leads to the “explicit definition” 
+<m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mi>d</m:mi>
+<m:mo>(</m:mo>
+<m:mi>n</m:mi>
+<m:mo>-</m:mo>
+<m:mn>1</m:mn>
+<m:mo>)</m:mo>
+</m:math>. For a geometric sequence, the recursive definition is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msub>
+<m:mo>=</m:mo>
+<m:mi>r</m:mi>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math>. What is the explicit definition?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id7574199">
+        <problem id="idp221360">
+          <para id="id7574202">Suppose a gallon of gas cost $1.00 in January, and goes up by 3% every month throughout the year. </para>
+
+            <note type="Note" id="idm5595360"><label>Note</label>“Goes up 3%” is the same as “multiplies by 1.03.”</note>
+
+      <list list-type="labeled-item" id="id7574213" mark-suffix=".">
+      
+        <item><label>a</label>Find the cost of gas, rounded to the nearest cent, each month of the year. (Use your calculator for this one!)</item>
+        <item><label>b</label>Is this sequence arithmetic, geometric, or neither?</item>
+        <item><label>c</label>If it keeps going at this rate, how many months will it take to reach $10.00/gallon?</item>
+        <item><label>d</label>How about $1000.00/gallon?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id7574258">
+        <problem id="idm1675520">
+          <para id="id7574261">In an arithmetic sequence, each term is the previous term plus a constant. In a geometric sequence, each term is the previous term times a constant. Is it possible to have a sequence which is both arithmetic <emphasis>and</emphasis> geometric?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

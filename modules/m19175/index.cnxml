@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Logs Homework -- Introduction to Logarithms</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>978132db-771a-4af8-b7bc-f641293d5ecd</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="id7089116">
+      <problem id="idm857008">
+        <para id="id7089120">On day 0, you have 1 penny. Every day, you double.</para><list id="element-409" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>How many pennies do you have on day 10?</item>
+      <item><label>b</label>How many pennies do you have on day <m:math>
+<m:mi>n</m:mi>
+</m:math>?</item>
+      <item><label>c</label>On <emphasis>what day</emphasis> do you have 32 pennies? Before you answer, <emphasis>express this question as an equation, where 
+<m:math>
+<m:mi>x</m:mi>
+</m:math> is the variable you want to solve for</emphasis>.</item>
+      <item><label>d</label>Now, what is 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>?</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <exercise id="id7089181">
+      <problem id="idp2196208">
+        <para id="id7089184">A radioactive substance is decaying. There is currently 100
+<m:math>
+<m:mi>g</m:mi>
+</m:math> of the substance.</para><list id="element-869" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>How much substance will there be after 3 half-lives?</item>
+      <item><label>b</label>How much substance will there be after 
+<m:math>
+<m:mi>n</m:mi>
+</m:math> half-lives?</item>
+      <item><label>c</label>After <emphasis>how many half-lives</emphasis> will there be 1 
+<m:math>
+<m:mi>g</m:mi>
+</m:math> of the substance left? Before you answer, <emphasis>express this question as an equation, where 
+<m:math>
+<m:mi>x</m:mi>
+</m:math> is the variable you want to solve for.</emphasis></item>
+      <item><label>d</label>Now, what is 
+<m:math>
+<m:mi>x</m:mi>
+</m:math>? (Your answer will be approximate.)</item>
+    </list>
+      </problem>
+    </exercise>
+    
+    <para id="id7089243">In both of the problems above, part (d) required you to <emphasis>invert</emphasis> the normal exponential function. Instead of going <emphasis>from time to amount</emphasis>, it asked you to go <emphasis>from amount to time</emphasis>. (This is what an inverse function does—it goes the other way—remember?)</para>
+    <para id="id7089282">So let’s go ahead and talk formally about an inverse exponential function. Remember that an inverse function goes <emphasis>backward</emphasis>. If <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math> turns a 3 into an 8, then <m:math>
+<m:msup>
+<m:mi>f</m:mi>
+<m:mn>-1</m:mn>
+</m:msup>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> must turn an 8 into a 3.</para>
+    <para id="id7089327">So, fill in the following table (on the left) with a bunch of <m:math>
+<m:mi>x</m:mi>
+</m:math> and <m:math>
+<m:mi>y</m:mi>
+</m:math> values for the mysterious <emphasis>inverse function of</emphasis> <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math>. Pick <m:math>
+<m:mi>x</m:mi>
+</m:math>-values that will make for easy 
+<m:math>
+<m:mi>y</m:mi>
+</m:math>-values. See if you can find a few <m:math>
+<m:mi>x</m:mi>
+</m:math>-values that make <m:math>
+<m:mi>y</m:mi>
+</m:math> be 0 or negative numbers!</para>
+    <para id="id7089383">On the right, fill in <m:math>
+<m:mi>x</m:mi>
+</m:math> and 
+<m:math>
+<m:mi>y</m:mi>
+</m:math> values for the <emphasis>inverse function of</emphasis> 
+<m:math>
+<m:msup>
+<m:mn>10</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math>.</para>
+    <table id="id7089417" summary="A table for filling in the values of the inverse function of 10^x.">
+      
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entrytbl cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Inverse of 
+<m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math></entry>
+                </row>
+                <row>
+                  <entry><m:math>
+<m:mi>x</m:mi></m:math></entry>
+                  <entry><m:math>
+<m:mi>y</m:mi>
+</m:math></entry>
+                </row>
+                <row>
+                  <entry>8</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </entrytbl>
+            <entry/>
+            <entrytbl cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Inverse of <m:math>
+<m:msup>
+<m:mn>10</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math></entry>
+                </row>
+                <row>
+                  <entry><m:math>
+<m:mi>x</m:mi>
+</m:math></entry>
+                  <entry>
+<m:math>
+<m:mi>y</m:mi>
+</m:math></entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+        </tbody>
+      </tgroup>
+    
+    </table>
+    <para id="id7121311">Now, let’s see if we can get a bit of a handle on this type of function.</para>
+    <para id="id7121318">In some ways, it’s like a square root. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {x} } {}</m:annotation></m:semantics></m:math> is the inverse of 
+<m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>. When you see 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {x} } {}</m:annotation></m:semantics></m:math> you are really seeing a mathematical question: “What number, squared, gives me <m:math>
+<m:mi>x</m:mi>
+</m:math>?”</para>
+    <para id="id7121428">Now, we have the inverse of <m:math>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+</m:msup>
+</m:math> (which is quite different from 
+<m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> of course). But this new function is also a question: see if you can figure out what it is. That is, try to write a question that will reliably get me from the left-hand column to the right-hand column in the first table above.</para>
+    <para id="id7121459">Do the same for the second table above.</para>
+    <para id="id7121464">Now, come up with a word problem of your own, similar to the first two in this exercise, but related to compound interest.</para>
+  </content>
+</document>

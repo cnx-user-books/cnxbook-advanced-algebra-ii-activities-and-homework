@@ -1,0 +1,136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rational Expressions Homework --  Rational Expressions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>de32c577-253a-488a-b287-138e8ce79bcb</md:uuid>
+</metadata>
+  <content>
+
+    <exercise id="prob1exer"><problem id="idm5485888">
+      <para id="id8375656"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x} } } {}</m:annotation></m:semantics><m:mo>+</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>y</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {y} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id9555890" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Add</item>
+        <item><label>b</label>Check your answer by plugging <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math> and <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math> into both my original expression, and your simplified expression. Do not use calculators or decimals.</item>
+      </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob2exer"><problem id="idm6433232">
+        <para id="prob2para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x} } } {}</m:annotation></m:semantics><m:mo>–</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>y</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {y} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para></problem>
+    </exercise>
+
+    <exercise id="prob3exer"><problem id="idm6934352">
+        <para id="prob3para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mfenced><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mi>y</m:mi></m:mfrac></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {x} }  right ) left ( {  {1}  over  {y} }  right )} {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob4exer"><problem id="idm11832272">
+        <para id="prob4para"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mi>x</m:mi>
+</m:mfrac>
+</m:mrow>
+<m:mrow>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mi>y</m:mi>
+</m:mfrac>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+</m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob5exer"><problem id="idm3737136">
+          <para id="id9648896"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>x</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2x</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } +2x+1}  over  {x rSup { size 8{2} }  - 1} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+
+          <list id="id5980966" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Simplify</item>
+            <item><label>b</label>Check your answer by plugging <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math> into both my original expression, and your simplified expression. Do not use calculators or decimals.</item>
+            <item><label>c</label>Are there any x-values for which the new expression does not equal the old expression?</item>
+        </list>
+      </problem>
+    </exercise>
+
+    <exercise id="prob6exer"><problem id="idm2419488">
+        <para id="prob6para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {x rSup { size 8{2} }  - 9} } } {}</m:annotation></m:semantics><m:mo>-</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>2x</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {x rSup { size 8{2} } +2x - "15"} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+      </problem>
+    </exercise>
+
+    <exercise id="prob7exer"><problem id="idm8109776">
+      <para id="id6693259"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>25</m:mtext></m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>2x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{2} }  - "25"}  over  {x rSup { size 8{2} } +2x+1} } } {}</m:annotation></m:semantics><m:mo>×</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>4x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } +4x+3}  over  {2x rSup { size 8{2} } +x - "15"} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id4260170" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Multiply.</item>
+        <item><label>b</label>Check your answer by plugging <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–2</m:mn>
+</m:math> into both my original expression, and your simplified expression. (If they don’t come out the same, you did something wrong!)</item>
+        <item><label>c</label>Are there any x-values for which the new expression does not equal the old expression?</item>
+      </list>
+      </problem>
+    </exercise>
+
+  </content>
+</document>

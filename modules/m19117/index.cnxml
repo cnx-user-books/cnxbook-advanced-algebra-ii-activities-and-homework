@@ -1,0 +1,437 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Sample Test: Functions II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6f702869-bf78-4b0e-a089-1b356db9576f</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-731"><problem id="idm7678144">
+		<para id="element-161">
+		Joe and Lisa are baking cookies. Every cookie is a perfect circle. Lisa is experimenting with cookies of different radii (*the plural of “radius”). Unknown to Lisa, Joe is very competitive about his baking. He sneaks in to measure the radius of Lisa’s cookies, and then makes his <emphasis>own</emphasis> cookies have a 2" bigger radius.
+		</para><para id="element-8">Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>L</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math> be the radius of Lisa’s cookies. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>J</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J} {}</m:annotation></m:semantics></m:math> be the radius of Joe’s cookies. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> be the <emphasis>area</emphasis> of Joe’s cookies.</para><list id="element-124" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mo stretchy="false">(</m:mo><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J \( L \) } {}</m:annotation></m:semantics></m:math> that shows the radius of Joe’s cookies as a function of the radius of Lisa’s cookies.</item>
+      <item><label>b</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">(</m:mo><m:mi>J</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a \( J \) } {}</m:annotation></m:semantics></m:math> that shows the area of Joe’s cookies as a function of their radius. (If you don’t know the area of a circle, ask me—this information will cost you 1 point.)</item>
+      <item><label>c</label>Now, put them together into the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">(</m:mo><m:mi>J</m:mi><m:mo stretchy="false">(</m:mo><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a \( J \( L \)  \) } {}</m:annotation></m:semantics></m:math> that gives the <emphasis>area</emphasis> of Joe’s cookies, as a direct function of the <emphasis>radius</emphasis> of Lisa’s.</item>
+      <item><label>d</label>Using that function, answer the question: if Lisa settles on a 3" radius, what will be the area of Joe’s cookies? <emphasis>First, write the question in function notation—then solve it.</emphasis></item>
+      <item><label>e</label>Using the same function, answer the question: if Joe’s cookies end up <m:math><m:mn>49</m:mn><m:mi>π</m:mi></m:math> square inches in area, what was the radius of Lisa’s cookies? <emphasis>First, write the question in function notation—then solve it.</emphasis></item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    <exercise id="element-539"><problem id="idm8853728">
+		<para id="element-607">
+			Make up a word problem involving <emphasis>composite functions</emphasis>, and having something to do with <emphasis>drug use.</emphasis> (*I will assume, without being told so, that your scenario is entirely fictional!)
+		</para><list id="element-876" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Describe the scenario. Remember that it must have <emphasis>something</emphasis> that depends on <emphasis>something else</emphasis> that depends on <emphasis>still another thing</emphasis>. If you have described the scenario carefully, I should be able to guess what your variables will be and all the functions that relate them.</item>
+      <item><label>b</label>Carefully name and describe all three variables.</item>
+      <item><label>c</label>Write two functions. One relates the first variable to the second, and the other relates the second variable to the third.</item>
+      <item><label>d</label>Put them together into a composite function that shows me how to get directly from the third variable to the first variable.</item>
+      <item><label>e</label>Using a sample number, write a (word problem!) question and use your composite function to find the answer.</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    
+    
+    <exercise id="element-758"><problem id="idm20452064">
+		<para id="element-39">Here is the algorithm for converting the temperature from Celsius to Fahrenheit. First, multiply the Celsius temperature by <m:math>
+  <m:apply>
+    <m:divide/>
+    <m:cn>9</m:cn>
+    <m:cn>5</m:cn>
+  </m:apply>
+</m:math>. Then, add 32.
+		</para><list id="element-46" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write this algorithm as a mathematical function: Celsius temperature (C) goes <emphasis>in</emphasis>, Fahrenheit temperature 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>F</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( F \) } {}</m:annotation></m:semantics></m:math> comes <emphasis>out</emphasis>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mi>C</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= \( C \) } {}</m:annotation></m:semantics></m:math>______</item>
+      <item><label>b</label>Write the <emphasis>inverse</emphasis> of that function.</item>
+      <item><label>c</label>Write a real-world word problem that you can solve by using that inverse function. (This does not have to be elaborate, but it has to show that you know what the inverse function <emphasis>does</emphasis>.)</item>
+      <item><label>d</label>Use the inverse function that you found in part (b) to answer the question you asked in part (c).</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-808"><problem id="idm6485840">
+		<para id="element-101"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) = sqrt {x+1} } {}</m:annotation>
+        </m:semantics>
+      </m:math>. 
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( x \) = {  {1}  over  {x} } } {}</m:annotation></m:semantics></m:math>. For (a)-(e), I am <emphasis>not</emphasis> looking for answers like 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [g \( x \)  right ] rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Your answers should not have a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math> or an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> in them, just a bunch of "
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>"’s.
+		</para><list id="element-795" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{f \( g \( x \)  \) ={}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>b</label>
+
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>f</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{g \( f \( x \)  \) ={}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>c</label>
+
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>f</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{f \( f \( x \)  \) ={}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+</item>
+<item><label>d</label>
+
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{g \( g \( x \)  \) ={}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+</item>
+<item><label>e</label>
+
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>f</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>g</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{g \( f \( g \( x \)  \)  \) ={}} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        
+</item>
+<item><label>f</label>
+What is the domain of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) } {}</m:annotation></m:semantics></m:math>?
+</item>
+<item><label>g</label>
+What is the domain of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( x \) } {}</m:annotation></m:semantics></m:math>?
+</item></list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-299"><problem id="idm6361728">
+		<para id="element-225">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mtext>20</m:mtext>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) ="20" - x} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-234" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the domain?</item>
+      <item><label>b</label>What is the inverse function?</item>
+      <item><label>c</label>Test your inverse function. (No credit for just the words “it works”—I have to <emphasis>see your test</emphasis>.)</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    <exercise id="element-384"><problem id="idm460000">
+		<para id="element-400">
+	
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mi>x</m:mi>
+                        <m:mn>7</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) =3+ {  {x}  over  {7} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><list id="element-296" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the domain?</item>
+      <item><label>b</label>What is the inverse function?</item>
+      <item><label>c</label>Test your inverse function. (Same note as above.)</item>
+    </list>
+	</problem>
+
+	</exercise>
+    <exercise id="element-602"><problem id="idm20034224">
+		<para id="element-898"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>2x</m:mn>
+                      <m:mrow>
+                        <m:mn>3x</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) = {  {2x}  over  {3x - 4} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+<list id="element-297" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What is the domain?</item>
+      <item><label>b</label>What is the inverse function?</item>
+      <item><label>c</label>Test your inverse function. (Same note as above.)</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    <exercise id="element-779"><problem id="idm2095840">
+		<para id="element-818">
+For each of the following diagrams, indicate roughly what the slope is.
+		</para>
+<figure id="fig1"><media id="idm2112784" alt="A graph with a steep negative slope."><image src="../../media/9a.png" mime-type="image/png" print-width="3in"/></media><caption>a.</caption></figure>
+<figure id="fig2"><media id="idm2506352" alt="A graph with a slight positive slope."><image src="../../media/9b.png" mime-type="image/png" print-width="3in"/></media><caption>b.</caption></figure>
+<figure id="fig3"><media id="idm9117472" alt="A graph with a zero slope."><image src="../../media/9c.png" mime-type="image/png" print-width="3in"/></media><caption>c.</caption></figure>
+	</problem>
+
+	</exercise>
+    <exercise id="element-260"><problem id="idm1593392">
+		<para id="element-572">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>6x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>10</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{6x+3y="10"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+		</para><para id="element-208"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mx</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format:___________</para>
+<para id="element-573">
+Slope:___________
+</para>
+<para id="element-574"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-intercept:___________
+</para><para id="element-771">Graph it!</para>
+	</problem>
+
+	</exercise>
+    
+    
+    
+    
+    <para id="element-570"><title>Extra credit:</title>Two numbers have the peculiar property that when you <emphasis>add</emphasis> them, and when you <emphasis>multiply</emphasis> them, you get the same answer.
+
+		</para><list id="element-519" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>If one of the numbers is 5, what is the other number?</item>
+      <item><label>b</label>If one of the numbers is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, what is the other number? (Your answer will be a function of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.)</item>
+      <item><label>c</label>What number could 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> be that would not have <emphasis>any</emphasis><emphasis> possible</emphasis> other number to go with it?</item>
+</list>
+  </content>
+</document>

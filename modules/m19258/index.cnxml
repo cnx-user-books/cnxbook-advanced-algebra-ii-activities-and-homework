@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Quadratic Homework -- Sample Test: Quadratics II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cd971e0d-2f67-40d3-996e-f501399b1717</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-792"><problem id="idp4444912">
+  <para id="element-815"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:msup>
+                        <m:mn>3y</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= - 3y rSup { size 8{2} } +5} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-141" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Opens (up / down / left / right)</item>
+      <item><label>b</label> Vertex: ___________</item>
+      <item><label>c</label> Sketch a quick graph on the graph paper</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-732"><problem id="idp3502640">
+  <para id="element-190">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>2x</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>8x</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y+9=2x rSup { size 8{2} } +8x+8} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-894" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Put into the standard form of a parabola.</item>
+      <item><label>b</label> Opens (up / down / left / right)</item>
+      <item><label>c</label> Vertex: ___________</item>
+      <item><label>d</label> Sketch a quick graph on the graph paper</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-758"><problem id="idm5342128">
+  <para id="element-414">For what <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true? 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>8x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x rSup { size 8{2} } +8x+8&lt;9} {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-757"><problem id="idp3365616">
+  <para id="element-608">For what <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-values is this inequality true? 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">≤</m:mo><m:mtext>28</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - x rSup { size 8{2} }  - "10"x &lt;= "28"} {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-348"><problem id="idp6241568">
+  <para id="element-716">
+A rock is thrown up from an initial height of 4' with an initial velocity of 32 ft/sec. As I’m sure you recall, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>h</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) =h rSub { size 8{o} } +v rSub { size 8{o} } t - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.
+  </para><list id="element-463" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Write the equation of motion for the rock.</item>
+      <item><label>b</label> At what time (how many seconds after it is thrown) does the rock reach its peak? How high is that peak? (Don’t forget to answer both questions…)</item>
+      <item><label>c</label> During what time period is the rock <emphasis>above ground</emphasis>?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-535"><problem id="idp254048">
+  <para id="element-199">
+A hot dog maker sells hot dogs for $2 each. (So if he sells 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> hot dogs, his revenue is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>2x</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x} {}</m:annotation></m:semantics></m:math>.) His cost for manufacturing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> hot dogs is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mtext>1000</m:mtext></m:mfrac></m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100"+ {  {1}  over  {2} } x+ {  {1}  over  {"1000"} } x rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (Which I just made up.)
+  </para><list id="element-697" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> <emphasis>Profit</emphasis> is <emphasis>revenue minus cost</emphasis>. Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( x \) } {}</m:annotation></m:semantics></m:math> that gives the profit he will make, as a function of the number of hot dogs he makes and sells.</item>
+      <item><label>b</label> How many hot dogs should he make in order to maximize his profits? What is the maximum profit?</item>
+      <item><label>c</label> How many hot dogs does he need to make, in order to make any profit at all? (The answer will be in the form “as long as he makes <emphasis>more than this</emphasis> and <emphasis>less than that</emphasis> or, in other words, <emphasis>between this and that</emphasis>, he will make a profit.”)</item>
+    </list>
+</problem>
+
+
+</exercise>
+    <para id="id10780138"><title>Extra Credit:</title><list id="grocerylist" list-type="labeled-item">
+      <item><label>a</label> Find the vertex of the parabola 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ax</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>c</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "ax" rSup { size 8{2} } + ital "bx"+c} {}</m:annotation></m:semantics></m:math>. This will, of course, give you a generic formula for finding the vertex of any vertical parabola.</item>
+      <item><label>b</label> <emphasis>Use that formula</emphasis> to find the vertex of the parabola 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msup><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5x</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= - 3x rSup { size 8{2} } +5x+6} {}</m:annotation></m:semantics></m:math></item>
+    </list></para>
+    
+  </content>
+</document>

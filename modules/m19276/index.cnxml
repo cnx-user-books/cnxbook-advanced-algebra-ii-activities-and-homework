@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rational Expressions Homework -- Dividing Polynomials</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b607a4ba-71cd-4c2a-9a42-4dff8981b846</md:uuid>
+</metadata>
+  <content>
+      
+      <exercise id="element-483"><problem id="idp12391120">
+  <para id="element-961"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>28</m:mtext><m:msup><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>42</m:mtext></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>kp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mtext>56</m:mtext></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>kp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mrow><m:mtext>14</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kp</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"28"k rSup { size 8{3} } p - "42" ital "kp" rSup { size 8{2} } +"56" ital "kp" rSup { size 8{3} } }  over  {"14" ital "kp"} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math>
+  </para>
+</problem>
+
+</exercise>
+
+<exercise id="ch7prob2">
+  <problem id="idp19355808">
+    <para id="id6672014"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>45</m:mtext></m:mrow></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} }  - "12"x - "45"}  over  {x+3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+        </problem>
+
+  </exercise>
+
+<exercise id="ch7prob3"><problem id="idp8696800">
+  <list id="id10004381" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:msup><m:mn>2y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2y rSup { size 8{2} } +y - "16"}  over  {y - 3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></item>
+     
+      
+        <item><label>b</label>Test your answer by choosing a number for <m:math>
+<m:mi>y</m:mi></m:math> and seeing if you get the same answer.</item>
+      </list>
+</problem>
+</exercise>
+
+<exercise id="id6990681"><problem id="idp11008816">
+        <para id="ch4prob4para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2h</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>5h</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>22</m:mtext></m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>51</m:mtext></m:mrow></m:mrow><m:mrow><m:mn>2h</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2h rSup { size 8{3} }  - 5h rSup { size 8{2} } +"22"h+"51"}  over  {2h+3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+</problem>
+</exercise>
+
+<exercise id="ch7prob5exer"><problem id="idp10218160">
+        <para id="ch7prob5para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6x</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2x rSup { size 8{3} }  - 4x rSup { size 8{2} } +6x - "15"}  over  {x rSup { size 8{2} } +3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+</problem>
+</exercise>
+
+<exercise id="ch7prob6exer"><problem id="idp10067760">
+        <para id="ch7prob6para"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mn>4x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{3} }  - 4x rSup { size 8{2} } }  over  {x - 4} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></para>
+</problem>
+</exercise>
+
+<exercise id="ch7prob7exer"><problem id="idp7909888">
+<list id="ch7prob7list" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>27</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{3} }  - "27"}  over  {x - 3} } } {}</m:annotation></m:semantics><m:mo>=</m:mo></m:math></item>
+        <item><label>b</label>Test your answer by multiplying back.</item>
+</list>
+</problem>
+</exercise>
+
+<exercise id="ch7prob8exer"><problem id="idp17307216">
+        <para id="ch7prob8para">After dividing two polynomials, I get the answer <m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>6</m:mn>
+<m:mi>r</m:mi>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>–</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {r - 3} } } {}</m:annotation></m:semantics></m:math>. What two polynomials did I divide?</para>
+      </problem>
+    </exercise>
+
+  </content>
+</document>

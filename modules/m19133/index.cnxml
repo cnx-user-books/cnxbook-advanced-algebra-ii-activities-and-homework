@@ -1,0 +1,327 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Sample Test: Complex Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a30dbfcf-f79e-4635-9770-60e622ca7d8a</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id6999332">
+        <problem id="idm2175968">
+          <para id="id5338901">Fill in the following table.</para>
+
+      <table id="id9624573" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>-1</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>0</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>1</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>2</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>3</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>4</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>5</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>6</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup>
+<m:mi>i</m:mi>
+<m:mn>7</m:mn>
+</m:msup></m:math></entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+      <para id="id13405058">Simplify.
+      </para>
+      <exercise id="id11146617">
+        <problem id="idm2235760">
+          <para id="id13103079"><m:math>
+<m:mo>(</m:mo>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>85</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11352204">
+        <problem id="idm6713008">
+          <para id="id5726231"><m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8985018">
+        <problem id="idp2506704">
+          <para id="id7718451"><m:math>
+<m:mo>(</m:mo>
+<m:mi>n</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>103</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11365947">
+        <problem id="idp2303744">
+          <list id="id9556312" list-type="labeled-item" mark-suffix=".">
+            <item><label>a</label>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>20</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { - "20"} } {}</m:annotation></m:semantics></m:math> =</item>
+
+            <item><label>b</label><emphasis>Other than</emphasis> your answer to part (a), is there any <emphasis>other</emphasis> number that you can squareto get –20? If so, what is it?</item>
+          </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10123006">
+        <problem id="idm10598800">
+          <para id="id11304610"><m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mi>w</m:mi>
+<m:mo>–</m:mo>
+<m:mi>z</m:mi>
+<m:mi>i</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+
+      <exercise id="id11082373">
+        <problem id="idm3543248">
+          <list id="id12436498" list-type="labeled-item" mark-suffix=".">
+            <item><label>a</label>Complex conjugate of <m:math>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+
+            <item><label>b</label>What do you get when you multiply <m:math>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+</m:math> by its complex conjugate?</item>
+          </list>
+        </problem>
+      </exercise>
+
+      <para id="id9263812">If the following are simplified to the form <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math>, what are <m:math>
+<m:mi>a</m:mi>
+</m:math> and <m:math>
+<m:mi>b</m:mi>
+</m:math> in each case?
+      </para>
+
+      <exercise id="id8643556">
+        <problem id="idp2097344">
+          <para id="id7308380"><m:math>
+<m:mi>–i</m:mi></m:math></para>
+
+      <list id="id11701908" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label><m:math>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+        <item><label>b</label><m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11405880">
+        <problem id="idp1529376">
+          <para id="id11223042"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>n</m:mi><m:mi>i</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n}  over  {i} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id11366424" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label><m:math>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+        <item><label>b</label><m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id12353972">
+        <problem id="idm6573536">
+          <para id="id11986514"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4x</m:mn><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ix</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>2i</m:mn><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mi>i</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x}  over  {1 - 6 ital "ix"} }  -  {  {2i}  over  {3 - i} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id11729008" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label><m:math>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+        <item><label>b</label><m:math>
+<m:mi>b</m:mi>
+<m:mo>=</m:mo>
+</m:math></item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id12770066">
+        <problem id="idm7245984">
+          <para id="id10268879">If <m:math>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mi>i</m:mi>
+<m:mo>+</m:mo> 
+<m:mn>2</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>28</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mi>i</m:mi>
+</m:math>, what are <m:math>
+<m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9241249">
+        <problem id="idm2349136">
+          <para id="id12584906">Make up a quadratic equation (using all real numbers) that has two non-real roots, and solve it.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id8660528">
+        <problem id="idm4943120">
+          <list id="id10342176" list-type="labeled-item" mark-suffix=".">
+            <item><label>a</label>Find the two complex numbers (of course in the form <m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math> that fill the condition <m:math>
+<m:msup>
+<m:mi>z</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–2</m:mn>
+<m:mi>i</m:mi>
+</m:math>.</item>
+
+            <item><label>b</label>Check one of your answers to part (a), by squaring it to make sure you get <m:math>
+<m:mn>–2</m:mn>
+<m:mi>i</m:mi>
+</m:math>.</item>
+          </list>
+        </problem>
+      </exercise>
+
+      <para id="id9226123"><title>Extra credit:</title>Complex numbers cannot be graphed on a number line. But they can be graphed on a 2-dimensional graph: you graph the point <m:math>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+<m:mi>y</m:mi>
+</m:math> at (<m:math>
+<m:mi>x</m:mi></m:math>,
+<m:math><m:mi>y</m:mi></m:math>).</para>
+      <list id="id11482701" list-type="enumerated"><item>If you graph the point <m:math>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mi>i</m:mi>
+</m:math>, how far is that point from the origin (0,0)?</item>
+        <item>If you graph the point <m:math>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+<m:mi>y</m:mi>
+</m:math>, how far is that point from the origin (0,0)?</item>
+        <item>What do you get if you multiply the point <m:math>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+<m:mi>y</m:mi>
+</m:math> by its complex conjugate? How does this relate to your answer to part (b)?</item>
+      </list>
+
+  </content>
+</document>

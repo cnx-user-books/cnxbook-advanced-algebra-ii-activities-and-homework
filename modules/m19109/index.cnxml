@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Composite Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a2160c41-3f07-4828-9003-6a963866efca</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-922"><problem id="idm11152176">
+		<para id="element-399">You are the foreman at the Sesame Street Number Factory. A huge conveyor belt rolls along, covered with big plastic numbers for our customers. Your two best employees are Katie and Nicolas. Both of them stand at their stations by the conveyor belt. Nicolas’s job is: whatever number comes to your station, <emphasis>add 2 and then multiply by 5</emphasis>, and send out the resulting number. Katie is next on the line. Her job is: whatever number comes to you, <emphasis>subtract 10</emphasis>, and send the result down the line to Sesame Street.
+		</para><list id="element-173" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table.</item>
+    </list><table id="element-352" summary="">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <tbody>
+          <row>
+            <entry>This number comes down the line</entry>
+            <entry>-5</entry>
+            <entry>-3</entry>
+            <entry>-1</entry>
+            <entry>2</entry>
+            <entry>4</entry>
+            <entry>6</entry>
+            <entry>10</entry>
+            <entry>
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mn>2x</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{2x} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Nicolas comes up with this number, and sends it down the line to Katie</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Katie then spits out this number</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><list id="element-218" list-type="labeled-item" mark-suffix=".">
+<item><label>b</label>In a massive downsizing effort, you are going to fire Nicolas. Katie is going to take over <emphasis>both</emphasis> functions (Nicolas’s and her own). So you want to give Katie a number, and she first does Nicolas’s function, and then her own. But now Katie is overworked, so she comes up with a shortcut: one function she can do, that covers both Nicolas’s job and her own. What does Katie do to each number you give her? (Answer in words.)</item>
+    </list>
+	</problem>
+</exercise>
+    
+    
+    
+    <exercise id="element-539"><problem id="idm3193008">
+		<para id="element-486">
+	Taylor is driving a motorcycle across the country. Each day he covers 500 miles. A policeman started the same place Taylor did, waited a while, and then took off, hoping to catch some illegal activity. The policeman stops each day exactly five miles behind Taylor.
+		</para><para id="element-149">Let <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> equal the number of days they have been driving. (So after the first day, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d=1} {}</m:annotation></m:semantics></m:math>.) Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> be the number of miles Taylor has driven. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p} {}</m:annotation></m:semantics></m:math> equal the number of miles the policeman has driven.</para><list id="element-107" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>After three days, how far has Taylor gone? ______________</item>
+      <item><label>b</label>How far has the policeman gone? ______________</item>
+      <item><label>c</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">(</m:mo><m:mi>d</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T \( d \) } {}</m:annotation></m:semantics></m:math> that gives the <emphasis>number of miles Taylor has traveled</emphasis>, as a function of how many days he has been traveling. ______________</item>
+      <item><label>d</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>T</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p \( T \) } {}</m:annotation></m:semantics></m:math> that gives the <emphasis>number of mile the policeman has traveled,</emphasis> as a function of the distance that Taylor has traveled. ______________</item>
+      <item><label>e</label>Now write the composite function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>T</m:mi><m:mo stretchy="false">(</m:mo><m:mi>d</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p \( T \( d \)  \) } {}</m:annotation></m:semantics></m:math> that gives the <emphasis>number of miles the policeman has traveled</emphasis>, as a function of the number of days he has been traveling.</item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    <exercise id="element-650"><problem id="idm6418352">
+		<para id="element-619">
+	Rashmi is a honor student by day; but by night, she works as a hit man for the mob. Each month she gets paid $1000 base, <emphasis>plus</emphasis> an extra $100 for each person she kills. Of course, she gets paid in cash—all $20 bills.
+		</para><para id="element-257">Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> equal the number of people Rashmi kills in a given month. Let m be the amount of money she is paid that month, in dollars. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> be the number of $20 bills she gets.</para><list id="element-981" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">(</m:mo><m:mi>k</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m \( k \) } {}</m:annotation></m:semantics></m:math> that tells how much money Rashmi makes, in a given month, as a function of the number of people she kills. ______________</item>
+      <item><label>b</label>Write a function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b \( m \) } {}</m:annotation></m:semantics></m:math> that tells how many bills Rashmi gets, in a given month, as a function of the number of dollars she makes. ______________</item>
+      <item><label>c</label>Write a composite function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo stretchy="false">(</m:mo><m:mi>k</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b \( m \( k \)  \) } {}</m:annotation></m:semantics></m:math>b that gives the number of bills Rashmi gets, as a function of the number of people she kills.</item>
+      <item><label>d</label>If Rashmi kills 5 men in a month, how many $20 bills does she earn? <emphasis>First, translate this question into function notation—then solve it for a number.</emphasis></item>
+      <item><label>e</label>If Rashmi earns 100 $20 bills in a month, how many men did she kill? <emphasis>First, translate this question into function notation—then solve it for a number.</emphasis></item>
+    </list>
+	</problem>
+
+	</exercise>
+    
+    
+    <exercise id="element-238"><problem id="idm1054560">
+		<para id="element-513">Make up a problem like exercises #2 and #3. Be sure to take all the right steps: <emphasis>define the scenario, define your variables clearly,</emphasis> and then show the functions that relate the variables. This is just like the problems we did last week, except that you have to use three variables, related by a composite function.
+		</para>
+	</problem>
+
+	</exercise>
+    <exercise id="element-271"><problem id="idm12179456">
+		<para id="element-159"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f \( x \) = sqrt {x+2} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    . 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( x \) =x rSup { size 8{2} } +x} {}</m:annotation></m:semantics></m:math> .
+		</para><list id="element-112" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( 7 \) ={}} {}</m:annotation></m:semantics></m:math> ______________</item>
+      <item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( 7 \) ={}} {}</m:annotation></m:semantics></m:math> ______________</item>
+      <item><label>c</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( g \( x \)  \) ={}} {}</m:annotation></m:semantics></m:math>______________</item>
+      <item><label>d</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( f \( x \)  \) ={}} {}</m:annotation></m:semantics></m:math> ______________</item>
+      <item><label>e</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( f \( x \)  \) ={}} {}</m:annotation></m:semantics></m:math> ______________</item>
+      <item><label>f</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( g \( x \)  \) ={}} {}</m:annotation></m:semantics></m:math> ______________</item>
+      <item><label>g</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( g \( 3 \)  \) ={}} {}</m:annotation></m:semantics></m:math>______________</item>
+    </list>
+	</problem>
+
+	</exercise><exercise id="element-543"><problem id="idm2598480">
+		<para id="element-947"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( x \) =x - 5} {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>i</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( i \( x \)  \) =x} {}</m:annotation></m:semantics></m:math>. Can you find what function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{i \( x \) } {}</m:annotation></m:semantics></m:math> is, to make this happen?
+		</para>
+	</problem>
+
+	</exercise>
+    
+  </content>
+</document>

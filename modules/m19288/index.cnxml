@@ -1,0 +1,294 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations Homework -- Distance, Rate, and Time</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6f2f1049-9c51-41a9-b0a8-ecdb69254ca2</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-571"><problem id="idm12569184">
+  <para id="element-176">
+  You set off walking from your house at 2 miles per hour.
+  </para><list id="element-853" list-type="labeled-item" mark-suffix="."><item><label>a</label>Fill in the following table.</item>
+    </list><table id="element-259" summary="A table showing the relationship between time and distance.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis>After this much time </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>t</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( t \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry>½ hour</entry>
+            <entry>1 hour</entry>
+            <entry>2 hours</entry>
+            <entry>3 hours</entry>
+            <entry>10 hours</entry>
+          </row>
+</thead>
+<tbody>
+          <row>
+            <entry>
+              <emphasis>You have gone this far </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>d</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( d \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><list id="element-573" list-type="labeled-item" mark-suffix="."><item><label>b</label>Write the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d \( t \) } {}</m:annotation></m:semantics></m:math>.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    <exercise id="element-431"><problem id="idm8793680">
+  <para id="element-39">
+   You set off <emphasis>driving</emphasis> from your house at 60 miles per hour.
+  </para><list id="element-388" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table.</item>
+    </list><table id="element-910" summary="">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis>After this much time </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>t</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( t \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry>½ hour</entry>
+            <entry>1 hour</entry>
+            <entry>2 hours</entry>
+            <entry>3 hours</entry>
+            <entry>10 hours</entry>
+          </row>
+</thead>
+<tbody>
+          <row>
+            <entry>
+              <emphasis>You have gone this far </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>d</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( d \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><list id="element-640" list-type="labeled-item" mark-suffix=".">
+<item><label>b</label>Write the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d \( t \) } {}</m:annotation></m:semantics></m:math>.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    
+    <exercise id="element-978"><problem id="idm19112128">
+  <para id="element-697">
+    You set off in a rocket, flying upward at 200 miles per hour.
+  </para><list id="element-308" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table.</item>
+    </list><table id="element-495" summary="A table showing the relationship between time and distance.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis>After this much time </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>t</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( t \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry>½ hour</entry>
+            <entry>1 hour</entry>
+            <entry>2 hours</entry>
+            <entry>3 hours</entry>
+            <entry>10 hours</entry>
+          </row>
+</thead>
+<tbody>
+          <row>
+            <entry>
+              <emphasis>You have gone this far </emphasis>
+              <emphasis>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mi>d</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ \( d \) } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><list id="element-374" list-type="labeled-item" mark-suffix=".">
+<item><label>b</label>Write the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d \( t \) } {}</m:annotation></m:semantics></m:math>.</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    
+    
+    <exercise id="element-60"><problem id="idm3252976">
+  <para id="element-380">
+    Write the general relationship between distance traveled 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>d</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( d \) } {}</m:annotation></m:semantics></m:math>, rate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( r \) } {}</m:annotation></m:semantics></m:math>, and time 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( t \) } {}</m:annotation></m:semantics></m:math>.
+  </para>
+</problem>
+
+
+</exercise>
+    <exercise id="element-744"><problem id="idm4125184">
+  <para id="element-833">
+    You start off for school at 55 mph. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow/></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {1} wideslash {5} } {}</m:annotation></m:semantics></m:math> of an hour later, your mother realizes you forgot your lunch. She dashes off after you, at 70 mph. Somewhere on the road, she catches up with you, throws your lunch from her car into yours, and vanishes out of sight.
+  </para><para id="element-904">Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> equal the distance from your house that your mother catches up with you. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> equal the time that <emphasis>you</emphasis> took to reach that distance. (Note that you and your mother traveled the same distance, but in <emphasis>different times</emphasis>.) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> should be measured in miles, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> in hours (not minutes).</para><list id="element-716" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write the distance-rate-time relationship for you, from the time when you leave the house until your mother catches up with you.</item>
+      <item><label>b</label>Write the distance-rate-time relationship for your mother, from the time when <emphasis>she</emphasis> leaves the house until she catches up with you.</item>
+      <item><label>c</label>Based on those two equations, can you figure out how far you were from the house when your mother caught you?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+  </content>
+</document>

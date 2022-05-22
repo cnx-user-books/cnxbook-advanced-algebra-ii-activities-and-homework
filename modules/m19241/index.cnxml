@@ -1,0 +1,75 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework -- Homework: Permutations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7fbbf42c-9ab2-4628-aa40-6c70d1f1faa5</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id10915679">
+        <problem id="idm11805792">
+          <para id="id11116240">The Film Club has four DVDs: Superman®, Batman®, The Incredibles®, and X-Men®. They are going to show two movies back-to-back for their Superhero End-of-School Blowout.</para>
+
+      <list list-type="labeled-item" id="id11168540" mark-suffix=".">
+      
+        <item><label>a</label>List <emphasis>all possible pairings</emphasis>. To keep it short, use letters to represent the movies: for instance, BX means Batman followed by X-Men. (XB is a <emphasis>different</emphasis> pairing, and should be listed separately.) BB, of course, means they will show Batman twice! Try to list them in a systematic way, to make sure you don’t miss any.</item>
+        <item><label>b</label>How many pairings did you list?</item>
+        <item><label>c</label>Now, list <emphasis>all possible pairings that do not show the same movie twice</emphasis>. Once again, try to list them in a systematic way, to make sure you don’t miss any.</item>
+        <item><label>d</label>How many pairings did you list?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9771092">
+        <problem id="idm2536720">
+          <para id="id10092612">A new reality show, Famous American Rock Band, is going to choose lucky audience members to form a new Famous American Rock Band. There are 200 people in the audience.</para>
+
+      <list list-type="labeled-item" id="id11019142" mark-suffix=".">
+      
+        <item><label>a</label>First, the Lead Singer is chosen, and comes up onto the stage. How many possible choices are there?</item>
+        <item><label>b</label>Next, from the remaining audience members, a Lead Guitarist is chosen. How many possible choices are there?</item>
+        <item><label>c</label>Next, from the remaining audience members, a Rhythm Guitarist is chosen. How many possible choices are there?</item>
+        <item><label>d</label>Next, from the remaining audience members, a Bass Guitarist is chosen. How many possible choices are there?</item>
+        <item><label>e</label>Next, from the remaining audience members, a Pianist is chosen. How many possible choices are there?</item>
+        <item><label>f</label>Finally, from the remaining audience members, a Drummer is chosen. How many possible choices are there?</item>
+        <item><label>g</label>Multiply your answers in parts (a)–(f) to find the number of possible Rock Bands that could be created?</item>
+        <item><label>h</label>How could this calculation be expressed more compactly, with factorials?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9097900">
+        <problem id="idp7796736">
+          <para id="id9676155">The school math club is going to elect a President, a Vice President, a Secretary, and a Treasurer. How many possible officer lists can be drawn up if...</para>
+
+      <list list-type="labeled-item" id="id11694789" mark-suffix=".">
+      
+        <item><label>a</label>There are only four people in the math club?</item>
+        <item><label>b</label>There are twenty people in the math club?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="exer6">
+        <problem id="idm11275872">
+      <para id="id9102227">A license plate consists of exactly eight characters. Assume that each character must be an uppercase letter, or a numerical digit.</para>
+      <list list-type="labeled-item" id="id5217191" mark-suffix=".">
+      
+        <item><label>a</label>How many possible license plates are there?</item>
+        <item><label>b</label>Now assume that you are also allowed to have blank spaces, which count as part of your eight letters. How many possible license plates are there?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10186248">
+        <problem id="idm6028096">
+          <para id="id8296633">According to Robert de Boron’s version of the story, King Arthur’s Round Table was large enough to accommodate 50 chairs. One chair was always left empty, for the knight who would fulfill the Grail Quest. So, if 49 knights approach the table one day, how many different ways can they seat themselves?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id4684162">
+        <problem id="idm831360">
+          <para id="id9069419">Invent, and solve, your own permutations problem. It should be a scenario that is quite different from all the scenarios listed above, but it should logically lead to the same method of solving.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

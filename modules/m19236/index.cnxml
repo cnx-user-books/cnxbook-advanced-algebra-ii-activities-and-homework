@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- How Many Groups?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9f1e6b00-7f50-483d-a411-13243f0ed575</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id4319530">
+        <problem id="idm9490176">
+          <para id="id9517424">A group of high school students is being divided into groups based on two characteristics: class (Freshman, Sophomore, Junior, or Senior) and hair color (blond, dark, or red). For instance, one group is the “red-haired Sophomores.” How many groups are there, total?</para>
+        </problem>
+      </exercise>
+      <exercise id="id11125857">
+        <problem id="idm26016">
+          <para id="id5084239">According to some sources, there are approximately 5,000 species of frog. Within each species, there are three types: adult female, adult male, and tadpole. If we divide frogs into groups according to both species and type—so one group is “adult females of the species Western Palearctic Water Frog”—how many groups are there?</para>
+        </problem>
+      </exercise>
+      <exercise id="id4150794">
+        <problem id="idp9680096">
+          <para id="id11175880">Suppose I roll a normal, 6-sided die, and flip a normal, 2-sided coin, at the same time. So one possible result is “4 on the die, heads on the coin.”</para>
+
+      <list list-type="labeled-item" id="id9102748" mark-suffix=".">
+      
+        <item><label>a</label>How many possible results are there?</item>
+        <item><label>b</label>If I repeat this experiment 1,000 times, roughly how many times would you expect to see the result “4 on the die, heads on the coin?”</item>
+        <item><label>c</label>If I repeat this experiment 1,000 times, roughly how many times would you expect to see the result “<emphasis>any even number</emphasis> on the die, heads on the coin?”</item>
+        <item><label>d</label>Now, let’s come back to problem #1. I could have asked the question “If you choose 1,000 students at random, how many of them will be red-haired Sophomores?” The answer would <emphasis>not</emphasis> be the “one in twelve of them, or roughly 83 students.” Why not?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

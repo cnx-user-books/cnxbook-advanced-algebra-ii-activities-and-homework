@@ -1,0 +1,138 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sequences and Series Homework -- Homework: Series and Series Notation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>435b2913-27b8-4f96-984e-4628c7c743a3</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7588790">
+        <problem id="idm5323264">
+          <para id="id7588792"><m:math>
+<m:mi>S</m:mi>
+<m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:munderover><m:mrow><m:mo stretchy="false">∑</m:mo></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:munderover><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mi>n</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Sum cSub { size 8{n=1} }  cSup { size 8{7} }  {"10" - n} } {}</m:annotation></m:semantics></m:math></para>
+
+      <list list-type="labeled-item" id="id8928829" mark-suffix=".">
+      
+        <item><label>a</label>Write out all the terms of this series.</item>
+        <item><label>b</label>Does this represent an arithmetic series, a geometric series, or neither?</item>
+        <item><label>c</label>Find the sum.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id7590390">
+        <problem id="idp920208">
+          <para id="id8896851">True or false?</para>
+
+      <list id="id8896852" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>
+<m:math>
+<m:mi>Σ</m:mi>
+<m:mo>(</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>Σ</m:mi>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math></item>
+        <item><label>b</label>
+<m:math>
+<m:mi>Σ</m:mi>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+<m:mi>Σ</m:mi>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math></item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8922222">
+        <problem id="idm10847264">
+          <para id="id7685247">Write the following series in series notation.</para>
+
+      <list id="id7685249" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label><m:math>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>
+</m:math></item>
+        <item><label>b</label>
+<m:math>
+<m:mn>−6</m:mn>
+<m:mo>−</m:mo>
+<m:mn>7</m:mn>
+<m:mo>−</m:mo>
+<m:mn>8</m:mn>
+<m:mo>−</m:mo>
+<m:mn>9</m:mn>
+<m:mo>−</m:mo>
+<m:mn>10</m:mn>
+</m:math></item>
+        <item><label>c</label>
+<m:math>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mo>+</m:mo>
+<m:mn>14</m:mn>
+</m:math></item>
+        <item><label>d</label>
+<m:math>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>12</m:mn>
+<m:mo>+</m:mo>
+<m:mn>24</m:mn>
+<m:mo>+</m:mo>
+<m:mn>48</m:mn>
+</m:math></item>
+        <item><label>e</label>
+<m:math>
+<m:mn>6</m:mn>
+<m:mo>−</m:mo>
+<m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>−</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>
+</m:math></item>
+        <item><label>f</label>All the even numbers between 50 and 100.</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modeling Data with Functions Homework -- Homework: Calculator Regression</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e12c0ccd-410e-4f44-8ede-8c88fdccaef8</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id12615477">
+        <problem id="idm7463232">
+          <para id="id11555488"><title>Canadian Voters</title>The following table shows the percentage of Canadian voters who voted in the 1996 federal election.</para>
+
+      <table id="id10398312" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Age</entry>
+              <entry>20</entry>
+              <entry>30</entry>
+              <entry>40</entry>
+              <entry>50</entry>
+              <entry>60</entry>
+            </row>
+            <row>
+              <entry>% voted</entry>
+              <entry>59</entry>
+              <entry>86</entry>
+              <entry>87</entry>
+              <entry>91</entry>
+              <entry>94</entry>
+            </row>
+          </tbody>
+        
+
+
+
+
+
+
+
+</tgroup>
+</table>
+
+      <list id="id11209218" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Enter these points on your calculator lists.</item>
+        <item><label>b</label>Set the <code display="inline">Window</code> on your calculator so that the <m:math><m:mi>x</m:mi></m:math>-values go from 0 to 60, and the <m:math><m:mi>y</m:mi></m:math>-values go from 0 to 100. Then view a graph of the points on your calculator. Do they increase steadily (like a line), or increase slower and slower (like a log), or increase more and more quickly (like a parabola or an exponent)?</item>
+        <item><label>c</label>Use the <code display="inline">STAT</code> function on your calculator to find an appropriate function to model this data. Write that function below.</item>
+        <item><label>d</label>Graph the function on your calculator. Does it match the points well? Are any of the points “outliers?”</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11771040">
+        <problem id="idm5210720">
+          <para id="id10824095"><title>Height and Weight</title>A group of students record their height (in inches) and weight (in pounds). The results are on the table below.</para>
+
+      <table id="id11814459" summary="">
+<tgroup cols="14">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <tbody>
+            <row>
+              <entry>Height</entry>
+              <entry>68</entry>
+              <entry>74</entry>
+              <entry>66</entry>
+              <entry>68</entry>
+              <entry>72</entry>
+              <entry>69</entry>
+              <entry>65</entry>
+              <entry>71</entry>
+              <entry>69</entry>
+              <entry>72</entry>
+              <entry>71</entry>
+              <entry>64</entry>
+              <entry>65</entry>
+            </row>
+            <row>
+              <entry>Weight</entry>
+              <entry>180</entry>
+              <entry>185</entry>
+              <entry>150</entry>
+              <entry>150</entry>
+              <entry>200</entry>
+              <entry>160</entry>
+              <entry>125</entry>
+              <entry>220</entry>
+              <entry>220</entry>
+              <entry>180</entry>
+              <entry>190</entry>
+              <entry>120</entry>
+              <entry>110</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+
+      <list id="id6769068" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Enter these points on your calculator lists.</item>
+        <item><label>b</label>Set the <code display="inline">Window</code> on your calculator appropriately, and then view a graph of the points on your calculator. Do they increase steadily (like a line), or increase slower and slower (like a log), or increase more and more quickly (like a parabola or an exponent)?</item>
+        <item><label>c</label>Use the <code display="inline">STAT</code> function on your calculator to find an appropriate function to model this data. Write that function below.</item>
+        <item><label>d</label>Graph the function on your calculator. Does it match the points well? Are any of the points “outliers?”</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id5063691">
+        <problem id="idm2469216">
+          <para id="id11927456"><title>Gas Mileage</title>The table below shows the weight (in hundreds of pounds) and gas mileage (in miles per gallon) for a sample of domestic new cars.</para>
+
+      <table id="id9558353" summary="">
+<tgroup cols="11"><colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry>Weight</entry>
+              <entry>29</entry>
+              <entry>35</entry>
+              <entry>28</entry>
+              <entry>44</entry>
+              <entry>25</entry>
+              <entry>34</entry>
+              <entry>30</entry>
+              <entry>33</entry>
+              <entry>28</entry>
+              <entry>24</entry>
+            </row>
+            <row>
+              <entry>Mileage</entry>
+              <entry>31</entry>
+              <entry>27</entry>
+              <entry>29</entry>
+              <entry>25</entry>
+              <entry>31</entry>
+              <entry>29</entry>
+              <entry>28</entry>
+              <entry>28</entry>
+              <entry>28</entry>
+              <entry>33</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+
+      <list id="id10682263" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Enter these points on your calculator lists.</item>
+        <item><label>b</label>Set the <code display="inline">Window</code> on your calculator appropriately, and then view a graph of the points on your calculator. Do they decrease steadily (like a line), or decrease slower and slower (like a log), or decrease more and more quickly (like a parabola or an exponent)?</item>
+        <item><label>c</label>Use the <code display="inline">STAT</code> function on your calculator to find an appropriate function to model this data. Write that function below.</item>
+        <item><label>d</label>Graph the function on your calculator. Does it match the points well? Are any of the points “outliers?”</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8783347">
+        <problem id="idm14809536">
+          <para id="id5161578"><title>TV and GPA</title>A graduate student named Angela Hershberger at Indiana University-South Bend did a study to find the relationship between TV watching and Grade Point Average among high school students. Angela interviewed 50 high school students, turning each one into a data point, where the independent (<m:math><m:mi>x</m:mi></m:math>) value was the number of hours of television watched per week, and the dependent (<m:math><m:mi>y</m:mi></m:math>) value was the high school grade point average. (She also checked the <emphasis>types</emphasis> of television watched—eg news or sitcoms—and found that it made very little difference. Quantity, not quality, mattered.)</para>
+
+      <para id="id9495236">In a study that you can read all about at <link url="www.iusb.edu/~journal/2002/hershberger/hershberger.html">www.iusb.edu/~journal/2002/hershberger/hershberger.html</link>, Angela found that her data could best be modeled by the linear function <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>–0.0288</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3.4397</m:mn></m:math>. Assuming that this line is a good fit for the data...</para>
+
+      <list id="id11375910" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What does the number 3.4397 tell you? (Don’t tell me about lines and points: tell me about students, TV, and grades.)</item>
+        <item><label>b</label>What does the number –0.0288 tell you? (Same note.)</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

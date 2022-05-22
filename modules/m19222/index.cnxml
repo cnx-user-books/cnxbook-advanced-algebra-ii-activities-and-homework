@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modeling Data with Functions Homework -- Sample Test: Modeling Data with Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ccaef737-ddf8-466f-89b7-2fc1cd314075</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id10236136">
+        <problem id="idm3891344">
+          <para id="id11158041">Sketch a vertical parabola through the three points in each graph.</para>
+
+      <para id="id10778723"><figure id="fig1" orient="horizontal">
+  <subfigure id="subfig1">
+    <media id="idm1343296" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g1.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+  <subfigure id="subfig2">
+    <media id="idp2752176" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g2.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+  <subfigure id="subfig3">
+    <media id="idm4804880" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g3.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+  <subfigure id="subfig4">
+    <media id="idp5932208" alt="Three scattered points on a Cartesian coordinate system for plotting a parabola."><image src="../../media/g4.PNG" mime-type="image/png" print-width="4in"/></media>
+  </subfigure>
+</figure></para>
+      
+        </problem>
+      </exercise>
+
+      <exercise id="id10389666"><problem id="idm5056896">
+          <para id="id10389669">Three cars and an airplane are traveling to New York City. But they all go at different speeds, so they all take different amounts of time to make the 500-mile trip. Fill in the following chart.</para>
+
+      <table id="id10572826" summary="">
+<tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>Speed (<m:math><m:mi>s</m:mi></m:math>)—miles per hour</entry>
+              <entry>Time (<m:math><m:mi>t</m:mi></m:math>)—hours</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>50</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>75</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+
+      <list id="id10859220" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Is this an example of <emphasis>direct variation</emphasis>, <emphasis>inverse variation</emphasis>, or <emphasis>neither of the above</emphasis>?</item>
+        <item><label>b</label>Write the function <m:math><m:mi>s</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:math>.</item>
+        <item><label>c</label>If this is one of our two types, what is the constant of variation?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9889669"><problem id="idp1798496">
+          <para id="id11439616">There are a bunch of squares on the board, of different sizes.</para>
+
+      <table id="id11043112" summary="">
+<tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry><m:math><m:mi>s</m:mi></m:math>—length of the side of a square</entry>
+              <entry><m:math><m:mi>A</m:mi></m:math>—area of the square</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+
+      <list id="id9780474" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Is this an example of <emphasis>direct variation</emphasis>, <emphasis>inverse variation</emphasis>, or <emphasis>neither of the above</emphasis>?</item>
+        <item><label>b</label>Write the function <m:math><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:math>.</item>
+        <item><label>c</label>If this is one of our two types, what is the constant of variation?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8652706"><problem id="idm3001744">
+          <para id="id7861394">Anna is planning a party. Of course, as at any good party, there will be a lot of 
+        ppp
+       on hand! 50 Coke cans fit into one recycling bin. So, based on the amount of Coke she buys, Anna needs to make sure there are enough recycling bins.</para>
+
+      <table id="id9411263" summary="">
+<tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry><m:math><m:mi>c</m:mi></m:math>—Coke cans Anna buys</entry>
+              <entry><m:math><m:mi>b</m:mi></m:math>—recycling bins she will need</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>50</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>200</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>400</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+
+      <list id="id9967707" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Is this an example of <emphasis>direct variation</emphasis>, <emphasis>inverse variation</emphasis>, or <emphasis>neither of the above</emphasis>?</item>
+        <item><label>b</label>Write the function <m:math><m:mi>b</m:mi><m:mo>(</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:math>.</item>
+        <item><label>c</label>If this is one of our two types, what is the constant of variation?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10695193"><problem id="idm1252400">
+          <para id="id11578997">Gasoline has gotten so expensive that I’m experimenting with using alcoholic beverages in my car instead. I’m testing different beverages to see how fast they make my car go, based on the “proof” of the drink.<footnote id="idm630640">“Proof” is alcohol percentage, times 2: so if a drink is 5% alcohol, that’s 10 proof. But you don’t need that fact for this problem.</footnote> <m:math><m:mi>p</m:mi></m:math> is the proof of the drink, <m:math><m:mi>s</m:mi></m:math> is the maximum speed of my car.</para>
+
+      <para id="id10401386">A typical <emphasis>beer</emphasis> is 10-proof. With beer in the tank, my car goes up to 30 mph.</para>
+      <para id="id8646102">The maximum proof of <emphasis>wine</emphasis> (excluding “dessert wines” such as port) is 28-proof. With wine in the tank, my car goes up to 75 mph.</para>
+
+      <list id="id11171110" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Based on those two data points, create a <emphasis>model</emphasis>—that is a function <m:math><m:mi>s</m:mi><m:mo>(</m:mo><m:mi>p</m:mi><m:mo>)</m:mo></m:math> that will predict, based on the proof of the drink, how fast I can get my car to go.</item>
+        <item><label>b</label>Test your model to make sure it correctly predicts that a 28-proof drink will get me up to 75 mph.</item>
+        <item><label>c</label>Use your model to <emphasis>predict</emphasis> how fast I can get with a 151-proof drink.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9828041"><problem id="idp1252592">
+          <para id="id3418146">Oops! I gave it a try. I poured Bacardi 151 into the car (so-called because it is indeed 151-proof). And instead of speeding up, the car only went up to 70 mph. Your job is to create a <emphasis>new quadratic model</emphasis> <m:math><m:mi>s</m:mi><m:mo>(</m:mo><m:mi>p</m:mi><m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:msup><m:mi>ap</m:mi><m:mn>2</m:mn></m:msup>
+<m:mo>+</m:mo>
+<m:mi>bp</m:mi>
+<m:mo>+</m:mo>
+<m:mi>c</m:mi>
+</m:math> based on this new data.</para>
+
+
+      <list id="id9934988" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Write simultaneous equations that you can solve to find the coefficients <m:math><m:mi>a</m:mi></m:math>, <m:math><m:mi>b</m:mi></m:math>, and <m:math><m:mi>c</m:mi></m:math>.</item>
+        <item><label>b</label>Solve, and write the new <m:math><m:mi>s</m:mi><m:mo>(</m:mo><m:mi>p</m:mi><m:mo>)</m:mo></m:math> function.</item>
+        <item><label>c</label>Test your model to make sure it correctly predicts that a 151-proof drink will get me up to 70 mph.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9974021">
+        <problem id="idm3411344">
+          <para id="id9974024">Make up a word problem involving inverse variation, on the topic of <emphasis>skateboarding</emphasis>.</para>
+
+      <list id="id9912371" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Write the scenario.</item>
+        <item><label>b</label>Label and identify the independent and dependent variables.</item>
+        <item><label>c</label>Show the function that relates the dependent to the independent variable. This function should (of course) be an inverse relationship, and it should be obvious from your scenario!</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10469179">
+        <problem id="idp8286992">
+          <para id="id10693248">I found a Web site (this is true, really) that contains the following sentence:</para>
+
+      <para id="id8246651"><quote display="block" id="idp1113312">[This process] introduces an additional truncation error [directly] proportional to the original error and inversely proportional to the gain (<m:math><m:mi>g</m:mi></m:math>) and the truncation parameter (<m:math><m:mi>q</m:mi></m:math>).</quote>
+      </para>
+      <para id="id6898410">I don’t know what most of that stuff means any more than you do. But if we use <m:math><m:mi>T</m:mi></m:math> for the “additional truncation error” and <m:math><m:mi>E</m:mi></m:math> for the “original error,” write an equation that expresses this relationship.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id9163063">
+        <problem id="idp1451728">
+          <para id="id9037821">Which of the following correctly expresses, in words, the relationship of the area of a circle to the radius?</para>
+
+      <list list-type="labeled-item" id="id9447875" mark-suffix=".">
+        <item><label>A</label>The area is directly proportional to the radius</item>
+        <item><label>B</label>The area is directly proportional to the square of the radius</item>
+        <item><label>C</label>The area is inversely proportional to the radius</item>
+        <item><label>D</label>The area is inversely proportional to the square of the radius</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11498165">
+        <problem id="idp4968832">
+          <para id="id11498168">Now, suppose we were to write the <emphasis>inverse</emphasis> of that function: that is, express the radius as a function of the area. Then we would write:</para>
+
+
+      <para id="id10542485">The radius of a circle is ___________ proportional to _____________________ the area.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id6966459"><problem id="idp4592352">
+          <para id="id10330147"><title>Death by Cholera</title>In 1852, William Farr reported a strong association between low elevation and deaths from cholera. Some of his data are reported below.</para>
+
+      <table id="id8024352" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:mi>E</m:mi></m:math>: Elevation (ft)</entry>
+              <entry>10</entry>
+              <entry>30</entry>
+              <entry>50</entry>
+              <entry>70</entry>
+              <entry>90</entry>
+              <entry>100</entry>
+              <entry>350</entry>
+            </row>
+            <row>
+              <entry><m:math><m:mi>C</m:mi></m:math>: Cholera mortality (per 10,000)</entry>
+              <entry>102</entry>
+              <entry>65</entry>
+              <entry>34</entry>
+              <entry>27</entry>
+              <entry>22</entry>
+              <entry>17</entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+
+      <list id="id9835622" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Use your calculator to create the following models, and write the appropriate functions <m:math><m:mi>C</m:mi><m:mo>(</m:mo><m:mi>E</m:mi><m:mo>)</m:mo></m:math> in the blanks.</item>
+      </list>
+        <list list-type="bulleted" id="id9043109">
+          <item>Linear: <m:math><m:mi>C</m:mi><m:mo>=</m:mo></m:math></item>
+          <item>Quadratic: <m:math><m:mi>C</m:mi><m:mo>=</m:mo></m:math></item>
+          <item>Logarithmic: <m:math><m:mi>C</m:mi><m:mo>=</m:mo></m:math></item>
+          <item>Exponential: <m:math><m:mi>C</m:mi><m:mo>=</m:mo></m:math></item>
+        </list>
+      <list id="listid" list-type="labeled-item" mark-suffix=".">
+        <item><label>b</label>Which model do you think is the best? Why?</item>
+        <item><label>c</label>Based on his very strong correlation, Farr concluded that bad air had settled into low-lying areas, causing outbreaks of cholera. We now know that air quality has nothing to do with causing cholera: the water-borne bacterial <foreign>Vibrio cholera</foreign> causes the disease. What might explain Farr’s results without justifying his conclusion?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

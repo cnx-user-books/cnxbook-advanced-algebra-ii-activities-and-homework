@@ -1,0 +1,458 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Rules of Exponents</title>
+  <metadata>
+  <md:content-id>m19101</md:content-id><md:title>Homework: Rules of Exponents</md:title>
+  <md:abstract>This module provides practice problems designed to emphasize basic exponent concepts.</md:abstract>
+  <md:uuid>9b9dba81-b03f-465b-aae3-fe7620de3b28</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id9687156">Memorize these:
+    </para>
+    
+    <list id="element-216" list-type="bulleted"><item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:apply>
+        <m:power/>
+        <m:ci>x</m:ci>
+        <m:ci>a</m:ci>
+      </m:apply>
+      <m:apply>
+        <m:power/>
+        <m:ci>x</m:ci>
+        <m:ci>b</m:ci>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:plus/>
+        <m:ci>a</m:ci>
+        <m:ci>b</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></item>
+
+<item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msup><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{a} } }  over  {x rSup { size 8{b} } } } } {}</m:annotation></m:semantics></m:math> <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:minus/>
+        <m:ci>a</m:ci>
+        <m:ci>b</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x rSup { size 8{b - a} } } } } {}</m:annotation></m:semantics></m:math></item>
+
+<item><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:apply>
+        <m:power/>
+        <m:ci>x</m:ci>
+        <m:ci>a</m:ci>
+      </m:apply>
+      <m:ci>b</m:ci>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:times/>
+        <m:ci>a</m:ci>
+        <m:ci>b</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></item></list>
+    
+    <para id="id11153997">Simplify, using these rules:
+    </para>
+    <exercise id="id11169940">
+      <problem id="id1166173080640">
+        <para id="id11828229"><m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>10</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="element-923"><problem id="id1166167373995">
+  <para id="element-529">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:msup>
+                    <m:mn>3</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mtext>10</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:msup>
+                    <m:mn>3</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 rSup { size 8{"10"} } }  over  {3 rSup { size 8{5} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise><exercise id="element-9"><problem id="id3472440">
+  <para id="element-1">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:msup>
+                    <m:mn>3</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                  <m:msup>
+                    <m:mn>3</m:mn>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mtext>10</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 rSup { size 8{5} } }  over  {3 rSup { size 8{"10"} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    
+    <exercise id="id10646935">
+      <problem id="id1166184241395">
+        <para id="id9035394"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+    <m:cn>10</m:cn>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id10786434">
+      <problem id="id1166167580092">
+        <para id="id10087794"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>10</m:cn>
+    </m:apply>
+    <m:cn>5</m:cn>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id9661185">
+      <problem id="id1166159288348">
+        <para id="id10280571"><m:math>
+  <m:apply>
+    <m:plus/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>10</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7541856">
+      <problem id="id4019651">
+        <para id="id9874856"><m:math>
+  <m:apply>
+    <m:minus/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>10</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>5</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="element-353"><problem id="id8893421">
+  <para id="element-549">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>6x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>y</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>z</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>4x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mtext>10</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>yz</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {6x rSup { size 8{3} } y rSup { size 8{2} } z rSup { size 8{5} } }  over  {4x rSup { size 8{"10"} }  ital "yz" rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise><exercise id="element-533"><problem id="id1166173080275">
+  <para id="element-918">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mn>6x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>y</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msup>
+                        <m:mn>3x</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>xy</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msup>
+                        <m:mi>x</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>y</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  {6x rSup { size 8{2} } y rSup { size 8{3} } +3x rSup { size 8{3} } y}  over  { ital "xy"+x rSup { size 8{2} } y} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+</exercise><exercise id="element-312"><problem id="id1166167117395">
+  <para id="element-67">
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:msup>
+                      <m:mn>3x</m:mn>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mi>y</m:mi>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>xy</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>xy</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:msup>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ {  { \( 3x rSup { size 8{2} } y \)  rSup { size 8{2} } + ital "xy"}  over  { \(  ital "xy" \)  rSup { size 8{3} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+</exercise>
+    
+    
+    <exercise id="id11797526">
+      <problem id="id4164318">
+        <para id="id9656240"><m:math><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mi>3x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>4xy</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
+</para>
+      </problem>
+    </exercise>
+  </content>
+</document>

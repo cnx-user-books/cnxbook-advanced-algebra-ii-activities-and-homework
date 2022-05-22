@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Homework: A Bunch of Other Stuff About Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6cca0b62-095b-4b36-8411-8b6028aec93a</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-785"><problem id="idm2862016">
+  <para id="element-923">Several hundred years before Einstein, Isaac Newton proposed a theory of gravity.  According to Newton’s theory, any two bodies exert a force on each other, pulling them closer together.  The force is given by the equation <m:math>
+<m:mi>F</m:mi>
+<m:mo>=</m:mo>
+<m:mi>G</m:mi>
+<m:mfrac>
+<m:mrow>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:mrow>
+<m:mrow>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+</m:mfrac>
+</m:math> , where <m:math>
+<m:mi>F</m:mi>
+</m:math> is the force of attraction, <m:math>
+<m:mi>G</m:mi>
+</m:math> is a constant, <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math> and <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math> are the masses of the two different bodies, and <m:math>
+<m:mi>r</m:mi></m:math> is the distance between them.  Find a formula that would give you <m:math>
+<m:mi>r</m:mi>
+</m:math> if you already knew 
+<m:math>
+<m:mi>F</m:mi>
+</m:math>,
+ <m:math>
+<m:mi>G</m:mi>
+</m:math>, <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>, and <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mn>2</m:mn>
+</m:msub>
+</m:math>.</para>
+</problem>
+</exercise><exercise id="element-339"><problem id="idm5225120">
+  <para id="element-591">In the following drawing, <m:math>
+<m:mi>m</m:mi>
+</m:math> is the height (vertical height, straight up) of the mountain; <m:math>
+<m:mi>s</m:mi></m:math> is the length of the ski lift (the diagonal line); and <m:math>
+<m:mi>x</m:mi>
+</m:math> is the horizontal distance from the bottom of the ski lift to the bottom of the mountain.</para>
+
+<figure id="fig2"><title>Ski Lift</title><media id="idp2514192" alt="An image of a skylift"><image src="../../media/drawing.gif" mime-type="image/gif" print-width="3in"/></media></figure>
+
+<list id="element-678" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Label these three numbers on the diagram.  Note that they make a right triangle.</item>
+<item><label>b</label>Write the relationship between the three.  (Pythagorean Theorem.)</item>
+<item><label>c</label>If you build the ski lift starting 1,200 feet from the bottom of the mountain, and the mountain is 800 feet high, how long is the ski lift?</item>
+<item><label>d</label>If the ski lift is <m:math>
+<m:mi>s</m:mi>
+</m:math> feet long, and you build it starting <m:math>
+<m:mi>x</m:mi>
+</m:math> feet from the bottom of the mountain, how high is the mountain?</item></list>
+</problem>
+</exercise><exercise id="element-628"><problem id="idp3266864">
+  <para id="element-498">Simplify  <m:math>
+<m:mfrac>
+<m:mrow>
+<m:msqrt>
+<m:mn>28</m:mn>
+</m:msqrt>
+</m:mrow>
+<m:mrow>
+<m:mn>4</m:mn>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mn>7</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+</m:math>.  <emphasis>Check</emphasis> your answer on your calculator.</para>
+</problem>
+</exercise><exercise id="element-160"><problem id="idm1649680">
+  <para id="element-696">Simplify  <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>5</m:mn>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:msqrt>
+<m:mn>5</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:math>.  <emphasis>Check</emphasis> your answer on your calculator.</para>
+</problem>
+</exercise><exercise id="element-608"><problem id="idm707072">
+  <para id="element-735">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+</m:math>.  What are the domain and range?</para>
+</problem>
+</exercise><exercise id="element-457"><problem id="idm10940096">
+  <para id="element-372">Graph <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+</m:msqrt>
+</m:math>.  What are the domain and range?</para>
+</problem>
+</exercise>   
+  </content>
+  
+</document>

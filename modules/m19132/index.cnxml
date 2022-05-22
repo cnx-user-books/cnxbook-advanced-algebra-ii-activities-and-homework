@@ -1,0 +1,286 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Homework: Complex Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ce0bfd0f-aed4-4a80-8b64-395644699f36</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id11467975">
+        <problem id="idm3238112">
+          <para id="id12158734"><m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>–</m:mo>
+<m:mo>(</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11716378">
+        <problem id="idm7104512">
+          <para id="id13085436"><m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id7319472">
+        <problem id="idm8320256">
+          <para id="id9017491"><m:math>
+<m:mn>2</m:mn>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id13317726">
+        <problem id="idm8462096">
+          <para id="id9924175"><m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>0</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id10334361">
+        <problem id="idm2286672">
+          <para id="id7393216">What is the complex conjugate of <m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9598090">
+        <problem id="idm5153312">
+          <para id="id11488066">What do you get when you multiply <m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>3</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math> by its complex conjugate?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9198925">
+        <problem id="idm13016400">
+          <para id="id11306825">What is the complex conjugate of 7?</para>
+        </problem>
+      </exercise>
+      <exercise id="id10582242">
+        <problem id="idm13268320">
+          <para id="id7038996">What do you get when you multiply 7 by its complex conjugate?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9775364">
+        <problem id="idm9709680">
+          <para id="id10657506">What is the complex conjugate of <m:math>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9139930">
+        <problem id="idm12837856">
+          <para id="id8411340">What do you get when you multiply <m:math>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math> by its complex conjugate?</para>
+        </problem>
+      </exercise>
+      <exercise id="id12518245">
+        <problem id="idm9894816">
+          <para id="id12036689">What is the complex conjugate of <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>?</para>
+        </problem>
+      </exercise>
+      <exercise id="id9761140">
+        <problem id="idm7157584">
+          <para id="id9577081">What do you get when you multiply <m:math>
+<m:mo>(</m:mo>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math> by its complex conjugate?</para>
+        </problem>
+      </exercise>
+      <exercise id="id11327161">
+        <problem id="idm9472176">
+          <para id="id11488525">I’m thinking of a complex number <m:math>
+<m:mi>z</m:mi></m:math>. When I multiply it by its complex conjugate (designated as <m:math>
+<m:mi>z</m:mi>
+<m:mi>*</m:mi></m:math>) the answer is 25.</para>
+
+      <list id="id13817044" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>What might <m:math>
+<m:mi>z</m:mi>
+</m:math> be?</item>
+        <item><label>b</label>Test it, and make sure it works—that is, that <m:math><m:mo>(</m:mo>
+<m:mi>z</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mi>z</m:mi>
+<m:mi>*</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>25</m:mn>
+</m:math>!</item>
+      </list>
+        </problem>
+
+      </exercise>
+      <exercise id="id12741062">
+        <problem id="idm1147440">
+          <para id="id12487166">I’m thinking of a <emphasis>different</emphasis> complex number <m:math>
+<m:mi>z</m:mi></m:math>. When I multiply it by <emphasis>its</emphasis> complex conjugate, the answer is <m:math>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math>.</para>
+
+
+      <list id="id8844369" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>What might <m:math>
+<m:mi>z</m:mi>
+</m:math> be?</item>
+        <item><label>b</label>Test it, and make sure it works—that is, that <m:math>
+<m:mo>(</m:mo>
+<m:mi>z</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mi>z</m:mi>
+<m:mi>*</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math>!</item>
+      </list>
+        </problem>
+      </exercise>
+      <exercise id="id11579766">
+        <problem id="idm10232672">
+          <para id="id13181725">Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math> and <m:math>
+<m:mi>y</m:mi>
+</m:math>: <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mi>i</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>40</m:mn>
+<m:mi>y</m:mi>
+<m:mi>i</m:mi>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+<m:mo>–</m:mo>
+<m:mn>2</m:mn>
+<m:mi>i</m:mi>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id10037551">
+        <problem id="idm12048288">
+          <para id="id10712350">Finally, a bit more exercise with rational expressions. We’re going to take one problem and solve it two different ways. The problem is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mi>i</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>7i</m:mn><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4i</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2+i} }  -  {  {7i}  over  {3+4i} } } {}</m:annotation></m:semantics></m:math>. The final answer, of course, must be in the form <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math>.</para>
+
+
+      <list id="id11470132" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Here is one way to solve it: the common denominator is <m:math>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mi>i</m:mi>
+<m:mo>)</m:mo>
+</m:math>. Put both fractions over the common denominator and combine them. Then, take the resulting fraction, and simplify it into <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> form.</item>
+        <item><label>b</label>Here is a completely different way to solve the same problem. Take the two fractions we are subtracting and simplify them <emphasis>both</emphasis> into <m:math>
+<m:mi>a</m:mi>
+<m:mo>+</m:mo>
+<m:mi>b</m:mi>
+<m:mi>i</m:mi>
+</m:math> form, and then subtract.</item>
+        <item><label>c</label>Did you get the same answer? (If not, something went wrong…) Which way was easier?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

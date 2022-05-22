@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Absolute Value Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>23765887-5793-4400-9be1-9cf23c7e911a</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-37"><problem id="idm4172224">
+  <para id="element-860">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline 4 rline ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-955"><problem id="idp10228768">
+  <para id="element-430">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline  - 5 rline ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-494"><problem id="idm3214928">
+  <para id="element-118">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline 0 rline ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+</exercise>
+    <exercise id="element-620"><problem id="idp2560528">
+  <para id="element-165">
+    OK, now, I’m thinking of a number. All I will tell you is that the <emphasis>absolute value of my number is</emphasis> 7.
+  </para><list id="element-928" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math equation instead of a word problem.</item>
+      <item><label>b</label>What can my number be?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-703"><problem id="idm3985232">
+  <para id="element-967">
+   I’m thinking of a different number. This time, the <emphasis>absolute value of my number is</emphasis> 0.
+  </para><list id="element-496" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math equation instead of a word problem.</item>
+      <item><label>b</label>What can my number be?</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-505"><problem id="idp520672">
+  <para id="element-36">
+    I’m thinking of a different number. This time, the <emphasis>absolute value of my number is</emphasis> –4.
+  </para><list id="element-879" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math equation instead of a word problem.</item>
+      <item><label>b</label>What can my number be?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-631"><problem id="idp7187264">
+  <para id="element-847">
+    I’m thinking of a different number. This time, the <emphasis>absolute value of my number is less than</emphasis> 7.
+  </para><list id="element-748" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math inequality instead of a word problem.</item>
+      <item><label>b</label>Does 8 work?</item>
+      <item><label>c</label>Does 6 work?</item>
+      <item><label>d</label>Does 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 8} {}</m:annotation></m:semantics></m:math> work?</item>
+      <item><label>e</label>Does 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 6} {}</m:annotation></m:semantics></m:math> work?</item>
+      <item><label>f</label>Write an inequality that describes all possible values for my number.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-825"><problem id="idp1701696">
+  <para id="element-337">
+    I’m thinking of a different number. This time, the <emphasis>absolute value of my number is greater than</emphasis> 4.
+  </para><list id="element-963" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math inequality instead of a word problem.</item>
+      <item><label>b</label>Write an inequality that describes all possible values for my number. (Try a few numbers, as we did in #7.)</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-480"><problem id="idp5063104">
+  <para id="element-562">
+  I’m thinking of a different number. This time, the <emphasis>absolute value of my number is greater than </emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 4} {}</m:annotation></m:semantics></m:math>.
+  </para><list id="element-100" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite my question as a math inequality instead of a word problem.</item>
+      <item><label>b</label>Write an inequality that describes all possible values for my number.</item>
+    </list>
+</problem>
+
+</exercise>
+    <para id="id4927275">Stop at this point and check your answers with me before going on to the next questions.
+    </para>
+    
+    
+    
+    <exercise id="element-914"><problem id="idp7078752">
+  <para id="element-391">
+   
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">∣</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline x+3 rline =7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-465" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>First, forget that it says “
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+3} {}</m:annotation></m:semantics></m:math>” and just think of it as “a number.” The absolute value of <emphasis>this number</emphasis> is 7. So what can <emphasis>this number</emphasis> be?</item>
+      <item><label>b</label>Now, remember that “this number” is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+3} {}</m:annotation></m:semantics></m:math>. So write an equation that says that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+3} {}</m:annotation></m:semantics></m:math> can be <emphasis>&lt;your answer(s) in part (a)&gt;.</emphasis></item>
+      <item><label>c</label>Solve the equation(s) to find what <m:math>
+  <m:ci>x</m:ci>
+</m:math> can be.</item>
+      <item><label>d</label>Plug your answer(s) back into the original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline x+3 rline =7} {}</m:annotation></m:semantics></m:math> and see if they work.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-74"><problem id="idp2495008">
+  <para id="element-933">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                        <m:mrow>
+                          <m:mn>3x</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">∣</m:mo>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>17</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{4 lline 3x - 2 rline +5="17"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-747" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>This time, because the absolute value is not alone, we’re going to start with some algebra. Leave 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 2 rline } {}</m:annotation></m:semantics></m:math> alone, but get rid of everything <emphasis>around</emphasis> it, so you end up with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 2 rline } {}</m:annotation></m:semantics></m:math> alone on the left side, and some other number on the right.</item>
+      <item><label>b</label>Now, remember that “some number” is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x - 2} {}</m:annotation></m:semantics></m:math>. So write an equation that says that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x - 2} {}</m:annotation></m:semantics></m:math> can be <emphasis>&lt;your answer(s) in part a&gt;</emphasis>.</item>
+      <item><label>c</label>Solve the equation(s) to find what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> can be.</item>
+      <item><label>d</label>Plug your answer(s) back into the original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 lline 3x - 2 rline +5="17"} {}</m:annotation></m:semantics></m:math> and see if they work.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-29"><problem id="idp7986592">
+  <para id="element-929">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">∣</m:mo>
+                      <m:mrow>
+                        <m:mn>3x</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">∣</m:mo>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 3 rline +5=4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-154" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve, by analogy to the way you solved the last two problems.</item>
+      <item><label>b</label>Plug your answer(s) back into the original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline 3x - 3 rline +5=4} {}</m:annotation></m:semantics></m:math> and see if they work.</item>
+    </list>
+</problem>
+</exercise>
+    
+    <exercise id="element-157"><problem id="idp338064">
+  <para id="element-798">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline x - 2 rline =2x - "10"} {}</m:annotation></m:semantics></m:math>.
+  </para><list id="element-109" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve, by analogy to the way you solved the last two problems.</item>
+      <item><label>b</label>Plug your answer(s) back into the original equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline x - 2 rline =2x - "10"} {}</m:annotation></m:semantics></m:math> and see if they work.</item>
+    </list>
+</problem>
+
+
+</exercise>
+  </content>
+</document>

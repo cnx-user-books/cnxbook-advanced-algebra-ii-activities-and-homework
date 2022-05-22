@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modeling Data with Functions Homework -- From Data Points to Functions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8e1f34d1-c637-4064-b911-3b3889c931bf</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id10944500">Andrea is in charge of a new chemical plant. It’s a technological miracle—you put in toxic waste products (which everyone is trying to get rid of anyway) and out comes Andreum, the new wonder chemical that everyone, everyone, everyone needs! (*What am I quoting?) Andrea’s first task is to find a model to predict, based on the amount of toxic waste that goes <emphasis>in</emphasis>, how much Andreum will come <emphasis>out</emphasis>.</para>
+
+      <exercise id="id11670858"><problem id="idm12511520">
+          <para id="id11425811">Andrea makes two initial measurements. If 10 lb of toxic waste go in, 4 lb of Andreum come out. If 16 lb of toxic waste go in, 7 lb of Andreum come out.</para>
+
+      <list id="id11647385" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Create a <emphasis>model</emphasis> based on these two experiments. This model should be a function <m:math><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:math> that correctly predicts both of Andrea’s data points so far. (<m:math><m:mi>A</m:mi></m:math> = amount of Andreum that comes out; <m:math><m:mi>t</m:mi></m:math> = amount of toxic waste put in.)</item>
+        <item><label>b</label>Test your model, to confirm that it does correctly predict both data points.</item>
+        <item><label>c</label>Now use your model to make a new prediction—how much Andreum should be produced if 22 lb of toxic waste are put in?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10264552"><problem id="idp4291264">
+          <para id="id10264554">Being a good scientist, Andrea now runs an experiment to validate her model. She pumps in 22 lb of toxic waste and waits eagerly to see what comes out. Unfortunately, the reality does not match her prediction (the prediction you made in part (c) above). Instead, she only gets 4 lb of Andreum out this time.</para>
+
+      <list id="id6805976" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Create a <emphasis>new model</emphasis> based on the two previous experiments, plus this new one. This new function <m:math><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:math> must correctly predict all three of Andrea’s data points so far.</item>
+        <item><label>b</label>Test your model, to confirm that it does correctly predict all three data points.</item>
+        <item><label>c</label>Now use your model to make a new prediction—how much Andreum should be produced if 23 lb of toxic waste are put in?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11368411">
+        <problem id="idm12647120">
+          <para id="id6233020">The new model works much better than the old one. When Andrea experiments with 23 lb of toxic waste, she gets exactly what she predicted. Now, her next job is (of course) optimization. Based on the model you previously calculated, how much toxic waste should she put in to get the <emphasis>most Andreum possible</emphasis>?</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

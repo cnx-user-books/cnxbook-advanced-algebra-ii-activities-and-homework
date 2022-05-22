@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modeling Data with Functions Homework -- Homework: Inverse Variation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1443d72b-aa38-420e-97a6-d791cffddce2</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id12264238"><problem id="idp857072">
+          <para id="id12264241">An astronaut in space is performing an experiment with three balloons. The balloons are all <emphasis>different sizes</emphasis> but they have the<emphasis> same amount of air</emphasis> in them. As you might expect, the balloons that are very small experience a great deal of air pressure (the air inside pushing out on the balloon); the balloons that are very large, experience very little air pressure. He measures the volumes and pressures, and comes up with the following chart.</para>
+
+      <table id="id12438430" summary="">
+<tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>Volume (<m:math><m:mi>V</m:mi></m:math>)</entry>
+              <entry>Pressure (<m:math><m:mi>P</m:mi></m:math>)</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>5</entry>
+              <entry>270</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>135</entry>
+            </row>
+            <row>
+              <entry>15</entry>
+              <entry>90</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>67½</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+
+      <list id="id8147969" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Which is the dependent variable, and which is the independent variable?</item>
+        <item><label>b</label>When the volume <emphasis>doubles</emphasis>, what happens to the pressure?</item>
+        <item><label>c</label>When the volume <emphasis>triples</emphasis>, what happens to the pressure?</item>
+        <item><label>d</label>Based on your answers to parts (a) – (c), what would you <emphasis>expect</emphasis> the pressure to be for a balloon with a volume of 30?</item>
+        <item><label>e</label>On the right of the table add a third column that represents the quantity <m:math><m:mi>PV</m:mi></m:math>: pressure times volume. Fill in all four values for this quantity. What do you notice about them?</item>
+        <item><label>f</label>Plot all four points on the graph paper, and fill in a sketch of what the graph looks like.</item>
+        <item><label>g</label>Write the function <m:math><m:mi>P</m:mi><m:mo>(</m:mo><m:mi>V</m:mi><m:mo>)</m:mo></m:math>. Make sure that it accurately gets you from the first column to the second in all four instances! (Part (e) is a clue to this.)</item>
+        <item><label>h</label>Graph your function <m:math><m:mi>P</m:mi><m:mo>(</m:mo><m:mi>V</m:mi><m:mo>)</m:mo></m:math> on your calculator, and copy the graph onto the graph paper. Does it match your graph in part (f)?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11093073"><problem id="idm7252688">
+          <para id="id11093076">The three little pigs have built three houses—made from straw, Lincoln Logs®, and bricks, respectively. Each house is 20' high. The pieces of straw are 1/10" thick; the Lincoln Logs® are 1" thick; the bricks are 4" thick. Let <m:math><m:mi>t</m:mi></m:math> be the thickness of the building blocks, and let <m:math><m:mi>n</m:mi></m:math> be the number of such blocks required to build a house 20' high.
+      <note id="idm19538960">There are 12" in 1'. But you probably knew that…</note></para>
+
+
+<list id="id11684186" list-type="labeled-item"><item>Make a table showing different <m:math><m:mi>t</m:mi></m:math> values and their corresponding <m:math><m:mi>n</m:mi></m:math> values.</item>
+      </list>
+      <table id="id12113428" summary="">
+<tgroup cols="3">
+<colspec colnum="1" colname="header_c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <thead>
+            <row>
+              <entry>Building Blocks</entry>
+              <entry>thickness (<m:math><m:mi>t</m:mi></m:math>)</entry>
+              <entry>number (<m:math><m:mi>n</m:mi></m:math>)</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Straw</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Lincoln Logs®</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bricks</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+
+      <list id="id11835957" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Which is the dependent variable, and which is the independent variable?</item>
+        <item><label>b</label>When the thickness of the building blocks <emphasis>doubles</emphasis>, what happens to the number required? (*Not sure? Pretend that the pig’s cousin used 8" logs, and his uncle used 16" logs. See what happens to the number required as you go up in this sequence…)</item>
+        <item><label>c</label>When the thickness of the building blocks is <emphasis>halved</emphasis>, what happens to the number required?</item>
+        <item><label>d</label>On the right of the table add a fourth column that represents the quantity <m:math><m:mi>tn</m:mi></m:math>: thickness times number. Fill in all three values for this quantity. What do you notice about them? What do they actually represent, in our problem?</item>
+        <item><label>e</label>Plot all three points on the graph paper, and fill in a sketch of what the graph looks like.</item>
+        <item><label>f</label>Write the function <m:math><m:mi>n</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:math>.</item>
+        <item><label>g</label>Graph your function <m:math><m:mi>n</m:mi><m:mo>(</m:mo><m:mi>t</m:mi><m:mo>)</m:mo></m:math> on your calculator, and copy the graph onto the graph paper. Does it match your graph in part (f)?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id12956307"><problem id="idm6214048">
+        <para id="paraid">The above two scenarios are examples of <emphasis>inverse variation</emphasis>. If a variable <m:math><m:mi>y</m:mi></m:math> “varies inversely” with <m:math><m:mi>x</m:mi></m:math>, then it can be written as a function <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>k</m:mi><m:mi>x</m:mi></m:mfrac></m:math>, where <m:math><m:mi>k</m:mi></m:math> is called the <emphasis>constant of variation</emphasis>. So, <emphasis>if <m:math><m:mi>y</m:mi></m:math> varies inversely with <m:math><m:mi>x</m:mi></m:math></emphasis>…</para>
+
+
+      <list id="id5315329" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>What happens to <m:math><m:mi>y</m:mi></m:math> if <m:math><m:mi>x</m:mi></m:math> doubles? <note type="Hint" id="idm9659168"><label>Hint</label>You can find and prove the answer from the equation <m:math><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>k</m:mi><m:mi>x</m:mi></m:mfrac></m:math>.</note></item>
+        <item><label>b</label>What happens to <m:math><m:mi>y</m:mi></m:math> if <m:math><m:mi>x</m:mi></m:math> is cut in half?</item>
+        <item><label>c</label>What does the graph <m:math><m:mi>y</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> look like? What happens to this graph when <m:math><m:mi>k</m:mi></m:math> increases? (*You may want to try a few different ones on your calculator to see the effect <m:math><m:mi>k</m:mi></m:math> has.)</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11745095">
+        <problem id="idm7953504">
+          <para id="id11745098">Make up a word problem like #1 and #2 above. Your problem should <emphasis>not</emphasis> involve pressure and volume, or building a house. It <emphasis>should</emphasis> involve two variables that vary inversely with each other. Make up the scenario, define the variables, and then do problems (a) - (h) exactly like my two problems.</para>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

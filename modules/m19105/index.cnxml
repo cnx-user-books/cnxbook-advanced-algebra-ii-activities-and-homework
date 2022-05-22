@@ -1,0 +1,738 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exponents Homework -- Sample Test: Exponents</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b1b78d2c-d4e3-4b47-95b3-8cf79628431c</md:uuid>
+</metadata>
+  <content>
+
+    <para id="id6930674">Simplify. Your answer should not contain any negative or fractional exponents.
+    </para>
+
+      <exercise id="id10515242">
+        <problem id="idm12458704">
+          <para id="id3120298"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:minus/>
+      <m:cn>6</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9442877">
+        <problem id="idm8509584">
+          <para id="id8731845"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:cn>0</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id4082591">
+        <problem id="idm12960432">
+          <para id="id8843766"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>8</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8451084">
+        <problem id="idm460304">
+          <para id="id5891945"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="element-347"><problem id="idm7362992">
+  <para id="element-118">
+
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {a rSup { size 8{ - 3} } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      
+  </para>
+</problem>
+
+</exercise>
+      <exercise id="id6252922">
+        <problem id="idm1236864">
+          <para id="id11336341"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:divide/>
+      <m:cn>2</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11202006">
+        <problem id="idm1632368">
+          <para id="id10612998"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:minus/>
+      <m:ci>x</m:ci>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8431684">
+        <problem id="idm9575744">
+          <para id="id7920376"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9713110">
+        <problem id="idm13345568">
+          <para id="id8496127"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11227181">
+        <problem id="idm12760128">
+          <para id="id6741778"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:cn>-1</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9630997">
+        <problem id="idm11560944">
+          <para id="id8731505"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>9</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11296988">
+        <problem id="idm7074656">
+          <para id="id9931837"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:minus/>
+      <m:cn>8</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9316450">
+        <problem id="idm3685632">
+          <para id="id4359607"><m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:ci>y</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:ci>y</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>3</m:cn>
+        <m:cn>4</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="element-671"><problem id="idm11812864">
+  <para id="element-971">
+
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>4x</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:msup>
+                        <m:mi>y</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mi>z</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mtext>wxy</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:msup>
+                        <m:mi>z</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {4x rSup { size 8{4} } y rSup { size 8{5} } z}  over  {6 ital "wxy" rSup { size 8{ - 3} } z rSup { size 8{3} } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      
+  </para>
+</problem>
+</exercise>
+      <exercise id="id10877189">
+        <problem id="idm12917312">
+          <para id="id9755042"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>3</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9688527">
+        <problem id="idm8963184">
+          <para id="id9823581"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:power/>
+      <m:ci>x</m:ci>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="element-987"><problem id="idm6138640">
+  <para id="element-292">
+
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>6</m:mn>
+                          <m:mn>3</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{ {  {6}  over  {3} } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      
+  </para>
+</problem>
+</exercise>
+      <exercise id="id10719168">
+        <problem id="idm19019424">
+          <para id="id10173741"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:ci>x</m:ci>
+    <m:apply>
+      <m:divide/>
+      <m:apply>
+        <m:minus/>
+        <m:cn>3</m:cn>
+      </m:apply>
+      <m:cn>4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11168998">
+        <problem id="idm727168">
+          <para id="id8913577"><m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:times/>
+      <m:cn>4</m:cn>
+      <m:cn>9</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id10981062">
+        <problem id="idm8640">
+          <para id="id11108836"><m:math>
+  <m:apply>
+    <m:times/>
+    <m:apply>
+      <m:power/>
+      <m:cn>4</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>9</m:cn>
+      <m:apply>
+        <m:divide/>
+        <m:cn>1</m:cn>
+        <m:cn>2</m:cn>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id10008000">
+        <problem id="idm19799728">
+          <para id="id10187158">Give an algebraic formula that gives the generalization for #18-19.</para>
+        </problem>
+      </exercise>
+
+      <para id="id8167503">Solve for <m:math><m:mi>x</m:mi></m:math>:
+      </para>
+ 
+
+      <exercise id="id10751268">
+        <problem id="idm10929312">
+          <para id="id8947414"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:cn>64</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8575956">
+        <problem id="idp122736">
+          <para id="id9925483"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:cn>8</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9084027">
+        <problem id="idm5891456">
+          <para id="id10386823"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:cn>1</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11203848">
+        <problem id="idm6997056">
+          <para id="id11281565"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id6690748">
+        <problem id="idp189856">
+          <para id="id8184909"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>8</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8820519">
+        <problem id="idp18944">
+          <para id="id10516042"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>64</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11037583">
+        <problem id="idm20060992">
+          <para id="id9486050"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:apply>
+      <m:divide/>
+      <m:cn>1</m:cn>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id11108570">
+        <problem id="idm1947808">
+          <para id="id10326209"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>8</m:cn>
+      <m:ci>x</m:ci>
+    </m:apply>
+    <m:cn>0</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+
+
+      <exercise id="id9601887">
+        <problem id="idm13103296">
+          <para id="id11031843">Rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mroot><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { nroot { size 8{3} }  {x rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math> as xsomething.</para>
+        </problem>
+      </exercise>
+      <para id="id9592808">Solve for <m:math><m:mi>x</m:mi></m:math>:
+      </para>
+      <exercise id="id11297431">
+        <problem id="idm6237536">
+          <para id="id10491583"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:apply>
+          <m:plus/>
+          <m:ci>x</m:ci>
+          <m:cn>3</m:cn>
+        </m:apply>
+      </m:apply>
+      <m:apply>
+        <m:power/>
+        <m:cn>2</m:cn>
+        <m:apply>
+          <m:plus/>
+          <m:ci>x</m:ci>
+          <m:cn>4</m:cn>
+        </m:apply>
+      </m:apply>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id9416013">
+        <problem id="idm1681696">
+          <para id="id3757585"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>x</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{ \( x rSup { size 6{2} }  \) } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>3x</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {9} }  right ) rSup { size 8{3x} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="element-544"><problem id="idm13260544">
+  <para id="element-478">A friend of yours is arguing that <m:math><m:mi>x⅓</m:mi></m:math> should be defined to mean something to do with “fractions, or division, or something.” You say “No, it means _____ instead.” He says “That’s a crazy definition!” Give him a convincing argument <emphasis>why</emphasis> it should mean what you said it means.
+  </para>
+</problem>
+</exercise>
+      <exercise id="id9795486">
+        <problem id="idm1621440">
+          <para id="id9795488">On October 1, I place 3 sheets of paper on the ground. Each day thereafter, I count the number of sheets on the ground, and add that many again. (So if there are 5 sheets, I add 5 more.) After I add my last pile on Halloween (October 31), how many sheets are there total?</para><list id="element-140" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Give me the answer as a formula.</item>
+        <item><label>b</label>Plug that formula into your calculator to get a number.</item>
+        <item><label>c</label>If one sheet of paper is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>250</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"250"} } } {}</m:annotation></m:semantics></m:math> inches thick, how thick is the final pile?</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <exercise id="id8677328"><problem id="idm703584">
+          <para id="id9000285"><title>Depreciation</title>The Web site www.bankrate.com defines <emphasis>depreciation</emphasis> as “the decline in a car’s value over the course of its useful life” (and also as “something new-car buyers dread”). The site goes on to say:</para>
+
+      <para id="id8660366">Let’s start with some basics. Here’s a standard rule of thumb about used cars. A car loses 15 percent to 20 percent of its value each year.</para>
+
+          <para id="id9575982"><quote display="block" id="idm728352">For the purposes of this problem, let’s suppose you buy a new car for exactly $10,000, and it loses only 15% of its value every year.</quote></para>
+
+      <list id="id10441832" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>How much is your car worth after the first year?</item>
+        <item><label>b</label>How much is your car worth after the second year?</item>
+        <item><label>c</label>How much is your car worth after the nth year?</item>
+        <item><label>d</label>How much is your car worth after ten years? (This helps you understand why new-car buyers dread depreciation.)</item>
+      </list>
+        </problem>
+      </exercise>
+
+
+      <exercise id="element-18"><problem id="idm8305600">
+  <para id="element-711">Draw a graph of <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:times/>
+      <m:cn>2</m:cn>
+      <m:apply>
+        <m:power/>
+        <m:cn>3</m:cn>
+        <m:ci>x</m:ci>
+      </m:apply>
+    </m:apply>
+  </m:apply>
+</m:math>. Make sure to include negative and positive values of <m:math><m:mi>x</m:mi></m:math>.
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-127"><problem id="idm7257584">
+  <para id="element-7">Draw a graph of <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:ci>y</m:ci>
+    <m:apply>
+      <m:minus/>
+      <m:apply>
+        <m:power/>
+        <m:apply>
+          <m:divide/>
+          <m:cn>1</m:cn>
+          <m:cn>3</m:cn>
+        </m:apply>
+        <m:ci>x</m:ci>
+      </m:apply>
+      <m:cn>3</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>. Make sure to include negative and positive values of <m:math><m:mi>x</m:mi></m:math>.
+  </para>
+</problem>
+</exercise>
+
+<exercise id="element-281"><problem id="idm3635120">
+  <para id="element-588">
+    What are the <emphasis>domain</emphasis> and <emphasis>range</emphasis> of the function you graphed in number 36?
+  </para>
+</problem>
+
+
+</exercise>
+
+          <para id="id8887997"><title>Extra Credit:</title>We know that <m:math>
+  <m:apply>
+    <m:power/>
+    <m:apply>
+      <m:plus/>
+      <m:ci>a</m:ci>
+      <m:ci>b</m:ci>
+    </m:apply>
+    <m:cn>2</m:cn>
+  </m:apply>
+</m:math> is not, in general, the same as <m:math>
+  <m:apply>
+    <m:plus/>
+    <m:apply>
+      <m:power/>
+      <m:ci>a</m:ci>
+      <m:cn>2</m:cn>
+    </m:apply>
+    <m:apply>
+      <m:power/>
+      <m:ci>b</m:ci>
+      <m:cn>2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math>. But under what circumstances, if any, <emphasis>are</emphasis> they the same?</para>
+
+
+  </content>
+</document>

@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sequences and Series Homework -- Sample Test: Sequences and Series</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ae69fcf3-19b4-430f-9ad1-a7189e6f9b27</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id11806828">
+        <problem id="idm5426464">
+          <para id="id11806831">The teacher sees the wishing star high in the night sky, and makes the mistake of wishing for whiteboard markers. The next day (let’s call it “day 1”), the marker fairy arrives and gives the teacher a marker that works—hooray! The day after that (“day 2”), the marker fairy gives the teacher three markers. The day after that, nine new markers…and so on…each day, three times as many new markers as the day before.</para>
+
+      <list id="id11845969" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>If <m:math>
+<m:mi>n</m:mi>
+</m:math> is the day, and <m:math>
+<m:mi>m</m:mi>
+</m:math> is the number of new markers the fairy brings that day, is the list of all <m:math>
+<m:mi>m</m:mi>
+</m:math> numbers an arithmetic sequence, geometric sequence, or neither?</item>
+        <item><label>b</label>Give a “recursive definition” for the sequence: that is, a formula for <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msub>
+</m:math> based on <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math>.</item>
+        <item><label>c</label>Give an “explicit definition” for the sequence: that is, a formula that I can use to quickly find <m:math>
+<m:msub>
+<m:mi>m</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math> for any given <m:math>
+<m:mi>n</m:mi>
+</m:math>, without finding all the previous <m:math><m:mi>m</m:mi>
+</m:math> terms.</item>
+        <item><label>d</label>On “day 30” (the end of the month) how many markers does the fairy bring?</item>
+        <item><label>e</label>After that “day 30” shipment, how many <emphasis>total</emphasis> markers has the fairy brought?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11215058">
+        <problem id="idm16678928">
+          <para id="id11841950">You start a dot-com business. Like all dot-com businesses, it starts great, and then starts going downhill fast. Specifically, you make $10,000 the first day. Every day thereafter, you make $200 less than the previous day—so the second day you make $9,800, and the third day you make $9,600, and so on. You might think this pattern stops when you hit zero, but the pattern just keeps right on going—the day after you make $0, you <emphasis>lose</emphasis> $200, and the day after that you lose $400, and so on.</para>
+
+      <list id="id12018607" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>If <m:math>
+<m:mi>n</m:mi>
+</m:math> is the day, and <m:math>
+<m:mi>d</m:mi>
+</m:math> is the amount of money you <emphasis>gain</emphasis> on that day, is the list of all <m:math>
+<m:mi>d</m:mi>
+</m:math> numbers an arithmetic sequence, geometric, or neither?</item>
+        <item><label>b</label>How much money do you make on the 33rd day?</item>
+        <item><label>c</label>On the day when you lose $1,000 in one day, you finally close up shop. What day is that?</item>
+        <item><label>d</label>Your accountant needs to figure out the total amount of money you made during the life of the business. Express this question in summation notation.</item>
+        <item><label>e</label>Now answer the question.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11417813">
+        <problem id="idm3946480">
+          <para id="id11417816">Consider the series 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mtext>27</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mtext>81</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } + {  {2}  over  {9} } + {  {2}  over  {"27"} } + {  {2}  over  {"81"} } + "."  "."  "." } {}</m:annotation></m:semantics></m:math></para>
+
+      <list id="id11699828" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Is this an arithmetic series, a geometric series, or neither?</item>
+        <item><label>b</label>Write this series in summation notation (with a <m:math>
+<m:mi>Σ</m:mi>
+</m:math>).</item>
+        <item><label>c</label>What is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>, and what is <m:math>
+<m:mi>r</m:mi>
+</m:math> (if it is geometric) or <m:math>
+<m:mi>d</m:mi>
+</m:math> (if it is arithmetic)?</item>
+        <item><label>d</label>What is the sum of the first 4 terms of this series?</item>
+        <item><label>e</label>What is the sum of the first <m:math>
+<m:mi>n</m:mi>
+</m:math> terms of this series?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id11612850">
+        <problem id="idm3004176">
+          <para id="id11847484">Use induction to prove the following formula for all <m:math>
+<m:mi>n</m:mi>
+</m:math>:</para>
+
+      <para id="id11332189"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {1 times 2} } } {}</m:annotation></m:semantics><m:mo>+</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2 times 3} } } {}</m:annotation></m:semantics><m:mo>+</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3 times 4} } } {}</m:annotation></m:semantics><m:mo>+...+</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {n \( n+1 \) } } } {}</m:annotation></m:semantics><m:mo>=</m:mo> 
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n}  over  {n+1} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+
+      <para id="id11057423"><title>Extra credit:</title>An arithmetic series starts with <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math> and goes up by <m:math>
+<m:mi>d</m:mi>
+</m:math> each term for <m:math>
+<m:mi>n</m:mi>
+</m:math> terms. Use the “arithmetic series trick” to find the general formula for the sum of this series, as a function of <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math>, <m:math>
+<m:mi>n</m:mi>
+</m:math>, and <m:math>
+<m:mi>d</m:mi>
+</m:math>.</para>
+
+  </content>
+</document>

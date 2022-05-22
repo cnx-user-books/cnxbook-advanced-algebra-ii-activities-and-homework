@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exponents Homework -- Extending the Idea of Exponents</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>95d85b8a-04b2-48d8-8988-d6f7f5d99fbc</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="id8580542">
+      <problem id="idm6215008">
+        <para id="id5877365">Complete the following table.
+        </para>
+
+    <table id="id6867659" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="header_c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry><m:math>
+  <m:ci>x</m:ci>
+</m:math></entry>
+            <entry><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>3</m:cn>
+    <m:ci>x</m:ci>
+  </m:apply>
+</m:math></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>4</entry>
+            <entry><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:times/>
+      <m:cn>3</m:cn>
+      <m:cn>3</m:cn>
+      <m:cn>3</m:cn>
+      <m:cn>3</m:cn>
+    </m:apply>
+    <m:cn>81</m:cn>
+  </m:apply>
+</m:math></entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+
+
+
+</tgroup>
+</table>
+      </problem>
+    </exercise>
+
+    <exercise id="id6861814">
+      <problem id="idm5204864">
+        <para id="id7972056">In this table, every time you go to the next row, what happens to the left-hand number (<m:math>
+  <m:ci>x</m:ci>
+</m:math>)?</para>
+      </problem>
+    </exercise>
+    <exercise id="id8405450">
+      <problem id="idm3979584">
+        <para id="id3842884">What happens to the right-hand number (<m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>3</m:cn>
+    <m:ci>x</m:ci>
+  </m:apply>
+</m:math>)?</para>
+      </problem>
+    </exercise>
+    <exercise id="id4640292">
+      <problem id="idm11492880">
+        <para id="id7181394">Now, let’s assume that pattern continues, and fill in the next few rows.</para>
+
+    <table id="id7181395" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="header_c1"/>
+        <colspec colnum="2" colname="c2"/>
+        
+        <thead>
+          <row>
+            <entry><m:math>
+  <m:ci>x</m:ci>
+</m:math></entry>
+            <entry><m:math>
+  <m:apply>
+    <m:power/>
+    <m:cn>3</m:cn>
+    <m:ci>x</m:ci>
+  </m:apply>
+</m:math></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+
+
+
+</tgroup>
+</table>
+      </problem>
+    </exercise>
+    <exercise id="id6938033">
+      <problem id="idm11546976">
+        <para id="id6642376">Based on this table, <m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>0</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id3839018">
+      <problem id="idm11792416">
+        <para id="id7952737"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>1</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id6847804">
+      <problem id="idm11316512">
+        <para id="id2801797"><m:math>
+  <m:apply>
+    <m:eq/>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>-2</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math></para>
+      </problem>
+    </exercise>
+    <exercise id="id7233141">
+      <problem id="idm6167888">
+        <para id="id8026360">What would you expect <m:math>
+  <m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>-4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> to be?</para>
+      </problem>
+    </exercise>
+    <exercise id="id6655911">
+      <problem id="idm3721344">
+        <para id="id8035351">Now check <m:math>
+  <m:apply>
+    <m:apply>
+      <m:power/>
+      <m:cn>3</m:cn>
+      <m:cn>-4</m:cn>
+    </m:apply>
+  </m:apply>
+</m:math> on your calculator. Did it come out the way you predicted?</para>
+      </problem>
+    </exercise>
+  </content>
+</document>

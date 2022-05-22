@@ -1,0 +1,304 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Homework: Imaginary Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>24cc6dc3-eb00-43fa-8b4d-7ded12cb0595</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id10508359">We began our in-class assignment by talking about why <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> <emphasis>does</emphasis> have a solution, whereas <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math> does <emphasis>not</emphasis>. Let’s talk about the same thing <emphasis>graphically</emphasis>.</para>
+      <exercise id="id12082795">
+        <problem id="idm17471888">
+          <para id="id11535503">On the graph below, do a quick sketch of <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math>.</para>
+
+      <para id="id10536549">
+        ppp
+      </para>
+
+      <list id="id10138659" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>. How many are there?</item>
+        <item><label>b</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>. How many are there?</item>
+        <item><label>c</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>. How many are there?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id8222954">
+        <problem id="idm11367456">
+          <para id="id3837549">On the graph below, do a quick sketch of <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>.</para>
+
+      <para id="id13019891">
+        ppp
+      </para>
+      <list id="id6208558" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>. How many are there?</item>
+        <item><label>b</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>. How many are there?</item>
+        <item><label>c</label>Draw, on your graph, all the points on the curve where <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>-1</m:mn>
+</m:math>. How many are there?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10142799">
+        <problem id="idm6651776">
+          <para id="id9657040">Based on your sketch in exercise #2…</para>
+
+      <list id="id10917597" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>If <m:math>
+<m:mi>a</m:mi>
+</m:math> is some number such that <m:math>
+<m:mi>a</m:mi>
+<m:mo>&gt;</m:mo>
+<m:mn>0</m:mn>
+</m:math>, how many solutions are there to the equation <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+</m:math>?</item>
+        <item><label>b</label>If <m:math>
+<m:mi>a</m:mi>
+</m:math> is some number such that <m:math>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>, how many solutions are there to the equation <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+</m:math>?</item>
+        <item><label>c</label>If <m:math>
+<m:mi>a</m:mi>
+</m:math> is some number such that <m:math>
+<m:mi>a</m:mi>
+<m:mo>&lt;</m:mo>
+<m:mn>0</m:mn>
+</m:math>, how many solutions are there to the equation <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+</m:math>?</item>
+        <item><label>d</label>If <m:math>
+<m:mi>i</m:mi></m:math> is defined by the equation <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>, where the heck is it on the graph?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <para id="id9907449">OK, let’s get a bit more practice with <m:math>
+<m:mi>i</m:mi></m:math>.
+      </para>
+
+      <exercise id="id12996894">
+        <problem id="idp747232">
+          <para id="id10806193">In class, we made a table of powers of <m:math><m:mi>i</m:mi></m:math>, and found that there was a repeating pattern. Make that table again quickly below, to see the pattern.</para>
+
+      <table id="id9300598" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>1</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>2</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>3</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>4</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>5</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>6</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>7</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>8</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>9</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>10</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>11</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>12</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+      <exercise id="thisisanid">
+        <problem id="idm18025888">
+          <para id="id10028006">Now let’s walk that table <emphasis>backward</emphasis>. Assuming the pattern keeps up as you back up, fill in the following table. (Start at the bottom.)</para>
+
+      <table id="id9716819" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>-4</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>-3</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>-2</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>-1</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><m:math><m:msup><m:mi>i</m:mi><m:mn>0</m:mn></m:msup></m:math></entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+    <exercise id="thisisalsoanid">
+      <problem id="idm3251248">
+        <para id="id10886115">Did it work? Let’s figure it out. What should <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>0</m:mn>
+</m:msup>
+</m:math> be, according to our general rules of exponents?</para>
+      </problem>
+    </exercise>
+
+    <exercise id="id10693560">
+      <problem id="idm7454128">
+        <para id="id8718581">What should <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>–1</m:mn>
+</m:msup>
+</m:math> be, according to our general rules of exponents? Can you simplify it to look like the answer in your table?</para>
+      </problem>
+    </exercise>
+    <exercise id="id7566118">
+      <problem id="idp2247312">
+        <para id="id10040197">What should <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>–2</m:mn>
+</m:msup>
+</m:math> be, according to our general rules of exponents? Can you simplify it to look like the answer in your table?</para>
+      </problem>
+    </exercise>
+    <exercise id="id12487765">
+      <problem id="idm2910112">
+        <para id="id12453088">What should <m:math>
+<m:msup>
+<m:mi>i</m:mi>
+<m:mn>–3</m:mn>
+</m:msup>
+</m:math> be, according to our general rules of exponents? Can you simplify it to look like the answer in your table?</para>
+      </problem>
+    </exercise>
+    <exercise id="id11207626">
+      <problem id="idm6440768">
+        <para id="id7566721">Simplify the fraction
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>i</m:mi><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3i</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {i}  over  {4 - 3i} } } {}</m:annotation></m:semantics></m:math>.</para>
+      </problem>
+    </exercise>
+  </content>
+</document>

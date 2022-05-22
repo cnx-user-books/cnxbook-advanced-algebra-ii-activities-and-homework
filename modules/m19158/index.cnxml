@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inequalities and Absolute Value Homework -- Inequalities</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>aef6ff7b-4904-4781-add8-dd5421bf2cdd</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-310"><problem id="idm1718128">
+  <para id="element-753">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">&lt;</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4&lt;6} {}</m:annotation></m:semantics></m:math> (I think we can all agree on that, yes?)
+  </para><list id="element-40" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Add 4 to both sides of the equation. ___________ Is it still true?</item>
+      <item><label>b</label>Add 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 4} {}</m:annotation></m:semantics></m:math> to both sides of the (original) equation. ___________ Is it still true?</item>
+      <item><label>c</label>Subtract 10 from both sides of the (original) equation. ___________ Is it still true?</item>
+      <item><label>d</label>Multiply both sides of the (original) equation by 4. ___________ Is it still true?</item>
+      <item><label>e</label>Divide both sides of the (original) equation by 2. ___________ Is it still true?</item>
+      <item><label>f</label>Multiply both sides of the (original) equation by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 3} {}</m:annotation></m:semantics></m:math>. ___________ Is it still true?</item>
+      <item><label>g</label>Divide both sides of the (original) equation by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2} {}</m:annotation></m:semantics></m:math>. ___________ Is it still true?</item>
+      <item><label>h</label>In general: what operations, when performed on an inequality, <emphasis>reverse</emphasis> the inequality?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-552"><problem id="idp4432">
+  <para id="element-229">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+3&lt;7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-878" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math>
+  <m:ci>x</m:ci>
+</m:math>.</item>
+      <item><label>b</label>Draw a number line below, and show where the solution set to this problem is.</item>
+      <item><label>c</label>Pick an <m:math>
+  <m:apply>
+    <m:minus/>
+    <m:ci>x</m:ci>
+    <m:ci>value</m:ci>
+  </m:apply>
+</m:math> which, according to your drawing, is <emphasis>inside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x+3&lt;7} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      <item><label>d</label>Pick an x-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">&lt;</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x+3&lt;7} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-846"><problem id="idp3087232">
+  <para id="element-307">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>10</m:mtext>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">≥</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"10" - x &gt;= 4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-848" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>. Your first step should be adding 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> to both sides, so in your final equation, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> is on the right side.</item>
+      <item><label>b</label>Solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> again from the original equation. This time, leave 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> on the left side.</item>
+      <item><label>c</label>Did your two answers come out the same?</item>
+      <item><label>d</label>Draw a number line, and show where the solution set to this problem is.</item>
+      <item><label>e</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>inside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" - x &gt;= 4} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+      <item><label>f</label>Pick an 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>-value which, according to your drawing, is <emphasis>outside</emphasis> the solution set. Plug it into the original inequality 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" - x &gt;= 4} {}</m:annotation></m:semantics></m:math>. Does the inequality hold true?</item>
+    </list>
+</problem>
+
+</exercise>
+    
+    <exercise id="element-603"><problem id="idp1918880">
+  <para id="element-429">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">±</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= +- 4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-28" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite this statement as two different statements, joined by “and” or “or.”</item>
+      <item><label>b</label>Draw a number line, and show where the solution set to this problem is.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-704"><problem id="idm3787392">
+  <para id="element-63">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">&lt;</m:mo>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">≤</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ - 3&lt;x &lt;= 6} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-620" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite this statement as two different statements, joined by “and” or “or.”</item>
+      <item><label>b</label>Draw a number line, and show where the solution set to this problem is.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-363"><problem id="idp1168448">
+  <para id="element-536">
+  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&gt;7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <emphasis>or </emphasis>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&lt; - 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-79">Draw a number line, and show where the solution set to this problem is.</para>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-60"><problem id="idp4530192">
+  <para id="element-29">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&gt;7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <emphasis>and</emphasis>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&lt; - 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-508">Draw a number line, and show where the solution set to this problem is.</para>
+</problem>
+</exercise>
+    
+    <exercise id="element-77"><problem id="idm3441584">
+  <para id="element-272">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&lt;</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&lt;7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+      <emphasis>or </emphasis>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&gt; - 3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><para id="element-728">Draw a number line, and show where the solution set to this problem is.</para>
+</problem>
+
+
+</exercise>
+    
+    <exercise id="element-959"><problem id="idp4809712">
+  <para id="element-573">
+    
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo stretchy="false">&gt;</m:mo>
+                  <m:mrow>
+                    <m:mo stretchy="false">±</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x&gt; +- 4} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para><list id="element-647" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite this statement as two different statements, joined by “and” or “or.”</item>
+      <item><label>b</label>Draw a number line below, and show where the solution set to this problem is.</item>
+    </list>
+</problem>
+
+</exercise>
+  </content>
+</document>

@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Function Homework -- Horizontal and Vertical Permutations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5436d648-a9c0-45e9-b469-84dcfba38b38</md:uuid>
+</metadata>
+  <content>
+    
+    <exercise id="element-443"><problem id="idm11984288">
+  <para id="element-934">
+ Standing at the edge of the Bottomless Pit of Despair, you kick a rock off the ledge and it falls into the pit. The height of the rock is given by the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) = - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, where 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> is the time since you dropped the rock, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) = - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> is the height of the rock.
+  </para><list id="element-925" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table.</item>
+    </list><table id="element-57" summary="">
+<tgroup cols="9">
+<colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <thead>
+          <row>
+            <entry>
+              <emphasis>time (seconds)</emphasis>
+            </entry>
+            <entry>0</entry>
+            <entry>½</entry>
+            <entry>1</entry>
+            <entry>1½</entry>
+            <entry>2</entry>
+            <entry>2½</entry>
+            <entry>3</entry>
+            <entry>3½</entry>
+          </row>
+</thead>
+<tbody>
+          <row>
+            <entry>
+              <emphasis>height (feet)</emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup>
+</table><list id="element-886" list-type="labeled-item" mark-suffix=".">
+<item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( 0 \) =0} {}</m:annotation></m:semantics></m:math>. What does that tell us about the rock?</item>
+      <item><label>c</label>All the other heights are negative: what does that tell us about the rock?</item>
+      <item><label>d</label>Graph the function
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) } {}</m:annotation></m:semantics></m:math>. Be sure to carefully label your axes!</item>
+    </list>
+
+</problem>
+
+
+</exercise>
+    
+    
+    
+    <exercise id="element-272"><problem id="idm8693616">
+  <para id="element-93">
+    Another rock was dropped at the exact same time as the first rock; but instead of being kicked from the ground, it was dropped from your hand, 3 feet up. So, as they fall, the second rock is always three feet higher than the first rock.
+  </para><list id="element-568" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table for the second rock.</item>
+    </list><table id="element-836" summary="">
+<tgroup cols="9">
+<colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>time (seconds)</emphasis>
+            </entry>
+            <entry>0</entry>
+            <entry>½</entry>
+            <entry>1</entry>
+            <entry>1½</entry>
+            <entry>2</entry>
+            <entry>2½</entry>
+            <entry>3</entry>
+            <entry>3½</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis>height (feet)</emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+<list id="element-226" list-type="labeled-item" mark-suffix=".">
+<item><label>b</label>Graph the function
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) } {}</m:annotation></m:semantics></m:math> for the new rock. Be sure to carefully label your axes!</item>
+<item><label>c</label>How does this new function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) } {}</m:annotation></m:semantics></m:math> compare to the old one? That is, if you put them side by side, what change would you see?</item>
+      <item><label>d</label>The original function was 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) = - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. What is the new function?</item>
+    <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>t</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{h \( t \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item>
+(*make sure the function you write actually generates the points in your table!)</item>
+
+      <item><label>e</label>Does this represent a <emphasis>horizontal permutation</emphasis> or a <emphasis>vertical</emphasis><emphasis>permutation</emphasis>?</item>
+      <item><label>f</label>Write a generalization based on this example, of the form: when you <emphasis>do such-and-such</emphasis> to a function, the graph changes in <emphasis>such-and-such</emphasis> a way.</item>
+    </list>
+</problem>
+
+
+</exercise>
+    
+    
+    
+    
+    
+    
+    <exercise id="element-321"><problem id="idm4648704">
+  <para id="element-909">
+    A third rock was dropped from the exact same place as the first rock (kicked off the ledge), but it was dropped <emphasis>1½ seconds later</emphasis>, and began its fall (at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h=0} {}</m:annotation></m:semantics></m:math>) at that time.
+  </para><list id="element-173" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Fill in the following table for the <emphasis> third</emphasis> rock.</item>
+    </list><table id="element-534" summary="">
+<tgroup cols="12">
+<colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <colspec colnum="12" colname="c12"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>time (seconds)</emphasis>
+            </entry>
+            <entry>0</entry>
+            <entry>½</entry>
+            <entry>1</entry>
+            <entry>1½</entry>
+            <entry>2</entry>
+            <entry>2½</entry>
+            <entry>3</entry>
+            <entry>3½</entry>
+            <entry>4</entry>
+            <entry>4½</entry>
+            <entry>5</entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis>height (feet)</emphasis>
+            </entry>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><list id="element-299" list-type="labeled-item" mark-suffix=".">
+
+<item><label>b</label>Graph the function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) } {}</m:annotation></m:semantics></m:math> for the new rock. Be sure to carefully label your axes!</item>
+<item><label>c</label>How does this new function 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) } {}</m:annotation></m:semantics></m:math> compare to the <emphasis>original</emphasis> one? That is, if you put them side by side, what change would you see?</item>
+      <item><label>d</label>The original function was 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h \( t \) = - "16"t rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. What is the new function?</item>
+    <item>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>h</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>t</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{h \( t \) ={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item>
+(*make sure the function you write actually generates the points in your table!)</item>
+
+      <item><label>e</label>Does this represent a <emphasis>horizontal permutation</emphasis> or a <emphasis>vertical permutation</emphasis>?</item>
+      <item><label>f</label>Write a generalization based on this example, of the form: when you <emphasis>do such-and-such</emphasis> to a function, the graph changes in <emphasis>such-and-such</emphasis> a way.</item>
+    </list>
+</problem>
+</exercise>
+    
+    
+    
+    
+    
+  </content>
+</document>

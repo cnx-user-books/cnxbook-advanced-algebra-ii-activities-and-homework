@@ -1,0 +1,307 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sequences and Series Homework -- Homework: Arithmetic and Geometric Series</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cf64e01f-0708-4843-a70c-77ea1fc71db8</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id9145012">
+        <problem id="idm18288736">
+          <para id="id9145015">In class we found a formula for the <emphasis>arithmetic</emphasis> series <m:math>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>11</m:mn>
+<m:mo>+</m:mo>
+<m:mn>13</m:mn>
+<m:mo>+</m:mo>
+<m:mn>15</m:mn>
+<m:mo>+</m:mo>
+<m:mn>17</m:mn>
+</m:math>, by using a “trick” that works on all arithmetic series. Use that same trick to find the sum of the following series:</para>
+
+      <para id="id9145036"><m:math>
+<m:mn>10</m:mn>
+<m:mo>+</m:mo>
+<m:mn>13</m:mn>
+<m:mo>+</m:mo>
+<m:mn>16</m:mn>
+<m:mo>+</m:mo>
+<m:mn>19</m:mn>
+<m:mo>+</m:mo>
+<m:mn>22</m:mn>
+<m:mo>...</m:mo>
+<m:mn>100</m:mn>
+</m:math></para>
+      <para id="id10062899">(Note that you will first have to figure out how many terms there are—that is, <emphasis>which term</emphasis> in this series 100 is. You can do that by using our previously discovered formula for the <m:math>
+<m:msup>
+<m:mi>n</m:mi>
+<m:mrow>
+<m:mi>th</m:mi>
+</m:mrow>
+</m:msup>
+</m:math> term of an arithmetic sequence!)</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id10062938">
+        <problem id="idm7523376">
+          <para id="id10062941">Now I want you to take that same trick, and apply it to the <emphasis>general</emphasis> arithmetic series. Suppose we have an arithmetic series of <m:math>
+<m:mi>n</m:mi>
+</m:math> terms, starting with <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+</m:math> and ending (of course) with <m:math>
+<m:msub>
+<m:mi>a</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math>. The common difference is <m:math>
+<m:mi>d</m:mi>
+</m:math>, so the second term in the series is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mi>d</m:mi>
+</m:math>, and the third is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>d</m:mi>
+</m:math>, and so on. So our whole series looks like…</para>
+
+      <para id="id9152081"><m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mi>d</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mi>d</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+ … +</m:mo>
+<m:mo>(</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+<m:mo>-</m:mo>
+<m:mi>d</m:mi>
+<m:mo>)</m:mo>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub>
+</m:math></para>
+      <list id="id9152125" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Find the general formula for the sum of this series</item>
+        <item><label>b</label>Use that general formula to add up 
+<m:math>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+</m:math>. Did it come out right?</item>
+        <item><label>c</label>Use that general formula to add up all the <emphasis>even</emphasis> numbers between 1 and 100</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id10079182">
+        <problem id="idm887072">
+          <para id="id10079185">In class we found a formula for the <emphasis>geometric</emphasis> series <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>18</m:mn>
+<m:mo>+</m:mo>
+<m:mn>54</m:mn>
+<m:mo>+</m:mo>
+<m:mn>162</m:mn>
+<m:mo>+</m:mo>
+<m:mn>486</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1458</m:mn>
+</m:math>, by using a completely different “trick” that works on geometric series. Use <emphasis>that</emphasis> same trick to find the sum of the following series:</para>
+
+      <para id="id10079211"><m:math>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>20</m:mn>
+<m:mo>+</m:mo>
+<m:mn>100</m:mn>
+<m:mo>+</m:mo>
+<m:mn>500</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2500</m:mn>
+<m:mo>+...+</m:mo>
+<m:mn>39062500</m:mn>
+</m:math></para>
+</problem>
+</exercise>
+
+<exercise id="exer5">
+  <problem id="idm6658960">
+          <para id="id10079222">Now I want you to take that same trick, and apply it to the <emphasis>general</emphasis> geometric series. Suppose we have a geometric series of <m:math>
+<m:mi>n</m:mi>
+</m:math> terms, with a common ratio of <m:math>
+<m:mi>r</m:mi>
+</m:math>, starting with <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub></m:math> and ending (of course) with <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mi>n</m:mi>
+</m:msub></m:math>, which is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>-</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msup>
+</m:math>. The common ratio is <m:math>
+<m:mi>r</m:mi>
+</m:math>, so the second term in the series is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mi>r</m:mi>
+</m:math>, and the third term is <m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, and so on. So our whole series looks like…</para>
+
+      <para id="id9144680"><m:math>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:mi>r</m:mi>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+…+</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:msup>
+<m:mo>+</m:mo>
+<m:msub>
+<m:mi>t</m:mi>
+<m:mn>1</m:mn>
+</m:msub>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>-</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:msup>
+</m:math></para>
+      <list id="id9144750" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>Find the general formula for the sum of this series</item>
+        <item><label>b</label>Use that general formula to add up 
+<m:math>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>16</m:mn>
+<m:mo>+</m:mo>
+<m:mn>32</m:mn>
+</m:math>. Did it come out right?</item>
+        <item><label>c</label>Use that general formula to add up
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mtext>32</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } + {  {1}  over  {4} } + {  {1}  over  {8} } + {  {1}  over  {"16"} } + {  {1}  over  {"32"} } } {}</m:annotation></m:semantics></m:math>. Did it come out right?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id9118418">
+        <problem id="idm10306400">
+          <para id="id9118421">Suppose a ball is dropped from a height of 1 ft. It bounces back up. But each time it bounces, it reaches only 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of its previous height.</para>
+
+      <list id="id9118470" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>The ball falls. Then it bounces up and falls down again (second bounce). Then it bounces up and falls down again (third bounce). How high does it go <emphasis>after</emphasis> each of these bounces?</item>
+        <item><label>b</label>How high does it go after the 100th bounce?</item>
+        <item><label>c</label>How <emphasis>far does it travel</emphasis> before the fourth bounce? (*You don’t need any fancy math to do this part, just write out all the individual trips and add them up.)</item>
+        <item><label>d</label>How far does it travel before the 100th bounce?</item>
+      </list>
+        </problem>
+      </exercise>
+
+
+  </content>
+</document>

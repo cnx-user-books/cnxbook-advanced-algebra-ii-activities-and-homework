@@ -1,0 +1,337 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homework: Horizontal and Vertical Permutations II</title>
+  <metadata>
+  <md:content-id>m31952</md:content-id><md:title>Homework: Horizontal and Vertical Permutations II</md:title>
+  <md:abstract>This module provides practice problems designed to develop some concepts related to horizontal and vertical permutations of functions by graphing.</md:abstract>
+  <md:uuid>5d81d9c7-348e-4980-bfaa-59b1d09e5a08</md:uuid>
+</metadata>
+
+<content>
+    <list id="id1166083827879" list-type="enumerated" number-style="arabic"><item>In a certain magical bank, your money doubles every year. So if you start with $1, your money is represented by the function <m:math>
+<m:mi>M</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mn>2</m:mn>
+<m:mi>t</m:mi>
+</m:msup>
+</m:math>, where <m:math>
+<m:mi>t</m:mi>
+</m:math> is the time (in years) your money has been in the bank, and M is the amount of money (in dollars) you have.
+<newline/>
+    Don puts $1 into the bank at the very beginning (<m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>).
+<newline/>
+Susan <emphasis effect="italics">also</emphasis> puts $1 into the bank when <m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>. However, she also has a secret stash of $2 under her mattress at home. Of course, her $2 stash doesn’t grow: so at any given time t, she has the same amount of money that Don has, plus $2 more.
+<newline/>
+Cheryl, like Don, starts with $1. But during the first year, she hides it under <emphasis effect="italics">her</emphasis> mattress. After a year (<m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>) she puts it into the bank, where it starts to accrue interest.
+</item>
+</list>
+
+    <list id="id1166095201078" list-type="enumerated" number-style="lower-alpha"><item>Fill in the following table to show how much money each person has.</item>
+    </list>
+    <table id="id1166086176328" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>t=0</entry>
+            <entry>t=1</entry>
+            <entry>t=2</entry>
+            <entry>t=3</entry>
+          </row>
+          <row>
+            <entry>Don</entry>
+            <entry>1</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Susan</entry>
+            <entry>3</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Cheryl</entry>
+            <entry>1</entry>
+            <entry>1</entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="id3338900" list-type="enumerated" number-style="lower-alpha" start-value="2"><item>Graph each person’s money as a function of time.</item>
+    </list>
+    <figure id="fs-id4100272">
+<media id="fs-id11432963" alt="">
+<image mime-type="image/png" src="../../media/fig1-c921.png"/>
+</media>
+</figure>
+    <list id="id1166086173148" list-type="enumerated" number-style="lower-alpha" start-value="3"><item>Below each graph, write the function that gives this person’s money as a function of time. Be sure your function correctly generates the points you gave above! (*For Cheryl, your function will not accurately represent her money between <m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math> and <m:math>
+<m:mi>t</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>, but it should accurately represent it thereafter.)</item>
+     
+    </list>
+    <list id="eip-585" list-type="enumerated" number-style="arabic" start-value="2">
+<item>The function <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> is defined on the domain [–4,4] as shown below.</item></list><figure id="id1166086218773">
+      <media id="id1166086218773_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-e420.png" id="id1166086218773__onlineimage" height="177" width="371"/>
+      </media>
+    </figure>
+    <list id="id8558073" list-type="enumerated" number-style="lower-alpha"><item>What is <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mn>–2</m:mn>
+<m:mo>)</m:mo>
+</m:math>? (That is, what does this function give you if you give it a -2?)</item>
+      <item>What is <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mn>0</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+      <item>What is <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+      <item>The function has three zeros. What are they?</item>
+    </list>
+    <para id="id6248070"><emphasis effect="italics">The function </emphasis><m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>
+<emphasis effect="italics"> is defined by the equation: </emphasis>
+<m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mn>–1</m:mn>
+</m:math><emphasis effect="italics">. That is to say, for any </emphasis>x<emphasis effect="italics">-value you put into </emphasis>
+<m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>
+<emphasis effect="italics">, it first puts that value into </emphasis>
+<m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>
+<emphasis effect="italics">, and then it subtracts 1 from the answer.</emphasis></para>
+    <list id="id1196072" list-type="enumerated" number-style="lower-alpha" start-value="5"><item>What is <m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mn>–2</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+      <item>What is <m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mn>0</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+      <item>What is <m:math>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+      <item>Draw <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mi>g</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> next to the <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> drawing above.</item>
+    </list>
+    <para id="id2202633"><emphasis effect="italics">The function </emphasis><m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>
+<emphasis effect="italics"> is defined by the equation: </emphasis>
+<m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>)</m:mo>
+</m:math>
+<emphasis effect="italics">. That is to say, for any </emphasis>x<emphasis effect="italics">-value you put into </emphasis><m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math><emphasis effect="italics">, it first adds 1 to that value, and then it puts the new </emphasis>x<emphasis effect="italics">-value into </emphasis><m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math>.</para>
+    <list id="eip-756" list-type="enumerated" number-style="lower-alpha" start-value="9"><item>What is <m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mn>–3</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+                <item>What is <m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mn>–1</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+                <item>What is <m:math>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+</m:math>?</item>
+                <item>Draw <m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mi>h</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> next to the <m:math>
+<m:mi>f</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:math> drawing to the right.</item>
+           </list>
+<figure id="fs-id7488297">
+              <media id="id1166082936432" alt="">
+                <image mime-type="image/png" src="../../media/graphics2.png"/>
+              </media>
+        </figure>
+
+    <list id="eip-526" list-type="enumerated" number-style="lower-alpha" start-value="13">
+<item>Which of the two permutations above <emphasis effect="italics">changed the domain</emphasis> of the function?</item>
+        </list>
+<list id="id7823820" list-type="enumerated" number-style="arabic" start-value="3"><item>On your calculator, graph the function <m:math>
+<m:mi>Y</m:mi>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>13</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>12</m:mn>
+</m:math>. Graph it in a window with x going from –5 to 5, and y going from –30 to 30.</item>
+    </list>
+
+    <list id="eip-676" list-type="enumerated" number-style="lower-alpha"><item>Copy the graph below. Note the three zeros at <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–3</m:mn>
+</m:math>, <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math>, and <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:math>.</item></list>
+
+<figure id="fs-id5573492"><media id="fs-id10538227" alt="">
+<image mime-type="image/png" src="../../media/fig2-68b7.png"/>
+</media>
+<caption><m:math>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>13</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>12</m:mn>
+</m:math></caption></figure>
+
+
+    
+<list id="id1166086230758" start-value="2" list-type="enumerated" number-style="lower-alpha"><item>For what x-values is the function <emphasis effect="italics">less than zero?</emphasis> (Or, to put it another way: solve the inequality <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+<m:mo>–</m:mo>
+<m:mn>13</m:mn>
+<m:mi>x</m:mi>
+<m:mo>–</m:mo>
+<m:mn>12</m:mn>
+<m:mo>&lt;</m:mo>
+<m:mn>0</m:mn>
+</m:math>.)</item>
+      <item>Construct a function that looks exactly like this function, but moved <emphasis effect="italics">up 10.</emphasis> Graph your new function on the calculator (as Y2, so you can see the two functions together). When you have a function that works, write your new function below.</item>
+      <item>Construct a function that looks exactly like the original function, but moved <emphasis effect="italics">2 units to the left.</emphasis> When you have a function that works, write your new function below.</item>
+      <item>Construct a function that looks exactly like the original function, but moved <emphasis effect="italics">down 3</emphasis> and <emphasis effect="italics">1 unit to the right.</emphasis> When you have a function that works, write your new function below.</item>
+    </list>
+  </content>
+</document>

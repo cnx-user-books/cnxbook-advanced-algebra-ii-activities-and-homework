@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability Homework  -- Homework: The Multiplication Rule</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f3bab8cc-fc75-401d-948f-064ad051e63e</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7908955">
+        <problem id="idm14138688">
+          <para id="id3643531">Eli and Beth each chooses a letter of the alphabet, completely at random.</para>
+
+      <list list-type="labeled-item" id="id3643533" mark-suffix=".">
+      
+        <item><label>a</label>What is the probability that Eli and Beth both choose the letter “A”?</item>
+        <item><label>b</label>What is the probability that Eli and Beth both choose vowels?</item>
+        <item><label>c</label>What is the probability that Eli chooses a letter that appears somewhere in the word “Eli,” and Beth chooses a letter that appears somewhere in the word “Beth”?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id4660329">
+        <problem id="idm900208">
+          <para id="id8776049">In your hand, you hold two regular 6-sided dice. One is red, and one is blue. You throw them both.</para>
+
+      <list list-type="labeled-item" id="id8774057" mark-suffix=".">
+      
+        <item><label>a</label>If both dice roll “1” that is sometimes referred to as “snake eyes.” What is the probability of snake eyes?</item>
+        <item><label>b</label>What is the probability that both dice will roll even numbers?</item>
+        <item><label>c</label>What is the probability that both dice will roll the same as each other?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id6006578">
+        <problem id="idm8448304">
+          <para id="id6209415">A deck of cards contains 52 different cards, assuming there are no jokers. On the table in front of you sit 5 different decks of cards. All of them have been shuffled, so the cards in each deck are in random order.</para>
+
+      <list list-type="labeled-item" id="id5702748" mark-suffix=".">
+      
+        <item><label>a</label>What is the probability that the top card in the first deck is the ace of spades?</item>
+        <item><label>b</label>What is the probability that the top card in the second deck is the ace of spades?</item>
+        <item><label>c</label>What is the probability that the top card in the first <emphasis>two</emphasis> decks are <emphasis>both</emphasis> the ace of spades?</item>
+        <item><label>d</label>What is the probability that the top card in <emphasis>all five</emphasis> decks are the ace of spades?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id6174417">
+        <problem id="idm4930528">
+          <para id="id4682690">According to http://www.m-ms.com/, a bag of Milk Chocolate (plain) M&amp;Ms® contains 13% brown, 14% yellow, 13% red, 24% blue, 20% orange, and 16% green M&amp;Ms. A bag of Peanut M&amp;Ms® contains 12% brown, 15% yellow, 12% red, 23% blue, 23% orange, and 15% green.</para>
+
+      <list list-type="labeled-item" id="id5984601" mark-suffix=".">
+      
+        <item><label>a</label>If you choose one M&amp;M at random from a Milk Chocolate bag, what is the probability that it will be brown?</item>
+        <item><label>b</label>If you choose one M&amp;M at random from a Milk Chocolate bag, what is the probability that it will be brown or yellow?</item>
+        <item><label>c</label>If you choose one M&amp;M at random from a Peanut bag, what is the probability that it will be brown or yellow?</item>
+        <item><label>d</label>If you choose one M&amp;M at random from a Milk Chocolate bag, and one M&amp;M at random from a Peanut bag, what is the probability that they will both be brown or yellow?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id4570865">
+        <problem id="idm5674304">
+          <para id="id4814467">What is the probability that a married couple were both born...</para>
+
+      <list list-type="labeled-item" id="id7932162" mark-suffix=".">
+      
+        <item><label>a</label>In the first half of the year?</item>
+        <item><label>b</label>In January?</item>
+        <item><label>c</label>On January 1?</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id5447928">
+        <problem id="idp4321968">
+          <para id="id4460663">The probability that a given event will occur has been calculated as exactly 5/13. What is the probability that this event will not happen?</para>
+          <note type="Note" id="idp3063296"><label>Note</label>Hint: Start by thinking about easier numbers, such as <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:math> or 
+<m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:math>.</note>
+        </problem>
+      </exercise>
+
+  </content>
+</document>

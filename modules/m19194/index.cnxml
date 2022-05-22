@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Matrices Homework -- Homework: The Identity and Inverse Matrices</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d197a4d6-a920-4da7-a5f2-604306ed4a16</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id7058103">
+        <problem id="idm12507568">
+          <para id="id7058105">Matrix <m:math><m:mi>A</m:mi></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+4 {} # "10" {} ##
+2 {} # 6{}
+}  right ]} {}</m:annotation></m:semantics></m:math>.</para><list id="element-361" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Write the identity matrix <m:math><m:mi>I</m:mi></m:math> for Matrix <m:math><m:mi>A</m:mi></m:math>.</item>
+        <item><label>b</label>Show that it works.</item>
+        <item><label>c</label>Find the inverse matrix <m:math><m:msup><m:mi>A</m:mi><m:mn>-1</m:mn></m:msup></m:math>.</item>
+        <item><label>d</label>Show that it works.</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7410433">
+        <problem id="idm5138496">
+          <para id="id7410436">Matrix <m:math><m:mi>B</m:mi></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} ##
+3 {} # 4 {} ##
+5 {} # 6{}
+}  right ]} {}</m:annotation></m:semantics></m:math>.</para><list id="element-949" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Can you find a matrix that satisfies the equation <m:math><m:mi>BI</m:mi><m:mo>=</m:mo><m:mi>B</m:mi></m:math>?</item>
+        <item><label>b</label>Is this an identity matrix for <m:math><m:mi>B</m:mi></m:math>? If so, demonstrate. If not, why not?</item>
+      </list>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7389599">
+        <problem id="idm7199280">
+          <para id="id7389602">Matrix <m:math><m:mi>C</m:mi></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>4</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>5</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>6</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>7</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>8</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>9</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>12</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>13</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>14</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>15</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>16</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} # 3 {} # 4 {} ##
+5 {} # 6 {} # 7 {} # 8 {} ##
+9 {} # "10" {} # "11" {} # "12" {} ##
+"13" {} # "14" {} # "15" {} # "16"{}
+}  right ]} {}</m:annotation></m:semantics></m:math>. Write the identity matrix for <m:math><m:mi>C</m:mi></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8951663">
+        <problem id="idm19628336">
+          <para id="id4070123">Matrix <m:math><m:mi>D</m:mi></m:math> is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>2</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>3</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mi>n</m:mi><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+1 {} # 2 {} ##
+3 {} # n{}
+}  right ]} {}</m:annotation></m:semantics></m:math>.</para><list id="element-517" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Find the inverse matrix
+<m:math>
+<m:msup>
+<m:mi>D</m:mi>
+<m:mn>-1</m:mn>
+</m:msup>
+</m:math></item>
+<item><label>b</label>Test it.</item>
+</list>
+        </problem>
+      </exercise>
+      
+
+  </content>
+</document>

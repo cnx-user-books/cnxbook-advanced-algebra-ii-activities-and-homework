@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Conics Homework -- Homework: Ellipses</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>60a4ae17-47e2-4c26-8e5e-3c8cf556d026</md:uuid>
+</metadata>
+  <content>
+
+      <exercise id="id13022645">
+        <problem id="idm2039968">
+          <para id="id11168125">In class, we discussed how to draw an ellipse using a piece of cardboard, two thumbtacks, a string, and a pen or marker. <emphasis>Do this.</emphasis> Bring your drawing in as part of your homework. <emphasis>(Yes, this is a real part of your homework!)</emphasis></para>
+        </problem>
+      </exercise>
+      <exercise id="id13499596">
+        <problem id="idp2751984">
+          <para id="id11463208"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para><list id="element-610" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Is it horizontal or vertical?</item>
+<item><label>b</label>What is the center?</item>
+<item><label>c</label>What is <m:math><m:mi>a</m:mi></m:math>?</item>
+<item><label>d</label>What is <m:math><m:mi>b</m:mi></m:math>?</item>
+<item><label>e</label>What is <m:math><m:mi>c</m:mi></m:math>?</item>
+<item><label>f</label>Graph it.</item> </list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      <exercise id="id12377374">
+        <problem id="idm5827936">
+          <para id="id3241871"><m:math>
+<m:mfrac>
+<m:mrow>
+<m:mi>4</m:mi>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>+</m:mo>
+<m:mn>25</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></para><para id="element-877">This sort of looks like an ellipse in standard form, doesn’t it? It even has a 1 on the right. But it isn’t. Because we have no room in our standard form for that 4 and that 25—for numbers multiplied by the x2 and y2 terms. How can we get rid of them, to get into standard form, while retaining the 1 on the right?
+
+</para><list id="element-303" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Rewrite the left-hand term, <m:math>
+<m:mfrac>
+<m:mrow>
+<m:mi>4</m:mi>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:mrow>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mfrac></m:math>, by dividing the top and bottom of the fraction by 4. Leave the bottom as a fraction; don't make it a decimal.
+</item>
+<item><label>b</label>Rewrite the right-hand term, <m:math><m:mn>25</m:mn>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>,
+by dividing the top and bottom of the fraction by 25. Leave the bottom as a fraction; don't make it a decimal.</item>
+<item><label>c</label> <emphasis>Now,</emphasis> you're in standard form. what is the center?</item>
+<item><label>d</label>How long is the major axis?</item>
+<item><label>e</label>How long is the minor axis?</item>
+<item><label>f</label>What are the coordinated of the two foci?</item>
+<item><label>g</label>Graph it.</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id12862184">
+        <problem id="idm1707504">
+          <para id="id13452472"><m:math>
+<m:mn>18</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>108</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mi>y</m:mi>
+<m:mo>+</m:mo>
+<m:mn>170</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math></para><list id="element-585" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Put in standard form.</item>
+<item><label>b</label>Is it horizontal or vertical?</item>
+<item><label>c</label>What is the center?</item>
+<item><label>d</label>How long is the major axis?</item>
+<item><label>e</label>How long is the minor axis?</item>
+<item><label>f</label>What are the coordinates of the two foci?</item>
+<item><label>g</label>Graph it.</item></list>
+        </problem>
+      </exercise>
+      
+      
+      
+      
+      
+      
+      
+      <exercise id="id11287887">
+        <problem id="idm9225056">
+          <para id="id4311060">The major axis of an ellipse runs from (5,-6) to (5,12). One focus is at (5,-2). Find the equation for the ellipse.</para>
+        </problem>
+      </exercise>
+      <exercise id="id10384061">
+        <problem id="idp1808336">
+          <para id="id10958162">The foci of an ellipse are at (-2,3) and (2,3) and the ellipse contains the origin. Find the equation for the ellipse.</para>
+        </problem>
+      </exercise>
+      <exercise id="id11626099"><problem id="idp2777952">
+          <para id="id13379381">We traditionally say that the Earth is 93 million miles away from the sun. However, if it were <emphasis>always</emphasis> 93 million miles away, that would be a circle (right?). In reality, the Earth travels in an <emphasis>ellipse</emphasis>, with the <emphasis>sun at one focus</emphasis>. According to one Web site I found,</para><para id="element-547"><quote display="block" url="http://geography.about.com/library/weekly/aa121498.htm" id="idp3697872">There is a 6% difference in distance between the time when we're closest to the sun (perihelion) and the time when we're farthest from the sun (aphelion). Perihelion occurs on January 3 and at that point, the earth is 91.4 million miles away from the sun. At aphelion, July 4, the earth is 94.5 million miles from the sun. </quote>
+
+      </para><para id="element-569">Write an equation to describe the orbit of the Earth around the sun. Assume that it is centered on the origin and that the major axis is horizontal. (*Why not? There are no axes in space, so you can put them wherever it is most convenient.) Also, work in units of <emphasis>millions of miles</emphasis>—so the numbers you are given are simply 91.4 and 94.5.</para>
+<figure id="idp3140144"><media id="idp2201264" alt="A picture illustrating the orbit of Earth around the sun."><image src="../../media/graphics1-e48e.png" mime-type="image/png" print-width="3in"/></media></figure>
+        </problem>
+      </exercise>
+      
+      
+  </content>
+</document>

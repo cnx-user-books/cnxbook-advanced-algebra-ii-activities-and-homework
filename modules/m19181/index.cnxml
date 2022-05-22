@@ -1,0 +1,163 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>So What Are Logarithms Good For, Anyway?</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m19181</md:content-id>
+  <md:title>So What Are Logarithms Good For, Anyway?</md:title>
+  <md:abstract>This module provides sample problems which develop concepts related to real world application of logarithms.</md:abstract>
+  <md:uuid>19a0efe1-e7cb-4d4a-94ea-8a013a91ba9c</md:uuid>
+</metadata>
+  <content>
+
+    <exercise id="id5872277">
+      <problem id="id14621442">
+        <para id="id5872280"><title>Compound Interest</title>Andy invests $1,000 in a bank that pays out 7% interest, compounded annually. Note that your answers to parts (a) and (c) will be numbers, but your answers to parts (b) and (d) will be formulae.</para>
+
+    <list id="id5889176" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>After 3 years, how much money does Andy have?</item>
+      <item><label>b</label>After <m:math><m:mi>t</m:mi></m:math> years, how much money m does Andy have? 
+<m:math>
+<m:mi>m</m:mi>
+<m:mo>(</m:mo>
+<m:mi>t</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math> </item>
+      <item><label>c</label>After how many years does Andy have exactly $14,198.57?</item>
+      <item><label>d</label>After how many years <m:math><m:mi>t</m:mi></m:math> does Andy have $m? <m:math>
+<m:mi>t</m:mi>
+<m:mo>(</m:mo>
+<m:mi>m</m:mi>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math> </item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id5876748">
+      <problem id="id14185121">
+        <para id="id5930411"><title>Sound Intensity</title>Sound is a wave in the air—the loudness of the sound is related to the intensity of the wave. The intensity of a whisper is approximately 100; the intensity of background noise in a quiet rural area is approximately 1000; the intensity of a normal conversation is approximately 1,000,000; a rock concert (and the threshold of pain) has an intensity around 1,000,000,000,000.  Place these points on a number line, and label them.  Then answer the question: what’s wrong with this number line?</para>
+
+        <para id="id5820388">That was pretty ugly, wasn’t it? It’s almost impossible to graph or visualize something going from a hundred to a trillion: the range is too big.</para>
+
+        <para id="id5899934">Fortunately, sound volume is usually not measured in intensity, but in <emphasis>loudness</emphasis>, which are defined by the formula: <m:math>
+<m:mi>L</m:mi>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+<m:mspace width="5pt"/>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mi>I</m:mi>
+</m:math>, where <m:math>
+<m:mi>L</m:mi>
+</m:math> is the loudness (measured in decibels), and <m:math>
+<m:mi>I</m:mi>
+</m:math> is the intensity.</para>
+
+    <list id="id5865694" mark-suffix="." list-type="labeled-item"><item><label>a</label>What is the loudness, in decibels, of a whisper?</item>
+	<item><label>b</label>What is the loudness, in decibels, of a rock concert?</item>
+	<item><label>c</label>Now do the number line again, labeling all the sounds—but this time, graph loudness instead of intensity.</item>
+	<item><label>d</label>That was a heck of a lot nicer, wasn’t it? (This one is sort of rhetorical.)</item>
+	<item><label>e</label>The quietest sound a human being can hear is intensity 1. What is the loudness of that sound?</item>
+	<item><label>f</label>Sound intensity can never be negative, but it can be less than 1.  What is the loudness of such inaudible sounds?</item>
+	<item><label>g</label>The formula I gave above gives loudness as a function of intensity. Write the opposite function, that gives intensity as a function of loudness.</item>
+	<item><label>h</label>If sound <m:math><m:mi>A</m:mi></m:math> is <emphasis>twenty decibels higher </emphasis>than sound <m:math><m:mi>B</m:mi></m:math><emphasis>, how much more intense </emphasis>is it?</item>
+</list>
+      </problem>
+    </exercise>
+
+    <exercise id="id6017109">
+      <problem id="id11883201">
+        <para id="id6017112"><title>Earthquake Intensity</title>When an Earthquake occurs, seismic detectors register the shaking of the ground, and are able to measure the “amplitude” (fancy word for “how big they are”) of the waves. However, just like sound intensity, this amplitude varies so much that it is very difficult to graph or work with. So Earthquakes are measured on the Richter scale which is the 
+<m:math>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+</m:math> of the amplitude (
+<m:math>
+<m:mi>r</m:mi>
+<m:mo>=</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mi>a</m:mi>
+</m:math>).</para>
+
+    <list id="id5802606" list-type="labeled-item" mark-suffix=".">
+      <item><label>a</label>A “microearthquake” is defined as 2.0 or less on the Richter scale. Microearthquakes are not felt by people, and are detectable only by local seismic detectors. If a is the amplitude of an earthquake, write an <emphasis>inequality</emphasis> that must be true for it to be classified as a microearthquake.</item>
+      <item><label>b</label>A “great earthquake” has amplitude of 100,000,000 or more. There is generally one great earthquake somewhere in the world each year. If r is the measurement of an earthquake on the Richter scale, write an <emphasis>inequality</emphasis> that must be true for it to be classified as a great earthquake.</item>
+      <item><label>c</label>Imagine trying to show, on a graph, the amplitudes of a bunch of earthquakes, ranging from microearthquakes to great earthquakes. (Go on, just imagine it—I’m not going to make you do it.) A lot easier with the Richter scale, ain’t it?</item>
+      <item><label>d</label>Two Earthquakes are measured—the second one has 1000 times the amplitude of the first. What is the difference in their measurements on the Richter scale?</item>
+    </list>
+      </problem>
+    </exercise>
+
+    <exercise id="id5998922">
+      <problem id="id14185363">
+        <para id="id5885640"><title>pH</title>In Chemistry, a very important quantity is the <emphasis>concentration of Hydrogen ions</emphasis>, written as 
+<m:math>
+<m:mo>[</m:mo>
+<m:msup>
+<m:mi>H</m:mi>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo>]</m:mo>
+</m:math>—this is related to the acidity of a liquid. In a normal pond, the concentration of Hydrogen ions is around <m:math>
+<m:msup>
+<m:mn>10</m:mn>
+<m:mn>-6</m:mn>
+</m:msup>
+</m:math> moles/liter. (In other words, every liter of water has about 
+<m:math>
+<m:msup>
+<m:mn>10</m:mn>
+<m:mn>–6</m:mn>
+</m:msup>
+</m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1,</m:mn><m:mtext>000</m:mtext><m:mi>,</m:mi><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {1,"000","000"} } } {}</m:annotation></m:semantics></m:math> moles of Hydrogen ions.) Now, acid rain begins to fall on that pond, and the concentration of Hydrogen ions begins to go up, until the concentration is 
+<m:math>
+<m:msup>
+<m:mn>10</m:mn>
+<m:mn>-4</m:mn>
+</m:msup>
+</m:math> moles/liter (every liter has 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10","000"} } } {}</m:annotation></m:semantics></m:math>moles of <m:math>
+<m:msup>
+<m:mi>H</m:mi>
+<m:mo>+</m:mo>
+</m:msup>
+</m:math>).</para>
+
+    <list id="id5988462" list-type="labeled-item" mark-suffix=".">
+<item>How much did the concentration go up by?</item>
+      <item><label>a</label>Acidity is usually not measured as concentration (because the numbers are very ugly, as you can see), but as pH, which is defined as 
+<m:math>
+<m:mo>–</m:mo>
+<m:msub>
+<m:mtext>log</m:mtext>
+<m:mn>10</m:mn>
+</m:msub>
+<m:mo>[</m:mo>
+<m:msup>
+<m:mi>H</m:mi>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mo>]</m:mo>
+</m:math>. What is the pH of the normal pond?</item>
+      <item><label>b</label>What is the pH of the pond after the acid rain?</item>
+    </list>
+      </problem>
+    </exercise>
+
+<exercise id="goodfor1">
+<problem id="id15225973">
+
+<para id="goodfor2">Based on exercises #2–4, write a brief description of <emphasis>what kind of function</emphasis> generally leads scientists to want to use a logarithmic scale.</para>
+</problem>
+</exercise>
+  </content>
+</document>

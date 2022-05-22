@@ -1,0 +1,79 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Imaginary Numbers Homework -- Homework: Quadratic Equations and Complex Numbers</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a73265a4-180b-479d-86c1-fd84c4a2c4aa</md:uuid>
+</metadata>
+  <content>
+
+      <para id="id8539532">I’m sure you remember the quadratic formula: <m:math><m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">±</m:mo><m:msqrt><m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ac</m:mtext></m:mrow></m:mstyle></m:mrow></m:msqrt></m:mrow><m:mn>2a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - b +-  sqrt {b rSup { size 8{2} }  - 4 ital "ac"} }  over  {2a} } } {}</m:annotation></m:semantics></m:math>. Back when we were doing quadratic equations, if we wound up with a negative number under that square root, we just gave up. But now we can solve these equations!</para>
+      <exercise id="id11884706">
+        <problem id="idm4956224">
+          <para id="id11062359">Use the quadratic formula to solve: <m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id9278367">
+        <problem id="idm17316816">
+          <para id="id11549991">Use the quadratic formula to solve: <m:math>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id7747643">
+        <problem id="idm17911584">
+          <para id="id11501733">Check one of your answers to #2.</para>
+        </problem>
+      </exercise>
+      <exercise id="id11065716">
+        <problem id="idm6218976">
+          <para id="id10731529">Solve by <emphasis>completing the square</emphasis>: <m:math>
+<m:mn>2</m:mn>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>17</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn>
+</m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="hw9exerciseid">
+        <problem id="idm6714368">
+      <list id="id9184664" list-type="labeled-item" mark-suffix=".">
+        <item><label>a</label>In general, what has to be true for a quadratic equation to have <emphasis>two non-real roots</emphasis>?</item>
+        <item><label>b</label>What is the relationship between the two non-real roots?</item>
+        <item><label>c</label>Is it possible to have a quadratic equation with <emphasis>one</emphasis> non-real root?</item>
+      </list>
+        </problem>
+      </exercise>
+
+  </content>
+</document>
