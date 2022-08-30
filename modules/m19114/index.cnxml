@@ -163,12 +163,7 @@ by 2, you get <m:math>
         </m:semantics>
       </m:math>
      means 
-      <m:math>
-        <m:semantics>
-          <m:mrow/>
-          <m:annotation encoding="StarMath 5.0">{}</m:annotation>
-        </m:semantics>
-      </m:math>
+      
       <m:math>
         <m:semantics>
           <m:mrow>
